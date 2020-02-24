@@ -1,1 +1,148 @@
-{"message":{"dataexist":"1","cid":"143578"},"data":{1349432:{"cid":"144312","uid":"1349432","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"签名档违规宣传&主题违反多版块版规&刷分","dateline":"2015-9-2 16:01","username":"k521k521","groupexpiry":"永不过期"},1162977:{"cid":"144113","uid":"1162977","operatorid":"258439","operator":"Grandiose","action":"禁止发言","reason":"出售RMB服务端","dateline":"2015-9-1 19:30","username":"MuuV_V","groupexpiry":"永不过期"},1420403:{"cid":"144111","uid":"1420403","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"水龙头","dateline":"2015-9-1 19:04","username":"帅到被人绑","groupexpiry":"永不过期"},613099:{"cid":"144077","uid":"613099","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"刷帖","dateline":"2015-9-1 12:24","username":"冷心MaY","groupexpiry":"永不过期"},1493902:{"cid":"144076","uid":"1493902","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"强烈性暗示","dateline":"2015-9-1 09:03","username":"七海芽衣","groupexpiry":"永不过期"},842869:{"cid":"144054","uid":"842869","operatorid":"42992","operator":"810587921","action":"禁止发言","reason":"水龙头","dateline":"2015-8-31 17:23","username":"310V5","groupexpiry":"永不过期"},1493767:{"cid":"144050","uid":"1493767","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"刷帖","dateline":"2015-8-31 17:04","username":"玉人吹萧","groupexpiry":"永不过期"},1297826:{"cid":"143954","uid":"1297826","operatorid":"178523","operator":"cyqsimon","action":"禁止发言","reason":"水龙头，永久封禁","dateline":"2015-8-30 12:58","username":"1281585414","groupexpiry":"永不过期"},335598:{"cid":"143926","uid":"335598","operatorid":"1075476","operator":"恶魔-潇洒","action":"禁止发言","reason":"辱骂","dateline":"2015-8-30 11:13","username":"evazxc","groupexpiry":"永不过期"},1423677:{"cid":"143901","uid":"1423677","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"","dateline":"2015-8-30 09:02","username":"莫良","groupexpiry":"永不过期"},680433:{"cid":"143841","uid":"680433","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"水龙头","dateline":"2015-8-29 20:28","username":"封神","groupexpiry":"永不过期"},301116:{"cid":"143579","uid":"301116","operatorid":"240366","operator":"西红柿片","action":"禁止发言","reason":"水龙头","dateline":"2015-8-28 16:43","username":"15811487361","groupexpiry":"永不过期"},395887:{"cid":"143578","uid":"395887","operatorid":"240366","operator":"西红柿片","action":"禁止发言","reason":"水龙头","dateline":"2015-8-28 16:40","username":"johnson02112","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "143578" },
+  "data": {
+    1349432: {
+      "cid": "144312",
+      "uid": "1349432",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "签名档违规宣传&主题违反多版块版规&刷分",
+      "dateline": "2015-9-2 16:01",
+      "username": "k521k521",
+      "groupexpiry": "永不过期"
+    },
+    1162977: {
+      "cid": "144113",
+      "uid": "1162977",
+      "operatorid": "258439",
+      "operator": "Grandiose",
+      "action": "禁止发言",
+      "reason": "出售RMB服务端",
+      "dateline": "2015-9-1 19:30",
+      "username": "MuuV_V",
+      "groupexpiry": "永不过期"
+    },
+    1420403: {
+      "cid": "144111",
+      "uid": "1420403",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-9-1 19:04",
+      "username": "帅到被人绑",
+      "groupexpiry": "永不过期"
+    },
+    613099: {
+      "cid": "144077",
+      "uid": "613099",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷帖",
+      "dateline": "2015-9-1 12:24",
+      "username": "冷心MaY",
+      "groupexpiry": "永不过期"
+    },
+    1493902: {
+      "cid": "144076",
+      "uid": "1493902",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "强烈性暗示",
+      "dateline": "2015-9-1 09:03",
+      "username": "七海芽衣",
+      "groupexpiry": "永不过期"
+    },
+    842869: {
+      "cid": "144054",
+      "uid": "842869",
+      "operatorid": "42992",
+      "operator": "810587921",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-8-31 17:23",
+      "username": "310V5",
+      "groupexpiry": "永不过期"
+    },
+    1493767: {
+      "cid": "144050",
+      "uid": "1493767",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷帖",
+      "dateline": "2015-8-31 17:04",
+      "username": "玉人吹萧",
+      "groupexpiry": "永不过期"
+    },
+    1297826: {
+      "cid": "143954",
+      "uid": "1297826",
+      "operatorid": "178523",
+      "operator": "cyqsimon",
+      "action": "禁止发言",
+      "reason": "水龙头，永久封禁",
+      "dateline": "2015-8-30 12:58",
+      "username": "1281585414",
+      "groupexpiry": "永不过期"
+    },
+    335598: {
+      "cid": "143926",
+      "uid": "335598",
+      "operatorid": "1075476",
+      "operator": "恶魔-潇洒",
+      "action": "禁止发言",
+      "reason": "辱骂",
+      "dateline": "2015-8-30 11:13",
+      "username": "evazxc",
+      "groupexpiry": "永不过期"
+    },
+    1423677: {
+      "cid": "143901",
+      "uid": "1423677",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2015-8-30 09:02",
+      "username": "莫良",
+      "groupexpiry": "永不过期"
+    },
+    680433: {
+      "cid": "143841",
+      "uid": "680433",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-8-29 20:28",
+      "username": "封神",
+      "groupexpiry": "永不过期"
+    },
+    301116: {
+      "cid": "143579",
+      "uid": "301116",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-8-28 16:43",
+      "username": "15811487361",
+      "groupexpiry": "永不过期"
+    },
+    395887: {
+      "cid": "143578",
+      "uid": "395887",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-8-28 16:40",
+      "username": "johnson02112",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

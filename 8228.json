@@ -1,1 +1,104 @@
-{"message":{"dataexist":"1","cid":"6341"},"data":{191374:{"cid":"8073","uid":"191374","operatorid":"84901","operator":"pogox","action":"禁止发言","reason":"末地灌水","dateline":"2014-3-8 21:16","username":"龙鲨","groupexpiry":"永不过期"},552876:{"cid":"8072","uid":"552876","operatorid":"84901","operator":"pogox","action":"禁止发言","reason":"末地灌水","dateline":"2014-3-8 21:16","username":"250号方块","groupexpiry":"永不过期"},69911:{"cid":"8019","uid":"69911","operatorid":"178523","operator":"cyqsimon","action":"禁止发言","reason":"你CF广告发够了吗？！","dateline":"2014-3-8 19:21","username":"xgk2519","groupexpiry":"永不过期"},475070:{"cid":"7946","uid":"475070","operatorid":"3467","operator":"sjjklh","action":"禁止发言","reason":"","dateline":"2014-3-8 14:05","username":"1154189804","groupexpiry":"永不过期"},245063:{"cid":"7430","uid":"245063","operatorid":"359415","operator":"wwpzxp","action":"禁止发言","reason":"zjy让我封的，广告机","dateline":"2014-3-6 21:22","username":"346553936","groupexpiry":"永不过期"},561939:{"cid":"7176","uid":"561939","operatorid":"319566","operator":"wjwrh","action":"禁止发言","reason":"纯水回复\r\n永封","dateline":"2014-3-5 19:57","username":"liu1073758132","groupexpiry":"永不过期"},256880:{"cid":"7021","uid":"256880","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"使用马甲194550297屠版","dateline":"2014-3-5 12:40","username":"avshen","groupexpiry":"永不过期"},510351:{"cid":"7018","uid":"510351","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2014-3-5 12:33","username":"194550297","groupexpiry":"永不过期"},483846:{"cid":"6506","uid":"483846","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"严重刷水","dateline":"2014-3-2 10:45","username":"菊花大虾","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "6341" },
+  "data": {
+    191374: {
+      "cid": "8073",
+      "uid": "191374",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "末地灌水",
+      "dateline": "2014-3-8 21:16",
+      "username": "龙鲨",
+      "groupexpiry": "永不过期"
+    },
+    552876: {
+      "cid": "8072",
+      "uid": "552876",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "末地灌水",
+      "dateline": "2014-3-8 21:16",
+      "username": "250号方块",
+      "groupexpiry": "永不过期"
+    },
+    69911: {
+      "cid": "8019",
+      "uid": "69911",
+      "operatorid": "178523",
+      "operator": "cyqsimon",
+      "action": "禁止发言",
+      "reason": "你CF广告发够了吗？！",
+      "dateline": "2014-3-8 19:21",
+      "username": "xgk2519",
+      "groupexpiry": "永不过期"
+    },
+    475070: {
+      "cid": "7946",
+      "uid": "475070",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-3-8 14:05",
+      "username": "1154189804",
+      "groupexpiry": "永不过期"
+    },
+    245063: {
+      "cid": "7430",
+      "uid": "245063",
+      "operatorid": "359415",
+      "operator": "wwpzxp",
+      "action": "禁止发言",
+      "reason": "zjy让我封的，广告机",
+      "dateline": "2014-3-6 21:22",
+      "username": "346553936",
+      "groupexpiry": "永不过期"
+    },
+    561939: {
+      "cid": "7176",
+      "uid": "561939",
+      "operatorid": "319566",
+      "operator": "wjwrh",
+      "action": "禁止发言",
+      "reason": "纯水回复\r\n永封",
+      "dateline": "2014-3-5 19:57",
+      "username": "liu1073758132",
+      "groupexpiry": "永不过期"
+    },
+    256880: {
+      "cid": "7021",
+      "uid": "256880",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "使用马甲194550297屠版",
+      "dateline": "2014-3-5 12:40",
+      "username": "avshen",
+      "groupexpiry": "永不过期"
+    },
+    510351: {
+      "cid": "7018",
+      "uid": "510351",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-3-5 12:33",
+      "username": "194550297",
+      "groupexpiry": "永不过期"
+    },
+    483846: {
+      "cid": "6506",
+      "uid": "483846",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "严重刷水",
+      "dateline": "2014-3-2 10:45",
+      "username": "菊花大虾",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

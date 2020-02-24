@@ -1,1 +1,291 @@
-{"message":{"dataexist":"1","cid":"451936"},"data":{2724415:{"cid":"451963","uid":"2724415","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:30","username":"zzl868047","groupexpiry":"永不过期"},2724407:{"cid":"451962","uid":"2724407","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:30","username":"lzzjlh7195755","groupexpiry":"永不过期"},2724386:{"cid":"451961","uid":"2724386","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:30","username":"ukcsc844842","groupexpiry":"永不过期"},2724375:{"cid":"451960","uid":"2724375","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:30","username":"dlxh51777","groupexpiry":"永不过期"},2724368:{"cid":"451959","uid":"2724368","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:30","username":"iqoyg028240","groupexpiry":"永不过期"},2724359:{"cid":"451958","uid":"2724359","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:30","username":"ucaysb8106245","groupexpiry":"永不过期"},2724351:{"cid":"451956","uid":"2724351","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:30","username":"aily3835716","groupexpiry":"永不过期"},2724325:{"cid":"451954","uid":"2724325","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:30","username":"sisadi7588","groupexpiry":"永不过期"},2724318:{"cid":"451953","uid":"2724318","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:29","username":"znjt379075","groupexpiry":"永不过期"},2724307:{"cid":"451952","uid":"2724307","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:29","username":"cmjr114067","groupexpiry":"永不过期"},2724298:{"cid":"451951","uid":"2724298","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:29","username":"mqv448090","groupexpiry":"永不过期"},2724273:{"cid":"451950","uid":"2724273","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:29","username":"npuwlw331136","groupexpiry":"永不过期"},2724267:{"cid":"451949","uid":"2724267","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:29","username":"rppggz1226","groupexpiry":"永不过期"},2724257:{"cid":"451948","uid":"2724257","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:29","username":"kwk10261","groupexpiry":"永不过期"},2724248:{"cid":"451947","uid":"2724248","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:29","username":"weguy244228","groupexpiry":"永不过期"},2724232:{"cid":"451946","uid":"2724232","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:29","username":"hjayi4912","groupexpiry":"永不过期"},2724225:{"cid":"451945","uid":"2724225","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:29","username":"fbnr73399","groupexpiry":"永不过期"},2724222:{"cid":"451944","uid":"2724222","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:29","username":"yooci206020","groupexpiry":"永不过期"},2724219:{"cid":"451943","uid":"2724219","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:28","username":"vxvzbx7733339","groupexpiry":"永不过期"},2724217:{"cid":"451942","uid":"2724217","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:28","username":"jdpl91155","groupexpiry":"永不过期"},2724212:{"cid":"451941","uid":"2724212","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:28","username":"rjljtr7539551","groupexpiry":"永不过期"},2724210:{"cid":"451940","uid":"2724210","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:28","username":"rfxgf775761","groupexpiry":"永不过期"},2724208:{"cid":"451939","uid":"2724208","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:28","username":"lvrflz5711337","groupexpiry":"永不过期"},2724206:{"cid":"451938","uid":"2724206","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:28","username":"prfxxn1595315","groupexpiry":"永不过期"},2724202:{"cid":"451937","uid":"2724202","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:28","username":"fllt35959","groupexpiry":"永不过期"},2724201:{"cid":"451936","uid":"2724201","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"异常帐号","dateline":"2019-8-21 17:28","username":"afcxv516491","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "451936" },
+  "data": {
+    2724415: {
+      "cid": "451963",
+      "uid": "2724415",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:30",
+      "username": "zzl868047",
+      "groupexpiry": "永不过期"
+    },
+    2724407: {
+      "cid": "451962",
+      "uid": "2724407",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:30",
+      "username": "lzzjlh7195755",
+      "groupexpiry": "永不过期"
+    },
+    2724386: {
+      "cid": "451961",
+      "uid": "2724386",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:30",
+      "username": "ukcsc844842",
+      "groupexpiry": "永不过期"
+    },
+    2724375: {
+      "cid": "451960",
+      "uid": "2724375",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:30",
+      "username": "dlxh51777",
+      "groupexpiry": "永不过期"
+    },
+    2724368: {
+      "cid": "451959",
+      "uid": "2724368",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:30",
+      "username": "iqoyg028240",
+      "groupexpiry": "永不过期"
+    },
+    2724359: {
+      "cid": "451958",
+      "uid": "2724359",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:30",
+      "username": "ucaysb8106245",
+      "groupexpiry": "永不过期"
+    },
+    2724351: {
+      "cid": "451956",
+      "uid": "2724351",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:30",
+      "username": "aily3835716",
+      "groupexpiry": "永不过期"
+    },
+    2724325: {
+      "cid": "451954",
+      "uid": "2724325",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:30",
+      "username": "sisadi7588",
+      "groupexpiry": "永不过期"
+    },
+    2724318: {
+      "cid": "451953",
+      "uid": "2724318",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:29",
+      "username": "znjt379075",
+      "groupexpiry": "永不过期"
+    },
+    2724307: {
+      "cid": "451952",
+      "uid": "2724307",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:29",
+      "username": "cmjr114067",
+      "groupexpiry": "永不过期"
+    },
+    2724298: {
+      "cid": "451951",
+      "uid": "2724298",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:29",
+      "username": "mqv448090",
+      "groupexpiry": "永不过期"
+    },
+    2724273: {
+      "cid": "451950",
+      "uid": "2724273",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:29",
+      "username": "npuwlw331136",
+      "groupexpiry": "永不过期"
+    },
+    2724267: {
+      "cid": "451949",
+      "uid": "2724267",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:29",
+      "username": "rppggz1226",
+      "groupexpiry": "永不过期"
+    },
+    2724257: {
+      "cid": "451948",
+      "uid": "2724257",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:29",
+      "username": "kwk10261",
+      "groupexpiry": "永不过期"
+    },
+    2724248: {
+      "cid": "451947",
+      "uid": "2724248",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:29",
+      "username": "weguy244228",
+      "groupexpiry": "永不过期"
+    },
+    2724232: {
+      "cid": "451946",
+      "uid": "2724232",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:29",
+      "username": "hjayi4912",
+      "groupexpiry": "永不过期"
+    },
+    2724225: {
+      "cid": "451945",
+      "uid": "2724225",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:29",
+      "username": "fbnr73399",
+      "groupexpiry": "永不过期"
+    },
+    2724222: {
+      "cid": "451944",
+      "uid": "2724222",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:29",
+      "username": "yooci206020",
+      "groupexpiry": "永不过期"
+    },
+    2724219: {
+      "cid": "451943",
+      "uid": "2724219",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:28",
+      "username": "vxvzbx7733339",
+      "groupexpiry": "永不过期"
+    },
+    2724217: {
+      "cid": "451942",
+      "uid": "2724217",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:28",
+      "username": "jdpl91155",
+      "groupexpiry": "永不过期"
+    },
+    2724212: {
+      "cid": "451941",
+      "uid": "2724212",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:28",
+      "username": "rjljtr7539551",
+      "groupexpiry": "永不过期"
+    },
+    2724210: {
+      "cid": "451940",
+      "uid": "2724210",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:28",
+      "username": "rfxgf775761",
+      "groupexpiry": "永不过期"
+    },
+    2724208: {
+      "cid": "451939",
+      "uid": "2724208",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:28",
+      "username": "lvrflz5711337",
+      "groupexpiry": "永不过期"
+    },
+    2724206: {
+      "cid": "451938",
+      "uid": "2724206",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:28",
+      "username": "prfxxn1595315",
+      "groupexpiry": "永不过期"
+    },
+    2724202: {
+      "cid": "451937",
+      "uid": "2724202",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:28",
+      "username": "fllt35959",
+      "groupexpiry": "永不过期"
+    },
+    2724201: {
+      "cid": "451936",
+      "uid": "2724201",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-8-21 17:28",
+      "username": "afcxv516491",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

@@ -1,1 +1,104 @@
-{"message":{"dataexist":"1","cid":"40649"},"data":{333170:{"cid":"42389","uid":"333170","operatorid":"265600","operator":"rom718","action":"禁止发言","reason":"","dateline":"2014-8-18 18:50","username":"1020412588","groupexpiry":"永不过期"},649581:{"cid":"42096","uid":"649581","operatorid":"178523","operator":"cyqsimon","action":"禁止发言","reason":"广告机！","dateline":"2014-8-18 11:10","username":"Gold_Bird","groupexpiry":"永不过期"},493585:{"cid":"41875","uid":"493585","operatorid":"240366","operator":"西红柿片","action":"禁止发言","reason":"宣传黄色信息","dateline":"2014-8-17 17:11","username":"1016652429z","groupexpiry":"永不过期"},681178:{"cid":"41844","uid":"681178","operatorid":"184599","operator":"stool","action":"禁止发言","reason":"恶意宣传服务器","dateline":"2014-8-17 14:32","username":"1225450793","groupexpiry":"永不过期"},782831:{"cid":"41414","uid":"782831","operatorid":"240366","operator":"西红柿片","action":"禁止发言","reason":"广告鸡","dateline":"2014-8-15 13:14","username":"1007936840asd","groupexpiry":"永不过期"},825469:{"cid":"41254","uid":"825469","operatorid":"76281","operator":"Lakalaka","action":"禁止发言","reason":".","dateline":"2014-8-14 22:01","username":"清风随飘","groupexpiry":"永不过期"},684087:{"cid":"41214","uid":"684087","operatorid":"61635","operator":"jianghr","action":"禁止发言","reason":"再见","dateline":"2014-8-14 18:19","username":"qaz1282833784","groupexpiry":"永不过期"},817836:{"cid":"41025","uid":"817836","operatorid":"184599","operator":"stool","action":"禁止发言","reason":"连屠7楼，封","dateline":"2014-8-14 08:01","username":"ke5973","groupexpiry":"永不过期"},320278:{"cid":"40722","uid":"320278","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"广告机","dateline":"2014-8-12 21:59","username":"596868457","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "40649" },
+  "data": {
+    333170: {
+      "cid": "42389",
+      "uid": "333170",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-8-18 18:50",
+      "username": "1020412588",
+      "groupexpiry": "永不过期"
+    },
+    649581: {
+      "cid": "42096",
+      "uid": "649581",
+      "operatorid": "178523",
+      "operator": "cyqsimon",
+      "action": "禁止发言",
+      "reason": "广告机！",
+      "dateline": "2014-8-18 11:10",
+      "username": "Gold_Bird",
+      "groupexpiry": "永不过期"
+    },
+    493585: {
+      "cid": "41875",
+      "uid": "493585",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "宣传黄色信息",
+      "dateline": "2014-8-17 17:11",
+      "username": "1016652429z",
+      "groupexpiry": "永不过期"
+    },
+    681178: {
+      "cid": "41844",
+      "uid": "681178",
+      "operatorid": "184599",
+      "operator": "stool",
+      "action": "禁止发言",
+      "reason": "恶意宣传服务器",
+      "dateline": "2014-8-17 14:32",
+      "username": "1225450793",
+      "groupexpiry": "永不过期"
+    },
+    782831: {
+      "cid": "41414",
+      "uid": "782831",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "广告鸡",
+      "dateline": "2014-8-15 13:14",
+      "username": "1007936840asd",
+      "groupexpiry": "永不过期"
+    },
+    825469: {
+      "cid": "41254",
+      "uid": "825469",
+      "operatorid": "76281",
+      "operator": "Lakalaka",
+      "action": "禁止发言",
+      "reason": ".",
+      "dateline": "2014-8-14 22:01",
+      "username": "清风随飘",
+      "groupexpiry": "永不过期"
+    },
+    684087: {
+      "cid": "41214",
+      "uid": "684087",
+      "operatorid": "61635",
+      "operator": "jianghr",
+      "action": "禁止发言",
+      "reason": "再见",
+      "dateline": "2014-8-14 18:19",
+      "username": "qaz1282833784",
+      "groupexpiry": "永不过期"
+    },
+    817836: {
+      "cid": "41025",
+      "uid": "817836",
+      "operatorid": "184599",
+      "operator": "stool",
+      "action": "禁止发言",
+      "reason": "连屠7楼，封",
+      "dateline": "2014-8-14 08:01",
+      "username": "ke5973",
+      "groupexpiry": "永不过期"
+    },
+    320278: {
+      "cid": "40722",
+      "uid": "320278",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-8-12 21:59",
+      "username": "596868457",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

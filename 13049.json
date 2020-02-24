@@ -1,1 +1,104 @@
-{"message":{"dataexist":"1","cid":"11624"},"data":{487096:{"cid":"12878","uid":"487096","operatorid":"178523","operator":"cyqsimon","action":"禁止发言","reason":"广告机永久","dateline":"2014-3-29 14:32","username":"1741498","groupexpiry":"永不过期"},481454:{"cid":"12729","uid":"481454","operatorid":"178523","operator":"cyqsimon","action":"禁止发言","reason":"账号全水&amp;伸手党","dateline":"2014-3-28 22:10","username":"乐小焰","groupexpiry":"永不过期"},461320:{"cid":"12452","uid":"461320","operatorid":"62102","operator":"787878b","action":"禁止发言","reason":"直接复制粘贴我的帖子，抄袭剽窃","dateline":"2014-3-26 19:59","username":"我的世界刘烨","groupexpiry":"永不过期"},161742:{"cid":"12433","uid":"161742","operatorid":"143042","operator":"sdszwilliam","action":"禁止发言","reason":"水","dateline":"2014-3-26 14:59","username":"fuboyuan","groupexpiry":"永不过期"},589794:{"cid":"12396","uid":"589794","operatorid":"359415","operator":"wwpzxp","action":"禁止发言","reason":"全部水贴+屠版","dateline":"2014-3-26 11:47","username":"qq200900573","groupexpiry":"永不过期"},574188:{"cid":"12356","uid":"574188","operatorid":"178523","operator":"cyqsimon","action":"禁止发言","reason":"辱骂","dateline":"2014-3-25 20:39","username":"APOX","groupexpiry":"永不过期"},445249:{"cid":"12224","uid":"445249","operatorid":"143042","operator":"sdszwilliam","action":"禁止发言","reason":"全水","dateline":"2014-3-24 17:57","username":"189232123a","groupexpiry":"永不过期"},407707:{"cid":"12220","uid":"407707","operatorid":"143042","operator":"sdszwilliam","action":"禁止发言","reason":"全水","dateline":"2014-3-24 17:54","username":"a771678045","groupexpiry":"永不过期"},268215:{"cid":"12097","uid":"268215","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"广告机","dateline":"2014-3-23 20:58","username":"zf583869767","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "11624" },
+  "data": {
+    487096: {
+      "cid": "12878",
+      "uid": "487096",
+      "operatorid": "178523",
+      "operator": "cyqsimon",
+      "action": "禁止发言",
+      "reason": "广告机永久",
+      "dateline": "2014-3-29 14:32",
+      "username": "1741498",
+      "groupexpiry": "永不过期"
+    },
+    481454: {
+      "cid": "12729",
+      "uid": "481454",
+      "operatorid": "178523",
+      "operator": "cyqsimon",
+      "action": "禁止发言",
+      "reason": "账号全水&amp;伸手党",
+      "dateline": "2014-3-28 22:10",
+      "username": "乐小焰",
+      "groupexpiry": "永不过期"
+    },
+    461320: {
+      "cid": "12452",
+      "uid": "461320",
+      "operatorid": "62102",
+      "operator": "787878b",
+      "action": "禁止发言",
+      "reason": "直接复制粘贴我的帖子，抄袭剽窃",
+      "dateline": "2014-3-26 19:59",
+      "username": "我的世界刘烨",
+      "groupexpiry": "永不过期"
+    },
+    161742: {
+      "cid": "12433",
+      "uid": "161742",
+      "operatorid": "143042",
+      "operator": "sdszwilliam",
+      "action": "禁止发言",
+      "reason": "水",
+      "dateline": "2014-3-26 14:59",
+      "username": "fuboyuan",
+      "groupexpiry": "永不过期"
+    },
+    589794: {
+      "cid": "12396",
+      "uid": "589794",
+      "operatorid": "359415",
+      "operator": "wwpzxp",
+      "action": "禁止发言",
+      "reason": "全部水贴+屠版",
+      "dateline": "2014-3-26 11:47",
+      "username": "qq200900573",
+      "groupexpiry": "永不过期"
+    },
+    574188: {
+      "cid": "12356",
+      "uid": "574188",
+      "operatorid": "178523",
+      "operator": "cyqsimon",
+      "action": "禁止发言",
+      "reason": "辱骂",
+      "dateline": "2014-3-25 20:39",
+      "username": "APOX",
+      "groupexpiry": "永不过期"
+    },
+    445249: {
+      "cid": "12224",
+      "uid": "445249",
+      "operatorid": "143042",
+      "operator": "sdszwilliam",
+      "action": "禁止发言",
+      "reason": "全水",
+      "dateline": "2014-3-24 17:57",
+      "username": "189232123a",
+      "groupexpiry": "永不过期"
+    },
+    407707: {
+      "cid": "12220",
+      "uid": "407707",
+      "operatorid": "143042",
+      "operator": "sdszwilliam",
+      "action": "禁止发言",
+      "reason": "全水",
+      "dateline": "2014-3-24 17:54",
+      "username": "a771678045",
+      "groupexpiry": "永不过期"
+    },
+    268215: {
+      "cid": "12097",
+      "uid": "268215",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-3-23 20:58",
+      "username": "zf583869767",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

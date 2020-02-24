@@ -1,1 +1,181 @@
-{"message":{"dataexist":"1","cid":"245515"},"data":{1335415:{"cid":"246715","uid":"1335415","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2017-4-3 17:32","username":"迷失★夜空","groupexpiry":"永不过期"},1187743:{"cid":"246710","uid":"1187743","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2017-4-3 16:34","username":"madessxc","groupexpiry":"永不过期"},1666988:{"cid":"246688","uid":"1666988","operatorid":"237322","operator":"1427639813","action":"禁止发言","reason":"攻击性言辞，引战","dateline":"2017-4-3 14:30","username":"love_Xue","groupexpiry":"永不过期"},2136340:{"cid":"246515","uid":"2136340","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2017-4-2 14:05","username":"langyo_v2","groupexpiry":"永不过期"},1531708:{"cid":"246403","uid":"1531708","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"发布带有后门整合包","dateline":"2017-4-2 00:49","username":"LNK-小承","groupexpiry":"永不过期"},2133841:{"cid":"246354","uid":"2133841","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"水龙头","dateline":"2017-4-1 20:32","username":"z1298701681","groupexpiry":"永不过期"},2113731:{"cid":"245994","uid":"2113731","operatorid":"108341","operator":"U1U420039","action":"禁止发言","reason":"屠版","dateline":"2017-3-28 09:36","username":"5486485","groupexpiry":"永不过期"},1898581:{"cid":"245973","uid":"1898581","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"","dateline":"2017-3-27 21:11","username":"M_D_Z_Z","groupexpiry":"永不过期"},1767255:{"cid":"245932","uid":"1767255","operatorid":"108341","operator":"U1U420039","action":"禁止发言","reason":"灌水","dateline":"2017-3-26 21:29","username":"yfslight","groupexpiry":"永不过期"},1725311:{"cid":"245922","uid":"1725311","operatorid":"1037910","operator":"小阿狸....","action":"禁止发言","reason":"大量无意义回复","dateline":"2017-3-26 19:33","username":"jjj200474","groupexpiry":"2020-2-29 17:53"},2006537:{"cid":"245909","uid":"2006537","operatorid":"1696224","operator":"星燚","action":"禁止发言","reason":"2-2.不得发布违规信息，政治内容，违反中华人民共和国《全国人大常委会关于维护互联网安全的决定》及其它相关法律法规，包括地方性及临时性法规。发现违反者将删除相关帖子并视情况严重与否进行其他惩罚\r\n属实质后门插件，永久封禁","dateline":"2017-3-26 18:34","username":"LocyDragon","groupexpiry":"永不过期"},870448:{"cid":"245749","uid":"870448","operatorid":"825085","operator":"darrksy","action":"禁止发言","reason":"水龙头","dateline":"2017-3-26 11:43","username":"2251993347","groupexpiry":"永不过期"},2118340:{"cid":"245746","uid":"2118340","operatorid":"910117","operator":"__Tong__","action":"禁止发言","reason":"恶性刷帖","dateline":"2017-3-26 11:03","username":"十年不晚","groupexpiry":"永不过期"},1791508:{"cid":"245662","uid":"1791508","operatorid":"679293","operator":"FHC红石","action":"禁止发言","reason":"水贴","dateline":"2017-3-25 20:07","username":"a474304848","groupexpiry":"永不过期"},2145664:{"cid":"245556","uid":"2145664","operatorid":"108341","operator":"U1U420039","action":"禁止发言","reason":"剽窃+灌水","dateline":"2017-3-25 10:46","username":"2145279373","groupexpiry":"永不过期"},90980:{"cid":"245515","uid":"90980","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"水龙头","dateline":"2017-3-24 21:26","username":"我我我杀","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "245515" },
+  "data": {
+    1335415: {
+      "cid": "246715",
+      "uid": "1335415",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-4-3 17:32",
+      "username": "迷失★夜空",
+      "groupexpiry": "永不过期"
+    },
+    1187743: {
+      "cid": "246710",
+      "uid": "1187743",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-4-3 16:34",
+      "username": "madessxc",
+      "groupexpiry": "永不过期"
+    },
+    1666988: {
+      "cid": "246688",
+      "uid": "1666988",
+      "operatorid": "237322",
+      "operator": "1427639813",
+      "action": "禁止发言",
+      "reason": "攻击性言辞，引战",
+      "dateline": "2017-4-3 14:30",
+      "username": "love_Xue",
+      "groupexpiry": "永不过期"
+    },
+    2136340: {
+      "cid": "246515",
+      "uid": "2136340",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-4-2 14:05",
+      "username": "langyo_v2",
+      "groupexpiry": "永不过期"
+    },
+    1531708: {
+      "cid": "246403",
+      "uid": "1531708",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "发布带有后门整合包",
+      "dateline": "2017-4-2 00:49",
+      "username": "LNK-小承",
+      "groupexpiry": "永不过期"
+    },
+    2133841: {
+      "cid": "246354",
+      "uid": "2133841",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-4-1 20:32",
+      "username": "z1298701681",
+      "groupexpiry": "永不过期"
+    },
+    2113731: {
+      "cid": "245994",
+      "uid": "2113731",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "屠版",
+      "dateline": "2017-3-28 09:36",
+      "username": "5486485",
+      "groupexpiry": "永不过期"
+    },
+    1898581: {
+      "cid": "245973",
+      "uid": "1898581",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-3-27 21:11",
+      "username": "M_D_Z_Z",
+      "groupexpiry": "永不过期"
+    },
+    1767255: {
+      "cid": "245932",
+      "uid": "1767255",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "灌水",
+      "dateline": "2017-3-26 21:29",
+      "username": "yfslight",
+      "groupexpiry": "永不过期"
+    },
+    1725311: {
+      "cid": "245922",
+      "uid": "1725311",
+      "operatorid": "1037910",
+      "operator": "小阿狸....",
+      "action": "禁止发言",
+      "reason": "大量无意义回复",
+      "dateline": "2017-3-26 19:33",
+      "username": "jjj200474",
+      "groupexpiry": "2020-2-29 17:53"
+    },
+    2006537: {
+      "cid": "245909",
+      "uid": "2006537",
+      "operatorid": "1696224",
+      "operator": "星燚",
+      "action": "禁止发言",
+      "reason": "2-2.不得发布违规信息，政治内容，违反中华人民共和国《全国人大常委会关于维护互联网安全的决定》及其它相关法律法规，包括地方性及临时性法规。发现违反者将删除相关帖子并视情况严重与否进行其他惩罚\r\n属实质后门插件，永久封禁",
+      "dateline": "2017-3-26 18:34",
+      "username": "LocyDragon",
+      "groupexpiry": "永不过期"
+    },
+    870448: {
+      "cid": "245749",
+      "uid": "870448",
+      "operatorid": "825085",
+      "operator": "darrksy",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-3-26 11:43",
+      "username": "2251993347",
+      "groupexpiry": "永不过期"
+    },
+    2118340: {
+      "cid": "245746",
+      "uid": "2118340",
+      "operatorid": "910117",
+      "operator": "__Tong__",
+      "action": "禁止发言",
+      "reason": "恶性刷帖",
+      "dateline": "2017-3-26 11:03",
+      "username": "十年不晚",
+      "groupexpiry": "永不过期"
+    },
+    1791508: {
+      "cid": "245662",
+      "uid": "1791508",
+      "operatorid": "679293",
+      "operator": "FHC红石",
+      "action": "禁止发言",
+      "reason": "水贴",
+      "dateline": "2017-3-25 20:07",
+      "username": "a474304848",
+      "groupexpiry": "永不过期"
+    },
+    2145664: {
+      "cid": "245556",
+      "uid": "2145664",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "剽窃+灌水",
+      "dateline": "2017-3-25 10:46",
+      "username": "2145279373",
+      "groupexpiry": "永不过期"
+    },
+    90980: {
+      "cid": "245515",
+      "uid": "90980",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-3-24 21:26",
+      "username": "我我我杀",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

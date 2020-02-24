@@ -1,1 +1,104 @@
-{"message":{"dataexist":"1","cid":"241858"},"data":{2132164:{"cid":"243318","uid":"2132164","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2017-3-9 17:05","username":"lcwy","groupexpiry":"永不过期"},2131440:{"cid":"243194","uid":"2131440","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"","dateline":"2017-3-8 13:06","username":"_末影使者_","groupexpiry":"永不过期"},1450082:{"cid":"242518","uid":"1450082","operatorid":"1696224","operator":"星燚","action":"禁止发言","reason":"发布后门插件","dateline":"2017-3-4 21:30","username":"1195936718","groupexpiry":"永不过期"},313393:{"cid":"242356","uid":"313393","operatorid":"447060","operator":"522240858","action":"禁止发言","reason":"色情站推广","dateline":"2017-3-4 17:38","username":"923565379","groupexpiry":"永不过期"},1696705:{"cid":"242353","uid":"1696705","operatorid":"790748","operator":"zxc554989965","action":"禁止发言","reason":"水龙头，永","dateline":"2017-3-4 17:20","username":"qq253844395","groupexpiry":"永不过期"},2016119:{"cid":"242336","uid":"2016119","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2017-3-4 16:28","username":"Me_Dorom","groupexpiry":"永不过期"},1800832:{"cid":"242209","uid":"1800832","operatorid":"790748","operator":"zxc554989965","action":"禁止发言","reason":"水龙头 永","dateline":"2017-3-4 11:02","username":"五环之歌","groupexpiry":"永不过期"},2118340:{"cid":"241864","uid":"2118340","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"2-4-R 辱骂版主","dateline":"2017-3-1 11:31","username":"十年不晚","groupexpiry":"永不过期"},1355794:{"cid":"241858","uid":"1355794","operatorid":"46925","operator":"xukarhei","action":"禁止发言","reason":"广告机","dateline":"2017-3-1 06:59","username":"LOVExiaojie_","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "241858" },
+  "data": {
+    2132164: {
+      "cid": "243318",
+      "uid": "2132164",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-3-9 17:05",
+      "username": "lcwy",
+      "groupexpiry": "永不过期"
+    },
+    2131440: {
+      "cid": "243194",
+      "uid": "2131440",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-3-8 13:06",
+      "username": "_末影使者_",
+      "groupexpiry": "永不过期"
+    },
+    1450082: {
+      "cid": "242518",
+      "uid": "1450082",
+      "operatorid": "1696224",
+      "operator": "星燚",
+      "action": "禁止发言",
+      "reason": "发布后门插件",
+      "dateline": "2017-3-4 21:30",
+      "username": "1195936718",
+      "groupexpiry": "永不过期"
+    },
+    313393: {
+      "cid": "242356",
+      "uid": "313393",
+      "operatorid": "447060",
+      "operator": "522240858",
+      "action": "禁止发言",
+      "reason": "色情站推广",
+      "dateline": "2017-3-4 17:38",
+      "username": "923565379",
+      "groupexpiry": "永不过期"
+    },
+    1696705: {
+      "cid": "242353",
+      "uid": "1696705",
+      "operatorid": "790748",
+      "operator": "zxc554989965",
+      "action": "禁止发言",
+      "reason": "水龙头，永",
+      "dateline": "2017-3-4 17:20",
+      "username": "qq253844395",
+      "groupexpiry": "永不过期"
+    },
+    2016119: {
+      "cid": "242336",
+      "uid": "2016119",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-3-4 16:28",
+      "username": "Me_Dorom",
+      "groupexpiry": "永不过期"
+    },
+    1800832: {
+      "cid": "242209",
+      "uid": "1800832",
+      "operatorid": "790748",
+      "operator": "zxc554989965",
+      "action": "禁止发言",
+      "reason": "水龙头 永",
+      "dateline": "2017-3-4 11:02",
+      "username": "五环之歌",
+      "groupexpiry": "永不过期"
+    },
+    2118340: {
+      "cid": "241864",
+      "uid": "2118340",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "2-4-R 辱骂版主",
+      "dateline": "2017-3-1 11:31",
+      "username": "十年不晚",
+      "groupexpiry": "永不过期"
+    },
+    1355794: {
+      "cid": "241858",
+      "uid": "1355794",
+      "operatorid": "46925",
+      "operator": "xukarhei",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2017-3-1 06:59",
+      "username": "LOVExiaojie_",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

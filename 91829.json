@@ -1,1 +1,269 @@
-{"message":{"dataexist":"1","cid":"90943"},"data":{674039:{"cid":"91601","uid":"674039","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"广告机","dateline":"2015-2-14 15:21","username":"541974216","groupexpiry":"永不过期"},133231:{"cid":"91561","uid":"133231","operatorid":"76964","operator":"zhh0000zhh","action":"禁止发言","reason":"广告机","dateline":"2015-2-14 13:04","username":"wwwvw","groupexpiry":"永不过期"},962775:{"cid":"91553","uid":"962775","operatorid":"76964","operator":"zhh0000zhh","action":"禁止发言","reason":"广告机","dateline":"2015-2-14 12:49","username":"无双剑姬","groupexpiry":"永不过期"},1176715:{"cid":"91232","uid":"1176715","operatorid":"66971","operator":"爱国青年","action":"禁止访问","reason":"","dateline":"2015-2-13 22:45","username":"mmmmmm.","groupexpiry":"永不过期"},109756:{"cid":"91227","uid":"109756","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"版战争吵，7天","dateline":"2015-2-13 21:58","username":"597676370","groupexpiry":"永不过期"},999528:{"cid":"91108","uid":"999528","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"刷贴，永久","dateline":"2015-2-13 13:09","username":"kaikai935955080","groupexpiry":"永不过期"},1171919:{"cid":"91104","uid":"1171919","operatorid":"66971","operator":"爱国青年","action":"禁止访问","reason":"","dateline":"2015-2-13 12:58","username":"你死了","groupexpiry":"永不过期"},1059740:{"cid":"91103","uid":"1059740","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"广告机","dateline":"2015-2-13 12:40","username":"懵懂","groupexpiry":"永不过期"},1160038:{"cid":"90987","uid":"1160038","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"刷贴，永久封禁","dateline":"2015-2-12 22:05","username":"MC时光之城","groupexpiry":"永不过期"},1171175:{"cid":"90975","uid":"1171175","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"刷分，永久封禁","dateline":"2015-2-12 21:04","username":"pp16178","groupexpiry":"永不过期"},497739:{"cid":"90974","uid":"497739","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"刷分，永久封禁","dateline":"2015-2-12 21:04","username":"pp16175","groupexpiry":"永不过期"},317806:{"cid":"90973","uid":"317806","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"刷分，永久封禁","dateline":"2015-2-12 21:03","username":"Alex_meser","groupexpiry":"永不过期"},1175785:{"cid":"90970","uid":"1175785","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"永久禁言","dateline":"2015-2-12 20:39","username":"ice_light2","groupexpiry":"永不过期"},1009565:{"cid":"90969","uid":"1009565","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"永久封禁","dateline":"2015-2-12 20:35","username":"ice_light","groupexpiry":"永不过期"},760675:{"cid":"90952","uid":"760675","operatorid":"77891","operator":"SkyCatcher","action":"禁止发言","reason":"多次违规，刷分+大量小号","dateline":"2015-2-12 19:48","username":"ICEJJJJ9","groupexpiry":"永不过期"},759719:{"cid":"90951","uid":"759719","operatorid":"59136","operator":"冥王星人","action":"禁止发言","reason":"很好","dateline":"2015-2-12 19:48","username":"ICEJJJJ4","groupexpiry":"永不过期"},760411:{"cid":"90950","uid":"760411","operatorid":"77891","operator":"SkyCatcher","action":"禁止发言","reason":"多次违规，刷分+大量小号","dateline":"2015-2-12 19:48","username":"ICEJJJJ8","groupexpiry":"永不过期"},760299:{"cid":"90949","uid":"760299","operatorid":"77891","operator":"SkyCatcher","action":"禁止发言","reason":"多次违规，刷分+大量小号","dateline":"2015-2-12 19:48","username":"ICEJJJJ7","groupexpiry":"永不过期"},759529:{"cid":"90948","uid":"759529","operatorid":"59136","operator":"冥王星人","action":"禁止发言","reason":"很好","dateline":"2015-2-12 19:48","username":"ICEJJJJ3","groupexpiry":"永不过期"},760123:{"cid":"90947","uid":"760123","operatorid":"59136","operator":"冥王星人","action":"禁止发言","reason":"很好","dateline":"2015-2-12 19:48","username":"ICEJJJJ6","groupexpiry":"永不过期"},760027:{"cid":"90946","uid":"760027","operatorid":"59136","operator":"冥王星人","action":"禁止发言","reason":"很好","dateline":"2015-2-12 19:48","username":"ICEJJJJ5","groupexpiry":"永不过期"},782320:{"cid":"90945","uid":"782320","operatorid":"77891","operator":"SkyCatcher","action":"禁止发言","reason":"多次违规，刷分+大量小号","dateline":"2015-2-12 19:47","username":"ICEJJJJ11","groupexpiry":"永不过期"},782446:{"cid":"90944","uid":"782446","operatorid":"59136","operator":"冥王星人","action":"禁止发言","reason":"很好","dateline":"2015-2-12 19:47","username":"ICEJJJJ12","groupexpiry":"永不过期"},783088:{"cid":"90943","uid":"783088","operatorid":"77891","operator":"SkyCatcher","action":"禁止发言","reason":"多次违规，刷分+大量小号","dateline":"2015-2-12 19:47","username":"ICEJJJJ13","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "90943" },
+  "data": {
+    674039: {
+      "cid": "91601",
+      "uid": "674039",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-2-14 15:21",
+      "username": "541974216",
+      "groupexpiry": "永不过期"
+    },
+    133231: {
+      "cid": "91561",
+      "uid": "133231",
+      "operatorid": "76964",
+      "operator": "zhh0000zhh",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-2-14 13:04",
+      "username": "wwwvw",
+      "groupexpiry": "永不过期"
+    },
+    962775: {
+      "cid": "91553",
+      "uid": "962775",
+      "operatorid": "76964",
+      "operator": "zhh0000zhh",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-2-14 12:49",
+      "username": "无双剑姬",
+      "groupexpiry": "永不过期"
+    },
+    1176715: {
+      "cid": "91232",
+      "uid": "1176715",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-2-13 22:45",
+      "username": "mmmmmm.",
+      "groupexpiry": "永不过期"
+    },
+    109756: {
+      "cid": "91227",
+      "uid": "109756",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "版战争吵，7天",
+      "dateline": "2015-2-13 21:58",
+      "username": "597676370",
+      "groupexpiry": "永不过期"
+    },
+    999528: {
+      "cid": "91108",
+      "uid": "999528",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷贴，永久",
+      "dateline": "2015-2-13 13:09",
+      "username": "kaikai935955080",
+      "groupexpiry": "永不过期"
+    },
+    1171919: {
+      "cid": "91104",
+      "uid": "1171919",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-2-13 12:58",
+      "username": "你死了",
+      "groupexpiry": "永不过期"
+    },
+    1059740: {
+      "cid": "91103",
+      "uid": "1059740",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-2-13 12:40",
+      "username": "懵懂",
+      "groupexpiry": "永不过期"
+    },
+    1160038: {
+      "cid": "90987",
+      "uid": "1160038",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷贴，永久封禁",
+      "dateline": "2015-2-12 22:05",
+      "username": "MC时光之城",
+      "groupexpiry": "永不过期"
+    },
+    1171175: {
+      "cid": "90975",
+      "uid": "1171175",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷分，永久封禁",
+      "dateline": "2015-2-12 21:04",
+      "username": "pp16178",
+      "groupexpiry": "永不过期"
+    },
+    497739: {
+      "cid": "90974",
+      "uid": "497739",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷分，永久封禁",
+      "dateline": "2015-2-12 21:04",
+      "username": "pp16175",
+      "groupexpiry": "永不过期"
+    },
+    317806: {
+      "cid": "90973",
+      "uid": "317806",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷分，永久封禁",
+      "dateline": "2015-2-12 21:03",
+      "username": "Alex_meser",
+      "groupexpiry": "永不过期"
+    },
+    1175785: {
+      "cid": "90970",
+      "uid": "1175785",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "永久禁言",
+      "dateline": "2015-2-12 20:39",
+      "username": "ice_light2",
+      "groupexpiry": "永不过期"
+    },
+    1009565: {
+      "cid": "90969",
+      "uid": "1009565",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "永久封禁",
+      "dateline": "2015-2-12 20:35",
+      "username": "ice_light",
+      "groupexpiry": "永不过期"
+    },
+    760675: {
+      "cid": "90952",
+      "uid": "760675",
+      "operatorid": "77891",
+      "operator": "SkyCatcher",
+      "action": "禁止发言",
+      "reason": "多次违规，刷分+大量小号",
+      "dateline": "2015-2-12 19:48",
+      "username": "ICEJJJJ9",
+      "groupexpiry": "永不过期"
+    },
+    759719: {
+      "cid": "90951",
+      "uid": "759719",
+      "operatorid": "59136",
+      "operator": "冥王星人",
+      "action": "禁止发言",
+      "reason": "很好",
+      "dateline": "2015-2-12 19:48",
+      "username": "ICEJJJJ4",
+      "groupexpiry": "永不过期"
+    },
+    760411: {
+      "cid": "90950",
+      "uid": "760411",
+      "operatorid": "77891",
+      "operator": "SkyCatcher",
+      "action": "禁止发言",
+      "reason": "多次违规，刷分+大量小号",
+      "dateline": "2015-2-12 19:48",
+      "username": "ICEJJJJ8",
+      "groupexpiry": "永不过期"
+    },
+    760299: {
+      "cid": "90949",
+      "uid": "760299",
+      "operatorid": "77891",
+      "operator": "SkyCatcher",
+      "action": "禁止发言",
+      "reason": "多次违规，刷分+大量小号",
+      "dateline": "2015-2-12 19:48",
+      "username": "ICEJJJJ7",
+      "groupexpiry": "永不过期"
+    },
+    759529: {
+      "cid": "90948",
+      "uid": "759529",
+      "operatorid": "59136",
+      "operator": "冥王星人",
+      "action": "禁止发言",
+      "reason": "很好",
+      "dateline": "2015-2-12 19:48",
+      "username": "ICEJJJJ3",
+      "groupexpiry": "永不过期"
+    },
+    760123: {
+      "cid": "90947",
+      "uid": "760123",
+      "operatorid": "59136",
+      "operator": "冥王星人",
+      "action": "禁止发言",
+      "reason": "很好",
+      "dateline": "2015-2-12 19:48",
+      "username": "ICEJJJJ6",
+      "groupexpiry": "永不过期"
+    },
+    760027: {
+      "cid": "90946",
+      "uid": "760027",
+      "operatorid": "59136",
+      "operator": "冥王星人",
+      "action": "禁止发言",
+      "reason": "很好",
+      "dateline": "2015-2-12 19:48",
+      "username": "ICEJJJJ5",
+      "groupexpiry": "永不过期"
+    },
+    782320: {
+      "cid": "90945",
+      "uid": "782320",
+      "operatorid": "77891",
+      "operator": "SkyCatcher",
+      "action": "禁止发言",
+      "reason": "多次违规，刷分+大量小号",
+      "dateline": "2015-2-12 19:47",
+      "username": "ICEJJJJ11",
+      "groupexpiry": "永不过期"
+    },
+    782446: {
+      "cid": "90944",
+      "uid": "782446",
+      "operatorid": "59136",
+      "operator": "冥王星人",
+      "action": "禁止发言",
+      "reason": "很好",
+      "dateline": "2015-2-12 19:47",
+      "username": "ICEJJJJ12",
+      "groupexpiry": "永不过期"
+    },
+    783088: {
+      "cid": "90943",
+      "uid": "783088",
+      "operatorid": "77891",
+      "operator": "SkyCatcher",
+      "action": "禁止发言",
+      "reason": "多次违规，刷分+大量小号",
+      "dateline": "2015-2-12 19:47",
+      "username": "ICEJJJJ13",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

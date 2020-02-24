@@ -1,1 +1,236 @@
-{"message":{"dataexist":"1","cid":"146365"},"data":{828808:{"cid":"147016","uid":"828808","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"广告机","dateline":"2015-9-13 14:48","username":"战争傀儡","groupexpiry":"永不过期"},639112:{"cid":"146999","uid":"639112","operatorid":"66971","operator":"爱国青年","action":"禁止访问","reason":"","dateline":"2015-9-13 13:19","username":"593395073","groupexpiry":"永不过期"},1196482:{"cid":"146983","uid":"1196482","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"广告机","dateline":"2015-9-13 10:47","username":"19970510","groupexpiry":"永不过期"},1046532:{"cid":"146977","uid":"1046532","operatorid":"66971","operator":"爱国青年","action":"禁止访问","reason":"","dateline":"2015-9-13 09:12","username":"wengxiaoxiong","groupexpiry":"永不过期"},648982:{"cid":"146976","uid":"648982","operatorid":"66971","operator":"爱国青年","action":"禁止访问","reason":"","dateline":"2015-9-13 09:11","username":"diannaodi","groupexpiry":"永不过期"},1062881:{"cid":"146975","uid":"1062881","operatorid":"66971","operator":"爱国青年","action":"禁止访问","reason":"","dateline":"2015-9-13 09:11","username":"翁小雄","groupexpiry":"永不过期"},127685:{"cid":"146759","uid":"127685","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"广告机","dateline":"2015-9-12 16:23","username":"1325004486","groupexpiry":"永不过期"},484335:{"cid":"146732","uid":"484335","operatorid":"240366","operator":"西红柿片","action":"禁止发言","reason":"水龙头","dateline":"2015-9-12 15:21","username":"q728525654","groupexpiry":"永不过期"},1433361:{"cid":"146682","uid":"1433361","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"广告机","dateline":"2015-9-12 13:16","username":"陈文杰老大","groupexpiry":"永不过期"},737560:{"cid":"146606","uid":"737560","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"马甲刷分","dateline":"2015-9-12 10:04","username":"x2939492585","groupexpiry":"永不过期"},1266998:{"cid":"146456","uid":"1266998","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"签名档商业广告","dateline":"2015-9-11 18:27","username":"DDWWJJ","groupexpiry":"永不过期"},824407:{"cid":"146397","uid":"824407","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"刷帖","dateline":"2015-9-11 14:36","username":"15286420060","groupexpiry":"永不过期"},1445555:{"cid":"146375","uid":"1445555","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"刷帖","dateline":"2015-9-10 22:34","username":"qq1306958281","groupexpiry":"永不过期"},274427:{"cid":"146374","uid":"274427","operatorid":"188925","operator":"卅个屮","action":"禁止发言","reason":"回帖 / 主题帖中无意义帖占 80% 以上且总数超过20帖的会员 , 定义为刷帖","dateline":"2015-9-10 22:23","username":"hz0222","groupexpiry":"永不过期"},405389:{"cid":"146372","uid":"405389","operatorid":"188925","operator":"卅个屮","action":"禁止发言","reason":"回帖 / 主题帖中无意义帖占 80% 以上且总数超过20帖的会员 , 定义为刷帖","dateline":"2015-9-10 22:18","username":"1226329423","groupexpiry":"永不过期"},311982:{"cid":"146371","uid":"311982","operatorid":"188925","operator":"卅个屮","action":"禁止发言","reason":"回帖 / 主题帖中无意义帖占 80% 以上且总数超过20帖的会员 , 定义为刷帖","dateline":"2015-9-10 22:18","username":"90795110","groupexpiry":"永不过期"},663294:{"cid":"146370","uid":"663294","operatorid":"188925","operator":"卅个屮","action":"禁止发言","reason":"回帖 / 主题帖中无意义帖占 80% 以上且总数超过20帖的会员 , 定义为刷帖","dateline":"2015-9-10 22:13","username":"你的来自","groupexpiry":"永不过期"},512636:{"cid":"146369","uid":"512636","operatorid":"188925","operator":"卅个屮","action":"禁止发言","reason":"回帖 / 主题帖中无意义帖占 80% 以上且总数超过20帖的会员 , 定义为刷帖","dateline":"2015-9-10 22:14","username":"246225570","groupexpiry":"永不过期"},510233:{"cid":"146367","uid":"510233","operatorid":"188925","operator":"卅个屮","action":"禁止发言","reason":"回帖 / 主题帖中无意义帖占 80% 以上且总数超过20帖的会员 , 定义为刷帖","dateline":"2015-9-10 22:11","username":"1355215758","groupexpiry":"永不过期"},1196721:{"cid":"146366","uid":"1196721","operatorid":"42992","operator":"810587921","action":"禁止发言","reason":"水龙头","dateline":"2015-9-10 22:07","username":"小迪君","groupexpiry":"永不过期"},573648:{"cid":"146365","uid":"573648","operatorid":"188925","operator":"卅个屮","action":"禁止发言","reason":"回帖 / 主题帖中无意义帖占 80% 以上且总数超过20帖的会员 , 定义为刷帖","dateline":"2015-9-10 22:10","username":"OLYA","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "146365" },
+  "data": {
+    828808: {
+      "cid": "147016",
+      "uid": "828808",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-9-13 14:48",
+      "username": "战争傀儡",
+      "groupexpiry": "永不过期"
+    },
+    639112: {
+      "cid": "146999",
+      "uid": "639112",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-9-13 13:19",
+      "username": "593395073",
+      "groupexpiry": "永不过期"
+    },
+    1196482: {
+      "cid": "146983",
+      "uid": "1196482",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-9-13 10:47",
+      "username": "19970510",
+      "groupexpiry": "永不过期"
+    },
+    1046532: {
+      "cid": "146977",
+      "uid": "1046532",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-9-13 09:12",
+      "username": "wengxiaoxiong",
+      "groupexpiry": "永不过期"
+    },
+    648982: {
+      "cid": "146976",
+      "uid": "648982",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-9-13 09:11",
+      "username": "diannaodi",
+      "groupexpiry": "永不过期"
+    },
+    1062881: {
+      "cid": "146975",
+      "uid": "1062881",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-9-13 09:11",
+      "username": "翁小雄",
+      "groupexpiry": "永不过期"
+    },
+    127685: {
+      "cid": "146759",
+      "uid": "127685",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-9-12 16:23",
+      "username": "1325004486",
+      "groupexpiry": "永不过期"
+    },
+    484335: {
+      "cid": "146732",
+      "uid": "484335",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-9-12 15:21",
+      "username": "q728525654",
+      "groupexpiry": "永不过期"
+    },
+    1433361: {
+      "cid": "146682",
+      "uid": "1433361",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-9-12 13:16",
+      "username": "陈文杰老大",
+      "groupexpiry": "永不过期"
+    },
+    737560: {
+      "cid": "146606",
+      "uid": "737560",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "马甲刷分",
+      "dateline": "2015-9-12 10:04",
+      "username": "x2939492585",
+      "groupexpiry": "永不过期"
+    },
+    1266998: {
+      "cid": "146456",
+      "uid": "1266998",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "签名档商业广告",
+      "dateline": "2015-9-11 18:27",
+      "username": "DDWWJJ",
+      "groupexpiry": "永不过期"
+    },
+    824407: {
+      "cid": "146397",
+      "uid": "824407",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷帖",
+      "dateline": "2015-9-11 14:36",
+      "username": "15286420060",
+      "groupexpiry": "永不过期"
+    },
+    1445555: {
+      "cid": "146375",
+      "uid": "1445555",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷帖",
+      "dateline": "2015-9-10 22:34",
+      "username": "qq1306958281",
+      "groupexpiry": "永不过期"
+    },
+    274427: {
+      "cid": "146374",
+      "uid": "274427",
+      "operatorid": "188925",
+      "operator": "卅个屮",
+      "action": "禁止发言",
+      "reason": "回帖 / 主题帖中无意义帖占 80% 以上且总数超过20帖的会员 , 定义为刷帖",
+      "dateline": "2015-9-10 22:23",
+      "username": "hz0222",
+      "groupexpiry": "永不过期"
+    },
+    405389: {
+      "cid": "146372",
+      "uid": "405389",
+      "operatorid": "188925",
+      "operator": "卅个屮",
+      "action": "禁止发言",
+      "reason": "回帖 / 主题帖中无意义帖占 80% 以上且总数超过20帖的会员 , 定义为刷帖",
+      "dateline": "2015-9-10 22:18",
+      "username": "1226329423",
+      "groupexpiry": "永不过期"
+    },
+    311982: {
+      "cid": "146371",
+      "uid": "311982",
+      "operatorid": "188925",
+      "operator": "卅个屮",
+      "action": "禁止发言",
+      "reason": "回帖 / 主题帖中无意义帖占 80% 以上且总数超过20帖的会员 , 定义为刷帖",
+      "dateline": "2015-9-10 22:18",
+      "username": "90795110",
+      "groupexpiry": "永不过期"
+    },
+    663294: {
+      "cid": "146370",
+      "uid": "663294",
+      "operatorid": "188925",
+      "operator": "卅个屮",
+      "action": "禁止发言",
+      "reason": "回帖 / 主题帖中无意义帖占 80% 以上且总数超过20帖的会员 , 定义为刷帖",
+      "dateline": "2015-9-10 22:13",
+      "username": "你的来自",
+      "groupexpiry": "永不过期"
+    },
+    512636: {
+      "cid": "146369",
+      "uid": "512636",
+      "operatorid": "188925",
+      "operator": "卅个屮",
+      "action": "禁止发言",
+      "reason": "回帖 / 主题帖中无意义帖占 80% 以上且总数超过20帖的会员 , 定义为刷帖",
+      "dateline": "2015-9-10 22:14",
+      "username": "246225570",
+      "groupexpiry": "永不过期"
+    },
+    510233: {
+      "cid": "146367",
+      "uid": "510233",
+      "operatorid": "188925",
+      "operator": "卅个屮",
+      "action": "禁止发言",
+      "reason": "回帖 / 主题帖中无意义帖占 80% 以上且总数超过20帖的会员 , 定义为刷帖",
+      "dateline": "2015-9-10 22:11",
+      "username": "1355215758",
+      "groupexpiry": "永不过期"
+    },
+    1196721: {
+      "cid": "146366",
+      "uid": "1196721",
+      "operatorid": "42992",
+      "operator": "810587921",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-9-10 22:07",
+      "username": "小迪君",
+      "groupexpiry": "永不过期"
+    },
+    573648: {
+      "cid": "146365",
+      "uid": "573648",
+      "operatorid": "188925",
+      "operator": "卅个屮",
+      "action": "禁止发言",
+      "reason": "回帖 / 主题帖中无意义帖占 80% 以上且总数超过20帖的会员 , 定义为刷帖",
+      "dateline": "2015-9-10 22:10",
+      "username": "OLYA",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

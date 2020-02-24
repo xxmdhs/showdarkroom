@@ -1,1 +1,93 @@
-{"message":{"dataexist":"1","cid":"417139"},"data":{576068:{"cid":"418707","uid":"576068","operatorid":"1575538","operator":"ff98sha","action":"禁止发言","reason":"水龙头","dateline":"2019-6-28 18:13","username":"c18050390849","groupexpiry":"永不过期"},2779270:{"cid":"418686","uid":"2779270","operatorid":"2067786","operator":"Sakura_End","action":"禁止发言","reason":"广告机","dateline":"2019-6-28 17:44","username":"v13826057771","groupexpiry":"永不过期"},2778790:{"cid":"418630","uid":"2778790","operatorid":"84901","operator":"pogox","action":"禁止访问","reason":"广告机","dateline":"2019-6-28 15:56","username":"泰哥004","groupexpiry":"永不过期"},1893266:{"cid":"418431","uid":"1893266","operatorid":"240460","operator":"xu11xx","action":"禁止发言","reason":"诈骗|卷款跑路","dateline":"2019-6-27 20:42","username":"Dream_Spuer","groupexpiry":"永不过期"},2577659:{"cid":"418040","uid":"2577659","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"用户名违规","dateline":"2019-6-27 01:01","username":"性感马化腾","groupexpiry":"永不过期"},777559:{"cid":"417142","uid":"777559","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2019-6-23 21:54","username":"黎咖君","groupexpiry":"永不过期"},308677:{"cid":"417141","uid":"308677","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2019-6-23 21:54","username":"2633689619","groupexpiry":"永不过期"},1993417:{"cid":"417140","uid":"1993417","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2019-6-23 21:54","username":"GGG_","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "417139" },
+  "data": {
+    576068: {
+      "cid": "418707",
+      "uid": "576068",
+      "operatorid": "1575538",
+      "operator": "ff98sha",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-6-28 18:13",
+      "username": "c18050390849",
+      "groupexpiry": "永不过期"
+    },
+    2779270: {
+      "cid": "418686",
+      "uid": "2779270",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-6-28 17:44",
+      "username": "v13826057771",
+      "groupexpiry": "永不过期"
+    },
+    2778790: {
+      "cid": "418630",
+      "uid": "2778790",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止访问",
+      "reason": "广告机",
+      "dateline": "2019-6-28 15:56",
+      "username": "泰哥004",
+      "groupexpiry": "永不过期"
+    },
+    1893266: {
+      "cid": "418431",
+      "uid": "1893266",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "诈骗|卷款跑路",
+      "dateline": "2019-6-27 20:42",
+      "username": "Dream_Spuer",
+      "groupexpiry": "永不过期"
+    },
+    2577659: {
+      "cid": "418040",
+      "uid": "2577659",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2019-6-27 01:01",
+      "username": "性感马化腾",
+      "groupexpiry": "永不过期"
+    },
+    777559: {
+      "cid": "417142",
+      "uid": "777559",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-6-23 21:54",
+      "username": "黎咖君",
+      "groupexpiry": "永不过期"
+    },
+    308677: {
+      "cid": "417141",
+      "uid": "308677",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-6-23 21:54",
+      "username": "2633689619",
+      "groupexpiry": "永不过期"
+    },
+    1993417: {
+      "cid": "417140",
+      "uid": "1993417",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-6-23 21:54",
+      "username": "GGG_",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

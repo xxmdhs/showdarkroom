@@ -1,1 +1,203 @@
-{"message":{"dataexist":"1","cid":"445968"},"data":{2849344:{"cid":"448253","uid":"2849344","operatorid":"679293","operator":"FHC红石","action":"禁止发言","reason":"广告机","dateline":"2019-8-16 13:00","username":"約炮賴kk2384","groupexpiry":"永不过期"},2847981:{"cid":"447629","uid":"2847981","operatorid":"2067786","operator":"Sakura_End","action":"禁止发言","reason":"广告机","dateline":"2019-8-15 14:49","username":"ggvvmm","groupexpiry":"永不过期"},2776321:{"cid":"447246","uid":"2776321","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"论坛禁止软件养号","dateline":"2019-8-14 22:58","username":"大爱河南","groupexpiry":"永不过期"},2778079:{"cid":"447245","uid":"2778079","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"论坛禁止软件养号","dateline":"2019-8-14 22:57","username":"xianoo","groupexpiry":"永不过期"},2776680:{"cid":"447244","uid":"2776680","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"论坛禁止软件养号","dateline":"2019-8-14 22:57","username":"qwqerq","groupexpiry":"永不过期"},2776587:{"cid":"447243","uid":"2776587","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"论坛禁止软件养号","dateline":"2019-8-14 22:57","username":"zaozig","groupexpiry":"永不过期"},2776504:{"cid":"447242","uid":"2776504","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"论坛禁止软件养号","dateline":"2019-8-14 22:57","username":"wzjinzhou","groupexpiry":"永不过期"},2776493:{"cid":"447241","uid":"2776493","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"论坛禁止软件养号","dateline":"2019-8-14 22:57","username":"wz石家庄","groupexpiry":"永不过期"},2776416:{"cid":"447240","uid":"2776416","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"论坛禁止软件养号","dateline":"2019-8-14 22:57","username":"大爱河北a","groupexpiry":"永不过期"},2776336:{"cid":"447236","uid":"2776336","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"禁止软件养号","dateline":"2019-8-14 22:48","username":"小老斧","groupexpiry":"永不过期"},2776328:{"cid":"447235","uid":"2776328","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"禁止软件养号","dateline":"2019-8-14 22:48","username":"小鸭鸭A","groupexpiry":"永不过期"},2776322:{"cid":"447234","uid":"2776322","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"禁止软件养号","dateline":"2019-8-14 22:48","username":"彩云233","groupexpiry":"永不过期"},2776318:{"cid":"447233","uid":"2776318","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"禁止软件养号","dateline":"2019-8-14 22:48","username":"七彩云南","groupexpiry":"永不过期"},2847566:{"cid":"447108","uid":"2847566","operatorid":"679293","operator":"FHC红石","action":"禁止发言","reason":"广告机","dateline":"2019-8-14 18:56","username":"独太给","groupexpiry":"永不过期"},2810440:{"cid":"447037","uid":"2810440","operatorid":"674931","operator":"1094822247","action":"禁止发言","reason":"水龙头","dateline":"2019-8-14 18:27","username":"18168559302","groupexpiry":"永不过期"},291341:{"cid":"446977","uid":"291341","operatorid":"2067786","operator":"Sakura_End","action":"禁止发言","reason":"失信人员换号发帖","dateline":"2019-8-14 16:30","username":"井延深","groupexpiry":"永不过期"},2221607:{"cid":"446485","uid":"2221607","operatorid":"1101813","operator":"XJue_DaDa","action":"禁止发言","reason":"水龙头","dateline":"2019-8-13 13:12","username":"yanyan36","groupexpiry":"永不过期"},2771066:{"cid":"446435","uid":"2771066","operatorid":"108341","operator":"U1U420039","action":"禁止发言","reason":"灌水","dateline":"2019-8-13 12:10","username":"3181659732","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "445968" },
+  "data": {
+    2849344: {
+      "cid": "448253",
+      "uid": "2849344",
+      "operatorid": "679293",
+      "operator": "FHC红石",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-8-16 13:00",
+      "username": "約炮賴kk2384",
+      "groupexpiry": "永不过期"
+    },
+    2847981: {
+      "cid": "447629",
+      "uid": "2847981",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-8-15 14:49",
+      "username": "ggvvmm",
+      "groupexpiry": "永不过期"
+    },
+    2776321: {
+      "cid": "447246",
+      "uid": "2776321",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "论坛禁止软件养号",
+      "dateline": "2019-8-14 22:58",
+      "username": "大爱河南",
+      "groupexpiry": "永不过期"
+    },
+    2778079: {
+      "cid": "447245",
+      "uid": "2778079",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "论坛禁止软件养号",
+      "dateline": "2019-8-14 22:57",
+      "username": "xianoo",
+      "groupexpiry": "永不过期"
+    },
+    2776680: {
+      "cid": "447244",
+      "uid": "2776680",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "论坛禁止软件养号",
+      "dateline": "2019-8-14 22:57",
+      "username": "qwqerq",
+      "groupexpiry": "永不过期"
+    },
+    2776587: {
+      "cid": "447243",
+      "uid": "2776587",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "论坛禁止软件养号",
+      "dateline": "2019-8-14 22:57",
+      "username": "zaozig",
+      "groupexpiry": "永不过期"
+    },
+    2776504: {
+      "cid": "447242",
+      "uid": "2776504",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "论坛禁止软件养号",
+      "dateline": "2019-8-14 22:57",
+      "username": "wzjinzhou",
+      "groupexpiry": "永不过期"
+    },
+    2776493: {
+      "cid": "447241",
+      "uid": "2776493",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "论坛禁止软件养号",
+      "dateline": "2019-8-14 22:57",
+      "username": "wz石家庄",
+      "groupexpiry": "永不过期"
+    },
+    2776416: {
+      "cid": "447240",
+      "uid": "2776416",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "论坛禁止软件养号",
+      "dateline": "2019-8-14 22:57",
+      "username": "大爱河北a",
+      "groupexpiry": "永不过期"
+    },
+    2776336: {
+      "cid": "447236",
+      "uid": "2776336",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "禁止软件养号",
+      "dateline": "2019-8-14 22:48",
+      "username": "小老斧",
+      "groupexpiry": "永不过期"
+    },
+    2776328: {
+      "cid": "447235",
+      "uid": "2776328",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "禁止软件养号",
+      "dateline": "2019-8-14 22:48",
+      "username": "小鸭鸭A",
+      "groupexpiry": "永不过期"
+    },
+    2776322: {
+      "cid": "447234",
+      "uid": "2776322",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "禁止软件养号",
+      "dateline": "2019-8-14 22:48",
+      "username": "彩云233",
+      "groupexpiry": "永不过期"
+    },
+    2776318: {
+      "cid": "447233",
+      "uid": "2776318",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "禁止软件养号",
+      "dateline": "2019-8-14 22:48",
+      "username": "七彩云南",
+      "groupexpiry": "永不过期"
+    },
+    2847566: {
+      "cid": "447108",
+      "uid": "2847566",
+      "operatorid": "679293",
+      "operator": "FHC红石",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-8-14 18:56",
+      "username": "独太给",
+      "groupexpiry": "永不过期"
+    },
+    2810440: {
+      "cid": "447037",
+      "uid": "2810440",
+      "operatorid": "674931",
+      "operator": "1094822247",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-8-14 18:27",
+      "username": "18168559302",
+      "groupexpiry": "永不过期"
+    },
+    291341: {
+      "cid": "446977",
+      "uid": "291341",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "失信人员换号发帖",
+      "dateline": "2019-8-14 16:30",
+      "username": "井延深",
+      "groupexpiry": "永不过期"
+    },
+    2221607: {
+      "cid": "446485",
+      "uid": "2221607",
+      "operatorid": "1101813",
+      "operator": "XJue_DaDa",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-8-13 13:12",
+      "username": "yanyan36",
+      "groupexpiry": "永不过期"
+    },
+    2771066: {
+      "cid": "446435",
+      "uid": "2771066",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "灌水",
+      "dateline": "2019-8-13 12:10",
+      "username": "3181659732",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

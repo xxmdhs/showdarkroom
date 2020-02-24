@@ -1,1 +1,203 @@
-{"message":{"dataexist":"1","cid":"167484"},"data":{1651976:{"cid":"168339","uid":"1651976","operatorid":"3467","operator":"sjjklh","action":"禁止发言","reason":"","dateline":"2016-1-20 20:01","username":"闪电卡盟","groupexpiry":"永不过期"},1642249:{"cid":"168325","uid":"1642249","operatorid":"437492","operator":"darknova","action":"禁止发言","reason":"广告机","dateline":"2016-1-20 18:59","username":"dtwxng321","groupexpiry":"永不过期"},1646601:{"cid":"168324","uid":"1646601","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"广告机","dateline":"2016-1-20 18:58","username":"哆啦小K","groupexpiry":"永不过期"},1631583:{"cid":"168320","uid":"1631583","operatorid":"92880","operator":"tony990412","action":"禁止发言","reason":"广告机","dateline":"2016-1-20 17:28","username":"fengsuomin","groupexpiry":"永不过期"},1640763:{"cid":"168215","uid":"1640763","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2016-1-19 21:13","username":"wodefarka","groupexpiry":"永不过期"},1596327:{"cid":"168214","uid":"1596327","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2016-1-19 21:12","username":"mayihan","groupexpiry":"永不过期"},1632727:{"cid":"168213","uid":"1632727","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2016-1-19 21:11","username":"wodefark","groupexpiry":"永不过期"},1617178:{"cid":"168212","uid":"1617178","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2016-1-19 21:15","username":"mayih","groupexpiry":"永不过期"},1616182:{"cid":"168211","uid":"1616182","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2016-1-19 21:11","username":"mayiha","groupexpiry":"永不过期"},1094996:{"cid":"168210","uid":"1094996","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"水龙头","dateline":"2016-1-19 21:13","username":"pzx1201220","groupexpiry":"永不过期"},306495:{"cid":"168209","uid":"306495","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"水龙头","dateline":"2016-1-19 21:07","username":"ANXIAOLIN","groupexpiry":"永不过期"},504215:{"cid":"168208","uid":"504215","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"水龙头","dateline":"2016-1-19 21:02","username":"空景灬kirito","groupexpiry":"永不过期"},1628113:{"cid":"168204","uid":"1628113","operatorid":"3467","operator":"sjjklh","action":"禁止发言","reason":"","dateline":"2016-1-19 20:07","username":"sewed","groupexpiry":"永不过期"},1170703:{"cid":"168198","uid":"1170703","operatorid":"189127","operator":"huanghongxun","action":"禁止发言","reason":"抄袭&amp;水龙头","dateline":"2016-1-19 19:54","username":"爱G绅士","groupexpiry":"永不过期"},1435416:{"cid":"168073","uid":"1435416","operatorid":"42992","operator":"810587921","action":"禁止发言","reason":"水龙头","dateline":"2016-1-18 22:13","username":"尸柩","groupexpiry":"永不过期"},1542004:{"cid":"167988","uid":"1542004","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"水龙头","dateline":"2016-1-18 18:12","username":"asd012356","groupexpiry":"永不过期"},1644251:{"cid":"167979","uid":"1644251","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"发布后门插件","dateline":"2016-1-18 18:02","username":"a985874544","groupexpiry":"永不过期"},940343:{"cid":"167484","uid":"940343","operatorid":"188925","operator":"卅个屮","action":"禁止发言","reason":"水龙头 永久禁言","dateline":"2016-1-16 20:57","username":"White_sir","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "167484" },
+  "data": {
+    1651976: {
+      "cid": "168339",
+      "uid": "1651976",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2016-1-20 20:01",
+      "username": "闪电卡盟",
+      "groupexpiry": "永不过期"
+    },
+    1642249: {
+      "cid": "168325",
+      "uid": "1642249",
+      "operatorid": "437492",
+      "operator": "darknova",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-1-20 18:59",
+      "username": "dtwxng321",
+      "groupexpiry": "永不过期"
+    },
+    1646601: {
+      "cid": "168324",
+      "uid": "1646601",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-1-20 18:58",
+      "username": "哆啦小K",
+      "groupexpiry": "永不过期"
+    },
+    1631583: {
+      "cid": "168320",
+      "uid": "1631583",
+      "operatorid": "92880",
+      "operator": "tony990412",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-1-20 17:28",
+      "username": "fengsuomin",
+      "groupexpiry": "永不过期"
+    },
+    1640763: {
+      "cid": "168215",
+      "uid": "1640763",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2016-1-19 21:13",
+      "username": "wodefarka",
+      "groupexpiry": "永不过期"
+    },
+    1596327: {
+      "cid": "168214",
+      "uid": "1596327",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2016-1-19 21:12",
+      "username": "mayihan",
+      "groupexpiry": "永不过期"
+    },
+    1632727: {
+      "cid": "168213",
+      "uid": "1632727",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2016-1-19 21:11",
+      "username": "wodefark",
+      "groupexpiry": "永不过期"
+    },
+    1617178: {
+      "cid": "168212",
+      "uid": "1617178",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2016-1-19 21:15",
+      "username": "mayih",
+      "groupexpiry": "永不过期"
+    },
+    1616182: {
+      "cid": "168211",
+      "uid": "1616182",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2016-1-19 21:11",
+      "username": "mayiha",
+      "groupexpiry": "永不过期"
+    },
+    1094996: {
+      "cid": "168210",
+      "uid": "1094996",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-1-19 21:13",
+      "username": "pzx1201220",
+      "groupexpiry": "永不过期"
+    },
+    306495: {
+      "cid": "168209",
+      "uid": "306495",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-1-19 21:07",
+      "username": "ANXIAOLIN",
+      "groupexpiry": "永不过期"
+    },
+    504215: {
+      "cid": "168208",
+      "uid": "504215",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-1-19 21:02",
+      "username": "空景灬kirito",
+      "groupexpiry": "永不过期"
+    },
+    1628113: {
+      "cid": "168204",
+      "uid": "1628113",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2016-1-19 20:07",
+      "username": "sewed",
+      "groupexpiry": "永不过期"
+    },
+    1170703: {
+      "cid": "168198",
+      "uid": "1170703",
+      "operatorid": "189127",
+      "operator": "huanghongxun",
+      "action": "禁止发言",
+      "reason": "抄袭&amp;水龙头",
+      "dateline": "2016-1-19 19:54",
+      "username": "爱G绅士",
+      "groupexpiry": "永不过期"
+    },
+    1435416: {
+      "cid": "168073",
+      "uid": "1435416",
+      "operatorid": "42992",
+      "operator": "810587921",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-1-18 22:13",
+      "username": "尸柩",
+      "groupexpiry": "永不过期"
+    },
+    1542004: {
+      "cid": "167988",
+      "uid": "1542004",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-1-18 18:12",
+      "username": "asd012356",
+      "groupexpiry": "永不过期"
+    },
+    1644251: {
+      "cid": "167979",
+      "uid": "1644251",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "发布后门插件",
+      "dateline": "2016-1-18 18:02",
+      "username": "a985874544",
+      "groupexpiry": "永不过期"
+    },
+    940343: {
+      "cid": "167484",
+      "uid": "940343",
+      "operatorid": "188925",
+      "operator": "卅个屮",
+      "action": "禁止发言",
+      "reason": "水龙头 永久禁言",
+      "dateline": "2016-1-16 20:57",
+      "username": "White_sir",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

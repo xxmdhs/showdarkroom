@@ -1,1 +1,148 @@
-{"message":{"dataexist":"1","cid":"382170"},"data":{2662914:{"cid":"383764","uid":"2662914","operatorid":"1876057","operator":"九幽之帝","action":"禁止发言","reason":"私信辱骂","dateline":"2019-3-1 20:33","username":"王境泽の","groupexpiry":"永不过期"},597287:{"cid":"383493","uid":"597287","operatorid":"720449","operator":"玄素","action":"禁止发言","reason":"水龙头","dateline":"2019-2-25 20:05","username":"1328994559","groupexpiry":"永不过期"},2675995:{"cid":"383423","uid":"2675995","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2019-2-24 16:29","username":"乱世少女","groupexpiry":"永不过期"},286161:{"cid":"383422","uid":"286161","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2019-2-24 16:29","username":"小飞哥","groupexpiry":"永不过期"},2670211:{"cid":"383421","uid":"2670211","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2019-2-24 16:28","username":"我很无聊吗","groupexpiry":"永不过期"},2479700:{"cid":"383389","uid":"2479700","operatorid":"564746","operator":"gamerteam","action":"禁止发言","reason":"发布作弊类内容","dateline":"2019-2-24 12:59","username":"2547345784","groupexpiry":"永不过期"},2087090:{"cid":"383230","uid":"2087090","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2019-2-23 23:00","username":"虎水小骥","groupexpiry":"永不过期"},2660407:{"cid":"383106","uid":"2660407","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"","dateline":"2019-2-23 15:08","username":"Torone","groupexpiry":"永不过期"},593209:{"cid":"382957","uid":"593209","operatorid":"612006","operator":"ysy960108","action":"禁止发言","reason":"广告","dateline":"2019-2-22 15:29","username":"982754469","groupexpiry":"永不过期"},1323655:{"cid":"382353","uid":"1323655","operatorid":"674931","operator":"1094822247","action":"禁止发言","reason":"水龙头","dateline":"2019-2-18 00:25","username":"Lin_V","groupexpiry":"永不过期"},2660183:{"cid":"382247","uid":"2660183","operatorid":"1575538","operator":"ff98sha","action":"禁止发言","reason":"水龙头","dateline":"2019-2-16 20:30","username":"白子阴","groupexpiry":"永不过期"},2671309:{"cid":"382246","uid":"2671309","operatorid":"1575538","operator":"ff98sha","action":"禁止发言","reason":"水龙头","dateline":"2019-2-16 20:28","username":"447867421","groupexpiry":"永不过期"},2594016:{"cid":"382170","uid":"2594016","operatorid":"1575538","operator":"ff98sha","action":"禁止发言","reason":"水龙头 长头像","dateline":"2019-2-16 14:04","username":"王连胜","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "382170" },
+  "data": {
+    2662914: {
+      "cid": "383764",
+      "uid": "2662914",
+      "operatorid": "1876057",
+      "operator": "九幽之帝",
+      "action": "禁止发言",
+      "reason": "私信辱骂",
+      "dateline": "2019-3-1 20:33",
+      "username": "王境泽の",
+      "groupexpiry": "永不过期"
+    },
+    597287: {
+      "cid": "383493",
+      "uid": "597287",
+      "operatorid": "720449",
+      "operator": "玄素",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-2-25 20:05",
+      "username": "1328994559",
+      "groupexpiry": "永不过期"
+    },
+    2675995: {
+      "cid": "383423",
+      "uid": "2675995",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-2-24 16:29",
+      "username": "乱世少女",
+      "groupexpiry": "永不过期"
+    },
+    286161: {
+      "cid": "383422",
+      "uid": "286161",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-2-24 16:29",
+      "username": "小飞哥",
+      "groupexpiry": "永不过期"
+    },
+    2670211: {
+      "cid": "383421",
+      "uid": "2670211",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-2-24 16:28",
+      "username": "我很无聊吗",
+      "groupexpiry": "永不过期"
+    },
+    2479700: {
+      "cid": "383389",
+      "uid": "2479700",
+      "operatorid": "564746",
+      "operator": "gamerteam",
+      "action": "禁止发言",
+      "reason": "发布作弊类内容",
+      "dateline": "2019-2-24 12:59",
+      "username": "2547345784",
+      "groupexpiry": "永不过期"
+    },
+    2087090: {
+      "cid": "383230",
+      "uid": "2087090",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-2-23 23:00",
+      "username": "虎水小骥",
+      "groupexpiry": "永不过期"
+    },
+    2660407: {
+      "cid": "383106",
+      "uid": "2660407",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-2-23 15:08",
+      "username": "Torone",
+      "groupexpiry": "永不过期"
+    },
+    593209: {
+      "cid": "382957",
+      "uid": "593209",
+      "operatorid": "612006",
+      "operator": "ysy960108",
+      "action": "禁止发言",
+      "reason": "广告",
+      "dateline": "2019-2-22 15:29",
+      "username": "982754469",
+      "groupexpiry": "永不过期"
+    },
+    1323655: {
+      "cid": "382353",
+      "uid": "1323655",
+      "operatorid": "674931",
+      "operator": "1094822247",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-2-18 00:25",
+      "username": "Lin_V",
+      "groupexpiry": "永不过期"
+    },
+    2660183: {
+      "cid": "382247",
+      "uid": "2660183",
+      "operatorid": "1575538",
+      "operator": "ff98sha",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-2-16 20:30",
+      "username": "白子阴",
+      "groupexpiry": "永不过期"
+    },
+    2671309: {
+      "cid": "382246",
+      "uid": "2671309",
+      "operatorid": "1575538",
+      "operator": "ff98sha",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-2-16 20:28",
+      "username": "447867421",
+      "groupexpiry": "永不过期"
+    },
+    2594016: {
+      "cid": "382170",
+      "uid": "2594016",
+      "operatorid": "1575538",
+      "operator": "ff98sha",
+      "action": "禁止发言",
+      "reason": "水龙头 长头像",
+      "dateline": "2019-2-16 14:04",
+      "username": "王连胜",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

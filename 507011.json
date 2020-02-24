@@ -1,1 +1,126 @@
-{"message":{"dataexist":"1","cid":"502153"},"data":{2890617:{"cid":"506913","uid":"2890617","operatorid":"2444378","operator":"SPGoding","action":"禁止发言","reason":"水龙头","dateline":"2019-12-29 10:00","username":"wkscb12","groupexpiry":"永不过期"},2955599:{"cid":"506419","uid":"2955599","operatorid":"1575538","operator":"ff98sha","action":"禁止发言","reason":"广告机","dateline":"2019-12-28 20:19","username":"小甜馨mms399","groupexpiry":"永不过期"},2571800:{"cid":"505826","uid":"2571800","operatorid":"84901","operator":"pogox","action":"禁止发言","reason":"销号受理","dateline":"2019-12-27 18:59","username":"0xmz","groupexpiry":"永不过期"},2944252:{"cid":"505035","uid":"2944252","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"广告机","dateline":"2019-12-25 20:57","username":"av789456","groupexpiry":"永不过期"},2952460:{"cid":"504334","uid":"2952460","operatorid":"3467","operator":"sjjklh","action":"禁止发言","reason":"","dateline":"2019-12-23 19:15","username":"約咩賴019717","groupexpiry":"永不过期"},2135958:{"cid":"503782","uid":"2135958","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"用户名违规","dateline":"2019-12-22 11:59","username":"大基基女孩","groupexpiry":"永不过期"},2775801:{"cid":"503267","uid":"2775801","operatorid":"3467","operator":"sjjklh","action":"禁止发言","reason":"","dateline":"2019-12-21 20:15","username":"林文清","groupexpiry":"永不过期"},2772781:{"cid":"503022","uid":"2772781","operatorid":"265600","operator":"rom718","action":"禁止发言","reason":"","dateline":"2019-12-21 13:55","username":"lisixiang520","groupexpiry":"永不过期"},2788301:{"cid":"502997","uid":"2788301","operatorid":"265600","operator":"rom718","action":"禁止发言","reason":"","dateline":"2019-12-21 13:52","username":"一社挚爱魔","groupexpiry":"永不过期"},2570253:{"cid":"502578","uid":"2570253","operatorid":"46925","operator":"xukarhei","action":"禁止发言","reason":"水龙头","dateline":"2019-12-20 22:30","username":"MyNameIsSB","groupexpiry":"永不过期"},1506111:{"cid":"502153","uid":"1506111","operatorid":"84901","operator":"pogox","action":"禁止发言","reason":"销号受理","dateline":"2019-12-19 17:25","username":"huoyanbao~~","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "502153" },
+  "data": {
+    2890617: {
+      "cid": "506913",
+      "uid": "2890617",
+      "operatorid": "2444378",
+      "operator": "SPGoding",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-12-29 10:00",
+      "username": "wkscb12",
+      "groupexpiry": "永不过期"
+    },
+    2955599: {
+      "cid": "506419",
+      "uid": "2955599",
+      "operatorid": "1575538",
+      "operator": "ff98sha",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-12-28 20:19",
+      "username": "小甜馨mms399",
+      "groupexpiry": "永不过期"
+    },
+    2571800: {
+      "cid": "505826",
+      "uid": "2571800",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "销号受理",
+      "dateline": "2019-12-27 18:59",
+      "username": "0xmz",
+      "groupexpiry": "永不过期"
+    },
+    2944252: {
+      "cid": "505035",
+      "uid": "2944252",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-12-25 20:57",
+      "username": "av789456",
+      "groupexpiry": "永不过期"
+    },
+    2952460: {
+      "cid": "504334",
+      "uid": "2952460",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-12-23 19:15",
+      "username": "約咩賴019717",
+      "groupexpiry": "永不过期"
+    },
+    2135958: {
+      "cid": "503782",
+      "uid": "2135958",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2019-12-22 11:59",
+      "username": "大基基女孩",
+      "groupexpiry": "永不过期"
+    },
+    2775801: {
+      "cid": "503267",
+      "uid": "2775801",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-12-21 20:15",
+      "username": "林文清",
+      "groupexpiry": "永不过期"
+    },
+    2772781: {
+      "cid": "503022",
+      "uid": "2772781",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-12-21 13:55",
+      "username": "lisixiang520",
+      "groupexpiry": "永不过期"
+    },
+    2788301: {
+      "cid": "502997",
+      "uid": "2788301",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-12-21 13:52",
+      "username": "一社挚爱魔",
+      "groupexpiry": "永不过期"
+    },
+    2570253: {
+      "cid": "502578",
+      "uid": "2570253",
+      "operatorid": "46925",
+      "operator": "xukarhei",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-12-20 22:30",
+      "username": "MyNameIsSB",
+      "groupexpiry": "永不过期"
+    },
+    1506111: {
+      "cid": "502153",
+      "uid": "1506111",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "销号受理",
+      "dateline": "2019-12-19 17:25",
+      "username": "huoyanbao~~",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

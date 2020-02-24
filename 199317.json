@@ -1,1 +1,148 @@
-{"message":{"dataexist":"1","cid":"198150"},"data":{1676541:{"cid":"199316","uid":"1676541","operatorid":"3038","operator":"混乱","action":"禁止访问","reason":"","dateline":"2016-7-4 18:59","username":"JefChen","groupexpiry":"永不过期"},1633591:{"cid":"199293","uid":"1633591","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"水龙头","dateline":"2016-7-4 16:19","username":"linghe","groupexpiry":"永不过期"},1824885:{"cid":"199291","uid":"1824885","operatorid":"5367","operator":"john180","action":"禁止访问","reason":"","dateline":"2016-7-4 16:15","username":"onEnable","groupexpiry":"永不过期"},309407:{"cid":"199276","uid":"309407","operatorid":"92880","operator":"tony990412","action":"禁止发言","reason":"广告机","dateline":"2016-7-4 15:02","username":"daibuhan","groupexpiry":"永不过期"},981418:{"cid":"199212","uid":"981418","operatorid":"258439","operator":"Grandiose","action":"禁止发言","reason":"广告机","dateline":"2016-7-4 10:02","username":"1223101340","groupexpiry":"永不过期"},1457288:{"cid":"198940","uid":"1457288","operatorid":"1073223","operator":"乙烯_中国","action":"禁止发言","reason":"抄袭","dateline":"2016-7-3 00:08","username":"nalai","groupexpiry":"永不过期"},605558:{"cid":"198796","uid":"605558","operatorid":"5367","operator":"john180","action":"禁止访问","reason":"","dateline":"2016-7-2 12:15","username":"qq202862221","groupexpiry":"永不过期"},1811679:{"cid":"198788","uid":"1811679","operatorid":"274490","operator":"SPE__HaiKuo","action":"禁止发言","reason":"Mod后门","dateline":"2016-7-2 08:22","username":"sndvol32","groupexpiry":"永不过期"},429388:{"cid":"198602","uid":"429388","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"大量水回复","dateline":"2016-6-30 12:27","username":"zmdzh","groupexpiry":"永不过期"},786832:{"cid":"198595","uid":"786832","operatorid":"274490","operator":"SPE__HaiKuo","action":"禁止发言","reason":"广告机","dateline":"2016-6-30 11:15","username":"chen1300pc","groupexpiry":"永不过期"},301915:{"cid":"198543","uid":"301915","operatorid":"5367","operator":"john180","action":"禁止访问","reason":"","dateline":"2016-6-29 21:31","username":"hhcghh","groupexpiry":"永不过期"},1748973:{"cid":"198152","uid":"1748973","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"水龙头","dateline":"2016-6-26 17:18","username":"22077678","groupexpiry":"永不过期"},1466882:{"cid":"198151","uid":"1466882","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"水龙头","dateline":"2016-6-26 17:17","username":"172871607896","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "198150" },
+  "data": {
+    1676541: {
+      "cid": "199316",
+      "uid": "1676541",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2016-7-4 18:59",
+      "username": "JefChen",
+      "groupexpiry": "永不过期"
+    },
+    1633591: {
+      "cid": "199293",
+      "uid": "1633591",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-7-4 16:19",
+      "username": "linghe",
+      "groupexpiry": "永不过期"
+    },
+    1824885: {
+      "cid": "199291",
+      "uid": "1824885",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2016-7-4 16:15",
+      "username": "onEnable",
+      "groupexpiry": "永不过期"
+    },
+    309407: {
+      "cid": "199276",
+      "uid": "309407",
+      "operatorid": "92880",
+      "operator": "tony990412",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-7-4 15:02",
+      "username": "daibuhan",
+      "groupexpiry": "永不过期"
+    },
+    981418: {
+      "cid": "199212",
+      "uid": "981418",
+      "operatorid": "258439",
+      "operator": "Grandiose",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-7-4 10:02",
+      "username": "1223101340",
+      "groupexpiry": "永不过期"
+    },
+    1457288: {
+      "cid": "198940",
+      "uid": "1457288",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "抄袭",
+      "dateline": "2016-7-3 00:08",
+      "username": "nalai",
+      "groupexpiry": "永不过期"
+    },
+    605558: {
+      "cid": "198796",
+      "uid": "605558",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2016-7-2 12:15",
+      "username": "qq202862221",
+      "groupexpiry": "永不过期"
+    },
+    1811679: {
+      "cid": "198788",
+      "uid": "1811679",
+      "operatorid": "274490",
+      "operator": "SPE__HaiKuo",
+      "action": "禁止发言",
+      "reason": "Mod后门",
+      "dateline": "2016-7-2 08:22",
+      "username": "sndvol32",
+      "groupexpiry": "永不过期"
+    },
+    429388: {
+      "cid": "198602",
+      "uid": "429388",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "大量水回复",
+      "dateline": "2016-6-30 12:27",
+      "username": "zmdzh",
+      "groupexpiry": "永不过期"
+    },
+    786832: {
+      "cid": "198595",
+      "uid": "786832",
+      "operatorid": "274490",
+      "operator": "SPE__HaiKuo",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-6-30 11:15",
+      "username": "chen1300pc",
+      "groupexpiry": "永不过期"
+    },
+    301915: {
+      "cid": "198543",
+      "uid": "301915",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2016-6-29 21:31",
+      "username": "hhcghh",
+      "groupexpiry": "永不过期"
+    },
+    1748973: {
+      "cid": "198152",
+      "uid": "1748973",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-6-26 17:18",
+      "username": "22077678",
+      "groupexpiry": "永不过期"
+    },
+    1466882: {
+      "cid": "198151",
+      "uid": "1466882",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-6-26 17:17",
+      "username": "172871607896",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

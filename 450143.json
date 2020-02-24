@@ -1,1 +1,247 @@
-{"message":{"dataexist":"1","cid":"448258"},"data":{2668072:{"cid":"450142","uid":"2668072","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"以盈利为目的的大量注册小号","dateline":"2019-8-19 16:19","username":"Frederic_V","groupexpiry":"永不过期"},2668080:{"cid":"450141","uid":"2668080","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"以盈利为目的的大量注册小号","dateline":"2019-8-19 16:19","username":"MMelon","groupexpiry":"永不过期"},2668084:{"cid":"450140","uid":"2668084","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"以盈利为目的的大量注册小号","dateline":"2019-8-19 16:19","username":"Wen_Qing","groupexpiry":"永不过期"},2668090:{"cid":"450139","uid":"2668090","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"以盈利为目的的大量注册小号","dateline":"2019-8-19 16:19","username":"summer_bing","groupexpiry":"永不过期"},2668092:{"cid":"450138","uid":"2668092","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"以盈利为目的的大量注册小号","dateline":"2019-8-19 16:19","username":"MrCrzey","groupexpiry":"永不过期"},2668096:{"cid":"450137","uid":"2668096","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"以盈利为目的的大量注册小号","dateline":"2019-8-19 16:19","username":"LMKing","groupexpiry":"永不过期"},2668101:{"cid":"450136","uid":"2668101","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"以盈利为目的的大量注册小号","dateline":"2019-8-19 16:19","username":"shiying666","groupexpiry":"永不过期"},2668106:{"cid":"450135","uid":"2668106","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"以盈利为目的的大量注册小号","dateline":"2019-8-19 16:19","username":"haoren56","groupexpiry":"永不过期"},2668111:{"cid":"450134","uid":"2668111","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"以盈利为目的的大量注册小号","dateline":"2019-8-19 16:19","username":"2234458844","groupexpiry":"永不过期"},2668114:{"cid":"450133","uid":"2668114","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"以盈利为目的的大量注册小号","dateline":"2019-8-19 16:19","username":"Yoruichi_","groupexpiry":"永不过期"},2668117:{"cid":"450132","uid":"2668117","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"以盈利为目的的大量注册小号","dateline":"2019-8-19 16:18","username":"yanjiang_X","groupexpiry":"永不过期"},2668123:{"cid":"450131","uid":"2668123","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"以盈利为目的的大量注册小号","dateline":"2019-8-19 16:18","username":"TheRedDevils","groupexpiry":"永不过期"},2853154:{"cid":"449906","uid":"2853154","operatorid":"679293","operator":"FHC红石","action":"禁止发言","reason":"广告机","dateline":"2019-8-18 19:14","username":"jxl07070","groupexpiry":"永不过期"},2850669:{"cid":"449749","uid":"2850669","operatorid":"1793501","operator":"没糖的葫芦","action":"禁止发言","reason":"水龙头","dateline":"2019-8-18 15:16","username":"Thomas2019","groupexpiry":"永不过期"},159667:{"cid":"448539","uid":"159667","operatorid":"2067786","operator":"Sakura_End","action":"禁止发言","reason":"失信人员换号发帖","dateline":"2019-8-16 20:37","username":"qq1826222101","groupexpiry":"永不过期"},2357672:{"cid":"448414","uid":"2357672","operatorid":"240460","operator":"xu11xx","action":"禁止发言","reason":"水龙头","dateline":"2019-8-16 15:35","username":"徐晓旭","groupexpiry":"永不过期"},2840947:{"cid":"448409","uid":"2840947","operatorid":"240460","operator":"xu11xx","action":"禁止发言","reason":"水龙头","dateline":"2019-8-16 15:34","username":"JackF007","groupexpiry":"永不过期"},2827321:{"cid":"448407","uid":"2827321","operatorid":"240460","operator":"xu11xx","action":"禁止发言","reason":"水龙头","dateline":"2019-8-16 15:34","username":"xingxiumo","groupexpiry":"永不过期"},1585821:{"cid":"448406","uid":"1585821","operatorid":"240460","operator":"xu11xx","action":"禁止发言","reason":"水龙头","dateline":"2019-8-16 15:33","username":"可9是","groupexpiry":"永不过期"},2781243:{"cid":"448405","uid":"2781243","operatorid":"240460","operator":"xu11xx","action":"禁止发言","reason":"水龙头","dateline":"2019-8-16 15:33","username":"睡觉大","groupexpiry":"永不过期"},2837554:{"cid":"448401","uid":"2837554","operatorid":"240460","operator":"xu11xx","action":"禁止发言","reason":"水龙头","dateline":"2019-8-16 15:29","username":"端木之夏","groupexpiry":"永不过期"},2849344:{"cid":"448258","uid":"2849344","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"广告机","dateline":"2019-8-16 13:00","username":"約炮賴kk2384","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "448258" },
+  "data": {
+    2668072: {
+      "cid": "450142",
+      "uid": "2668072",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "以盈利为目的的大量注册小号",
+      "dateline": "2019-8-19 16:19",
+      "username": "Frederic_V",
+      "groupexpiry": "永不过期"
+    },
+    2668080: {
+      "cid": "450141",
+      "uid": "2668080",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "以盈利为目的的大量注册小号",
+      "dateline": "2019-8-19 16:19",
+      "username": "MMelon",
+      "groupexpiry": "永不过期"
+    },
+    2668084: {
+      "cid": "450140",
+      "uid": "2668084",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "以盈利为目的的大量注册小号",
+      "dateline": "2019-8-19 16:19",
+      "username": "Wen_Qing",
+      "groupexpiry": "永不过期"
+    },
+    2668090: {
+      "cid": "450139",
+      "uid": "2668090",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "以盈利为目的的大量注册小号",
+      "dateline": "2019-8-19 16:19",
+      "username": "summer_bing",
+      "groupexpiry": "永不过期"
+    },
+    2668092: {
+      "cid": "450138",
+      "uid": "2668092",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "以盈利为目的的大量注册小号",
+      "dateline": "2019-8-19 16:19",
+      "username": "MrCrzey",
+      "groupexpiry": "永不过期"
+    },
+    2668096: {
+      "cid": "450137",
+      "uid": "2668096",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "以盈利为目的的大量注册小号",
+      "dateline": "2019-8-19 16:19",
+      "username": "LMKing",
+      "groupexpiry": "永不过期"
+    },
+    2668101: {
+      "cid": "450136",
+      "uid": "2668101",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "以盈利为目的的大量注册小号",
+      "dateline": "2019-8-19 16:19",
+      "username": "shiying666",
+      "groupexpiry": "永不过期"
+    },
+    2668106: {
+      "cid": "450135",
+      "uid": "2668106",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "以盈利为目的的大量注册小号",
+      "dateline": "2019-8-19 16:19",
+      "username": "haoren56",
+      "groupexpiry": "永不过期"
+    },
+    2668111: {
+      "cid": "450134",
+      "uid": "2668111",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "以盈利为目的的大量注册小号",
+      "dateline": "2019-8-19 16:19",
+      "username": "2234458844",
+      "groupexpiry": "永不过期"
+    },
+    2668114: {
+      "cid": "450133",
+      "uid": "2668114",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "以盈利为目的的大量注册小号",
+      "dateline": "2019-8-19 16:19",
+      "username": "Yoruichi_",
+      "groupexpiry": "永不过期"
+    },
+    2668117: {
+      "cid": "450132",
+      "uid": "2668117",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "以盈利为目的的大量注册小号",
+      "dateline": "2019-8-19 16:18",
+      "username": "yanjiang_X",
+      "groupexpiry": "永不过期"
+    },
+    2668123: {
+      "cid": "450131",
+      "uid": "2668123",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "以盈利为目的的大量注册小号",
+      "dateline": "2019-8-19 16:18",
+      "username": "TheRedDevils",
+      "groupexpiry": "永不过期"
+    },
+    2853154: {
+      "cid": "449906",
+      "uid": "2853154",
+      "operatorid": "679293",
+      "operator": "FHC红石",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-8-18 19:14",
+      "username": "jxl07070",
+      "groupexpiry": "永不过期"
+    },
+    2850669: {
+      "cid": "449749",
+      "uid": "2850669",
+      "operatorid": "1793501",
+      "operator": "没糖的葫芦",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-8-18 15:16",
+      "username": "Thomas2019",
+      "groupexpiry": "永不过期"
+    },
+    159667: {
+      "cid": "448539",
+      "uid": "159667",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "失信人员换号发帖",
+      "dateline": "2019-8-16 20:37",
+      "username": "qq1826222101",
+      "groupexpiry": "永不过期"
+    },
+    2357672: {
+      "cid": "448414",
+      "uid": "2357672",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-8-16 15:35",
+      "username": "徐晓旭",
+      "groupexpiry": "永不过期"
+    },
+    2840947: {
+      "cid": "448409",
+      "uid": "2840947",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-8-16 15:34",
+      "username": "JackF007",
+      "groupexpiry": "永不过期"
+    },
+    2827321: {
+      "cid": "448407",
+      "uid": "2827321",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-8-16 15:34",
+      "username": "xingxiumo",
+      "groupexpiry": "永不过期"
+    },
+    1585821: {
+      "cid": "448406",
+      "uid": "1585821",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-8-16 15:33",
+      "username": "可9是",
+      "groupexpiry": "永不过期"
+    },
+    2781243: {
+      "cid": "448405",
+      "uid": "2781243",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-8-16 15:33",
+      "username": "睡觉大",
+      "groupexpiry": "永不过期"
+    },
+    2837554: {
+      "cid": "448401",
+      "uid": "2837554",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-8-16 15:29",
+      "username": "端木之夏",
+      "groupexpiry": "永不过期"
+    },
+    2849344: {
+      "cid": "448258",
+      "uid": "2849344",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-8-16 13:00",
+      "username": "約炮賴kk2384",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

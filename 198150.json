@@ -1,1 +1,148 @@
-{"message":{"dataexist":"1","cid":"196358"},"data":{1320927:{"cid":"198020","uid":"1320927","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"广告机","dateline":"2016-6-25 22:04","username":"2514169771zrm","groupexpiry":"永不过期"},1815817:{"cid":"197765","uid":"1815817","operatorid":"84901","operator":"pogox","action":"禁止发言","reason":"商业广告，永封不解","dateline":"2016-6-24 18:49","username":"xiaofengwa1000","groupexpiry":"永不过期"},1484930:{"cid":"197735","uid":"1484930","operatorid":"92880","operator":"tony990412","action":"禁止发言","reason":"坛规 2-4-L 专用广告账号（广告机） 第三次发送相同类型广告，引导至与本论坛定义一样的广告站","dateline":"2016-6-24 14:56","username":"1044639484","groupexpiry":"永不过期"},1280879:{"cid":"197677","uid":"1280879","operatorid":"77891","operator":"SkyCatcher","action":"禁止发言","reason":"灌水+发广告","dateline":"2016-6-23 23:02","username":"15547744","groupexpiry":"永不过期"},1673337:{"cid":"197528","uid":"1673337","operatorid":"1234187","operator":"Yy星人","action":"禁止发言","reason":"版规24R","dateline":"2016-6-22 15:07","username":"郑氏集团","groupexpiry":"永不过期"},351756:{"cid":"197518","uid":"351756","operatorid":"143042","operator":"sdszwilliam","action":"禁止发言","reason":"大量剽窃","dateline":"2016-6-22 09:57","username":"joe0827joe","groupexpiry":"永不过期"},1049104:{"cid":"197377","uid":"1049104","operatorid":"5367","operator":"john180","action":"禁止访问","reason":"","dateline":"2016-6-20 15:18","username":"SB~129","groupexpiry":"永不过期"},1810116:{"cid":"197287","uid":"1810116","operatorid":"61635","operator":"jianghr","action":"禁止发言","reason":"广告机","dateline":"2016-6-19 17:49","username":"cnm526","groupexpiry":"永不过期"},1810521:{"cid":"197231","uid":"1810521","operatorid":"5367","operator":"john180","action":"禁止访问","reason":"","dateline":"2016-6-19 13:49","username":"臭不要脸","groupexpiry":"永不过期"},1798487:{"cid":"196738","uid":"1798487","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2016-6-17 11:48","username":"sb_wo","groupexpiry":"永不过期"},1145133:{"cid":"196737","uid":"1145133","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2016-6-17 11:48","username":"PaiGu_jun","groupexpiry":"永不过期"},1451786:{"cid":"196457","uid":"1451786","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"水贴","dateline":"2016-6-13 21:51","username":"1464547728","groupexpiry":"永不过期"},1249273:{"cid":"196367","uid":"1249273","operatorid":"3467","operator":"sjjklh","action":"禁止访问","reason":"","dateline":"2016-6-12 20:37","username":"njs02","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "196358" },
+  "data": {
+    1320927: {
+      "cid": "198020",
+      "uid": "1320927",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-6-25 22:04",
+      "username": "2514169771zrm",
+      "groupexpiry": "永不过期"
+    },
+    1815817: {
+      "cid": "197765",
+      "uid": "1815817",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "商业广告，永封不解",
+      "dateline": "2016-6-24 18:49",
+      "username": "xiaofengwa1000",
+      "groupexpiry": "永不过期"
+    },
+    1484930: {
+      "cid": "197735",
+      "uid": "1484930",
+      "operatorid": "92880",
+      "operator": "tony990412",
+      "action": "禁止发言",
+      "reason": "坛规 2-4-L 专用广告账号（广告机） 第三次发送相同类型广告，引导至与本论坛定义一样的广告站",
+      "dateline": "2016-6-24 14:56",
+      "username": "1044639484",
+      "groupexpiry": "永不过期"
+    },
+    1280879: {
+      "cid": "197677",
+      "uid": "1280879",
+      "operatorid": "77891",
+      "operator": "SkyCatcher",
+      "action": "禁止发言",
+      "reason": "灌水+发广告",
+      "dateline": "2016-6-23 23:02",
+      "username": "15547744",
+      "groupexpiry": "永不过期"
+    },
+    1673337: {
+      "cid": "197528",
+      "uid": "1673337",
+      "operatorid": "1234187",
+      "operator": "Yy星人",
+      "action": "禁止发言",
+      "reason": "版规24R",
+      "dateline": "2016-6-22 15:07",
+      "username": "郑氏集团",
+      "groupexpiry": "永不过期"
+    },
+    351756: {
+      "cid": "197518",
+      "uid": "351756",
+      "operatorid": "143042",
+      "operator": "sdszwilliam",
+      "action": "禁止发言",
+      "reason": "大量剽窃",
+      "dateline": "2016-6-22 09:57",
+      "username": "joe0827joe",
+      "groupexpiry": "永不过期"
+    },
+    1049104: {
+      "cid": "197377",
+      "uid": "1049104",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2016-6-20 15:18",
+      "username": "SB~129",
+      "groupexpiry": "永不过期"
+    },
+    1810116: {
+      "cid": "197287",
+      "uid": "1810116",
+      "operatorid": "61635",
+      "operator": "jianghr",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-6-19 17:49",
+      "username": "cnm526",
+      "groupexpiry": "永不过期"
+    },
+    1810521: {
+      "cid": "197231",
+      "uid": "1810521",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2016-6-19 13:49",
+      "username": "臭不要脸",
+      "groupexpiry": "永不过期"
+    },
+    1798487: {
+      "cid": "196738",
+      "uid": "1798487",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2016-6-17 11:48",
+      "username": "sb_wo",
+      "groupexpiry": "永不过期"
+    },
+    1145133: {
+      "cid": "196737",
+      "uid": "1145133",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2016-6-17 11:48",
+      "username": "PaiGu_jun",
+      "groupexpiry": "永不过期"
+    },
+    1451786: {
+      "cid": "196457",
+      "uid": "1451786",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水贴",
+      "dateline": "2016-6-13 21:51",
+      "username": "1464547728",
+      "groupexpiry": "永不过期"
+    },
+    1249273: {
+      "cid": "196367",
+      "uid": "1249273",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2016-6-12 20:37",
+      "username": "njs02",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

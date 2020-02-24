@@ -1,1 +1,126 @@
-{"message":{"dataexist":"1","cid":"255998"},"data":{254778:{"cid":"256413","uid":"254778","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2017-6-25 16:12","username":"2283409085","groupexpiry":"永不过期"},2218023:{"cid":"256412","uid":"2218023","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2017-6-25 16:12","username":"7XYD","groupexpiry":"永不过期"},2052140:{"cid":"256310","uid":"2052140","operatorid":"3467","operator":"sjjklh","action":"禁止发言","reason":"","dateline":"2017-6-24 09:47","username":"十分建站","groupexpiry":"永不过期"},2222155:{"cid":"256288","uid":"2222155","operatorid":"3038","operator":"混乱","action":"禁止访问","reason":"","dateline":"2017-6-23 21:19","username":"EG丶雨天","groupexpiry":"永不过期"},2217341:{"cid":"256278","uid":"2217341","operatorid":"1793599","operator":"DGK2","action":"禁止发言","reason":"水龙头","dateline":"2017-6-23 18:23","username":"2899086319","groupexpiry":"永不过期"},816382:{"cid":"256223","uid":"816382","operatorid":"264829","operator":"a390807154","action":"禁止发言","reason":"http://www.mcbbs.net/forum.php?mod=viewthread&amp;tid=699729","dateline":"2017-6-22 10:45","username":"吕乐乐","groupexpiry":"永不过期"},249975:{"cid":"256123","uid":"249975","operatorid":"240366","operator":"西红柿片","action":"禁止发言","reason":"水龙头","dateline":"2017-6-21 13:52","username":"1154302920","groupexpiry":"永不过期"},909933:{"cid":"256035","uid":"909933","operatorid":"5367","operator":"john180","action":"禁止访问","reason":"","dateline":"2017-6-20 14:23","username":"w1005714912","groupexpiry":"永不过期"},1339543:{"cid":"256005","uid":"1339543","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2017-6-19 14:57","username":"我不二耶","groupexpiry":"永不过期"},1887872:{"cid":"256000","uid":"1887872","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2017-6-19 14:54","username":"Zero2436329189","groupexpiry":"永不过期"},159364:{"cid":"255998","uid":"159364","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2017-6-19 14:54","username":"bzq0207","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "255998" },
+  "data": {
+    254778: {
+      "cid": "256413",
+      "uid": "254778",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-6-25 16:12",
+      "username": "2283409085",
+      "groupexpiry": "永不过期"
+    },
+    2218023: {
+      "cid": "256412",
+      "uid": "2218023",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-6-25 16:12",
+      "username": "7XYD",
+      "groupexpiry": "永不过期"
+    },
+    2052140: {
+      "cid": "256310",
+      "uid": "2052140",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-6-24 09:47",
+      "username": "十分建站",
+      "groupexpiry": "永不过期"
+    },
+    2222155: {
+      "cid": "256288",
+      "uid": "2222155",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2017-6-23 21:19",
+      "username": "EG丶雨天",
+      "groupexpiry": "永不过期"
+    },
+    2217341: {
+      "cid": "256278",
+      "uid": "2217341",
+      "operatorid": "1793599",
+      "operator": "DGK2",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-6-23 18:23",
+      "username": "2899086319",
+      "groupexpiry": "永不过期"
+    },
+    816382: {
+      "cid": "256223",
+      "uid": "816382",
+      "operatorid": "264829",
+      "operator": "a390807154",
+      "action": "禁止发言",
+      "reason": "http://www.mcbbs.net/forum.php?mod=viewthread&amp;tid=699729",
+      "dateline": "2017-6-22 10:45",
+      "username": "吕乐乐",
+      "groupexpiry": "永不过期"
+    },
+    249975: {
+      "cid": "256123",
+      "uid": "249975",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-6-21 13:52",
+      "username": "1154302920",
+      "groupexpiry": "永不过期"
+    },
+    909933: {
+      "cid": "256035",
+      "uid": "909933",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2017-6-20 14:23",
+      "username": "w1005714912",
+      "groupexpiry": "永不过期"
+    },
+    1339543: {
+      "cid": "256005",
+      "uid": "1339543",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-6-19 14:57",
+      "username": "我不二耶",
+      "groupexpiry": "永不过期"
+    },
+    1887872: {
+      "cid": "256000",
+      "uid": "1887872",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-6-19 14:54",
+      "username": "Zero2436329189",
+      "groupexpiry": "永不过期"
+    },
+    159364: {
+      "cid": "255998",
+      "uid": "159364",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-6-19 14:54",
+      "username": "bzq0207",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

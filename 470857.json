@@ -1,1 +1,269 @@
-{"message":{"dataexist":"1","cid":"470765"},"data":{2863349:{"cid":"470856","uid":"2863349","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"机械帐号","dateline":"2019-9-29 20:45","username":"猫贪余3","groupexpiry":"永不过期"},2863351:{"cid":"470855","uid":"2863351","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"机械帐号","dateline":"2019-9-29 20:45","username":"咕噜萌3","groupexpiry":"永不过期"},2863354:{"cid":"470854","uid":"2863354","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"机械帐号","dateline":"2019-9-29 20:45","username":"袜子45","groupexpiry":"永不过期"},2863367:{"cid":"470853","uid":"2863367","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"机械帐号","dateline":"2019-9-29 20:45","username":"几味少32","groupexpiry":"永不过期"},2865886:{"cid":"470847","uid":"2865886","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"机器帐号","dateline":"2019-9-29 19:33","username":"BellaEmmie","groupexpiry":"永不过期"},2865879:{"cid":"470846","uid":"2865879","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"机器帐号","dateline":"2019-9-29 19:33","username":"MattPhilip","groupexpiry":"永不过期"},2865871:{"cid":"470845","uid":"2865871","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"机器帐号","dateline":"2019-9-29 19:33","username":"NewmanThorndike","groupexpiry":"永不过期"},2865864:{"cid":"470844","uid":"2865864","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"机器帐号","dateline":"2019-9-29 19:33","username":"FrancesFanny","groupexpiry":"永不过期"},2865908:{"cid":"470843","uid":"2865908","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"机器帐号","dateline":"2019-9-29 19:33","username":"VeronicaEvelina","groupexpiry":"永不过期"},2865917:{"cid":"470842","uid":"2865917","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"机器帐号","dateline":"2019-9-29 19:33","username":"WilburBess","groupexpiry":"永不过期"},2865938:{"cid":"470841","uid":"2865938","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"机器帐号","dateline":"2019-9-29 19:33","username":"ElsieToland","groupexpiry":"永不过期"},2865967:{"cid":"470840","uid":"2865967","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"机器帐号","dateline":"2019-9-29 19:33","username":"WilliePeter","groupexpiry":"永不过期"},2865891:{"cid":"470839","uid":"2865891","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"机器帐号","dateline":"2019-9-29 19:28","username":"BergReade","groupexpiry":"永不过期"},2865882:{"cid":"470838","uid":"2865882","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"机器帐号","dateline":"2019-9-29 19:28","username":"PennyBernard","groupexpiry":"永不过期"},2865873:{"cid":"470837","uid":"2865873","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"机器帐号","dateline":"2019-9-29 19:28","username":"OwenDuBois","groupexpiry":"永不过期"},2865867:{"cid":"470836","uid":"2865867","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"机器帐号","dateline":"2019-9-29 19:27","username":"AlvinRob","groupexpiry":"永不过期"},2865909:{"cid":"470835","uid":"2865909","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"机器帐号","dateline":"2019-9-29 19:27","username":"TobyIsaac","groupexpiry":"永不过期"},2865920:{"cid":"470834","uid":"2865920","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"机器帐号","dateline":"2019-9-29 19:27","username":"XanthePritt","groupexpiry":"永不过期"},2865940:{"cid":"470833","uid":"2865940","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"机器帐号","dateline":"2019-9-29 19:27","username":"KatherineBowm","groupexpiry":"永不过期"},2865962:{"cid":"470832","uid":"2865962","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"机器帐号","dateline":"2019-9-29 19:27","username":"DukeBrooke","groupexpiry":"永不过期"},2865979:{"cid":"470831","uid":"2865979","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"机器帐号","dateline":"2019-9-29 19:27","username":"EnochHamlet","groupexpiry":"永不过期"},2888716:{"cid":"470796","uid":"2888716","operatorid":"2444378","operator":"SPGoding","action":"禁止发言","reason":"广告机","dateline":"2019-9-29 12:24","username":"wedcvf","groupexpiry":"永不过期"},2869868:{"cid":"470775","uid":"2869868","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"","dateline":"2019-9-29 01:45","username":"陈急我","groupexpiry":"永不过期"},2888538:{"cid":"470765","uid":"2888538","operatorid":"2006215","operator":"skyliye","action":"禁止发言","reason":"广告机","dateline":"2019-9-29 00:49","username":"昆非的","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "470765" },
+  "data": {
+    2863349: {
+      "cid": "470856",
+      "uid": "2863349",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机械帐号",
+      "dateline": "2019-9-29 20:45",
+      "username": "猫贪余3",
+      "groupexpiry": "永不过期"
+    },
+    2863351: {
+      "cid": "470855",
+      "uid": "2863351",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机械帐号",
+      "dateline": "2019-9-29 20:45",
+      "username": "咕噜萌3",
+      "groupexpiry": "永不过期"
+    },
+    2863354: {
+      "cid": "470854",
+      "uid": "2863354",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机械帐号",
+      "dateline": "2019-9-29 20:45",
+      "username": "袜子45",
+      "groupexpiry": "永不过期"
+    },
+    2863367: {
+      "cid": "470853",
+      "uid": "2863367",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机械帐号",
+      "dateline": "2019-9-29 20:45",
+      "username": "几味少32",
+      "groupexpiry": "永不过期"
+    },
+    2865886: {
+      "cid": "470847",
+      "uid": "2865886",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-9-29 19:33",
+      "username": "BellaEmmie",
+      "groupexpiry": "永不过期"
+    },
+    2865879: {
+      "cid": "470846",
+      "uid": "2865879",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-9-29 19:33",
+      "username": "MattPhilip",
+      "groupexpiry": "永不过期"
+    },
+    2865871: {
+      "cid": "470845",
+      "uid": "2865871",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-9-29 19:33",
+      "username": "NewmanThorndike",
+      "groupexpiry": "永不过期"
+    },
+    2865864: {
+      "cid": "470844",
+      "uid": "2865864",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-9-29 19:33",
+      "username": "FrancesFanny",
+      "groupexpiry": "永不过期"
+    },
+    2865908: {
+      "cid": "470843",
+      "uid": "2865908",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-9-29 19:33",
+      "username": "VeronicaEvelina",
+      "groupexpiry": "永不过期"
+    },
+    2865917: {
+      "cid": "470842",
+      "uid": "2865917",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-9-29 19:33",
+      "username": "WilburBess",
+      "groupexpiry": "永不过期"
+    },
+    2865938: {
+      "cid": "470841",
+      "uid": "2865938",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-9-29 19:33",
+      "username": "ElsieToland",
+      "groupexpiry": "永不过期"
+    },
+    2865967: {
+      "cid": "470840",
+      "uid": "2865967",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-9-29 19:33",
+      "username": "WilliePeter",
+      "groupexpiry": "永不过期"
+    },
+    2865891: {
+      "cid": "470839",
+      "uid": "2865891",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-9-29 19:28",
+      "username": "BergReade",
+      "groupexpiry": "永不过期"
+    },
+    2865882: {
+      "cid": "470838",
+      "uid": "2865882",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-9-29 19:28",
+      "username": "PennyBernard",
+      "groupexpiry": "永不过期"
+    },
+    2865873: {
+      "cid": "470837",
+      "uid": "2865873",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-9-29 19:28",
+      "username": "OwenDuBois",
+      "groupexpiry": "永不过期"
+    },
+    2865867: {
+      "cid": "470836",
+      "uid": "2865867",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-9-29 19:27",
+      "username": "AlvinRob",
+      "groupexpiry": "永不过期"
+    },
+    2865909: {
+      "cid": "470835",
+      "uid": "2865909",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-9-29 19:27",
+      "username": "TobyIsaac",
+      "groupexpiry": "永不过期"
+    },
+    2865920: {
+      "cid": "470834",
+      "uid": "2865920",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-9-29 19:27",
+      "username": "XanthePritt",
+      "groupexpiry": "永不过期"
+    },
+    2865940: {
+      "cid": "470833",
+      "uid": "2865940",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-9-29 19:27",
+      "username": "KatherineBowm",
+      "groupexpiry": "永不过期"
+    },
+    2865962: {
+      "cid": "470832",
+      "uid": "2865962",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-9-29 19:27",
+      "username": "DukeBrooke",
+      "groupexpiry": "永不过期"
+    },
+    2865979: {
+      "cid": "470831",
+      "uid": "2865979",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-9-29 19:27",
+      "username": "EnochHamlet",
+      "groupexpiry": "永不过期"
+    },
+    2888716: {
+      "cid": "470796",
+      "uid": "2888716",
+      "operatorid": "2444378",
+      "operator": "SPGoding",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-9-29 12:24",
+      "username": "wedcvf",
+      "groupexpiry": "永不过期"
+    },
+    2869868: {
+      "cid": "470775",
+      "uid": "2869868",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-9-29 01:45",
+      "username": "陈急我",
+      "groupexpiry": "永不过期"
+    },
+    2888538: {
+      "cid": "470765",
+      "uid": "2888538",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-9-29 00:49",
+      "username": "昆非的",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

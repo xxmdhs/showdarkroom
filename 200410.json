@@ -1,1 +1,93 @@
-{"message":{"dataexist":"1","cid":"199317"},"data":{121864:{"cid":"200408","uid":"121864","operatorid":"188925","operator":"卅个屮","action":"禁止发言","reason":"坛规R","dateline":"2016-7-10 17:45","username":"1219650440","groupexpiry":"永不过期"},1084714:{"cid":"200225","uid":"1084714","operatorid":"92880","operator":"tony990412","action":"禁止发言","reason":"广告机","dateline":"2016-7-9 20:09","username":"1922928054","groupexpiry":"永不过期"},1189435:{"cid":"200222","uid":"1189435","operatorid":"5367","operator":"john180","action":"禁止访问","reason":"","dateline":"2016-7-9 19:22","username":"334024","groupexpiry":"永不过期"},519176:{"cid":"200036","uid":"519176","operatorid":"77891","operator":"SkyCatcher","action":"禁止发言","reason":"广告","dateline":"2016-7-8 20:56","username":"1048602538","groupexpiry":"永不过期"},1803753:{"cid":"199860","uid":"1803753","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"水楼大量灌水","dateline":"2016-7-7 20:52","username":"yaojiajie","groupexpiry":"永不过期"},1817910:{"cid":"199829","uid":"1817910","operatorid":"92880","operator":"tony990412","action":"禁止发言","reason":"引导到与本站相同定义的网站，广告机","dateline":"2016-7-7 19:36","username":"hu1044639484","groupexpiry":"永不过期"},1826953:{"cid":"199416","uid":"1826953","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"辱骂版主","dateline":"2016-7-5 16:02","username":"lichi=sb","groupexpiry":"永不过期"},599451:{"cid":"199317","uid":"599451","operatorid":"3038","operator":"混乱","action":"禁止访问","reason":"欺诈","dateline":"2016-7-4 19:00","username":"MC丶歪歪","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "199317" },
+  "data": {
+    121864: {
+      "cid": "200408",
+      "uid": "121864",
+      "operatorid": "188925",
+      "operator": "卅个屮",
+      "action": "禁止发言",
+      "reason": "坛规R",
+      "dateline": "2016-7-10 17:45",
+      "username": "1219650440",
+      "groupexpiry": "永不过期"
+    },
+    1084714: {
+      "cid": "200225",
+      "uid": "1084714",
+      "operatorid": "92880",
+      "operator": "tony990412",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-7-9 20:09",
+      "username": "1922928054",
+      "groupexpiry": "永不过期"
+    },
+    1189435: {
+      "cid": "200222",
+      "uid": "1189435",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2016-7-9 19:22",
+      "username": "334024",
+      "groupexpiry": "永不过期"
+    },
+    519176: {
+      "cid": "200036",
+      "uid": "519176",
+      "operatorid": "77891",
+      "operator": "SkyCatcher",
+      "action": "禁止发言",
+      "reason": "广告",
+      "dateline": "2016-7-8 20:56",
+      "username": "1048602538",
+      "groupexpiry": "永不过期"
+    },
+    1803753: {
+      "cid": "199860",
+      "uid": "1803753",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水楼大量灌水",
+      "dateline": "2016-7-7 20:52",
+      "username": "yaojiajie",
+      "groupexpiry": "永不过期"
+    },
+    1817910: {
+      "cid": "199829",
+      "uid": "1817910",
+      "operatorid": "92880",
+      "operator": "tony990412",
+      "action": "禁止发言",
+      "reason": "引导到与本站相同定义的网站，广告机",
+      "dateline": "2016-7-7 19:36",
+      "username": "hu1044639484",
+      "groupexpiry": "永不过期"
+    },
+    1826953: {
+      "cid": "199416",
+      "uid": "1826953",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "辱骂版主",
+      "dateline": "2016-7-5 16:02",
+      "username": "lichi=sb",
+      "groupexpiry": "永不过期"
+    },
+    599451: {
+      "cid": "199317",
+      "uid": "599451",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止访问",
+      "reason": "欺诈",
+      "dateline": "2016-7-4 19:00",
+      "username": "MC丶歪歪",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

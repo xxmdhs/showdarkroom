@@ -1,1 +1,280 @@
-{"message":{"dataexist":"1","cid":"451075"},"data":{2717159:{"cid":"451667","uid":"2717159","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"机械帐号","dateline":"2019-8-21 16:35","username":"umrk0933715","groupexpiry":"永不过期"},2717257:{"cid":"451666","uid":"2717257","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"机械帐号","dateline":"2019-8-21 16:35","username":"wdb224556","groupexpiry":"永不过期"},2717330:{"cid":"451665","uid":"2717330","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"机械帐号","dateline":"2019-8-21 16:35","username":"deo79125","groupexpiry":"永不过期"},2717438:{"cid":"451664","uid":"2717438","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"机械帐号","dateline":"2019-8-21 16:34","username":"efw6897800","groupexpiry":"永不过期"},2717483:{"cid":"451663","uid":"2717483","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"机械帐号","dateline":"2019-8-21 16:34","username":"cudf87727","groupexpiry":"永不过期"},2717517:{"cid":"451662","uid":"2717517","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"机械帐号","dateline":"2019-8-21 16:34","username":"jgpjq27913","groupexpiry":"永不过期"},2717538:{"cid":"451661","uid":"2717538","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"机械帐号","dateline":"2019-8-21 16:34","username":"gwiyuk6263501","groupexpiry":"永不过期"},2717559:{"cid":"451660","uid":"2717559","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"机械帐号","dateline":"2019-8-21 16:34","username":"copm11495","groupexpiry":"永不过期"},2713287:{"cid":"451659","uid":"2713287","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"机械帐号","dateline":"2019-8-21 16:34","username":"dpqu844463","groupexpiry":"永不过期"},2713308:{"cid":"451658","uid":"2713308","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"机械帐号","dateline":"2019-8-21 16:34","username":"hkn5408010","groupexpiry":"永不过期"},2713295:{"cid":"451657","uid":"2713295","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"机械帐号","dateline":"2019-8-21 16:34","username":"uezdh0088306","groupexpiry":"永不过期"},2713282:{"cid":"451656","uid":"2713282","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"机械帐号","dateline":"2019-8-21 16:34","username":"zflahe039104","groupexpiry":"永不过期"},2221607:{"cid":"451620","uid":"2221607","operatorid":"281332","operator":"小星啊啊啊","action":"禁止发言","reason":"水龙头","dateline":"2019-8-21 14:52","username":"yanyan36","groupexpiry":"永不过期"},2296706:{"cid":"451128","uid":"2296706","operatorid":"240460","operator":"xu11xx","action":"禁止发言","reason":"机器号，刷分","dateline":"2019-8-20 18:28","username":"yzhyzh520","groupexpiry":"永不过期"},2712639:{"cid":"451085","uid":"2712639","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"机器帐号","dateline":"2019-8-20 15:25","username":"ixd49373","groupexpiry":"永不过期"},2712644:{"cid":"451084","uid":"2712644","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"机器帐号","dateline":"2019-8-20 15:25","username":"alaap261634","groupexpiry":"永不过期"},2712647:{"cid":"451083","uid":"2712647","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"机器帐号","dateline":"2019-8-20 15:25","username":"zdjl17351","groupexpiry":"永不过期"},2712648:{"cid":"451082","uid":"2712648","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"机器帐号","dateline":"2019-8-20 15:25","username":"bxhvxf7759119","groupexpiry":"永不过期"},2712649:{"cid":"451081","uid":"2712649","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"机器帐号","dateline":"2019-8-20 15:25","username":"ssdlh5443955","groupexpiry":"永不过期"},2712650:{"cid":"451080","uid":"2712650","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"机器帐号","dateline":"2019-8-20 15:25","username":"qguim046608","groupexpiry":"永不过期"},2712653:{"cid":"451079","uid":"2712653","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"机器帐号","dateline":"2019-8-20 15:25","username":"rjbb33591","groupexpiry":"永不过期"},2712655:{"cid":"451078","uid":"2712655","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"机器帐号","dateline":"2019-8-20 15:25","username":"vgowvu0451737","groupexpiry":"永不过期"},2712657:{"cid":"451077","uid":"2712657","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"机器帐号","dateline":"2019-8-20 15:25","username":"nhxn1739975","groupexpiry":"永不过期"},2712664:{"cid":"451076","uid":"2712664","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"机器帐号","dateline":"2019-8-20 15:24","username":"wwtt077558","groupexpiry":"永不过期"},2712663:{"cid":"451075","uid":"2712663","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"机器帐号","dateline":"2019-8-20 15:24","username":"bphp11353","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "451075" },
+  "data": {
+    2717159: {
+      "cid": "451667",
+      "uid": "2717159",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "机械帐号",
+      "dateline": "2019-8-21 16:35",
+      "username": "umrk0933715",
+      "groupexpiry": "永不过期"
+    },
+    2717257: {
+      "cid": "451666",
+      "uid": "2717257",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "机械帐号",
+      "dateline": "2019-8-21 16:35",
+      "username": "wdb224556",
+      "groupexpiry": "永不过期"
+    },
+    2717330: {
+      "cid": "451665",
+      "uid": "2717330",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "机械帐号",
+      "dateline": "2019-8-21 16:35",
+      "username": "deo79125",
+      "groupexpiry": "永不过期"
+    },
+    2717438: {
+      "cid": "451664",
+      "uid": "2717438",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "机械帐号",
+      "dateline": "2019-8-21 16:34",
+      "username": "efw6897800",
+      "groupexpiry": "永不过期"
+    },
+    2717483: {
+      "cid": "451663",
+      "uid": "2717483",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "机械帐号",
+      "dateline": "2019-8-21 16:34",
+      "username": "cudf87727",
+      "groupexpiry": "永不过期"
+    },
+    2717517: {
+      "cid": "451662",
+      "uid": "2717517",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "机械帐号",
+      "dateline": "2019-8-21 16:34",
+      "username": "jgpjq27913",
+      "groupexpiry": "永不过期"
+    },
+    2717538: {
+      "cid": "451661",
+      "uid": "2717538",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "机械帐号",
+      "dateline": "2019-8-21 16:34",
+      "username": "gwiyuk6263501",
+      "groupexpiry": "永不过期"
+    },
+    2717559: {
+      "cid": "451660",
+      "uid": "2717559",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "机械帐号",
+      "dateline": "2019-8-21 16:34",
+      "username": "copm11495",
+      "groupexpiry": "永不过期"
+    },
+    2713287: {
+      "cid": "451659",
+      "uid": "2713287",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "机械帐号",
+      "dateline": "2019-8-21 16:34",
+      "username": "dpqu844463",
+      "groupexpiry": "永不过期"
+    },
+    2713308: {
+      "cid": "451658",
+      "uid": "2713308",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "机械帐号",
+      "dateline": "2019-8-21 16:34",
+      "username": "hkn5408010",
+      "groupexpiry": "永不过期"
+    },
+    2713295: {
+      "cid": "451657",
+      "uid": "2713295",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "机械帐号",
+      "dateline": "2019-8-21 16:34",
+      "username": "uezdh0088306",
+      "groupexpiry": "永不过期"
+    },
+    2713282: {
+      "cid": "451656",
+      "uid": "2713282",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "机械帐号",
+      "dateline": "2019-8-21 16:34",
+      "username": "zflahe039104",
+      "groupexpiry": "永不过期"
+    },
+    2221607: {
+      "cid": "451620",
+      "uid": "2221607",
+      "operatorid": "281332",
+      "operator": "小星啊啊啊",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-8-21 14:52",
+      "username": "yanyan36",
+      "groupexpiry": "永不过期"
+    },
+    2296706: {
+      "cid": "451128",
+      "uid": "2296706",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "机器号，刷分",
+      "dateline": "2019-8-20 18:28",
+      "username": "yzhyzh520",
+      "groupexpiry": "永不过期"
+    },
+    2712639: {
+      "cid": "451085",
+      "uid": "2712639",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-8-20 15:25",
+      "username": "ixd49373",
+      "groupexpiry": "永不过期"
+    },
+    2712644: {
+      "cid": "451084",
+      "uid": "2712644",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-8-20 15:25",
+      "username": "alaap261634",
+      "groupexpiry": "永不过期"
+    },
+    2712647: {
+      "cid": "451083",
+      "uid": "2712647",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-8-20 15:25",
+      "username": "zdjl17351",
+      "groupexpiry": "永不过期"
+    },
+    2712648: {
+      "cid": "451082",
+      "uid": "2712648",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-8-20 15:25",
+      "username": "bxhvxf7759119",
+      "groupexpiry": "永不过期"
+    },
+    2712649: {
+      "cid": "451081",
+      "uid": "2712649",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-8-20 15:25",
+      "username": "ssdlh5443955",
+      "groupexpiry": "永不过期"
+    },
+    2712650: {
+      "cid": "451080",
+      "uid": "2712650",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-8-20 15:25",
+      "username": "qguim046608",
+      "groupexpiry": "永不过期"
+    },
+    2712653: {
+      "cid": "451079",
+      "uid": "2712653",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-8-20 15:25",
+      "username": "rjbb33591",
+      "groupexpiry": "永不过期"
+    },
+    2712655: {
+      "cid": "451078",
+      "uid": "2712655",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-8-20 15:25",
+      "username": "vgowvu0451737",
+      "groupexpiry": "永不过期"
+    },
+    2712657: {
+      "cid": "451077",
+      "uid": "2712657",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-8-20 15:25",
+      "username": "nhxn1739975",
+      "groupexpiry": "永不过期"
+    },
+    2712664: {
+      "cid": "451076",
+      "uid": "2712664",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-8-20 15:24",
+      "username": "wwtt077558",
+      "groupexpiry": "永不过期"
+    },
+    2712663: {
+      "cid": "451075",
+      "uid": "2712663",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "机器帐号",
+      "dateline": "2019-8-20 15:24",
+      "username": "bphp11353",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

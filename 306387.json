@@ -1,1 +1,49 @@
-{"message":{"dataexist":"1","cid":"304300"},"data":{1395860:{"cid":"306386","uid":"1395860","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2018-1-25 13:58","username":"player_steve","groupexpiry":"永不过期"},2446646:{"cid":"306139","uid":"2446646","operatorid":"1876057","operator":"九幽之帝","action":"禁止发言","reason":"引战 骂街\r\n言语辱骂 素质嘲讽","dateline":"2018-1-23 18:24","username":"花语甜心","groupexpiry":"永不过期"},2387315:{"cid":"305992","uid":"2387315","operatorid":"1575538","operator":"ff98sha","action":"禁止发言","reason":"水龙头","dateline":"2018-1-22 16:34","username":"taoge666.","groupexpiry":"永不过期"},2319241:{"cid":"304383","uid":"2319241","operatorid":"1095012","operator":"1582952890","action":"禁止发言","reason":"水龙头","dateline":"2018-1-13 12:30","username":"呵呵4277","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "304300" },
+  "data": {
+    1395860: {
+      "cid": "306386",
+      "uid": "1395860",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2018-1-25 13:58",
+      "username": "player_steve",
+      "groupexpiry": "永不过期"
+    },
+    2446646: {
+      "cid": "306139",
+      "uid": "2446646",
+      "operatorid": "1876057",
+      "operator": "九幽之帝",
+      "action": "禁止发言",
+      "reason": "引战 骂街\r\n言语辱骂 素质嘲讽",
+      "dateline": "2018-1-23 18:24",
+      "username": "花语甜心",
+      "groupexpiry": "永不过期"
+    },
+    2387315: {
+      "cid": "305992",
+      "uid": "2387315",
+      "operatorid": "1575538",
+      "operator": "ff98sha",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2018-1-22 16:34",
+      "username": "taoge666.",
+      "groupexpiry": "永不过期"
+    },
+    2319241: {
+      "cid": "304383",
+      "uid": "2319241",
+      "operatorid": "1095012",
+      "operator": "1582952890",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2018-1-13 12:30",
+      "username": "呵呵4277",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

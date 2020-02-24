@@ -1,1 +1,269 @@
-{"message":{"dataexist":"1","cid":"487922"},"data":{2769455:{"cid":"488148","uid":"2769455","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-12 01:38","username":"iwkwo","groupexpiry":"永不过期"},2763844:{"cid":"488147","uid":"2763844","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-12 01:38","username":"dumiesong","groupexpiry":"永不过期"},2758588:{"cid":"488146","uid":"2758588","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-12 01:38","username":"suogu42579","groupexpiry":"永不过期"},2757372:{"cid":"488145","uid":"2757372","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-12 01:38","username":"pikaqiu9527","groupexpiry":"永不过期"},2889280:{"cid":"487955","uid":"2889280","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 19:12","username":"weiba_M","groupexpiry":"永不过期"},2921623:{"cid":"487948","uid":"2921623","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"广告机","dateline":"2019-11-11 18:15","username":"下东雨","groupexpiry":"永不过期"},2591101:{"cid":"487944","uid":"2591101","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 17:18","username":"m17185818637","groupexpiry":"永不过期"},2585103:{"cid":"487943","uid":"2585103","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 17:18","username":"m13893798124","groupexpiry":"永不过期"},2585099:{"cid":"487942","uid":"2585099","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 17:18","username":"m17191654142","groupexpiry":"永不过期"},2596794:{"cid":"487941","uid":"2596794","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 17:17","username":"m17129264636","groupexpiry":"永不过期"},2596792:{"cid":"487940","uid":"2596792","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 17:17","username":"m17128385438","groupexpiry":"永不过期"},2591103:{"cid":"487939","uid":"2591103","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 17:17","username":"m15948681780","groupexpiry":"永不过期"},2585095:{"cid":"487935","uid":"2585095","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 17:17","username":"m15700426303","groupexpiry":"永不过期"},2915266:{"cid":"487934","uid":"2915266","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 17:14","username":"东哥特实在","groupexpiry":"永不过期"},2915265:{"cid":"487933","uid":"2915265","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 17:14","username":"弱电工程","groupexpiry":"永不过期"},2915264:{"cid":"487932","uid":"2915264","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 17:14","username":"工程格尔登","groupexpiry":"永不过期"},2915260:{"cid":"487931","uid":"2915260","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 17:14","username":"观测阿萨瓦","groupexpiry":"永不过期"},2915257:{"cid":"487930","uid":"2915257","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 17:14","username":"撒大师兄","groupexpiry":"永不过期"},2915255:{"cid":"487929","uid":"2915255","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 17:14","username":"帝国时代1","groupexpiry":"永不过期"},2912674:{"cid":"487928","uid":"2912674","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 17:14","username":"斯科拉多","groupexpiry":"永不过期"},2621210:{"cid":"487927","uid":"2621210","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 16:27","username":"th268459631@sin","groupexpiry":"永不过期"},2621209:{"cid":"487926","uid":"2621209","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 16:27","username":"ny84126987235@s","groupexpiry":"永不过期"},1515541:{"cid":"487924","uid":"1515541","operatorid":"2067786","operator":"消","action":"禁止发言","reason":"4-15 机器账号顶贴且超过三天未说明","dateline":"2019-11-11 16:18","username":"xiaodobi2333","groupexpiry":"永不过期"},2857481:{"cid":"487922","uid":"2857481","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 16:11","username":"nou88062","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "487922" },
+  "data": {
+    2769455: {
+      "cid": "488148",
+      "uid": "2769455",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-12 01:38",
+      "username": "iwkwo",
+      "groupexpiry": "永不过期"
+    },
+    2763844: {
+      "cid": "488147",
+      "uid": "2763844",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-12 01:38",
+      "username": "dumiesong",
+      "groupexpiry": "永不过期"
+    },
+    2758588: {
+      "cid": "488146",
+      "uid": "2758588",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-12 01:38",
+      "username": "suogu42579",
+      "groupexpiry": "永不过期"
+    },
+    2757372: {
+      "cid": "488145",
+      "uid": "2757372",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-12 01:38",
+      "username": "pikaqiu9527",
+      "groupexpiry": "永不过期"
+    },
+    2889280: {
+      "cid": "487955",
+      "uid": "2889280",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 19:12",
+      "username": "weiba_M",
+      "groupexpiry": "永不过期"
+    },
+    2921623: {
+      "cid": "487948",
+      "uid": "2921623",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-11-11 18:15",
+      "username": "下东雨",
+      "groupexpiry": "永不过期"
+    },
+    2591101: {
+      "cid": "487944",
+      "uid": "2591101",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 17:18",
+      "username": "m17185818637",
+      "groupexpiry": "永不过期"
+    },
+    2585103: {
+      "cid": "487943",
+      "uid": "2585103",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 17:18",
+      "username": "m13893798124",
+      "groupexpiry": "永不过期"
+    },
+    2585099: {
+      "cid": "487942",
+      "uid": "2585099",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 17:18",
+      "username": "m17191654142",
+      "groupexpiry": "永不过期"
+    },
+    2596794: {
+      "cid": "487941",
+      "uid": "2596794",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 17:17",
+      "username": "m17129264636",
+      "groupexpiry": "永不过期"
+    },
+    2596792: {
+      "cid": "487940",
+      "uid": "2596792",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 17:17",
+      "username": "m17128385438",
+      "groupexpiry": "永不过期"
+    },
+    2591103: {
+      "cid": "487939",
+      "uid": "2591103",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 17:17",
+      "username": "m15948681780",
+      "groupexpiry": "永不过期"
+    },
+    2585095: {
+      "cid": "487935",
+      "uid": "2585095",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 17:17",
+      "username": "m15700426303",
+      "groupexpiry": "永不过期"
+    },
+    2915266: {
+      "cid": "487934",
+      "uid": "2915266",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 17:14",
+      "username": "东哥特实在",
+      "groupexpiry": "永不过期"
+    },
+    2915265: {
+      "cid": "487933",
+      "uid": "2915265",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 17:14",
+      "username": "弱电工程",
+      "groupexpiry": "永不过期"
+    },
+    2915264: {
+      "cid": "487932",
+      "uid": "2915264",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 17:14",
+      "username": "工程格尔登",
+      "groupexpiry": "永不过期"
+    },
+    2915260: {
+      "cid": "487931",
+      "uid": "2915260",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 17:14",
+      "username": "观测阿萨瓦",
+      "groupexpiry": "永不过期"
+    },
+    2915257: {
+      "cid": "487930",
+      "uid": "2915257",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 17:14",
+      "username": "撒大师兄",
+      "groupexpiry": "永不过期"
+    },
+    2915255: {
+      "cid": "487929",
+      "uid": "2915255",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 17:14",
+      "username": "帝国时代1",
+      "groupexpiry": "永不过期"
+    },
+    2912674: {
+      "cid": "487928",
+      "uid": "2912674",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 17:14",
+      "username": "斯科拉多",
+      "groupexpiry": "永不过期"
+    },
+    2621210: {
+      "cid": "487927",
+      "uid": "2621210",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 16:27",
+      "username": "th268459631@sin",
+      "groupexpiry": "永不过期"
+    },
+    2621209: {
+      "cid": "487926",
+      "uid": "2621209",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 16:27",
+      "username": "ny84126987235@s",
+      "groupexpiry": "永不过期"
+    },
+    1515541: {
+      "cid": "487924",
+      "uid": "1515541",
+      "operatorid": "2067786",
+      "operator": "消",
+      "action": "禁止发言",
+      "reason": "4-15 机器账号顶贴且超过三天未说明",
+      "dateline": "2019-11-11 16:18",
+      "username": "xiaodobi2333",
+      "groupexpiry": "永不过期"
+    },
+    2857481: {
+      "cid": "487922",
+      "uid": "2857481",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 16:11",
+      "username": "nou88062",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

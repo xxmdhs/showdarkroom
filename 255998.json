@@ -1,1 +1,82 @@
-{"message":{"dataexist":"1","cid":"254442"},"data":{1609039:{"cid":"255997","uid":"1609039","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2017-6-19 14:53","username":"蛙草","groupexpiry":"永不过期"},2140478:{"cid":"255994","uid":"2140478","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2017-6-19 14:52","username":"Lelouch_Lamper","groupexpiry":"永不过期"},2197669:{"cid":"255381","uid":"2197669","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"严重刷分","dateline":"2017-6-12 14:29","username":"PHontdoge棒冰","groupexpiry":"永不过期"},1169727:{"cid":"254781","uid":"1169727","operatorid":"1568026","operator":"E.T.星落辰","action":"禁止发言","reason":"水龙头","dateline":"2017-6-9 12:27","username":"....sterben....","groupexpiry":"永不过期"},992122:{"cid":"254762","uid":"992122","operatorid":"1568026","operator":"E.T.星落辰","action":"禁止发言","reason":"水龙头","dateline":"2017-6-8 17:46","username":"1808861254","groupexpiry":"永不过期"},1258322:{"cid":"254586","uid":"1258322","operatorid":"1480882","operator":"ustc_zzzz","action":"禁止发言","reason":"添加后门","dateline":"2017-6-8 03:14","username":"242677","groupexpiry":"永不过期"},2206196:{"cid":"254583","uid":"2206196","operatorid":"679293","operator":"FHC红石","action":"禁止发言","reason":"恶意模仿","dateline":"2017-6-7 22:52","username":"FHC红石很帅","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "254442" },
+  "data": {
+    1609039: {
+      "cid": "255997",
+      "uid": "1609039",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-6-19 14:53",
+      "username": "蛙草",
+      "groupexpiry": "永不过期"
+    },
+    2140478: {
+      "cid": "255994",
+      "uid": "2140478",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-6-19 14:52",
+      "username": "Lelouch_Lamper",
+      "groupexpiry": "永不过期"
+    },
+    2197669: {
+      "cid": "255381",
+      "uid": "2197669",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "严重刷分",
+      "dateline": "2017-6-12 14:29",
+      "username": "PHontdoge棒冰",
+      "groupexpiry": "永不过期"
+    },
+    1169727: {
+      "cid": "254781",
+      "uid": "1169727",
+      "operatorid": "1568026",
+      "operator": "E.T.星落辰",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-6-9 12:27",
+      "username": "....sterben....",
+      "groupexpiry": "永不过期"
+    },
+    992122: {
+      "cid": "254762",
+      "uid": "992122",
+      "operatorid": "1568026",
+      "operator": "E.T.星落辰",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-6-8 17:46",
+      "username": "1808861254",
+      "groupexpiry": "永不过期"
+    },
+    1258322: {
+      "cid": "254586",
+      "uid": "1258322",
+      "operatorid": "1480882",
+      "operator": "ustc_zzzz",
+      "action": "禁止发言",
+      "reason": "添加后门",
+      "dateline": "2017-6-8 03:14",
+      "username": "242677",
+      "groupexpiry": "永不过期"
+    },
+    2206196: {
+      "cid": "254583",
+      "uid": "2206196",
+      "operatorid": "679293",
+      "operator": "FHC红石",
+      "action": "禁止发言",
+      "reason": "恶意模仿",
+      "dateline": "2017-6-7 22:52",
+      "username": "FHC红石很帅",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

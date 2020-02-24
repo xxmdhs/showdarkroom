@@ -1,1 +1,115 @@
-{"message":{"dataexist":"1","cid":"250583"},"data":{490467:{"cid":"251035","uid":"490467","operatorid":"322837","operator":"天域","action":"禁止发言","reason":"为灌水而生。","dateline":"2017-5-13 23:06","username":"qusiba2B","groupexpiry":"永不过期"},430637:{"cid":"250969","uid":"430637","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"广告机","dateline":"2017-5-12 10:54","username":"真版2012","groupexpiry":"永不过期"},1666988:{"cid":"250944","uid":"1666988","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"在反馈与投诉板块发泄、侮辱、辱骂他人","dateline":"2017-5-11 16:48","username":"love_Xue","groupexpiry":"永不过期"},2150303:{"cid":"250913","uid":"2150303","operatorid":"5367","operator":"john180","action":"禁止访问","reason":"","dateline":"2017-5-10 19:44","username":"【歌者】","groupexpiry":"永不过期"},1834799:{"cid":"250866","uid":"1834799","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2017-5-9 18:50","username":"雨涵丶","groupexpiry":"永不过期"},2131942:{"cid":"250836","uid":"2131942","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2017-5-8 15:52","username":"xiexin2017","groupexpiry":"永不过期"},1765861:{"cid":"250835","uid":"1765861","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2017-5-8 15:52","username":"世界本源","groupexpiry":"永不过期"},1814872:{"cid":"250834","uid":"1814872","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2017-5-8 15:52","username":"任逍遥2016","groupexpiry":"永不过期"},666894:{"cid":"250743","uid":"666894","operatorid":"322837","operator":"天域","action":"禁止发言","reason":"灌水小魔王","dateline":"2017-5-7 17:25","username":"a519988219","groupexpiry":"永不过期"},778755:{"cid":"250583","uid":"778755","operatorid":"679293","operator":"FHC红石","action":"禁止发言","reason":"总额超过1000金粒永久禁言","dateline":"2017-5-6 17:25","username":"2421880394","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "250583" },
+  "data": {
+    490467: {
+      "cid": "251035",
+      "uid": "490467",
+      "operatorid": "322837",
+      "operator": "天域",
+      "action": "禁止发言",
+      "reason": "为灌水而生。",
+      "dateline": "2017-5-13 23:06",
+      "username": "qusiba2B",
+      "groupexpiry": "永不过期"
+    },
+    430637: {
+      "cid": "250969",
+      "uid": "430637",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2017-5-12 10:54",
+      "username": "真版2012",
+      "groupexpiry": "永不过期"
+    },
+    1666988: {
+      "cid": "250944",
+      "uid": "1666988",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "在反馈与投诉板块发泄、侮辱、辱骂他人",
+      "dateline": "2017-5-11 16:48",
+      "username": "love_Xue",
+      "groupexpiry": "永不过期"
+    },
+    2150303: {
+      "cid": "250913",
+      "uid": "2150303",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2017-5-10 19:44",
+      "username": "【歌者】",
+      "groupexpiry": "永不过期"
+    },
+    1834799: {
+      "cid": "250866",
+      "uid": "1834799",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-5-9 18:50",
+      "username": "雨涵丶",
+      "groupexpiry": "永不过期"
+    },
+    2131942: {
+      "cid": "250836",
+      "uid": "2131942",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-5-8 15:52",
+      "username": "xiexin2017",
+      "groupexpiry": "永不过期"
+    },
+    1765861: {
+      "cid": "250835",
+      "uid": "1765861",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-5-8 15:52",
+      "username": "世界本源",
+      "groupexpiry": "永不过期"
+    },
+    1814872: {
+      "cid": "250834",
+      "uid": "1814872",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-5-8 15:52",
+      "username": "任逍遥2016",
+      "groupexpiry": "永不过期"
+    },
+    666894: {
+      "cid": "250743",
+      "uid": "666894",
+      "operatorid": "322837",
+      "operator": "天域",
+      "action": "禁止发言",
+      "reason": "灌水小魔王",
+      "dateline": "2017-5-7 17:25",
+      "username": "a519988219",
+      "groupexpiry": "永不过期"
+    },
+    778755: {
+      "cid": "250583",
+      "uid": "778755",
+      "operatorid": "679293",
+      "operator": "FHC红石",
+      "action": "禁止发言",
+      "reason": "总额超过1000金粒永久禁言",
+      "dateline": "2017-5-6 17:25",
+      "username": "2421880394",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

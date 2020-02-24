@@ -1,1 +1,181 @@
-{"message":{"dataexist":"1","cid":"137946"},"data":{1458051:{"cid":"139123","uid":"1458051","operatorid":"650372","operator":"尼玛乄骑士","action":"禁止发言","reason":"又来闹事？","dateline":"2015-8-12 12:50","username":"我无语了5","groupexpiry":"永不过期"},1432764:{"cid":"139114","uid":"1432764","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"马甲刷分","dateline":"2015-8-12 12:26","username":"小白--兔","groupexpiry":"永不过期"},1431605:{"cid":"139113","uid":"1431605","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"马甲刷分","dateline":"2015-8-12 12:26","username":"了邱","groupexpiry":"永不过期"},1457515:{"cid":"139021","uid":"1457515","operatorid":"437492","operator":"darknova","action":"禁止发言","reason":"滚","dateline":"2015-8-12 09:22","username":"fjw.","groupexpiry":"永不过期"},715249:{"cid":"138912","uid":"715249","operatorid":"84901","operator":"pogox","action":"禁止发言","reason":"广告","dateline":"2015-8-11 23:59","username":"chong3","groupexpiry":"永不过期"},1419682:{"cid":"138875","uid":"1419682","operatorid":"42992","operator":"810587921","action":"禁止发言","reason":"屠版\r\n无意义疯狂水贴","dateline":"2015-8-11 22:23","username":"游神丶","groupexpiry":"永不过期"},182147:{"cid":"138782","uid":"182147","operatorid":"1073223","operator":"乙烯_中国","action":"禁止发言","reason":"广告机","dateline":"2015-8-11 17:09","username":"不想起名","groupexpiry":"永不过期"},1456382:{"cid":"138770","uid":"1456382","operatorid":"66971","operator":"爱国青年","action":"禁止访问","reason":"","dateline":"2015-8-11 16:47","username":"许元译","groupexpiry":"永不过期"},1311779:{"cid":"138254","uid":"1311779","operatorid":"66971","operator":"爱国青年","action":"禁止访问","reason":"","dateline":"2015-8-11 09:16","username":"逆天丶战","groupexpiry":"永不过期"},1446046:{"cid":"138253","uid":"1446046","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"小号","dateline":"2015-8-11 09:07","username":"wiime","groupexpiry":"永不过期"},1393122:{"cid":"138131","uid":"1393122","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"无意义回复刷帖","dateline":"2015-8-10 19:24","username":"Mei_Yuan","groupexpiry":"永不过期"},1450771:{"cid":"138066","uid":"1450771","operatorid":"258439","operator":"Grandiose","action":"禁止发言","reason":"水龙头","dateline":"2015-8-10 14:46","username":"wumao123","groupexpiry":"永不过期"},830218:{"cid":"138022","uid":"830218","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"刷帖","dateline":"2015-8-10 13:43","username":"xuanwo大大","groupexpiry":"永不过期"},1453691:{"cid":"137983","uid":"1453691","operatorid":"66971","operator":"爱国青年","action":"禁止访问","reason":"","dateline":"2015-8-10 10:51","username":"王军飞.","groupexpiry":"永不过期"},403841:{"cid":"137952","uid":"403841","operatorid":"42992","operator":"810587921","action":"禁止发言","reason":"000","dateline":"2015-8-10 00:49","username":"qwe2298946728","groupexpiry":"永不过期"},1244713:{"cid":"137946","uid":"1244713","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"广告机","dateline":"2015-8-9 22:10","username":"kanper","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "137946" },
+  "data": {
+    1458051: {
+      "cid": "139123",
+      "uid": "1458051",
+      "operatorid": "650372",
+      "operator": "尼玛乄骑士",
+      "action": "禁止发言",
+      "reason": "又来闹事？",
+      "dateline": "2015-8-12 12:50",
+      "username": "我无语了5",
+      "groupexpiry": "永不过期"
+    },
+    1432764: {
+      "cid": "139114",
+      "uid": "1432764",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "马甲刷分",
+      "dateline": "2015-8-12 12:26",
+      "username": "小白--兔",
+      "groupexpiry": "永不过期"
+    },
+    1431605: {
+      "cid": "139113",
+      "uid": "1431605",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "马甲刷分",
+      "dateline": "2015-8-12 12:26",
+      "username": "了邱",
+      "groupexpiry": "永不过期"
+    },
+    1457515: {
+      "cid": "139021",
+      "uid": "1457515",
+      "operatorid": "437492",
+      "operator": "darknova",
+      "action": "禁止发言",
+      "reason": "滚",
+      "dateline": "2015-8-12 09:22",
+      "username": "fjw.",
+      "groupexpiry": "永不过期"
+    },
+    715249: {
+      "cid": "138912",
+      "uid": "715249",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "广告",
+      "dateline": "2015-8-11 23:59",
+      "username": "chong3",
+      "groupexpiry": "永不过期"
+    },
+    1419682: {
+      "cid": "138875",
+      "uid": "1419682",
+      "operatorid": "42992",
+      "operator": "810587921",
+      "action": "禁止发言",
+      "reason": "屠版\r\n无意义疯狂水贴",
+      "dateline": "2015-8-11 22:23",
+      "username": "游神丶",
+      "groupexpiry": "永不过期"
+    },
+    182147: {
+      "cid": "138782",
+      "uid": "182147",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-8-11 17:09",
+      "username": "不想起名",
+      "groupexpiry": "永不过期"
+    },
+    1456382: {
+      "cid": "138770",
+      "uid": "1456382",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-8-11 16:47",
+      "username": "许元译",
+      "groupexpiry": "永不过期"
+    },
+    1311779: {
+      "cid": "138254",
+      "uid": "1311779",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-8-11 09:16",
+      "username": "逆天丶战",
+      "groupexpiry": "永不过期"
+    },
+    1446046: {
+      "cid": "138253",
+      "uid": "1446046",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "小号",
+      "dateline": "2015-8-11 09:07",
+      "username": "wiime",
+      "groupexpiry": "永不过期"
+    },
+    1393122: {
+      "cid": "138131",
+      "uid": "1393122",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "无意义回复刷帖",
+      "dateline": "2015-8-10 19:24",
+      "username": "Mei_Yuan",
+      "groupexpiry": "永不过期"
+    },
+    1450771: {
+      "cid": "138066",
+      "uid": "1450771",
+      "operatorid": "258439",
+      "operator": "Grandiose",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-8-10 14:46",
+      "username": "wumao123",
+      "groupexpiry": "永不过期"
+    },
+    830218: {
+      "cid": "138022",
+      "uid": "830218",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷帖",
+      "dateline": "2015-8-10 13:43",
+      "username": "xuanwo大大",
+      "groupexpiry": "永不过期"
+    },
+    1453691: {
+      "cid": "137983",
+      "uid": "1453691",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-8-10 10:51",
+      "username": "王军飞.",
+      "groupexpiry": "永不过期"
+    },
+    403841: {
+      "cid": "137952",
+      "uid": "403841",
+      "operatorid": "42992",
+      "operator": "810587921",
+      "action": "禁止发言",
+      "reason": "000",
+      "dateline": "2015-8-10 00:49",
+      "username": "qwe2298946728",
+      "groupexpiry": "永不过期"
+    },
+    1244713: {
+      "cid": "137946",
+      "uid": "1244713",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-8-9 22:10",
+      "username": "kanper",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

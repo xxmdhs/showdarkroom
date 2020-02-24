@@ -1,1 +1,269 @@
-{"message":{"dataexist":"1","cid":"487711"},"data":{1855318:{"cid":"487921","uid":"1855318","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 16:07","username":"Alex_shen","groupexpiry":"永不过期"},2877133:{"cid":"487913","uid":"2877133","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 13:07","username":"FhuanLing","groupexpiry":"永不过期"},2877140:{"cid":"487912","uid":"2877140","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 13:06","username":"HuanLing_Feng","groupexpiry":"永不过期"},2886605:{"cid":"487911","uid":"2886605","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 13:06","username":"nanr_Rmeng","groupexpiry":"永不过期"},2886647:{"cid":"487910","uid":"2886647","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 13:06","username":"postlqr","groupexpiry":"永不过期"},2886940:{"cid":"487909","uid":"2886940","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 13:06","username":"Theprince_slime","groupexpiry":"永不过期"},2887172:{"cid":"487908","uid":"2887172","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 13:06","username":"EwYALUKv","groupexpiry":"永不过期"},2887185:{"cid":"487907","uid":"2887185","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 13:06","username":"JiangYJ","groupexpiry":"永不过期"},2887321:{"cid":"487906","uid":"2887321","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 13:06","username":"goblow","groupexpiry":"永不过期"},2888255:{"cid":"487905","uid":"2888255","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 13:06","username":"Pefect_lian","groupexpiry":"永不过期"},2877119:{"cid":"487903","uid":"2877119","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-11 12:46","username":"xiaoxiaofengche","groupexpiry":"永不过期"},2603559:{"cid":"487732","uid":"2603559","operatorid":"2006215","operator":"skyliye","action":"禁止发言","reason":"水龙头","dateline":"2019-11-10 15:13","username":"lrpX1","groupexpiry":"永不过期"},2892318:{"cid":"487722","uid":"2892318","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"异常账号，若为误伤请到末路之地申诉","dateline":"2019-11-10 14:55","username":"bilibilibawangl","groupexpiry":"永不过期"},2892257:{"cid":"487721","uid":"2892257","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"异常账号，若为误伤请到末路之地申诉","dateline":"2019-11-10 14:55","username":"woaimcbb","groupexpiry":"永不过期"},2882325:{"cid":"487720","uid":"2882325","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"异常账号，若为误伤请到末路之地申诉","dateline":"2019-11-10 14:55","username":"sseyi6","groupexpiry":"永不过期"},2838504:{"cid":"487719","uid":"2838504","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"异常账号，若为误伤请到末路之地申诉","dateline":"2019-11-10 14:55","username":"xiexiaoci","groupexpiry":"永不过期"},2837328:{"cid":"487718","uid":"2837328","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"异常账号，若为误伤请到末路之地申诉","dateline":"2019-11-10 14:55","username":"boliyue","groupexpiry":"永不过期"},2875043:{"cid":"487717","uid":"2875043","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-10 14:50","username":"yu_ye_yu","groupexpiry":"永不过期"},2875008:{"cid":"487716","uid":"2875008","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-10 14:49","username":"X_Magic","groupexpiry":"永不过期"},2875004:{"cid":"487715","uid":"2875004","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-10 14:49","username":"wjq66666","groupexpiry":"永不过期"},2858755:{"cid":"487714","uid":"2858755","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-10 14:49","username":"hurou111738","groupexpiry":"永不过期"},2875013:{"cid":"487713","uid":"2875013","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-10 14:49","username":"xiao_zhaozhao","groupexpiry":"永不过期"},2858813:{"cid":"487712","uid":"2858813","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-10 14:49","username":"yiying784581","groupexpiry":"永不过期"},2856971:{"cid":"487711","uid":"2856971","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"异常帐号","dateline":"2019-11-10 14:49","username":"辐射度","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "487711" },
+  "data": {
+    1855318: {
+      "cid": "487921",
+      "uid": "1855318",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 16:07",
+      "username": "Alex_shen",
+      "groupexpiry": "永不过期"
+    },
+    2877133: {
+      "cid": "487913",
+      "uid": "2877133",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 13:07",
+      "username": "FhuanLing",
+      "groupexpiry": "永不过期"
+    },
+    2877140: {
+      "cid": "487912",
+      "uid": "2877140",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 13:06",
+      "username": "HuanLing_Feng",
+      "groupexpiry": "永不过期"
+    },
+    2886605: {
+      "cid": "487911",
+      "uid": "2886605",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 13:06",
+      "username": "nanr_Rmeng",
+      "groupexpiry": "永不过期"
+    },
+    2886647: {
+      "cid": "487910",
+      "uid": "2886647",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 13:06",
+      "username": "postlqr",
+      "groupexpiry": "永不过期"
+    },
+    2886940: {
+      "cid": "487909",
+      "uid": "2886940",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 13:06",
+      "username": "Theprince_slime",
+      "groupexpiry": "永不过期"
+    },
+    2887172: {
+      "cid": "487908",
+      "uid": "2887172",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 13:06",
+      "username": "EwYALUKv",
+      "groupexpiry": "永不过期"
+    },
+    2887185: {
+      "cid": "487907",
+      "uid": "2887185",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 13:06",
+      "username": "JiangYJ",
+      "groupexpiry": "永不过期"
+    },
+    2887321: {
+      "cid": "487906",
+      "uid": "2887321",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 13:06",
+      "username": "goblow",
+      "groupexpiry": "永不过期"
+    },
+    2888255: {
+      "cid": "487905",
+      "uid": "2888255",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 13:06",
+      "username": "Pefect_lian",
+      "groupexpiry": "永不过期"
+    },
+    2877119: {
+      "cid": "487903",
+      "uid": "2877119",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-11 12:46",
+      "username": "xiaoxiaofengche",
+      "groupexpiry": "永不过期"
+    },
+    2603559: {
+      "cid": "487732",
+      "uid": "2603559",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-11-10 15:13",
+      "username": "lrpX1",
+      "groupexpiry": "永不过期"
+    },
+    2892318: {
+      "cid": "487722",
+      "uid": "2892318",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "异常账号，若为误伤请到末路之地申诉",
+      "dateline": "2019-11-10 14:55",
+      "username": "bilibilibawangl",
+      "groupexpiry": "永不过期"
+    },
+    2892257: {
+      "cid": "487721",
+      "uid": "2892257",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "异常账号，若为误伤请到末路之地申诉",
+      "dateline": "2019-11-10 14:55",
+      "username": "woaimcbb",
+      "groupexpiry": "永不过期"
+    },
+    2882325: {
+      "cid": "487720",
+      "uid": "2882325",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "异常账号，若为误伤请到末路之地申诉",
+      "dateline": "2019-11-10 14:55",
+      "username": "sseyi6",
+      "groupexpiry": "永不过期"
+    },
+    2838504: {
+      "cid": "487719",
+      "uid": "2838504",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "异常账号，若为误伤请到末路之地申诉",
+      "dateline": "2019-11-10 14:55",
+      "username": "xiexiaoci",
+      "groupexpiry": "永不过期"
+    },
+    2837328: {
+      "cid": "487718",
+      "uid": "2837328",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "异常账号，若为误伤请到末路之地申诉",
+      "dateline": "2019-11-10 14:55",
+      "username": "boliyue",
+      "groupexpiry": "永不过期"
+    },
+    2875043: {
+      "cid": "487717",
+      "uid": "2875043",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-10 14:50",
+      "username": "yu_ye_yu",
+      "groupexpiry": "永不过期"
+    },
+    2875008: {
+      "cid": "487716",
+      "uid": "2875008",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-10 14:49",
+      "username": "X_Magic",
+      "groupexpiry": "永不过期"
+    },
+    2875004: {
+      "cid": "487715",
+      "uid": "2875004",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-10 14:49",
+      "username": "wjq66666",
+      "groupexpiry": "永不过期"
+    },
+    2858755: {
+      "cid": "487714",
+      "uid": "2858755",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-10 14:49",
+      "username": "hurou111738",
+      "groupexpiry": "永不过期"
+    },
+    2875013: {
+      "cid": "487713",
+      "uid": "2875013",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-10 14:49",
+      "username": "xiao_zhaozhao",
+      "groupexpiry": "永不过期"
+    },
+    2858813: {
+      "cid": "487712",
+      "uid": "2858813",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-10 14:49",
+      "username": "yiying784581",
+      "groupexpiry": "永不过期"
+    },
+    2856971: {
+      "cid": "487711",
+      "uid": "2856971",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2019-11-10 14:49",
+      "username": "辐射度",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

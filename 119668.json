@@ -1,1 +1,137 @@
-{"message":{"dataexist":"1","cid":"118061"},"data":{1338070:{"cid":"119664","uid":"1338070","operatorid":"188925","operator":"卅个屮","action":"禁止发言","reason":"水龙头","dateline":"2015-5-28 18:42","username":"LMDI","groupexpiry":"永不过期"},608931:{"cid":"119618","uid":"608931","operatorid":"274490","operator":"SPE__HaiKuo","action":"禁止发言","reason":"汉化内含广告+广告机","dateline":"2015-5-28 18:28","username":"lcpg","groupexpiry":"永不过期"},605436:{"cid":"118749","uid":"605436","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"签名档恶意文件","dateline":"2015-5-25 09:35","username":"534304548","groupexpiry":"永不过期"},116776:{"cid":"118681","uid":"116776","operatorid":"240366","operator":"西红柿片","action":"禁止发言","reason":"水龙头","dateline":"2015-5-24 21:44","username":"502237041","groupexpiry":"永不过期"},753793:{"cid":"118538","uid":"753793","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"广告机","dateline":"2015-5-24 13:24","username":"沉鱼Hypz6","groupexpiry":"永不过期"},1118107:{"cid":"118387","uid":"1118107","operatorid":"42992","operator":"810587921","action":"禁止发言","reason":"广告机！","dateline":"2015-5-23 16:47","username":"dv888","groupexpiry":"永不过期"},1331486:{"cid":"118307","uid":"1331486","operatorid":"66971","operator":"爱国青年","action":"禁止访问","reason":"","dateline":"2015-5-23 11:19","username":"李碧琴","groupexpiry":"永不过期"},1314417:{"cid":"118292","uid":"1314417","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"广告机","dateline":"2015-5-23 10:23","username":"a1613336283","groupexpiry":"永不过期"},1333187:{"cid":"118259","uid":"1333187","operatorid":"240366","operator":"西红柿片","action":"禁止发言","reason":"广告机","dateline":"2015-5-23 10:07","username":"lazk","groupexpiry":"永不过期"},572421:{"cid":"118250","uid":"572421","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"恶意签名档","dateline":"2015-5-23 09:21","username":"衣冠勤售","groupexpiry":"永不过期"},1332249:{"cid":"118169","uid":"1332249","operatorid":"650372","operator":"尼玛乄骑士","action":"禁止发言","reason":"广告机，永封","dateline":"2015-5-22 17:06","username":"koko456","groupexpiry":"永不过期"},1303995:{"cid":"118105","uid":"1303995","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"血腥暴力内容的头像","dateline":"2015-5-21 23:45","username":"Sank_Lion","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "118061" },
+  "data": {
+    1338070: {
+      "cid": "119664",
+      "uid": "1338070",
+      "operatorid": "188925",
+      "operator": "卅个屮",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-5-28 18:42",
+      "username": "LMDI",
+      "groupexpiry": "永不过期"
+    },
+    608931: {
+      "cid": "119618",
+      "uid": "608931",
+      "operatorid": "274490",
+      "operator": "SPE__HaiKuo",
+      "action": "禁止发言",
+      "reason": "汉化内含广告+广告机",
+      "dateline": "2015-5-28 18:28",
+      "username": "lcpg",
+      "groupexpiry": "永不过期"
+    },
+    605436: {
+      "cid": "118749",
+      "uid": "605436",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "签名档恶意文件",
+      "dateline": "2015-5-25 09:35",
+      "username": "534304548",
+      "groupexpiry": "永不过期"
+    },
+    116776: {
+      "cid": "118681",
+      "uid": "116776",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-5-24 21:44",
+      "username": "502237041",
+      "groupexpiry": "永不过期"
+    },
+    753793: {
+      "cid": "118538",
+      "uid": "753793",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-5-24 13:24",
+      "username": "沉鱼Hypz6",
+      "groupexpiry": "永不过期"
+    },
+    1118107: {
+      "cid": "118387",
+      "uid": "1118107",
+      "operatorid": "42992",
+      "operator": "810587921",
+      "action": "禁止发言",
+      "reason": "广告机！",
+      "dateline": "2015-5-23 16:47",
+      "username": "dv888",
+      "groupexpiry": "永不过期"
+    },
+    1331486: {
+      "cid": "118307",
+      "uid": "1331486",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-5-23 11:19",
+      "username": "李碧琴",
+      "groupexpiry": "永不过期"
+    },
+    1314417: {
+      "cid": "118292",
+      "uid": "1314417",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-5-23 10:23",
+      "username": "a1613336283",
+      "groupexpiry": "永不过期"
+    },
+    1333187: {
+      "cid": "118259",
+      "uid": "1333187",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-5-23 10:07",
+      "username": "lazk",
+      "groupexpiry": "永不过期"
+    },
+    572421: {
+      "cid": "118250",
+      "uid": "572421",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "恶意签名档",
+      "dateline": "2015-5-23 09:21",
+      "username": "衣冠勤售",
+      "groupexpiry": "永不过期"
+    },
+    1332249: {
+      "cid": "118169",
+      "uid": "1332249",
+      "operatorid": "650372",
+      "operator": "尼玛乄骑士",
+      "action": "禁止发言",
+      "reason": "广告机，永封",
+      "dateline": "2015-5-22 17:06",
+      "username": "koko456",
+      "groupexpiry": "永不过期"
+    },
+    1303995: {
+      "cid": "118105",
+      "uid": "1303995",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "血腥暴力内容的头像",
+      "dateline": "2015-5-21 23:45",
+      "username": "Sank_Lion",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

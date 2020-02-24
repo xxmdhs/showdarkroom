@@ -1,1 +1,159 @@
-{"message":{"dataexist":"1","cid":"366862"},"data":{1394947:{"cid":"369562","uid":"1394947","operatorid":"720449","operator":"玄素","action":"禁止发言","reason":"水龙头","dateline":"2018-11-7 16:42","username":"409504135z","groupexpiry":"永不过期"},2607768:{"cid":"369239","uid":"2607768","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"","dateline":"2018-11-5 01:24","username":"有旭东","groupexpiry":"永不过期"},2051719:{"cid":"369203","uid":"2051719","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"广告机","dateline":"2018-11-4 18:35","username":"hznxp·","groupexpiry":"永不过期"},2604535:{"cid":"368065","uid":"2604535","operatorid":"390164","operator":"908278185","action":"禁止发言","reason":"神奇寶貝mod交易相關","dateline":"2018-10-30 16:17","username":"BlackSheep0","groupexpiry":"永不过期"},2519524:{"cid":"367992","uid":"2519524","operatorid":"1460050","operator":"583736449","action":"禁止发言","reason":"广告机","dateline":"2018-10-29 18:40","username":"3257792858","groupexpiry":"永不过期"},2564336:{"cid":"367913","uid":"2564336","operatorid":"58570","operator":"gooding300","action":"禁止发言","reason":"禁止发布任何作弊资源","dateline":"2018-10-28 14:31","username":"MC初来乍到","groupexpiry":"永不过期"},2603681:{"cid":"367706","uid":"2603681","operatorid":"1073223","operator":"乙烯_中国","action":"禁止发言","reason":"水龙头","dateline":"2018-10-27 14:41","username":"脆弱的承诺","groupexpiry":"永不过期"},2205210:{"cid":"367695","uid":"2205210","operatorid":"1280406","operator":"zjxx","action":"禁止发言","reason":"广告机","dateline":"2018-10-27 10:52","username":"但是的","groupexpiry":"永不过期"},2031711:{"cid":"367686","uid":"2031711","operatorid":"1793501","operator":"没糖的葫芦","action":"禁止发言","reason":"传播不良网站追加封禁","dateline":"2018-10-26 23:37","username":"cys90508","groupexpiry":"永不过期"},2571903:{"cid":"367468","uid":"2571903","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"签名档多次违规","dateline":"2018-10-23 23:47","username":"佐木君Carl","groupexpiry":"永不过期"},1820273:{"cid":"366996","uid":"1820273","operatorid":"108341","operator":"U1U420039","action":"禁止发言","reason":"复读机","dateline":"2018-10-21 13:25","username":"叫声爹","groupexpiry":"永不过期"},2507058:{"cid":"366864","uid":"2507058","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2018-10-21 00:03","username":"wanghaohw","groupexpiry":"永不过期"},2507187:{"cid":"366863","uid":"2507187","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2018-10-21 00:03","username":"Reinhold","groupexpiry":"永不过期"},2507100:{"cid":"366862","uid":"2507100","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2018-10-21 00:03","username":"流離","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "366862" },
+  "data": {
+    1394947: {
+      "cid": "369562",
+      "uid": "1394947",
+      "operatorid": "720449",
+      "operator": "玄素",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2018-11-7 16:42",
+      "username": "409504135z",
+      "groupexpiry": "永不过期"
+    },
+    2607768: {
+      "cid": "369239",
+      "uid": "2607768",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-11-5 01:24",
+      "username": "有旭东",
+      "groupexpiry": "永不过期"
+    },
+    2051719: {
+      "cid": "369203",
+      "uid": "2051719",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2018-11-4 18:35",
+      "username": "hznxp·",
+      "groupexpiry": "永不过期"
+    },
+    2604535: {
+      "cid": "368065",
+      "uid": "2604535",
+      "operatorid": "390164",
+      "operator": "908278185",
+      "action": "禁止发言",
+      "reason": "神奇寶貝mod交易相關",
+      "dateline": "2018-10-30 16:17",
+      "username": "BlackSheep0",
+      "groupexpiry": "永不过期"
+    },
+    2519524: {
+      "cid": "367992",
+      "uid": "2519524",
+      "operatorid": "1460050",
+      "operator": "583736449",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2018-10-29 18:40",
+      "username": "3257792858",
+      "groupexpiry": "永不过期"
+    },
+    2564336: {
+      "cid": "367913",
+      "uid": "2564336",
+      "operatorid": "58570",
+      "operator": "gooding300",
+      "action": "禁止发言",
+      "reason": "禁止发布任何作弊资源",
+      "dateline": "2018-10-28 14:31",
+      "username": "MC初来乍到",
+      "groupexpiry": "永不过期"
+    },
+    2603681: {
+      "cid": "367706",
+      "uid": "2603681",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2018-10-27 14:41",
+      "username": "脆弱的承诺",
+      "groupexpiry": "永不过期"
+    },
+    2205210: {
+      "cid": "367695",
+      "uid": "2205210",
+      "operatorid": "1280406",
+      "operator": "zjxx",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2018-10-27 10:52",
+      "username": "但是的",
+      "groupexpiry": "永不过期"
+    },
+    2031711: {
+      "cid": "367686",
+      "uid": "2031711",
+      "operatorid": "1793501",
+      "operator": "没糖的葫芦",
+      "action": "禁止发言",
+      "reason": "传播不良网站追加封禁",
+      "dateline": "2018-10-26 23:37",
+      "username": "cys90508",
+      "groupexpiry": "永不过期"
+    },
+    2571903: {
+      "cid": "367468",
+      "uid": "2571903",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "签名档多次违规",
+      "dateline": "2018-10-23 23:47",
+      "username": "佐木君Carl",
+      "groupexpiry": "永不过期"
+    },
+    1820273: {
+      "cid": "366996",
+      "uid": "1820273",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "复读机",
+      "dateline": "2018-10-21 13:25",
+      "username": "叫声爹",
+      "groupexpiry": "永不过期"
+    },
+    2507058: {
+      "cid": "366864",
+      "uid": "2507058",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-10-21 00:03",
+      "username": "wanghaohw",
+      "groupexpiry": "永不过期"
+    },
+    2507187: {
+      "cid": "366863",
+      "uid": "2507187",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-10-21 00:03",
+      "username": "Reinhold",
+      "groupexpiry": "永不过期"
+    },
+    2507100: {
+      "cid": "366862",
+      "uid": "2507100",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-10-21 00:03",
+      "username": "流離",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

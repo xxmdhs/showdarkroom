@@ -1,1 +1,115 @@
-{"message":{"dataexist":"1","cid":"515472"},"data":{2481535:{"cid":"517382","uid":"2481535","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"广告机","dateline":"2020-1-23 15:19","username":"HempireHking","groupexpiry":"永不过期"},2125263:{"cid":"517380","uid":"2125263","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"使用多个帐号,恶意获取多次回帖奖励","dateline":"2020-1-23 15:01","username":"nmbm","groupexpiry":"永不过期"},2621795:{"cid":"517379","uid":"2621795","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"使用多个帐号,恶意获取多次回帖奖励","dateline":"2020-1-23 15:01","username":"2560932432","groupexpiry":"永不过期"},2760414:{"cid":"517378","uid":"2760414","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"使用多个帐号,恶意获取多次回帖奖励","dateline":"2020-1-23 15:01","username":"1242109957","groupexpiry":"永不过期"},1191864:{"cid":"517377","uid":"1191864","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"使用多个帐号,恶意获取多次回帖奖励","dateline":"2020-1-23 15:01","username":"xine","groupexpiry":"永不过期"},2258049:{"cid":"517376","uid":"2258049","operatorid":"165947","operator":"凛","action":"禁止发言","reason":"使用多个帐号,恶意获取多次回帖奖励","dateline":"2020-1-23 15:01","username":"lds123123","groupexpiry":"永不过期"},2930769:{"cid":"517113","uid":"2930769","operatorid":"1422337","operator":"米斯琪","action":"禁止发言","reason":"水龙头","dateline":"2020-1-22 20:34","username":"牧格林顿","groupexpiry":"永不过期"},629429:{"cid":"516545","uid":"629429","operatorid":"108341","operator":"U1U420039","action":"禁止发言","reason":"水龙头","dateline":"2020-1-21 21:50","username":"zhchxun","groupexpiry":"2020-2-27 00:00"},2982232:{"cid":"516071","uid":"2982232","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"违规头像","dateline":"2020-1-20 13:45","username":"2971136375","groupexpiry":"永不过期"},2973977:{"cid":"515520","uid":"2973977","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"用户名违规","dateline":"2020-1-18 16:49","username":"吃你m的室","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "515472" },
+  "data": {
+    2481535: {
+      "cid": "517382",
+      "uid": "2481535",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-1-23 15:19",
+      "username": "HempireHking",
+      "groupexpiry": "永不过期"
+    },
+    2125263: {
+      "cid": "517380",
+      "uid": "2125263",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "使用多个帐号,恶意获取多次回帖奖励",
+      "dateline": "2020-1-23 15:01",
+      "username": "nmbm",
+      "groupexpiry": "永不过期"
+    },
+    2621795: {
+      "cid": "517379",
+      "uid": "2621795",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "使用多个帐号,恶意获取多次回帖奖励",
+      "dateline": "2020-1-23 15:01",
+      "username": "2560932432",
+      "groupexpiry": "永不过期"
+    },
+    2760414: {
+      "cid": "517378",
+      "uid": "2760414",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "使用多个帐号,恶意获取多次回帖奖励",
+      "dateline": "2020-1-23 15:01",
+      "username": "1242109957",
+      "groupexpiry": "永不过期"
+    },
+    1191864: {
+      "cid": "517377",
+      "uid": "1191864",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "使用多个帐号,恶意获取多次回帖奖励",
+      "dateline": "2020-1-23 15:01",
+      "username": "xine",
+      "groupexpiry": "永不过期"
+    },
+    2258049: {
+      "cid": "517376",
+      "uid": "2258049",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "使用多个帐号,恶意获取多次回帖奖励",
+      "dateline": "2020-1-23 15:01",
+      "username": "lds123123",
+      "groupexpiry": "永不过期"
+    },
+    2930769: {
+      "cid": "517113",
+      "uid": "2930769",
+      "operatorid": "1422337",
+      "operator": "米斯琪",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-1-22 20:34",
+      "username": "牧格林顿",
+      "groupexpiry": "永不过期"
+    },
+    629429: {
+      "cid": "516545",
+      "uid": "629429",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-1-21 21:50",
+      "username": "zhchxun",
+      "groupexpiry": "2020-2-27 00:00"
+    },
+    2982232: {
+      "cid": "516071",
+      "uid": "2982232",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "违规头像",
+      "dateline": "2020-1-20 13:45",
+      "username": "2971136375",
+      "groupexpiry": "永不过期"
+    },
+    2973977: {
+      "cid": "515520",
+      "uid": "2973977",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2020-1-18 16:49",
+      "username": "吃你m的室",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

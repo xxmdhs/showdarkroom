@@ -1,1 +1,60 @@
-{"message":{"dataexist":"1","cid":"429191"},"data":{2686761:{"cid":"431894","uid":"2686761","operatorid":"265600","operator":"rom718","action":"禁止发言","reason":"论坛严禁养号行为","dateline":"2019-7-19 15:30","username":"C咩doei","groupexpiry":"永不过期"},2686989:{"cid":"431892","uid":"2686989","operatorid":"265600","operator":"rom718","action":"禁止发言","reason":"论坛严禁养号行为","dateline":"2019-7-19 15:30","username":"C裤裤咩","groupexpiry":"永不过期"},2602001:{"cid":"431576","uid":"2602001","operatorid":"1793501","operator":"没糖的葫芦","action":"禁止发言","reason":"灌水","dateline":"2019-7-18 22:55","username":"1515656612","groupexpiry":"永不过期"},2752233:{"cid":"429246","uid":"2752233","operatorid":"240366","operator":"西红柿片","action":"禁止发言","reason":"水龙头","dateline":"2019-7-15 13:53","username":"皮皮粥","groupexpiry":"永不过期"},2293143:{"cid":"429244","uid":"2293143","operatorid":"2067786","operator":"Sakura_End","action":"禁止发言","reason":"大量小号恶意评分","dateline":"2019-7-15 13:46","username":"无需挂念","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "429191" },
+  "data": {
+    2686761: {
+      "cid": "431894",
+      "uid": "2686761",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "论坛严禁养号行为",
+      "dateline": "2019-7-19 15:30",
+      "username": "C咩doei",
+      "groupexpiry": "永不过期"
+    },
+    2686989: {
+      "cid": "431892",
+      "uid": "2686989",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "论坛严禁养号行为",
+      "dateline": "2019-7-19 15:30",
+      "username": "C裤裤咩",
+      "groupexpiry": "永不过期"
+    },
+    2602001: {
+      "cid": "431576",
+      "uid": "2602001",
+      "operatorid": "1793501",
+      "operator": "没糖的葫芦",
+      "action": "禁止发言",
+      "reason": "灌水",
+      "dateline": "2019-7-18 22:55",
+      "username": "1515656612",
+      "groupexpiry": "永不过期"
+    },
+    2752233: {
+      "cid": "429246",
+      "uid": "2752233",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-7-15 13:53",
+      "username": "皮皮粥",
+      "groupexpiry": "永不过期"
+    },
+    2293143: {
+      "cid": "429244",
+      "uid": "2293143",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "大量小号恶意评分",
+      "dateline": "2019-7-15 13:46",
+      "username": "无需挂念",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

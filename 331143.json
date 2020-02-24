@@ -1,1 +1,104 @@
-{"message":{"dataexist":"1","cid":"329504"},"data":{1372554:{"cid":"331141","uid":"1372554","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"疑似被盗账户","dateline":"2018-6-22 17:57","username":"li12345678910","groupexpiry":"永不过期"},1322479:{"cid":"331139","uid":"1322479","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"疑似被盗账户","dateline":"2018-6-22 17:57","username":"tybaba","groupexpiry":"永不过期"},2529680:{"cid":"331033","uid":"2529680","operatorid":"265600","operator":"rom718","action":"禁止发言","reason":"","dateline":"2018-6-21 10:25","username":"yangsanxiao5","groupexpiry":"永不过期"},2529409:{"cid":"331032","uid":"2529409","operatorid":"265600","operator":"rom718","action":"禁止发言","reason":"","dateline":"2018-6-21 10:25","username":"yangsanxiao4","groupexpiry":"永不过期"},2529297:{"cid":"331031","uid":"2529297","operatorid":"265600","operator":"rom718","action":"禁止发言","reason":"","dateline":"2018-6-21 10:24","username":"yangsanxiao3","groupexpiry":"永不过期"},2528258:{"cid":"331030","uid":"2528258","operatorid":"265600","operator":"rom718","action":"禁止发言","reason":"","dateline":"2018-6-21 10:24","username":"yangsanxiao2","groupexpiry":"永不过期"},2526673:{"cid":"331029","uid":"2526673","operatorid":"265600","operator":"rom718","action":"禁止发言","reason":"","dateline":"2018-6-21 10:23","username":"yangsanxiao1","groupexpiry":"永不过期"},2157949:{"cid":"330555","uid":"2157949","operatorid":"564746","operator":"gamerteam","action":"禁止发言","reason":"不得发布违规信息，政治内容，违反中华人民共和国《全国人大常委会关于维护互联网安全的决定》及其它相关法律法规\r\n（二）故意制作、传播计算机病毒等破坏性程序，攻击计算机系统及通信网络，致使计算机系统及通信网络遭受损害；","dateline":"2018-6-18 21:07","username":"265165wzd","groupexpiry":"永不过期"},1850:{"cid":"329506","uid":"1850","operatorid":"1095012","operator":"1582952890","action":"禁止发言","reason":"回血1人气","dateline":"2018-6-15 22:14","username":"plh714","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "329504" },
+  "data": {
+    1372554: {
+      "cid": "331141",
+      "uid": "1372554",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "疑似被盗账户",
+      "dateline": "2018-6-22 17:57",
+      "username": "li12345678910",
+      "groupexpiry": "永不过期"
+    },
+    1322479: {
+      "cid": "331139",
+      "uid": "1322479",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "疑似被盗账户",
+      "dateline": "2018-6-22 17:57",
+      "username": "tybaba",
+      "groupexpiry": "永不过期"
+    },
+    2529680: {
+      "cid": "331033",
+      "uid": "2529680",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-6-21 10:25",
+      "username": "yangsanxiao5",
+      "groupexpiry": "永不过期"
+    },
+    2529409: {
+      "cid": "331032",
+      "uid": "2529409",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-6-21 10:25",
+      "username": "yangsanxiao4",
+      "groupexpiry": "永不过期"
+    },
+    2529297: {
+      "cid": "331031",
+      "uid": "2529297",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-6-21 10:24",
+      "username": "yangsanxiao3",
+      "groupexpiry": "永不过期"
+    },
+    2528258: {
+      "cid": "331030",
+      "uid": "2528258",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-6-21 10:24",
+      "username": "yangsanxiao2",
+      "groupexpiry": "永不过期"
+    },
+    2526673: {
+      "cid": "331029",
+      "uid": "2526673",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-6-21 10:23",
+      "username": "yangsanxiao1",
+      "groupexpiry": "永不过期"
+    },
+    2157949: {
+      "cid": "330555",
+      "uid": "2157949",
+      "operatorid": "564746",
+      "operator": "gamerteam",
+      "action": "禁止发言",
+      "reason": "不得发布违规信息，政治内容，违反中华人民共和国《全国人大常委会关于维护互联网安全的决定》及其它相关法律法规\r\n（二）故意制作、传播计算机病毒等破坏性程序，攻击计算机系统及通信网络，致使计算机系统及通信网络遭受损害；",
+      "dateline": "2018-6-18 21:07",
+      "username": "265165wzd",
+      "groupexpiry": "永不过期"
+    },
+    1850: {
+      "cid": "329506",
+      "uid": "1850",
+      "operatorid": "1095012",
+      "operator": "1582952890",
+      "action": "禁止发言",
+      "reason": "回血1人气",
+      "dateline": "2018-6-15 22:14",
+      "username": "plh714",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

@@ -1,1 +1,148 @@
-{"message":{"dataexist":"1","cid":"1805"},"data":{515667:{"cid":"3597","uid":"515667","operatorid":"319566","operator":"wjwrh","action":"禁止发言","reason":"大量水贴","dateline":"2014-2-11 18:08","username":"方块#","groupexpiry":"永不过期"},82583:{"cid":"3566","uid":"82583","operatorid":"59136","operator":"冥王星人","action":"禁止发言","reason":"纯水帖，永封。","dateline":"2014-2-11 14:11","username":"277552846","groupexpiry":"永不过期"},84506:{"cid":"3233","uid":"84506","operatorid":"319566","operator":"wjwrh","action":"禁止发言","reason":"不解释","dateline":"2014-2-10 11:40","username":"minecraft小鬼","groupexpiry":"永不过期"},247199:{"cid":"3231","uid":"247199","operatorid":"23","operator":"紫枫","action":"禁止发言","reason":"A","dateline":"2014-2-10 11:25","username":"Iron_man.","groupexpiry":"永不过期"},458639:{"cid":"3038","uid":"458639","operatorid":"319566","operator":"wjwrh","action":"禁止发言","reason":"全篇复制粘贴\r\n性质极其恶劣","dateline":"2014-2-9 16:22","username":"1375094533","groupexpiry":"永不过期"},524657:{"cid":"2956","uid":"524657","operatorid":"84901","operator":"pogox","action":"禁止发言","reason":"广告","dateline":"2014-2-8 20:09","username":"xuaishi2013","groupexpiry":"永不过期"},497545:{"cid":"2574","uid":"497545","operatorid":"319566","operator":"wjwrh","action":"禁止发言","reason":"广告机\r\n恶意宣传服务器","dateline":"2014-2-7 20:13","username":"坑跌啊你","groupexpiry":"永不过期"},368962:{"cid":"2488","uid":"368962","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"黄色头像","dateline":"2014-2-7 13:23","username":"a584066253","groupexpiry":"永不过期"},211132:{"cid":"2370","uid":"211132","operatorid":"3467","operator":"sjjklh","action":"禁止发言","reason":"多次商业广告","dateline":"2014-2-6 18:21","username":"Mess","groupexpiry":"永不过期"},391030:{"cid":"2068","uid":"391030","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"长头像+水贴","dateline":"2014-2-5 17:01","username":"13970097581","groupexpiry":"永不过期"},519210:{"cid":"1963","uid":"519210","operatorid":"319566","operator":"wjwrh","action":"禁止发言","reason":"恶意主题灌水","dateline":"2014-2-5 11:54","username":"古古怪怪444","groupexpiry":"永不过期"},483846:{"cid":"1880","uid":"483846","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"刷分","dateline":"2014-2-4 22:01","username":"菊花大虾","groupexpiry":"永不过期"},230335:{"cid":"1866","uid":"230335","operatorid":"27182","operator":"luanhaoyi","action":"禁止发言","reason":".","dateline":"2014-2-4 21:16","username":"147996994","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "1805" },
+  "data": {
+    515667: {
+      "cid": "3597",
+      "uid": "515667",
+      "operatorid": "319566",
+      "operator": "wjwrh",
+      "action": "禁止发言",
+      "reason": "大量水贴",
+      "dateline": "2014-2-11 18:08",
+      "username": "方块#",
+      "groupexpiry": "永不过期"
+    },
+    82583: {
+      "cid": "3566",
+      "uid": "82583",
+      "operatorid": "59136",
+      "operator": "冥王星人",
+      "action": "禁止发言",
+      "reason": "纯水帖，永封。",
+      "dateline": "2014-2-11 14:11",
+      "username": "277552846",
+      "groupexpiry": "永不过期"
+    },
+    84506: {
+      "cid": "3233",
+      "uid": "84506",
+      "operatorid": "319566",
+      "operator": "wjwrh",
+      "action": "禁止发言",
+      "reason": "不解释",
+      "dateline": "2014-2-10 11:40",
+      "username": "minecraft小鬼",
+      "groupexpiry": "永不过期"
+    },
+    247199: {
+      "cid": "3231",
+      "uid": "247199",
+      "operatorid": "23",
+      "operator": "紫枫",
+      "action": "禁止发言",
+      "reason": "A",
+      "dateline": "2014-2-10 11:25",
+      "username": "Iron_man.",
+      "groupexpiry": "永不过期"
+    },
+    458639: {
+      "cid": "3038",
+      "uid": "458639",
+      "operatorid": "319566",
+      "operator": "wjwrh",
+      "action": "禁止发言",
+      "reason": "全篇复制粘贴\r\n性质极其恶劣",
+      "dateline": "2014-2-9 16:22",
+      "username": "1375094533",
+      "groupexpiry": "永不过期"
+    },
+    524657: {
+      "cid": "2956",
+      "uid": "524657",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "广告",
+      "dateline": "2014-2-8 20:09",
+      "username": "xuaishi2013",
+      "groupexpiry": "永不过期"
+    },
+    497545: {
+      "cid": "2574",
+      "uid": "497545",
+      "operatorid": "319566",
+      "operator": "wjwrh",
+      "action": "禁止发言",
+      "reason": "广告机\r\n恶意宣传服务器",
+      "dateline": "2014-2-7 20:13",
+      "username": "坑跌啊你",
+      "groupexpiry": "永不过期"
+    },
+    368962: {
+      "cid": "2488",
+      "uid": "368962",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "黄色头像",
+      "dateline": "2014-2-7 13:23",
+      "username": "a584066253",
+      "groupexpiry": "永不过期"
+    },
+    211132: {
+      "cid": "2370",
+      "uid": "211132",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "多次商业广告",
+      "dateline": "2014-2-6 18:21",
+      "username": "Mess",
+      "groupexpiry": "永不过期"
+    },
+    391030: {
+      "cid": "2068",
+      "uid": "391030",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "长头像+水贴",
+      "dateline": "2014-2-5 17:01",
+      "username": "13970097581",
+      "groupexpiry": "永不过期"
+    },
+    519210: {
+      "cid": "1963",
+      "uid": "519210",
+      "operatorid": "319566",
+      "operator": "wjwrh",
+      "action": "禁止发言",
+      "reason": "恶意主题灌水",
+      "dateline": "2014-2-5 11:54",
+      "username": "古古怪怪444",
+      "groupexpiry": "永不过期"
+    },
+    483846: {
+      "cid": "1880",
+      "uid": "483846",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2014-2-4 22:01",
+      "username": "菊花大虾",
+      "groupexpiry": "永不过期"
+    },
+    230335: {
+      "cid": "1866",
+      "uid": "230335",
+      "operatorid": "27182",
+      "operator": "luanhaoyi",
+      "action": "禁止发言",
+      "reason": ".",
+      "dateline": "2014-2-4 21:16",
+      "username": "147996994",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

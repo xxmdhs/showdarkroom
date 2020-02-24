@@ -1,1 +1,126 @@
-{"message":{"dataexist":"1","cid":"270796"},"data":{2316868:{"cid":"276436","uid":"2316868","operatorid":"237322","operator":"1427639813","action":"禁止发言","reason":"骂街号","dateline":"2017-8-18 09:10","username":"xiaoze135","groupexpiry":"永不过期"},2311687:{"cid":"276321","uid":"2311687","operatorid":"5367","operator":"john180","action":"禁止访问","reason":"","dateline":"2017-8-17 20:40","username":"杨妹蓓","groupexpiry":"永不过期"},2315608:{"cid":"274755","uid":"2315608","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"广告机","dateline":"2017-8-16 14:23","username":"qq3071972210","groupexpiry":"永不过期"},2314948:{"cid":"273828","uid":"2314948","operatorid":"1575538","operator":"ff98sha","action":"禁止发言","reason":"广告机","dateline":"2017-8-15 13:29","username":"溪谷小兵","groupexpiry":"永不过期"},1612934:{"cid":"273345","uid":"1612934","operatorid":"5367","operator":"john180","action":"禁止访问","reason":"用户名违规","dateline":"2017-8-14 15:48","username":"草你妈妈","groupexpiry":"永不过期"},2227145:{"cid":"273209","uid":"2227145","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2017-8-14 11:12","username":"守护丽人","groupexpiry":"永不过期"},2307835:{"cid":"273030","uid":"2307835","operatorid":"237322","operator":"1427639813","action":"禁止发言","reason":"刷帖","dateline":"2017-8-13 22:18","username":"genius2","groupexpiry":"永不过期"},2309152:{"cid":"272608","uid":"2309152","operatorid":"1422337","operator":"MystiaCC","action":"禁止发言","reason":"水龙头","dateline":"2017-8-13 06:05","username":"yushun","groupexpiry":"永不过期"},1438917:{"cid":"272604","uid":"1438917","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"疑似广告机","dateline":"2017-8-13 01:01","username":"杜嘉楠","groupexpiry":"永不过期"},1435614:{"cid":"270988","uid":"1435614","operatorid":"237322","operator":"1427639813","action":"禁止发言","reason":"恶意刷帖","dateline":"2017-8-9 19:19","username":"598464011","groupexpiry":"永不过期"},2018009:{"cid":"270798","uid":"2018009","operatorid":"5367","operator":"john180","action":"禁止访问","reason":"用户名违规","dateline":"2017-8-9 00:12","username":"fuck我","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "270796" },
+  "data": {
+    2316868: {
+      "cid": "276436",
+      "uid": "2316868",
+      "operatorid": "237322",
+      "operator": "1427639813",
+      "action": "禁止发言",
+      "reason": "骂街号",
+      "dateline": "2017-8-18 09:10",
+      "username": "xiaoze135",
+      "groupexpiry": "永不过期"
+    },
+    2311687: {
+      "cid": "276321",
+      "uid": "2311687",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2017-8-17 20:40",
+      "username": "杨妹蓓",
+      "groupexpiry": "永不过期"
+    },
+    2315608: {
+      "cid": "274755",
+      "uid": "2315608",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2017-8-16 14:23",
+      "username": "qq3071972210",
+      "groupexpiry": "永不过期"
+    },
+    2314948: {
+      "cid": "273828",
+      "uid": "2314948",
+      "operatorid": "1575538",
+      "operator": "ff98sha",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2017-8-15 13:29",
+      "username": "溪谷小兵",
+      "groupexpiry": "永不过期"
+    },
+    1612934: {
+      "cid": "273345",
+      "uid": "1612934",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": "用户名违规",
+      "dateline": "2017-8-14 15:48",
+      "username": "草你妈妈",
+      "groupexpiry": "永不过期"
+    },
+    2227145: {
+      "cid": "273209",
+      "uid": "2227145",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-8-14 11:12",
+      "username": "守护丽人",
+      "groupexpiry": "永不过期"
+    },
+    2307835: {
+      "cid": "273030",
+      "uid": "2307835",
+      "operatorid": "237322",
+      "operator": "1427639813",
+      "action": "禁止发言",
+      "reason": "刷帖",
+      "dateline": "2017-8-13 22:18",
+      "username": "genius2",
+      "groupexpiry": "永不过期"
+    },
+    2309152: {
+      "cid": "272608",
+      "uid": "2309152",
+      "operatorid": "1422337",
+      "operator": "MystiaCC",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-8-13 06:05",
+      "username": "yushun",
+      "groupexpiry": "永不过期"
+    },
+    1438917: {
+      "cid": "272604",
+      "uid": "1438917",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "疑似广告机",
+      "dateline": "2017-8-13 01:01",
+      "username": "杜嘉楠",
+      "groupexpiry": "永不过期"
+    },
+    1435614: {
+      "cid": "270988",
+      "uid": "1435614",
+      "operatorid": "237322",
+      "operator": "1427639813",
+      "action": "禁止发言",
+      "reason": "恶意刷帖",
+      "dateline": "2017-8-9 19:19",
+      "username": "598464011",
+      "groupexpiry": "永不过期"
+    },
+    2018009: {
+      "cid": "270798",
+      "uid": "2018009",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": "用户名违规",
+      "dateline": "2017-8-9 00:12",
+      "username": "fuck我",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

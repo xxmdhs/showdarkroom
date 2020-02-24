@@ -1,1 +1,181 @@
-{"message":{"dataexist":"1","cid":"365340"},"data":{2507070:{"cid":"366861","uid":"2507070","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2018-10-21 00:03","username":"creep1","groupexpiry":"永不过期"},2507058:{"cid":"366860","uid":"2507058","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2018-10-21 00:02","username":"wanghaohw","groupexpiry":"永不过期"},2507087:{"cid":"366859","uid":"2507087","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2018-10-21 00:02","username":"xiaoshionly","groupexpiry":"永不过期"},2496760:{"cid":"366858","uid":"2496760","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2018-10-21 00:02","username":"coolcatyjw","groupexpiry":"永不过期"},2496790:{"cid":"366857","uid":"2496790","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2018-10-21 00:02","username":"Frady燕","groupexpiry":"永不过期"},2496699:{"cid":"366856","uid":"2496699","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2018-10-21 00:02","username":"边缘行者","groupexpiry":"永不过期"},2496781:{"cid":"366855","uid":"2496781","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2018-10-21 00:01","username":"franfang0117","groupexpiry":"永不过期"},2496697:{"cid":"366854","uid":"2496697","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2018-10-21 00:01","username":"eleven4653","groupexpiry":"永不过期"},2507111:{"cid":"366853","uid":"2507111","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2018-10-21 00:01","username":"永远米粒","groupexpiry":"永不过期"},2507078:{"cid":"366852","uid":"2507078","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2018-10-21 00:01","username":"狡狡兔","groupexpiry":"永不过期"},1552:{"cid":"366850","uid":"1552","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2018-10-20 23:58","username":"bt1352","groupexpiry":"永不过期"},1139:{"cid":"366849","uid":"1139","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2018-10-20 23:57","username":"tgouki","groupexpiry":"永不过期"},2507063:{"cid":"366825","uid":"2507063","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2018-10-20 23:30","username":"Seven1983","groupexpiry":"永不过期"},217565:{"cid":"365735","uid":"217565","operatorid":"1073223","operator":"乙烯_中国","action":"禁止发言","reason":"http://www.mcbbs.net/thread-823731-1-1.html","dateline":"2018-10-13 21:41","username":"小孩不乖","groupexpiry":"永不过期"},1561539:{"cid":"365689","uid":"1561539","operatorid":"265600","operator":"rom718","action":"禁止访问","reason":"","dateline":"2018-10-13 19:25","username":"SE49NT","groupexpiry":"永不过期"},2582020:{"cid":"365340","uid":"2582020","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"囤积账号","dateline":"2018-10-12 23:12","username":"m13893797407","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "365340" },
+  "data": {
+    2507070: {
+      "cid": "366861",
+      "uid": "2507070",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-10-21 00:03",
+      "username": "creep1",
+      "groupexpiry": "永不过期"
+    },
+    2507058: {
+      "cid": "366860",
+      "uid": "2507058",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-10-21 00:02",
+      "username": "wanghaohw",
+      "groupexpiry": "永不过期"
+    },
+    2507087: {
+      "cid": "366859",
+      "uid": "2507087",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-10-21 00:02",
+      "username": "xiaoshionly",
+      "groupexpiry": "永不过期"
+    },
+    2496760: {
+      "cid": "366858",
+      "uid": "2496760",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-10-21 00:02",
+      "username": "coolcatyjw",
+      "groupexpiry": "永不过期"
+    },
+    2496790: {
+      "cid": "366857",
+      "uid": "2496790",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-10-21 00:02",
+      "username": "Frady燕",
+      "groupexpiry": "永不过期"
+    },
+    2496699: {
+      "cid": "366856",
+      "uid": "2496699",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-10-21 00:02",
+      "username": "边缘行者",
+      "groupexpiry": "永不过期"
+    },
+    2496781: {
+      "cid": "366855",
+      "uid": "2496781",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-10-21 00:01",
+      "username": "franfang0117",
+      "groupexpiry": "永不过期"
+    },
+    2496697: {
+      "cid": "366854",
+      "uid": "2496697",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-10-21 00:01",
+      "username": "eleven4653",
+      "groupexpiry": "永不过期"
+    },
+    2507111: {
+      "cid": "366853",
+      "uid": "2507111",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-10-21 00:01",
+      "username": "永远米粒",
+      "groupexpiry": "永不过期"
+    },
+    2507078: {
+      "cid": "366852",
+      "uid": "2507078",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-10-21 00:01",
+      "username": "狡狡兔",
+      "groupexpiry": "永不过期"
+    },
+    1552: {
+      "cid": "366850",
+      "uid": "1552",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-10-20 23:58",
+      "username": "bt1352",
+      "groupexpiry": "永不过期"
+    },
+    1139: {
+      "cid": "366849",
+      "uid": "1139",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-10-20 23:57",
+      "username": "tgouki",
+      "groupexpiry": "永不过期"
+    },
+    2507063: {
+      "cid": "366825",
+      "uid": "2507063",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-10-20 23:30",
+      "username": "Seven1983",
+      "groupexpiry": "永不过期"
+    },
+    217565: {
+      "cid": "365735",
+      "uid": "217565",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "http://www.mcbbs.net/thread-823731-1-1.html",
+      "dateline": "2018-10-13 21:41",
+      "username": "小孩不乖",
+      "groupexpiry": "永不过期"
+    },
+    1561539: {
+      "cid": "365689",
+      "uid": "1561539",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2018-10-13 19:25",
+      "username": "SE49NT",
+      "groupexpiry": "永不过期"
+    },
+    2582020: {
+      "cid": "365340",
+      "uid": "2582020",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "囤积账号",
+      "dateline": "2018-10-12 23:12",
+      "username": "m13893797407",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

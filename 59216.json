@@ -1,1 +1,170 @@
-{"message":{"dataexist":"1","cid":"56135"},"data":{964624:{"cid":"58477","uid":"964624","operatorid":"265600","operator":"rom718","action":"禁止访问","reason":"","dateline":"2014-10-11 15:13","username":"弄死你八方","groupexpiry":"永不过期"},813283:{"cid":"58474","uid":"813283","operatorid":"59136","operator":"冥王星人","action":"禁止发言","reason":"违反版规，辱骂论坛管理人员。","dateline":"2014-10-11 14:13","username":"葛力姆乔","groupexpiry":"永不过期"},924516:{"cid":"58391","uid":"924516","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"广告机","dateline":"2014-10-10 22:16","username":"xiaohaolove","groupexpiry":"永不过期"},746699:{"cid":"58231","uid":"746699","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"广告机","dateline":"2014-10-9 23:20","username":"520shiyi","groupexpiry":"永不过期"},860300:{"cid":"58229","uid":"860300","operatorid":"265600","operator":"rom718","action":"禁止发言","reason":"请整改头像后再申请解除","dateline":"2014-10-9 22:56","username":"zhuaishuxy520","groupexpiry":"永不过期"},964513:{"cid":"57987","uid":"964513","operatorid":"3038","operator":"混乱","action":"禁止访问","reason":"","dateline":"2014-10-9 15:41","username":"vc123","groupexpiry":"永不过期"},963590:{"cid":"57762","uid":"963590","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"马甲喷人","dateline":"2014-10-8 21:08","username":"来自丶喵星","groupexpiry":"永不过期"},949405:{"cid":"57666","uid":"949405","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"刷帖机","dateline":"2014-10-7 23:17","username":"saund","groupexpiry":"永不过期"},615630:{"cid":"56937","uid":"615630","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"广告机","dateline":"2014-10-6 16:50","username":"全能D永恒","groupexpiry":"永不过期"},333102:{"cid":"56934","uid":"333102","operatorid":"66971","operator":"爱国青年","action":"禁止发言","reason":"广告机","dateline":"2014-10-6 16:48","username":"2561275928","groupexpiry":"永不过期"},292999:{"cid":"56787","uid":"292999","operatorid":"59136","operator":"冥王星人","action":"禁止发言","reason":"很好","dateline":"2014-10-6 11:27","username":"Andxa","groupexpiry":"永不过期"},805261:{"cid":"56684","uid":"805261","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2014-10-6 00:36","username":"aa535364787","groupexpiry":"永不过期"},920316:{"cid":"56446","uid":"920316","operatorid":"17261","operator":"rickky2","action":"禁止发言","reason":"广告","dateline":"2014-10-5 18:53","username":"yatda","groupexpiry":"永不过期"},660215:{"cid":"56159","uid":"660215","operatorid":"496965","operator":"Tzi君","action":"禁止发言","reason":"大量灌水","dateline":"2014-10-5 10:27","username":"wto110t","groupexpiry":"永不过期"},362593:{"cid":"56135","uid":"362593","operatorid":"496965","operator":"Tzi君","action":"禁止发言","reason":"广告机","dateline":"2014-10-5 10:22","username":"onlinefqh","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "56135" },
+  "data": {
+    964624: {
+      "cid": "58477",
+      "uid": "964624",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2014-10-11 15:13",
+      "username": "弄死你八方",
+      "groupexpiry": "永不过期"
+    },
+    813283: {
+      "cid": "58474",
+      "uid": "813283",
+      "operatorid": "59136",
+      "operator": "冥王星人",
+      "action": "禁止发言",
+      "reason": "违反版规，辱骂论坛管理人员。",
+      "dateline": "2014-10-11 14:13",
+      "username": "葛力姆乔",
+      "groupexpiry": "永不过期"
+    },
+    924516: {
+      "cid": "58391",
+      "uid": "924516",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-10-10 22:16",
+      "username": "xiaohaolove",
+      "groupexpiry": "永不过期"
+    },
+    746699: {
+      "cid": "58231",
+      "uid": "746699",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-10-9 23:20",
+      "username": "520shiyi",
+      "groupexpiry": "永不过期"
+    },
+    860300: {
+      "cid": "58229",
+      "uid": "860300",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "请整改头像后再申请解除",
+      "dateline": "2014-10-9 22:56",
+      "username": "zhuaishuxy520",
+      "groupexpiry": "永不过期"
+    },
+    964513: {
+      "cid": "57987",
+      "uid": "964513",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2014-10-9 15:41",
+      "username": "vc123",
+      "groupexpiry": "永不过期"
+    },
+    963590: {
+      "cid": "57762",
+      "uid": "963590",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "马甲喷人",
+      "dateline": "2014-10-8 21:08",
+      "username": "来自丶喵星",
+      "groupexpiry": "永不过期"
+    },
+    949405: {
+      "cid": "57666",
+      "uid": "949405",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷帖机",
+      "dateline": "2014-10-7 23:17",
+      "username": "saund",
+      "groupexpiry": "永不过期"
+    },
+    615630: {
+      "cid": "56937",
+      "uid": "615630",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-10-6 16:50",
+      "username": "全能D永恒",
+      "groupexpiry": "永不过期"
+    },
+    333102: {
+      "cid": "56934",
+      "uid": "333102",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-10-6 16:48",
+      "username": "2561275928",
+      "groupexpiry": "永不过期"
+    },
+    292999: {
+      "cid": "56787",
+      "uid": "292999",
+      "operatorid": "59136",
+      "operator": "冥王星人",
+      "action": "禁止发言",
+      "reason": "很好",
+      "dateline": "2014-10-6 11:27",
+      "username": "Andxa",
+      "groupexpiry": "永不过期"
+    },
+    805261: {
+      "cid": "56684",
+      "uid": "805261",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-10-6 00:36",
+      "username": "aa535364787",
+      "groupexpiry": "永不过期"
+    },
+    920316: {
+      "cid": "56446",
+      "uid": "920316",
+      "operatorid": "17261",
+      "operator": "rickky2",
+      "action": "禁止发言",
+      "reason": "广告",
+      "dateline": "2014-10-5 18:53",
+      "username": "yatda",
+      "groupexpiry": "永不过期"
+    },
+    660215: {
+      "cid": "56159",
+      "uid": "660215",
+      "operatorid": "496965",
+      "operator": "Tzi君",
+      "action": "禁止发言",
+      "reason": "大量灌水",
+      "dateline": "2014-10-5 10:27",
+      "username": "wto110t",
+      "groupexpiry": "永不过期"
+    },
+    362593: {
+      "cid": "56135",
+      "uid": "362593",
+      "operatorid": "496965",
+      "operator": "Tzi君",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-10-5 10:22",
+      "username": "onlinefqh",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

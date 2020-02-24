@@ -1,1 +1,269 @@
-{"message":{"dataexist":"1","cid":"455139"},"data":{2830029:{"cid":"455170","uid":"2830029","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"异常账号","dateline":"2019-8-26 15:52","username":"chengjia901450","groupexpiry":"永不过期"},2829728:{"cid":"455169","uid":"2829728","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"异常账号","dateline":"2019-8-26 15:52","username":"yangwei928720","groupexpiry":"永不过期"},2829707:{"cid":"455168","uid":"2829707","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"异常账号","dateline":"2019-8-26 15:52","username":"dingyi37092967","groupexpiry":"永不过期"},2829492:{"cid":"455167","uid":"2829492","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"异常账号","dateline":"2019-8-26 15:52","username":"kaiwei73397","groupexpiry":"永不过期"},2829307:{"cid":"455166","uid":"2829307","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"异常账号","dateline":"2019-8-26 15:52","username":"yingfan901768","groupexpiry":"永不过期"},2829305:{"cid":"455165","uid":"2829305","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"异常账号","dateline":"2019-8-26 15:52","username":"wenguo85080366","groupexpiry":"永不过期"},2828508:{"cid":"455164","uid":"2828508","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"异常账号","dateline":"2019-8-26 15:52","username":"side34487813","groupexpiry":"永不过期"},2828475:{"cid":"455163","uid":"2828475","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"异常账号","dateline":"2019-8-26 15:52","username":"yiwei8409599","groupexpiry":"永不过期"},547866:{"cid":"455158","uid":"547866","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"账户异常,请联系管理员","dateline":"2019-8-26 15:46","username":"路飞谁十大","groupexpiry":"永不过期"},2174547:{"cid":"455153","uid":"2174547","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"账户异常,请联系管理员","dateline":"2019-8-26 15:45","username":"3526064240","groupexpiry":"永不过期"},2822396:{"cid":"455152","uid":"2822396","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"账户异常,请联系管理员","dateline":"2019-8-26 15:38","username":"[LUguo]Appleb5","groupexpiry":"永不过期"},2808704:{"cid":"455151","uid":"2808704","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"账户异常,请联系管理员","dateline":"2019-8-26 15:33","username":"醉看地","groupexpiry":"永不过期"},2808699:{"cid":"455150","uid":"2808699","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"账户异常,请联系管理员","dateline":"2019-8-26 15:33","username":"醉看草","groupexpiry":"永不过期"},2808678:{"cid":"455149","uid":"2808678","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"账户异常,请联系管理员","dateline":"2019-8-26 15:33","username":"醉看云","groupexpiry":"永不过期"},2808661:{"cid":"455148","uid":"2808661","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"账户异常,请联系管理员","dateline":"2019-8-26 15:33","username":"醉看梦","groupexpiry":"永不过期"},2808654:{"cid":"455147","uid":"2808654","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"账户异常,请联系管理员","dateline":"2019-8-26 15:33","username":"醉看花","groupexpiry":"永不过期"},2822394:{"cid":"455146","uid":"2822394","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"账户异常,请联系管理员","dateline":"2019-8-26 15:32","username":"137922779428","groupexpiry":"永不过期"},2822393:{"cid":"455145","uid":"2822393","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"账户异常,请联系管理员","dateline":"2019-8-26 15:31","username":"a13418187807","groupexpiry":"永不过期"},2822401:{"cid":"455144","uid":"2822401","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"账户异常,请联系管理员","dateline":"2019-8-26 15:31","username":"li2512343662z7","groupexpiry":"永不过期"},2822403:{"cid":"455143","uid":"2822403","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"账户异常,请联系管理员","dateline":"2019-8-26 15:31","username":"zuihouwander7","groupexpiry":"永不过期"},2858883:{"cid":"455142","uid":"2858883","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"账户异常,请联系管理员","dateline":"2019-8-26 15:31","username":"zhizhong113045","groupexpiry":"永不过期"},1308361:{"cid":"455141","uid":"1308361","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"账户异常,请联系管理员","dateline":"2019-8-26 15:31","username":"a2292163858a","groupexpiry":"永不过期"},2808658:{"cid":"455140","uid":"2808658","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"账户异常,请联系管理员","dateline":"2019-8-26 15:30","username":"醉看树","groupexpiry":"永不过期"},2757406:{"cid":"455139","uid":"2757406","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"账户异常,请联系管理员","dateline":"2019-8-26 15:30","username":"cxvxbxdb","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "455139" },
+  "data": {
+    2830029: {
+      "cid": "455170",
+      "uid": "2830029",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-26 15:52",
+      "username": "chengjia901450",
+      "groupexpiry": "永不过期"
+    },
+    2829728: {
+      "cid": "455169",
+      "uid": "2829728",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-26 15:52",
+      "username": "yangwei928720",
+      "groupexpiry": "永不过期"
+    },
+    2829707: {
+      "cid": "455168",
+      "uid": "2829707",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-26 15:52",
+      "username": "dingyi37092967",
+      "groupexpiry": "永不过期"
+    },
+    2829492: {
+      "cid": "455167",
+      "uid": "2829492",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-26 15:52",
+      "username": "kaiwei73397",
+      "groupexpiry": "永不过期"
+    },
+    2829307: {
+      "cid": "455166",
+      "uid": "2829307",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-26 15:52",
+      "username": "yingfan901768",
+      "groupexpiry": "永不过期"
+    },
+    2829305: {
+      "cid": "455165",
+      "uid": "2829305",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-26 15:52",
+      "username": "wenguo85080366",
+      "groupexpiry": "永不过期"
+    },
+    2828508: {
+      "cid": "455164",
+      "uid": "2828508",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-26 15:52",
+      "username": "side34487813",
+      "groupexpiry": "永不过期"
+    },
+    2828475: {
+      "cid": "455163",
+      "uid": "2828475",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-26 15:52",
+      "username": "yiwei8409599",
+      "groupexpiry": "永不过期"
+    },
+    547866: {
+      "cid": "455158",
+      "uid": "547866",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "账户异常,请联系管理员",
+      "dateline": "2019-8-26 15:46",
+      "username": "路飞谁十大",
+      "groupexpiry": "永不过期"
+    },
+    2174547: {
+      "cid": "455153",
+      "uid": "2174547",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "账户异常,请联系管理员",
+      "dateline": "2019-8-26 15:45",
+      "username": "3526064240",
+      "groupexpiry": "永不过期"
+    },
+    2822396: {
+      "cid": "455152",
+      "uid": "2822396",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "账户异常,请联系管理员",
+      "dateline": "2019-8-26 15:38",
+      "username": "[LUguo]Appleb5",
+      "groupexpiry": "永不过期"
+    },
+    2808704: {
+      "cid": "455151",
+      "uid": "2808704",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "账户异常,请联系管理员",
+      "dateline": "2019-8-26 15:33",
+      "username": "醉看地",
+      "groupexpiry": "永不过期"
+    },
+    2808699: {
+      "cid": "455150",
+      "uid": "2808699",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "账户异常,请联系管理员",
+      "dateline": "2019-8-26 15:33",
+      "username": "醉看草",
+      "groupexpiry": "永不过期"
+    },
+    2808678: {
+      "cid": "455149",
+      "uid": "2808678",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "账户异常,请联系管理员",
+      "dateline": "2019-8-26 15:33",
+      "username": "醉看云",
+      "groupexpiry": "永不过期"
+    },
+    2808661: {
+      "cid": "455148",
+      "uid": "2808661",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "账户异常,请联系管理员",
+      "dateline": "2019-8-26 15:33",
+      "username": "醉看梦",
+      "groupexpiry": "永不过期"
+    },
+    2808654: {
+      "cid": "455147",
+      "uid": "2808654",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "账户异常,请联系管理员",
+      "dateline": "2019-8-26 15:33",
+      "username": "醉看花",
+      "groupexpiry": "永不过期"
+    },
+    2822394: {
+      "cid": "455146",
+      "uid": "2822394",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "账户异常,请联系管理员",
+      "dateline": "2019-8-26 15:32",
+      "username": "137922779428",
+      "groupexpiry": "永不过期"
+    },
+    2822393: {
+      "cid": "455145",
+      "uid": "2822393",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "账户异常,请联系管理员",
+      "dateline": "2019-8-26 15:31",
+      "username": "a13418187807",
+      "groupexpiry": "永不过期"
+    },
+    2822401: {
+      "cid": "455144",
+      "uid": "2822401",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "账户异常,请联系管理员",
+      "dateline": "2019-8-26 15:31",
+      "username": "li2512343662z7",
+      "groupexpiry": "永不过期"
+    },
+    2822403: {
+      "cid": "455143",
+      "uid": "2822403",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "账户异常,请联系管理员",
+      "dateline": "2019-8-26 15:31",
+      "username": "zuihouwander7",
+      "groupexpiry": "永不过期"
+    },
+    2858883: {
+      "cid": "455142",
+      "uid": "2858883",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "账户异常,请联系管理员",
+      "dateline": "2019-8-26 15:31",
+      "username": "zhizhong113045",
+      "groupexpiry": "永不过期"
+    },
+    1308361: {
+      "cid": "455141",
+      "uid": "1308361",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "账户异常,请联系管理员",
+      "dateline": "2019-8-26 15:31",
+      "username": "a2292163858a",
+      "groupexpiry": "永不过期"
+    },
+    2808658: {
+      "cid": "455140",
+      "uid": "2808658",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "账户异常,请联系管理员",
+      "dateline": "2019-8-26 15:30",
+      "username": "醉看树",
+      "groupexpiry": "永不过期"
+    },
+    2757406: {
+      "cid": "455139",
+      "uid": "2757406",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "账户异常,请联系管理员",
+      "dateline": "2019-8-26 15:30",
+      "username": "cxvxbxdb",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

@@ -1,1 +1,148 @@
-{"message":{"dataexist":"1","cid":"334857"},"data":{2536654:{"cid":"338075","uid":"2536654","operatorid":"1280406","operator":"zjxx","action":"禁止发言","reason":"马甲","dateline":"2018-7-8 12:19","username":"修远","groupexpiry":"永不过期"},1513536:{"cid":"337544","uid":"1513536","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2018-7-7 14:17","username":"中二の猫叔","groupexpiry":"永不过期"},2536059:{"cid":"337542","uid":"2536059","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"刷分","dateline":"2018-7-7 14:17","username":"MC丶祭酒","groupexpiry":"永不过期"},2317539:{"cid":"337512","uid":"2317539","operatorid":"1095012","operator":"1582952890","action":"禁止发言","reason":"水龙头","dateline":"2018-7-7 12:23","username":"zzy15236234118","groupexpiry":"永不过期"},2274713:{"cid":"336896","uid":"2274713","operatorid":"240460","operator":"xu11xx","action":"禁止发言","reason":"诈骗，thread:801941","dateline":"2018-7-6 00:35","username":"3086186853","groupexpiry":"永不过期"},289435:{"cid":"336893","uid":"289435","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"违反中华人民共和国《全国人大常委会关于维护互联网安全的决定》","dateline":"2018-7-5 23:36","username":"SotrForgotten","groupexpiry":"永不过期"},2538478:{"cid":"335134","uid":"2538478","operatorid":"2067786","operator":"Sakura_End","action":"禁止发言","reason":"1-6","dateline":"2018-7-1 21:39","username":"Sakurа_End","groupexpiry":"永不过期"},2531976:{"cid":"335074","uid":"2531976","operatorid":"108341","operator":"U1U420039","action":"禁止发言","reason":"马甲","dateline":"2018-7-1 18:28","username":"何小川","groupexpiry":"永不过期"},2441100:{"cid":"335073","uid":"2441100","operatorid":"1280406","operator":"zjxx","action":"禁止发言","reason":"马甲","dateline":"2018-7-1 18:28","username":"1314.00g123","groupexpiry":"永不过期"},2531387:{"cid":"335072","uid":"2531387","operatorid":"1280406","operator":"zjxx","action":"禁止发言","reason":"马甲","dateline":"2018-7-1 18:25","username":"临海之泉","groupexpiry":"永不过期"},1622561:{"cid":"335071","uid":"1622561","operatorid":"108341","operator":"U1U420039","action":"禁止发言","reason":"注册马甲 提升惩罚等级","dateline":"2018-7-1 18:17","username":"1715853522","groupexpiry":"永不过期"},2513615:{"cid":"335070","uid":"2513615","operatorid":"108341","operator":"U1U420039","action":"禁止发言","reason":"马甲","dateline":"2018-7-1 18:15","username":"孤海一帆","groupexpiry":"永不过期"},1338824:{"cid":"334892","uid":"1338824","operatorid":"108341","operator":"U1U420039","action":"禁止发言","reason":"人类的本质就是复读机","dateline":"2018-7-1 13:01","username":"1658306623","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "334857" },
+  "data": {
+    2536654: {
+      "cid": "338075",
+      "uid": "2536654",
+      "operatorid": "1280406",
+      "operator": "zjxx",
+      "action": "禁止发言",
+      "reason": "马甲",
+      "dateline": "2018-7-8 12:19",
+      "username": "修远",
+      "groupexpiry": "永不过期"
+    },
+    1513536: {
+      "cid": "337544",
+      "uid": "1513536",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2018-7-7 14:17",
+      "username": "中二の猫叔",
+      "groupexpiry": "永不过期"
+    },
+    2536059: {
+      "cid": "337542",
+      "uid": "2536059",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2018-7-7 14:17",
+      "username": "MC丶祭酒",
+      "groupexpiry": "永不过期"
+    },
+    2317539: {
+      "cid": "337512",
+      "uid": "2317539",
+      "operatorid": "1095012",
+      "operator": "1582952890",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2018-7-7 12:23",
+      "username": "zzy15236234118",
+      "groupexpiry": "永不过期"
+    },
+    2274713: {
+      "cid": "336896",
+      "uid": "2274713",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "诈骗，thread:801941",
+      "dateline": "2018-7-6 00:35",
+      "username": "3086186853",
+      "groupexpiry": "永不过期"
+    },
+    289435: {
+      "cid": "336893",
+      "uid": "289435",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "违反中华人民共和国《全国人大常委会关于维护互联网安全的决定》",
+      "dateline": "2018-7-5 23:36",
+      "username": "SotrForgotten",
+      "groupexpiry": "永不过期"
+    },
+    2538478: {
+      "cid": "335134",
+      "uid": "2538478",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "1-6",
+      "dateline": "2018-7-1 21:39",
+      "username": "Sakurа_End",
+      "groupexpiry": "永不过期"
+    },
+    2531976: {
+      "cid": "335074",
+      "uid": "2531976",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "马甲",
+      "dateline": "2018-7-1 18:28",
+      "username": "何小川",
+      "groupexpiry": "永不过期"
+    },
+    2441100: {
+      "cid": "335073",
+      "uid": "2441100",
+      "operatorid": "1280406",
+      "operator": "zjxx",
+      "action": "禁止发言",
+      "reason": "马甲",
+      "dateline": "2018-7-1 18:28",
+      "username": "1314.00g123",
+      "groupexpiry": "永不过期"
+    },
+    2531387: {
+      "cid": "335072",
+      "uid": "2531387",
+      "operatorid": "1280406",
+      "operator": "zjxx",
+      "action": "禁止发言",
+      "reason": "马甲",
+      "dateline": "2018-7-1 18:25",
+      "username": "临海之泉",
+      "groupexpiry": "永不过期"
+    },
+    1622561: {
+      "cid": "335071",
+      "uid": "1622561",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "注册马甲 提升惩罚等级",
+      "dateline": "2018-7-1 18:17",
+      "username": "1715853522",
+      "groupexpiry": "永不过期"
+    },
+    2513615: {
+      "cid": "335070",
+      "uid": "2513615",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "马甲",
+      "dateline": "2018-7-1 18:15",
+      "username": "孤海一帆",
+      "groupexpiry": "永不过期"
+    },
+    1338824: {
+      "cid": "334892",
+      "uid": "1338824",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "人类的本质就是复读机",
+      "dateline": "2018-7-1 13:01",
+      "username": "1658306623",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

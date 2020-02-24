@@ -1,1 +1,137 @@
-{"message":{"dataexist":"1","cid":"31137"},"data":{202:{"cid":"33952","uid":"202","operatorid":"410292","operator":"sb023612","action":"禁止发言","reason":"盗号","dateline":"2014-7-22 18:36","username":"NO9357","groupexpiry":"永不过期"},200:{"cid":"33951","uid":"200","operatorid":"410292","operator":"sb023612","action":"禁止发言","reason":"盗号","dateline":"2014-7-22 18:31","username":"fung011151","groupexpiry":"永不过期"},306778:{"cid":"33919","uid":"306778","operatorid":"265600","operator":"rom718","action":"禁止访问","reason":"","dateline":"2014-7-22 15:46","username":"冰雪季节","groupexpiry":"永不过期"},456351:{"cid":"33918","uid":"456351","operatorid":"265600","operator":"rom718","action":"禁止访问","reason":"","dateline":"2014-7-22 15:45","username":"ISTGame","groupexpiry":"永不过期"},520757:{"cid":"33760","uid":"520757","operatorid":"107792","operator":"Mayomi","action":"禁止发言","reason":"多次违规发帖 ，辱骂版主 ，永久封禁。","dateline":"2014-7-22 11:05","username":"丶水墨","groupexpiry":"永不过期"},108:{"cid":"33193","uid":"108","operatorid":"87890","operator":"Forever_小树","action":"禁止发言","reason":".","dateline":"2014-7-20 13:07","username":"642171471","groupexpiry":"永不过期"},12:{"cid":"33087","uid":"12","operatorid":"132943","operator":"a20001017","action":"禁止发言","reason":"刷帖","dateline":"2014-7-19 20:40","username":"lhcz276045268","groupexpiry":"永不过期"},669687:{"cid":"32938","uid":"669687","operatorid":"107792","operator":"Mayomi","action":"禁止发言","reason":"多次宣传/推广其服务器 大于5次.","dateline":"2014-7-19 12:47","username":"戴盗服务器","groupexpiry":"永不过期"},230823:{"cid":"32696","uid":"230823","operatorid":"3467","operator":"sjjklh","action":"禁止发言","reason":"","dateline":"2014-7-18 19:06","username":"FuckJack","groupexpiry":"永不过期"},418881:{"cid":"32657","uid":"418881","operatorid":"265600","operator":"rom718","action":"禁止发言","reason":"广告机","dateline":"2014-7-18 16:52","username":"Fi-小博","groupexpiry":"永不过期"},64222:{"cid":"32145","uid":"64222","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"刷屏广告贴","dateline":"2014-7-17 13:19","username":"cyberdr1","groupexpiry":"永不过期"},616293:{"cid":"31137","uid":"616293","operatorid":"455912","operator":"飞鱼在天","action":"禁止发言","reason":"辱骂版主！","dateline":"2014-7-13 19:14","username":"史蒂夫的","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "31137" },
+  "data": {
+    202: {
+      "cid": "33952",
+      "uid": "202",
+      "operatorid": "410292",
+      "operator": "sb023612",
+      "action": "禁止发言",
+      "reason": "盗号",
+      "dateline": "2014-7-22 18:36",
+      "username": "NO9357",
+      "groupexpiry": "永不过期"
+    },
+    200: {
+      "cid": "33951",
+      "uid": "200",
+      "operatorid": "410292",
+      "operator": "sb023612",
+      "action": "禁止发言",
+      "reason": "盗号",
+      "dateline": "2014-7-22 18:31",
+      "username": "fung011151",
+      "groupexpiry": "永不过期"
+    },
+    306778: {
+      "cid": "33919",
+      "uid": "306778",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2014-7-22 15:46",
+      "username": "冰雪季节",
+      "groupexpiry": "永不过期"
+    },
+    456351: {
+      "cid": "33918",
+      "uid": "456351",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2014-7-22 15:45",
+      "username": "ISTGame",
+      "groupexpiry": "永不过期"
+    },
+    520757: {
+      "cid": "33760",
+      "uid": "520757",
+      "operatorid": "107792",
+      "operator": "Mayomi",
+      "action": "禁止发言",
+      "reason": "多次违规发帖 ，辱骂版主 ，永久封禁。",
+      "dateline": "2014-7-22 11:05",
+      "username": "丶水墨",
+      "groupexpiry": "永不过期"
+    },
+    108: {
+      "cid": "33193",
+      "uid": "108",
+      "operatorid": "87890",
+      "operator": "Forever_小树",
+      "action": "禁止发言",
+      "reason": ".",
+      "dateline": "2014-7-20 13:07",
+      "username": "642171471",
+      "groupexpiry": "永不过期"
+    },
+    12: {
+      "cid": "33087",
+      "uid": "12",
+      "operatorid": "132943",
+      "operator": "a20001017",
+      "action": "禁止发言",
+      "reason": "刷帖",
+      "dateline": "2014-7-19 20:40",
+      "username": "lhcz276045268",
+      "groupexpiry": "永不过期"
+    },
+    669687: {
+      "cid": "32938",
+      "uid": "669687",
+      "operatorid": "107792",
+      "operator": "Mayomi",
+      "action": "禁止发言",
+      "reason": "多次宣传/推广其服务器 大于5次.",
+      "dateline": "2014-7-19 12:47",
+      "username": "戴盗服务器",
+      "groupexpiry": "永不过期"
+    },
+    230823: {
+      "cid": "32696",
+      "uid": "230823",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-7-18 19:06",
+      "username": "FuckJack",
+      "groupexpiry": "永不过期"
+    },
+    418881: {
+      "cid": "32657",
+      "uid": "418881",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-7-18 16:52",
+      "username": "Fi-小博",
+      "groupexpiry": "永不过期"
+    },
+    64222: {
+      "cid": "32145",
+      "uid": "64222",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "刷屏广告贴",
+      "dateline": "2014-7-17 13:19",
+      "username": "cyberdr1",
+      "groupexpiry": "永不过期"
+    },
+    616293: {
+      "cid": "31137",
+      "uid": "616293",
+      "operatorid": "455912",
+      "operator": "飞鱼在天",
+      "action": "禁止发言",
+      "reason": "辱骂版主！",
+      "dateline": "2014-7-13 19:14",
+      "username": "史蒂夫的",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

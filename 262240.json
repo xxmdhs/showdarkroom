@@ -1,1 +1,236 @@
-{"message":{"dataexist":"1","cid":"260855"},"data":{1375032:{"cid":"262101","uid":"1375032","operatorid":"679293","operator":"FHC红石","action":"禁止发言","reason":"转账","dateline":"2017-7-17 20:52","username":"can_nia","groupexpiry":"永不过期"},2253911:{"cid":"261647","uid":"2253911","operatorid":"1422337","operator":"MystiaCC","action":"禁止发言","reason":"广告机","dateline":"2017-7-17 00:04","username":"萤姬狷嬞","groupexpiry":"永不过期"},1781925:{"cid":"261540","uid":"1781925","operatorid":"1736109","operator":"秋小喵","action":"禁止发言","reason":"1-6  恶意模仿","dateline":"2017-7-16 18:49","username":"夏小喵","groupexpiry":"永不过期"},2205910:{"cid":"261488","uid":"2205910","operatorid":"240366","operator":"西红柿片","action":"禁止发言","reason":"水龙头","dateline":"2017-7-16 18:00","username":"441363158","groupexpiry":"永不过期"},1831557:{"cid":"261096","uid":"1831557","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"用户名违规","dateline":"2017-7-15 15:52","username":"注册个屁啊","groupexpiry":"永不过期"},141:{"cid":"260899","uid":"141","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2017-7-15 00:17","username":"qq907799109","groupexpiry":"永不过期"},134:{"cid":"260898","uid":"134","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2017-7-15 00:17","username":"mxdguan1994","groupexpiry":"永不过期"},101:{"cid":"260897","uid":"101","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2017-7-15 00:17","username":"ioubaby","groupexpiry":"永不过期"},109:{"cid":"260896","uid":"109","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2017-7-15 00:17","username":"aihux","groupexpiry":"永不过期"},92:{"cid":"260895","uid":"92","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2017-7-15 00:17","username":"qetuo312","groupexpiry":"永不过期"},85:{"cid":"260894","uid":"85","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2017-7-15 00:17","username":"365752317","groupexpiry":"永不过期"},79:{"cid":"260893","uid":"79","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2017-7-15 00:16","username":"科索洛夫","groupexpiry":"永不过期"},65:{"cid":"260892","uid":"65","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2017-7-15 00:16","username":"zorkmax","groupexpiry":"永不过期"},28:{"cid":"260891","uid":"28","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2017-7-15 00:16","username":"cs19970301","groupexpiry":"永不过期"},19:{"cid":"260890","uid":"19","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2017-7-15 00:16","username":"啊飞flying","groupexpiry":"永不过期"},612:{"cid":"260888","uid":"612","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2017-7-15 00:15","username":"a532402310","groupexpiry":"永不过期"},36:{"cid":"260883","uid":"36","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2017-7-14 23:58","username":"爱德尔","groupexpiry":"永不过期"},203:{"cid":"260882","uid":"203","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2017-7-14 23:55","username":"qw87375832","groupexpiry":"永不过期"},2251804:{"cid":"260873","uid":"2251804","operatorid":"650372","operator":"尼玛乄骑士","action":"禁止发言","reason":"水龙头","dateline":"2017-7-14 23:07","username":"13770025520","groupexpiry":"永不过期"},687125:{"cid":"260856","uid":"687125","operatorid":"240366","operator":"西红柿片","action":"禁止发言","reason":"水龙头","dateline":"2017-7-14 22:50","username":"Dyu","groupexpiry":"永不过期"},1452078:{"cid":"260855","uid":"1452078","operatorid":"240366","operator":"西红柿片","action":"禁止发言","reason":"水龙头","dateline":"2017-7-14 22:44","username":"qaz123aa","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "260855" },
+  "data": {
+    1375032: {
+      "cid": "262101",
+      "uid": "1375032",
+      "operatorid": "679293",
+      "operator": "FHC红石",
+      "action": "禁止发言",
+      "reason": "转账",
+      "dateline": "2017-7-17 20:52",
+      "username": "can_nia",
+      "groupexpiry": "永不过期"
+    },
+    2253911: {
+      "cid": "261647",
+      "uid": "2253911",
+      "operatorid": "1422337",
+      "operator": "MystiaCC",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2017-7-17 00:04",
+      "username": "萤姬狷嬞",
+      "groupexpiry": "永不过期"
+    },
+    1781925: {
+      "cid": "261540",
+      "uid": "1781925",
+      "operatorid": "1736109",
+      "operator": "秋小喵",
+      "action": "禁止发言",
+      "reason": "1-6  恶意模仿",
+      "dateline": "2017-7-16 18:49",
+      "username": "夏小喵",
+      "groupexpiry": "永不过期"
+    },
+    2205910: {
+      "cid": "261488",
+      "uid": "2205910",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-7-16 18:00",
+      "username": "441363158",
+      "groupexpiry": "永不过期"
+    },
+    1831557: {
+      "cid": "261096",
+      "uid": "1831557",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2017-7-15 15:52",
+      "username": "注册个屁啊",
+      "groupexpiry": "永不过期"
+    },
+    141: {
+      "cid": "260899",
+      "uid": "141",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-7-15 00:17",
+      "username": "qq907799109",
+      "groupexpiry": "永不过期"
+    },
+    134: {
+      "cid": "260898",
+      "uid": "134",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-7-15 00:17",
+      "username": "mxdguan1994",
+      "groupexpiry": "永不过期"
+    },
+    101: {
+      "cid": "260897",
+      "uid": "101",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-7-15 00:17",
+      "username": "ioubaby",
+      "groupexpiry": "永不过期"
+    },
+    109: {
+      "cid": "260896",
+      "uid": "109",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-7-15 00:17",
+      "username": "aihux",
+      "groupexpiry": "永不过期"
+    },
+    92: {
+      "cid": "260895",
+      "uid": "92",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-7-15 00:17",
+      "username": "qetuo312",
+      "groupexpiry": "永不过期"
+    },
+    85: {
+      "cid": "260894",
+      "uid": "85",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-7-15 00:17",
+      "username": "365752317",
+      "groupexpiry": "永不过期"
+    },
+    79: {
+      "cid": "260893",
+      "uid": "79",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-7-15 00:16",
+      "username": "科索洛夫",
+      "groupexpiry": "永不过期"
+    },
+    65: {
+      "cid": "260892",
+      "uid": "65",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-7-15 00:16",
+      "username": "zorkmax",
+      "groupexpiry": "永不过期"
+    },
+    28: {
+      "cid": "260891",
+      "uid": "28",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-7-15 00:16",
+      "username": "cs19970301",
+      "groupexpiry": "永不过期"
+    },
+    19: {
+      "cid": "260890",
+      "uid": "19",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-7-15 00:16",
+      "username": "啊飞flying",
+      "groupexpiry": "永不过期"
+    },
+    612: {
+      "cid": "260888",
+      "uid": "612",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-7-15 00:15",
+      "username": "a532402310",
+      "groupexpiry": "永不过期"
+    },
+    36: {
+      "cid": "260883",
+      "uid": "36",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-7-14 23:58",
+      "username": "爱德尔",
+      "groupexpiry": "永不过期"
+    },
+    203: {
+      "cid": "260882",
+      "uid": "203",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-7-14 23:55",
+      "username": "qw87375832",
+      "groupexpiry": "永不过期"
+    },
+    2251804: {
+      "cid": "260873",
+      "uid": "2251804",
+      "operatorid": "650372",
+      "operator": "尼玛乄骑士",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-7-14 23:07",
+      "username": "13770025520",
+      "groupexpiry": "永不过期"
+    },
+    687125: {
+      "cid": "260856",
+      "uid": "687125",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-7-14 22:50",
+      "username": "Dyu",
+      "groupexpiry": "永不过期"
+    },
+    1452078: {
+      "cid": "260855",
+      "uid": "1452078",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-7-14 22:44",
+      "username": "qaz123aa",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

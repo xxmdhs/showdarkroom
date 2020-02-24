@@ -1,1 +1,148 @@
-{"message":{"dataexist":"1","cid":"277172"},"data":{2349087:{"cid":"284532","uid":"2349087","operatorid":"984070","operator":"MRTangwin8","action":"禁止发言","reason":"色情广告机","dateline":"2017-9-2 20:34","username":"啪啪啪cw588","groupexpiry":"永不过期"},2185482:{"cid":"283667","uid":"2185482","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"大额刷分","dateline":"2017-8-30 11:35","username":"风的呼唤","groupexpiry":"永不过期"},1710069:{"cid":"283666","uid":"1710069","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"大额刷分","dateline":"2017-8-30 11:35","username":"不朽传说","groupexpiry":"永不过期"},1933206:{"cid":"283438","uid":"1933206","operatorid":"1506010","operator":"317620111","action":"禁止发言","reason":"广告机","dateline":"2017-8-29 14:32","username":"KAKAKAKAKA","groupexpiry":"永不过期"},2343268:{"cid":"282827","uid":"2343268","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"","dateline":"2017-8-28 18:55","username":"2115484800","groupexpiry":"永不过期"},2328152:{"cid":"282394","uid":"2328152","operatorid":"1575538","operator":"ff98sha","action":"禁止发言","reason":"porn","dateline":"2017-8-28 09:38","username":"yuk025","groupexpiry":"永不过期"},1088100:{"cid":"282009","uid":"1088100","operatorid":"766171","operator":"C似水流年","action":"禁止发言","reason":"水龙头","dateline":"2017-8-27 13:27","username":"N2O","groupexpiry":"永不过期"},1663735:{"cid":"281361","uid":"1663735","operatorid":"650372","operator":"尼玛乄骑士","action":"禁止发言","reason":"广告机","dateline":"2017-8-25 16:17","username":"5454585htghh","groupexpiry":"永不过期"},2325812:{"cid":"280086","uid":"2325812","operatorid":"564746","operator":"gamerteam","action":"禁止发言","reason":"马甲账号辱骂","dateline":"2017-8-23 01:24","username":"cyf33333","groupexpiry":"永不过期"},2331537:{"cid":"280047","uid":"2331537","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"广告机","dateline":"2017-8-22 20:58","username":"Mc凌云帝都","groupexpiry":"永不过期"},2331240:{"cid":"280009","uid":"2331240","operatorid":"165947","operator":"china521","action":"禁止发言","reason":"广告机","dateline":"2017-8-22 17:41","username":"史茂诚","groupexpiry":"永不过期"},2290565:{"cid":"277832","uid":"2290565","operatorid":"1575538","operator":"ff98sha","action":"禁止发言","reason":"用户名涉及色情","dateline":"2017-8-20 13:56","username":"www.ytrsr.com","groupexpiry":"永不过期"},2321588:{"cid":"277358","uid":"2321588","operatorid":"564746","operator":"gamerteam","action":"禁止发言","reason":"广告机","dateline":"2017-8-19 14:58","username":"大家乐by","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "277172" },
+  "data": {
+    2349087: {
+      "cid": "284532",
+      "uid": "2349087",
+      "operatorid": "984070",
+      "operator": "MRTangwin8",
+      "action": "禁止发言",
+      "reason": "色情广告机",
+      "dateline": "2017-9-2 20:34",
+      "username": "啪啪啪cw588",
+      "groupexpiry": "永不过期"
+    },
+    2185482: {
+      "cid": "283667",
+      "uid": "2185482",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "大额刷分",
+      "dateline": "2017-8-30 11:35",
+      "username": "风的呼唤",
+      "groupexpiry": "永不过期"
+    },
+    1710069: {
+      "cid": "283666",
+      "uid": "1710069",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "大额刷分",
+      "dateline": "2017-8-30 11:35",
+      "username": "不朽传说",
+      "groupexpiry": "永不过期"
+    },
+    1933206: {
+      "cid": "283438",
+      "uid": "1933206",
+      "operatorid": "1506010",
+      "operator": "317620111",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2017-8-29 14:32",
+      "username": "KAKAKAKAKA",
+      "groupexpiry": "永不过期"
+    },
+    2343268: {
+      "cid": "282827",
+      "uid": "2343268",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-8-28 18:55",
+      "username": "2115484800",
+      "groupexpiry": "永不过期"
+    },
+    2328152: {
+      "cid": "282394",
+      "uid": "2328152",
+      "operatorid": "1575538",
+      "operator": "ff98sha",
+      "action": "禁止发言",
+      "reason": "porn",
+      "dateline": "2017-8-28 09:38",
+      "username": "yuk025",
+      "groupexpiry": "永不过期"
+    },
+    1088100: {
+      "cid": "282009",
+      "uid": "1088100",
+      "operatorid": "766171",
+      "operator": "C似水流年",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-8-27 13:27",
+      "username": "N2O",
+      "groupexpiry": "永不过期"
+    },
+    1663735: {
+      "cid": "281361",
+      "uid": "1663735",
+      "operatorid": "650372",
+      "operator": "尼玛乄骑士",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2017-8-25 16:17",
+      "username": "5454585htghh",
+      "groupexpiry": "永不过期"
+    },
+    2325812: {
+      "cid": "280086",
+      "uid": "2325812",
+      "operatorid": "564746",
+      "operator": "gamerteam",
+      "action": "禁止发言",
+      "reason": "马甲账号辱骂",
+      "dateline": "2017-8-23 01:24",
+      "username": "cyf33333",
+      "groupexpiry": "永不过期"
+    },
+    2331537: {
+      "cid": "280047",
+      "uid": "2331537",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2017-8-22 20:58",
+      "username": "Mc凌云帝都",
+      "groupexpiry": "永不过期"
+    },
+    2331240: {
+      "cid": "280009",
+      "uid": "2331240",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2017-8-22 17:41",
+      "username": "史茂诚",
+      "groupexpiry": "永不过期"
+    },
+    2290565: {
+      "cid": "277832",
+      "uid": "2290565",
+      "operatorid": "1575538",
+      "operator": "ff98sha",
+      "action": "禁止发言",
+      "reason": "用户名涉及色情",
+      "dateline": "2017-8-20 13:56",
+      "username": "www.ytrsr.com",
+      "groupexpiry": "永不过期"
+    },
+    2321588: {
+      "cid": "277358",
+      "uid": "2321588",
+      "operatorid": "564746",
+      "operator": "gamerteam",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2017-8-19 14:58",
+      "username": "大家乐by",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

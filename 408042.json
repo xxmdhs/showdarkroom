@@ -1,1 +1,104 @@
-{"message":{"dataexist":"1","cid":"406634"},"data":{2748418:{"cid":"407537","uid":"2748418","operatorid":"2067786","operator":"Sakura_End","action":"禁止发言","reason":"广告机","dateline":"2019-5-23 17:42","username":"ag指定网站","groupexpiry":"永不过期"},2748416:{"cid":"407536","uid":"2748416","operatorid":"2067786","operator":"Sakura_End","action":"禁止发言","reason":"广告机","dateline":"2019-5-23 17:41","username":"ag直营网","groupexpiry":"永不过期"},2741780:{"cid":"407532","uid":"2741780","operatorid":"1101813","operator":"XJue_DaDa","action":"禁止发言","reason":"严重灌水","dateline":"2019-5-23 16:19","username":"yxzrqqq","groupexpiry":"永不过期"},1692156:{"cid":"407531","uid":"1692156","operatorid":"1101813","operator":"XJue_DaDa","action":"禁止发言","reason":"严重灌水","dateline":"2019-5-23 16:19","username":"mcyxzrq","groupexpiry":"永不过期"},2748069:{"cid":"407477","uid":"2748069","operatorid":"2067786","operator":"Sakura_End","action":"禁止发言","reason":"广告机","dateline":"2019-5-22 21:49","username":"南怀的","groupexpiry":"永不过期"},2211500:{"cid":"406970","uid":"2211500","operatorid":"111377","operator":"987987","action":"禁止发言","reason":"剽窃","dateline":"2019-5-21 18:06","username":"Godpower","groupexpiry":"永不过期"},2671611:{"cid":"406734","uid":"2671611","operatorid":"1101813","operator":"XJue_DaDa","action":"禁止发言","reason":"剽窃","dateline":"2019-5-19 15:43","username":"小小风风520","groupexpiry":"永不过期"},2006037:{"cid":"406730","uid":"2006037","operatorid":"1101813","operator":"XJue_DaDa","action":"禁止发言","reason":"剽窃","dateline":"2019-5-19 15:32","username":"13976128494","groupexpiry":"永不过期"},2745508:{"cid":"406669","uid":"2745508","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"水龙头","dateline":"2019-5-19 12:10","username":"557w","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "406634" },
+  "data": {
+    2748418: {
+      "cid": "407537",
+      "uid": "2748418",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-5-23 17:42",
+      "username": "ag指定网站",
+      "groupexpiry": "永不过期"
+    },
+    2748416: {
+      "cid": "407536",
+      "uid": "2748416",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-5-23 17:41",
+      "username": "ag直营网",
+      "groupexpiry": "永不过期"
+    },
+    2741780: {
+      "cid": "407532",
+      "uid": "2741780",
+      "operatorid": "1101813",
+      "operator": "XJue_DaDa",
+      "action": "禁止发言",
+      "reason": "严重灌水",
+      "dateline": "2019-5-23 16:19",
+      "username": "yxzrqqq",
+      "groupexpiry": "永不过期"
+    },
+    1692156: {
+      "cid": "407531",
+      "uid": "1692156",
+      "operatorid": "1101813",
+      "operator": "XJue_DaDa",
+      "action": "禁止发言",
+      "reason": "严重灌水",
+      "dateline": "2019-5-23 16:19",
+      "username": "mcyxzrq",
+      "groupexpiry": "永不过期"
+    },
+    2748069: {
+      "cid": "407477",
+      "uid": "2748069",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-5-22 21:49",
+      "username": "南怀的",
+      "groupexpiry": "永不过期"
+    },
+    2211500: {
+      "cid": "406970",
+      "uid": "2211500",
+      "operatorid": "111377",
+      "operator": "987987",
+      "action": "禁止发言",
+      "reason": "剽窃",
+      "dateline": "2019-5-21 18:06",
+      "username": "Godpower",
+      "groupexpiry": "永不过期"
+    },
+    2671611: {
+      "cid": "406734",
+      "uid": "2671611",
+      "operatorid": "1101813",
+      "operator": "XJue_DaDa",
+      "action": "禁止发言",
+      "reason": "剽窃",
+      "dateline": "2019-5-19 15:43",
+      "username": "小小风风520",
+      "groupexpiry": "永不过期"
+    },
+    2006037: {
+      "cid": "406730",
+      "uid": "2006037",
+      "operatorid": "1101813",
+      "operator": "XJue_DaDa",
+      "action": "禁止发言",
+      "reason": "剽窃",
+      "dateline": "2019-5-19 15:32",
+      "username": "13976128494",
+      "groupexpiry": "永不过期"
+    },
+    2745508: {
+      "cid": "406669",
+      "uid": "2745508",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-5-19 12:10",
+      "username": "557w",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

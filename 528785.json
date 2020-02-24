@@ -1,1 +1,192 @@
-{"message":{"dataexist":"1","cid":"527652"},"data":{2938674:{"cid":"528784","uid":"2938674","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"异常账号,如有异议请前往末路之地申诉.","dateline":"2020-2-9 16:02","username":"kinboy","groupexpiry":"永不过期"},2930863:{"cid":"528782","uid":"2930863","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"异常账号,如有异议请前往末路之地申诉.","dateline":"2020-2-9 16:02","username":"elliot_tijou","groupexpiry":"永不过期"},2930861:{"cid":"528781","uid":"2930861","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"异常账号,如有异议请前往末路之地申诉.","dateline":"2020-2-9 16:02","username":"zsucloud","groupexpiry":"永不过期"},2927956:{"cid":"528780","uid":"2927956","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"异常账号,如有异议请前往末路之地申诉.","dateline":"2020-2-9 16:02","username":"Wаit","groupexpiry":"永不过期"},2927954:{"cid":"528779","uid":"2927954","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"异常账号,如有异议请前往末路之地申诉.","dateline":"2020-2-9 16:02","username":"perpetuity","groupexpiry":"永不过期"},2927951:{"cid":"528778","uid":"2927951","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"异常账号,如有异议请前往末路之地申诉.","dateline":"2020-2-9 16:01","username":"Sensational","groupexpiry":"永不过期"},2927944:{"cid":"528777","uid":"2927944","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"异常账号,如有异议请前往末路之地申诉.","dateline":"2020-2-9 16:01","username":"Fantasyo","groupexpiry":"永不过期"},2919628:{"cid":"528776","uid":"2919628","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"异常账号,如有异议请前往末路之地申诉.","dateline":"2020-2-9 16:01","username":"1867798254","groupexpiry":"永不过期"},2916549:{"cid":"528775","uid":"2916549","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"异常账号,如有异议请前往末路之地申诉.","dateline":"2020-2-9 16:01","username":"老子叫甜甜","groupexpiry":"永不过期"},2930681:{"cid":"528773","uid":"2930681","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"异常账号,如有异议请前往末路之地申诉.","dateline":"2020-2-9 16:01","username":"西瓜xigua","groupexpiry":"永不过期"},2916544:{"cid":"528772","uid":"2916544","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"异常账号,如有异议请前往末路之地申诉.","dateline":"2020-2-9 16:01","username":"怪杨花无力","groupexpiry":"永不过期"},2795698:{"cid":"528752","uid":"2795698","operatorid":"2067786","operator":"消","action":"禁止发言","reason":"4-7-3 神奇宝贝公益服骗审","dateline":"2020-2-9 13:27","username":"Dr.Slime","groupexpiry":"2020-3-10 13:27"},2346029:{"cid":"528749","uid":"2346029","operatorid":"1052157","operator":"Menzor","action":"禁止发言","reason":"神奇宝贝公益服 严重骗审 4星","dateline":"2020-2-9 13:09","username":"ZiHao_2333","groupexpiry":"2020-3-10 13:09"},2440768:{"cid":"528424","uid":"2440768","operatorid":"5367","operator":"john180","action":"禁止访问","reason":"","dateline":"2020-2-8 20:02","username":"zyz_sunshine","groupexpiry":"永不过期"},1982461:{"cid":"528213","uid":"1982461","operatorid":"2067786","operator":"消","action":"禁止发言","reason":"4-7-3 神奇宝贝公益服骗审","dateline":"2020-2-8 12:14","username":"好哥们皮蛋","groupexpiry":"2020-3-9 12:14"},3008526:{"cid":"527804","uid":"3008526","operatorid":"5367","operator":"john180","action":"禁止发言","reason":"水龙头","dateline":"2020-2-7 20:47","username":"Vanghan","groupexpiry":"永不过期"},3017989:{"cid":"527653","uid":"3017989","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"水贴机器人","dateline":"2020-2-7 18:42","username":"195521354","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "527652" },
+  "data": {
+    2938674: {
+      "cid": "528784",
+      "uid": "2938674",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "异常账号,如有异议请前往末路之地申诉.",
+      "dateline": "2020-2-9 16:02",
+      "username": "kinboy",
+      "groupexpiry": "永不过期"
+    },
+    2930863: {
+      "cid": "528782",
+      "uid": "2930863",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "异常账号,如有异议请前往末路之地申诉.",
+      "dateline": "2020-2-9 16:02",
+      "username": "elliot_tijou",
+      "groupexpiry": "永不过期"
+    },
+    2930861: {
+      "cid": "528781",
+      "uid": "2930861",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "异常账号,如有异议请前往末路之地申诉.",
+      "dateline": "2020-2-9 16:02",
+      "username": "zsucloud",
+      "groupexpiry": "永不过期"
+    },
+    2927956: {
+      "cid": "528780",
+      "uid": "2927956",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "异常账号,如有异议请前往末路之地申诉.",
+      "dateline": "2020-2-9 16:02",
+      "username": "Wаit",
+      "groupexpiry": "永不过期"
+    },
+    2927954: {
+      "cid": "528779",
+      "uid": "2927954",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "异常账号,如有异议请前往末路之地申诉.",
+      "dateline": "2020-2-9 16:02",
+      "username": "perpetuity",
+      "groupexpiry": "永不过期"
+    },
+    2927951: {
+      "cid": "528778",
+      "uid": "2927951",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "异常账号,如有异议请前往末路之地申诉.",
+      "dateline": "2020-2-9 16:01",
+      "username": "Sensational",
+      "groupexpiry": "永不过期"
+    },
+    2927944: {
+      "cid": "528777",
+      "uid": "2927944",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "异常账号,如有异议请前往末路之地申诉.",
+      "dateline": "2020-2-9 16:01",
+      "username": "Fantasyo",
+      "groupexpiry": "永不过期"
+    },
+    2919628: {
+      "cid": "528776",
+      "uid": "2919628",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "异常账号,如有异议请前往末路之地申诉.",
+      "dateline": "2020-2-9 16:01",
+      "username": "1867798254",
+      "groupexpiry": "永不过期"
+    },
+    2916549: {
+      "cid": "528775",
+      "uid": "2916549",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "异常账号,如有异议请前往末路之地申诉.",
+      "dateline": "2020-2-9 16:01",
+      "username": "老子叫甜甜",
+      "groupexpiry": "永不过期"
+    },
+    2930681: {
+      "cid": "528773",
+      "uid": "2930681",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "异常账号,如有异议请前往末路之地申诉.",
+      "dateline": "2020-2-9 16:01",
+      "username": "西瓜xigua",
+      "groupexpiry": "永不过期"
+    },
+    2916544: {
+      "cid": "528772",
+      "uid": "2916544",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "异常账号,如有异议请前往末路之地申诉.",
+      "dateline": "2020-2-9 16:01",
+      "username": "怪杨花无力",
+      "groupexpiry": "永不过期"
+    },
+    2795698: {
+      "cid": "528752",
+      "uid": "2795698",
+      "operatorid": "2067786",
+      "operator": "消",
+      "action": "禁止发言",
+      "reason": "4-7-3 神奇宝贝公益服骗审",
+      "dateline": "2020-2-9 13:27",
+      "username": "Dr.Slime",
+      "groupexpiry": "2020-3-10 13:27"
+    },
+    2346029: {
+      "cid": "528749",
+      "uid": "2346029",
+      "operatorid": "1052157",
+      "operator": "Menzor",
+      "action": "禁止发言",
+      "reason": "神奇宝贝公益服 严重骗审 4星",
+      "dateline": "2020-2-9 13:09",
+      "username": "ZiHao_2333",
+      "groupexpiry": "2020-3-10 13:09"
+    },
+    2440768: {
+      "cid": "528424",
+      "uid": "2440768",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2020-2-8 20:02",
+      "username": "zyz_sunshine",
+      "groupexpiry": "永不过期"
+    },
+    1982461: {
+      "cid": "528213",
+      "uid": "1982461",
+      "operatorid": "2067786",
+      "operator": "消",
+      "action": "禁止发言",
+      "reason": "4-7-3 神奇宝贝公益服骗审",
+      "dateline": "2020-2-8 12:14",
+      "username": "好哥们皮蛋",
+      "groupexpiry": "2020-3-9 12:14"
+    },
+    3008526: {
+      "cid": "527804",
+      "uid": "3008526",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-2-7 20:47",
+      "username": "Vanghan",
+      "groupexpiry": "永不过期"
+    },
+    3017989: {
+      "cid": "527653",
+      "uid": "3017989",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "水贴机器人",
+      "dateline": "2020-2-7 18:42",
+      "username": "195521354",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

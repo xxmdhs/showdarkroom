@@ -1,1 +1,115 @@
-{"message":{"dataexist":"1","cid":"203276"},"data":{851761:{"cid":"204188","uid":"851761","operatorid":"258439","operator":"Grandiose","action":"禁止发言","reason":"水龙头","dateline":"2016-7-25 23:25","username":"1427268709","groupexpiry":"永不过期"},1041045:{"cid":"204156","uid":"1041045","operatorid":"1517679","operator":"46241359","action":"禁止发言","reason":"水龙头","dateline":"2016-7-25 18:48","username":"暗影大帝","groupexpiry":"永不过期"},1402173:{"cid":"203640","uid":"1402173","operatorid":"77891","operator":"SkyCatcher","action":"禁止发言","reason":"广告+大量灌水","dateline":"2016-7-23 12:16","username":"awdadwa","groupexpiry":"永不过期"},1826122:{"cid":"203397","uid":"1826122","operatorid":"633220","operator":"andylizi","action":"禁止发言","reason":"发布后门插件","dateline":"2016-7-22 17:09","username":"342301509","groupexpiry":"永不过期"},1576440:{"cid":"203389","uid":"1576440","operatorid":"633220","operator":"andylizi","action":"禁止发言","reason":"广告机","dateline":"2016-7-22 15:45","username":"wjllxsh","groupexpiry":"永不过期"},1596865:{"cid":"203378","uid":"1596865","operatorid":"1517679","operator":"46241359","action":"禁止发言","reason":"水龙头","dateline":"2016-7-22 15:43","username":"Lei_na","groupexpiry":"永不过期"},280976:{"cid":"203281","uid":"280976","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"用户行为异常","dateline":"2016-7-22 11:31","username":"20020607","groupexpiry":"永不过期"},459967:{"cid":"203280","uid":"459967","operatorid":"633220","operator":"andylizi","action":"禁止发言","reason":"发布后门插件","dateline":"2016-7-22 11:37","username":"keivn","groupexpiry":"永不过期"},1451838:{"cid":"203278","uid":"1451838","operatorid":"3038","operator":"混乱","action":"禁止发言","reason":"账号交易","dateline":"2016-7-22 11:16","username":"姐啊岁发奋","groupexpiry":"永不过期"},1852522:{"cid":"203276","uid":"1852522","operatorid":"633220","operator":"andylizi","action":"禁止发言","reason":"发布后门插件","dateline":"2016-7-22 10:56","username":"a2421927980","groupexpiry":"永不过期"}}}
+{
+  "message": { "dataexist": "1", "cid": "203276" },
+  "data": {
+    851761: {
+      "cid": "204188",
+      "uid": "851761",
+      "operatorid": "258439",
+      "operator": "Grandiose",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-7-25 23:25",
+      "username": "1427268709",
+      "groupexpiry": "永不过期"
+    },
+    1041045: {
+      "cid": "204156",
+      "uid": "1041045",
+      "operatorid": "1517679",
+      "operator": "46241359",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-7-25 18:48",
+      "username": "暗影大帝",
+      "groupexpiry": "永不过期"
+    },
+    1402173: {
+      "cid": "203640",
+      "uid": "1402173",
+      "operatorid": "77891",
+      "operator": "SkyCatcher",
+      "action": "禁止发言",
+      "reason": "广告+大量灌水",
+      "dateline": "2016-7-23 12:16",
+      "username": "awdadwa",
+      "groupexpiry": "永不过期"
+    },
+    1826122: {
+      "cid": "203397",
+      "uid": "1826122",
+      "operatorid": "633220",
+      "operator": "andylizi",
+      "action": "禁止发言",
+      "reason": "发布后门插件",
+      "dateline": "2016-7-22 17:09",
+      "username": "342301509",
+      "groupexpiry": "永不过期"
+    },
+    1576440: {
+      "cid": "203389",
+      "uid": "1576440",
+      "operatorid": "633220",
+      "operator": "andylizi",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-7-22 15:45",
+      "username": "wjllxsh",
+      "groupexpiry": "永不过期"
+    },
+    1596865: {
+      "cid": "203378",
+      "uid": "1596865",
+      "operatorid": "1517679",
+      "operator": "46241359",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-7-22 15:43",
+      "username": "Lei_na",
+      "groupexpiry": "永不过期"
+    },
+    280976: {
+      "cid": "203281",
+      "uid": "280976",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "用户行为异常",
+      "dateline": "2016-7-22 11:31",
+      "username": "20020607",
+      "groupexpiry": "永不过期"
+    },
+    459967: {
+      "cid": "203280",
+      "uid": "459967",
+      "operatorid": "633220",
+      "operator": "andylizi",
+      "action": "禁止发言",
+      "reason": "发布后门插件",
+      "dateline": "2016-7-22 11:37",
+      "username": "keivn",
+      "groupexpiry": "永不过期"
+    },
+    1451838: {
+      "cid": "203278",
+      "uid": "1451838",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "账号交易",
+      "dateline": "2016-7-22 11:16",
+      "username": "姐啊岁发奋",
+      "groupexpiry": "永不过期"
+    },
+    1852522: {
+      "cid": "203276",
+      "uid": "1852522",
+      "operatorid": "633220",
+      "operator": "andylizi",
+      "action": "禁止发言",
+      "reason": "发布后门插件",
+      "dateline": "2016-7-22 10:56",
+      "username": "a2421927980",
+      "groupexpiry": "永不过期"
+    }
+  }
+}
