@@ -1,0 +1,83 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "436474"
+  },
+  "data": {
+    "2671611": {
+      "cid": "440182",
+      "uid": "2671611",
+      "operatorid": "1101813",
+      "operator": "XJue_DaDa",
+      "action": "禁止发言",
+      "reason": "六次剽窃永封",
+      "dateline": "2019-8-4 10:02",
+      "username": "小小风风520",
+      "groupexpiry": "永不过期"
+    },
+    "0": {
+      "cid": "439928",
+      "uid": "0",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-8-3 21:29"
+    },
+    "1464240": {
+      "cid": "438631",
+      "uid": "1464240",
+      "operatorid": "1142520",
+      "operator": "猜猜谁是谁",
+      "action": "禁止发言",
+      "reason": "传播淫秽内容",
+      "dateline": "2019-8-2 21:10",
+      "username": "aipai_mengxiang",
+      "groupexpiry": "永不过期"
+    },
+    "2298362": {
+      "cid": "438441",
+      "uid": "2298362",
+      "operatorid": "1793501",
+      "operator": "没糖的葫芦",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-8-2 17:45",
+      "username": "虎牙咳咳",
+      "groupexpiry": "永不过期"
+    },
+    "2827803": {
+      "cid": "438096",
+      "uid": "2827803",
+      "operatorid": "679293",
+      "operator": "FHC红石",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-8-1 15:41",
+      "username": "发个帖",
+      "groupexpiry": "永不过期"
+    },
+    "2218605": {
+      "cid": "436776",
+      "uid": "2218605",
+      "operatorid": "1101813",
+      "operator": "XJue_DaDa",
+      "action": "禁止发言",
+      "reason": "后门",
+      "dateline": "2019-7-31 00:19",
+      "username": "hnfhu1",
+      "groupexpiry": "永不过期"
+    },
+    "2810548": {
+      "cid": "436481",
+      "uid": "2810548",
+      "operatorid": "458143",
+      "operator": "阴阳师元素祭祀",
+      "action": "禁止发言",
+      "reason": "ad.",
+      "dateline": "2019-7-30 00:45",
+      "username": "南人的",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

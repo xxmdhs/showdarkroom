@@ -1,0 +1,217 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "544896"
+  },
+  "data": {
+    "2889315": {
+      "cid": "546298",
+      "uid": "2889315",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-27 15:21",
+      "username": "CodeMiuc小王",
+      "groupexpiry": "永不过期"
+    },
+    "2903799": {
+      "cid": "546297",
+      "uid": "2903799",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-27 15:21",
+      "username": "c99程晨",
+      "groupexpiry": "永不过期"
+    },
+    "2871271": {
+      "cid": "546296",
+      "uid": "2871271",
+      "operatorid": "2067786",
+      "operator": "消",
+      "action": "禁止发言",
+      "reason": "4-11 失信人员换号发帖",
+      "dateline": "2020-2-27 15:18",
+      "username": "hearth",
+      "groupexpiry": "永不过期"
+    },
+    "1424916": {
+      "cid": "546013",
+      "uid": "1424916",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": "用户名违规",
+      "dateline": "2020-2-26 22:40",
+      "username": "断你屌的人",
+      "groupexpiry": "永不过期"
+    },
+    "2942156": {
+      "cid": "545833",
+      "uid": "2942156",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2020-2-26 17:26",
+      "username": "zzssjhj",
+      "groupexpiry": "永不过期"
+    },
+    "2865157": {
+      "cid": "545832",
+      "uid": "2865157",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2020-2-26 17:24",
+      "username": "caicaiqq",
+      "groupexpiry": "永不过期"
+    },
+    "2871268": {
+      "cid": "545831",
+      "uid": "2871268",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2020-2-26 17:24",
+      "username": "三三酱哦",
+      "groupexpiry": "永不过期"
+    },
+    "3072276": {
+      "cid": "545829",
+      "uid": "3072276",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-2-26 17:06",
+      "username": "shang3",
+      "groupexpiry": "永不过期"
+    },
+    "2665141": {
+      "cid": "545826",
+      "uid": "2665141",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "销号受理",
+      "dateline": "2020-2-26 16:36",
+      "username": "2825386545",
+      "groupexpiry": "永不过期"
+    },
+    "3027827": {
+      "cid": "545811",
+      "uid": "3027827",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-26 15:53",
+      "username": "hacline",
+      "groupexpiry": "永不过期"
+    },
+    "3054136": {
+      "cid": "545797",
+      "uid": "3054136",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-26 15:42",
+      "username": "二次元导师",
+      "groupexpiry": "永不过期"
+    },
+    "2786579": {
+      "cid": "545253",
+      "uid": "2786579",
+      "operatorid": "2067786",
+      "operator": "消",
+      "action": "禁止发言",
+      "reason": "4-15-1 机器账号顶贴",
+      "dateline": "2020-2-25 22:02",
+      "username": "akka47",
+      "groupexpiry": "永不过期"
+    },
+    "1213791": {
+      "cid": "545252",
+      "uid": "1213791",
+      "operatorid": "2067786",
+      "operator": "消",
+      "action": "禁止发言",
+      "reason": "4-15-1 机器账号顶贴",
+      "dateline": "2020-2-25 22:02",
+      "username": "急吼吼",
+      "groupexpiry": "永不过期"
+    },
+    "1394239": {
+      "cid": "545075",
+      "uid": "1394239",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "销号受理",
+      "dateline": "2020-2-25 17:00",
+      "username": "lsw46",
+      "groupexpiry": "永不过期"
+    },
+    "2582303": {
+      "cid": "545074",
+      "uid": "2582303",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "销号受理",
+      "dateline": "2020-2-25 16:59",
+      "username": "ZZMFS",
+      "groupexpiry": "永不过期"
+    },
+    "1814363": {
+      "cid": "544920",
+      "uid": "1814363",
+      "operatorid": "2067786",
+      "operator": "消",
+      "action": "禁止发言",
+      "reason": "4-11 失信人员换号发帖",
+      "dateline": "2020-2-25 11:47",
+      "username": "mengwu1314",
+      "groupexpiry": "永不过期"
+    },
+    "2867475": {
+      "cid": "544898",
+      "uid": "2867475",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2020-2-25 10:32",
+      "username": "佛的人",
+      "groupexpiry": "永不过期"
+    },
+    "2814492": {
+      "cid": "544897",
+      "uid": "2814492",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2020-2-25 10:31",
+      "username": "南人发",
+      "groupexpiry": "永不过期"
+    },
+    "2867467": {
+      "cid": "544896",
+      "uid": "2867467",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "传播谣言",
+      "dateline": "2020-2-25 10:22",
+      "username": "南将发",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

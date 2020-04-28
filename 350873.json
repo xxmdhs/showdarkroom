@@ -1,0 +1,96 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "350873"
+  },
+  "data": {
+    "2449195": {
+      "cid": "354593",
+      "uid": "2449195",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "转账1000金粒",
+      "dateline": "2018-8-18 17:15",
+      "username": "凌轩233",
+      "groupexpiry": "永不过期"
+    },
+    "301617": {
+      "cid": "353788",
+      "uid": "301617",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-8-15 22:51",
+      "username": "67564",
+      "groupexpiry": "永不过期"
+    },
+    "2244260": {
+      "cid": "353728",
+      "uid": "2244260",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "转账",
+      "dateline": "2018-8-15 17:36",
+      "username": "rangu6045",
+      "groupexpiry": "永不过期"
+    },
+    "2134092": {
+      "cid": "353727",
+      "uid": "2134092",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "转账",
+      "dateline": "2018-8-15 17:35",
+      "username": "怪蜀黍GSS",
+      "groupexpiry": "永不过期"
+    },
+    "2464482": {
+      "cid": "353280",
+      "uid": "2464482",
+      "operatorid": "564746",
+      "operator": "gamerteam",
+      "action": "禁止发言",
+      "reason": "第二次辱骂版主，永封",
+      "dateline": "2018-8-14 14:39",
+      "username": "syh3208303651",
+      "groupexpiry": "永不过期"
+    },
+    "1398670": {
+      "cid": "353222",
+      "uid": "1398670",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "公益服骗审",
+      "dateline": "2018-8-14 11:37",
+      "username": "203069197",
+      "groupexpiry": "永不过期"
+    },
+    "1099200": {
+      "cid": "352805",
+      "uid": "1099200",
+      "operatorid": "2128135",
+      "operator": "Auange_M夜幕",
+      "action": "禁止发言",
+      "reason": "剽窃",
+      "dateline": "2018-8-13 17:58",
+      "username": "jjiaw",
+      "groupexpiry": "永不过期"
+    },
+    "2496781": {
+      "cid": "351161",
+      "uid": "2496781",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "公益服骗审",
+      "dateline": "2018-8-6 21:37",
+      "username": "franfang0117",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

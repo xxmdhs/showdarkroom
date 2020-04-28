@@ -1,0 +1,107 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "565970"
+  },
+  "data": {
+    "822586": {
+      "cid": "568696",
+      "uid": "822586",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "销号",
+      "dateline": "2020-3-17 13:17",
+      "username": "s86377707",
+      "groupexpiry": "永不过期"
+    },
+    "1959926": {
+      "cid": "567789",
+      "uid": "1959926",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "销号受理",
+      "dateline": "2020-3-16 16:30",
+      "username": "aipai_KXCR",
+      "groupexpiry": "永不过期"
+    },
+    "1005834": {
+      "cid": "567788",
+      "uid": "1005834",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "销号受理",
+      "dateline": "2020-3-16 16:28",
+      "username": "翟羽霄",
+      "groupexpiry": "永不过期"
+    },
+    "2604775": {
+      "cid": "566700",
+      "uid": "2604775",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "复读机",
+      "dateline": "2020-3-16 00:21",
+      "username": "孤小星",
+      "groupexpiry": "永不过期"
+    },
+    "3117465": {
+      "cid": "566699",
+      "uid": "3117465",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "复读机",
+      "dateline": "2020-3-16 00:21",
+      "username": "小孤小星",
+      "groupexpiry": "永不过期"
+    },
+    "3131872": {
+      "cid": "566421",
+      "uid": "3131872",
+      "operatorid": "111377",
+      "operator": "LittleHei",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-3-15 22:57",
+      "username": "寶寶w09776",
+      "groupexpiry": "永不过期"
+    },
+    "3073000": {
+      "cid": "566247",
+      "uid": "3073000",
+      "operatorid": "2511498",
+      "operator": "AzureHanChen",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-3-15 20:34",
+      "username": "全违规",
+      "groupexpiry": "永不过期"
+    },
+    "3131383": {
+      "cid": "566140",
+      "uid": "3131383",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2020-3-15 18:43",
+      "username": "喝茶瀨04389",
+      "groupexpiry": "永不过期"
+    },
+    "2937845": {
+      "cid": "566066",
+      "uid": "2937845",
+      "operatorid": "2511498",
+      "operator": "AzureHanChen",
+      "action": "禁止发言",
+      "reason": "屡次错版宣传服务器且在版块内灌水,性质恶劣",
+      "dateline": "2020-3-15 15:43",
+      "username": "扣死你",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

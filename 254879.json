@@ -1,0 +1,63 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "254879"
+  },
+  "data": {
+    "1887872": {
+      "cid": "256000",
+      "uid": "1887872",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-6-19 14:54",
+      "username": "Zero2436329189",
+      "groupexpiry": "永不过期"
+    },
+    "159364": {
+      "cid": "255998",
+      "uid": "159364",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-6-19 14:54",
+      "username": "bzq0207",
+      "groupexpiry": "永不过期"
+    },
+    "1609039": {
+      "cid": "255997",
+      "uid": "1609039",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-6-19 14:53",
+      "username": "蛙草",
+      "groupexpiry": "永不过期"
+    },
+    "2140478": {
+      "cid": "255994",
+      "uid": "2140478",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-6-19 14:52",
+      "username": "Lelouch_Lamper",
+      "groupexpiry": "永不过期"
+    },
+    "2197669": {
+      "cid": "255381",
+      "uid": "2197669",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "严重刷分",
+      "dateline": "2017-6-12 14:29",
+      "username": "PHontdoge棒冰",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

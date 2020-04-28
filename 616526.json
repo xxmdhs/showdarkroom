@@ -1,0 +1,305 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "616526"
+  },
+  "data": {
+    "2834397": {
+      "cid": "617531",
+      "uid": "2834397",
+      "operatorid": "2444378",
+      "operator": "SPGoding",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "\u003cspan title\u003d\"2020-4-28 12:30\"\u003e7\u0026nbsp;小时前\u003c/span\u003e",
+      "username": "七宫安澄",
+      "groupexpiry": "永不过期"
+    },
+    "2520726": {
+      "cid": "617491",
+      "uid": "2520726",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "\u003cspan title\u003d\"2020-4-28 11:10\"\u003e8\u0026nbsp;小时前\u003c/span\u003e",
+      "username": "guiyu520123",
+      "groupexpiry": "2020-5-12 11:10"
+    },
+    "2790215": {
+      "cid": "617490",
+      "uid": "2790215",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "\u003cspan title\u003d\"2020-4-28 11:10\"\u003e8\u0026nbsp;小时前\u003c/span\u003e",
+      "username": "datoutian",
+      "groupexpiry": "永不过期"
+    },
+    "2870242": {
+      "cid": "617489",
+      "uid": "2870242",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "\u003cspan title\u003d\"2020-4-28 11:09\"\u003e8\u0026nbsp;小时前\u003c/span\u003e",
+      "username": "xhnjj",
+      "groupexpiry": "永不过期"
+    },
+    "2790024": {
+      "cid": "617488",
+      "uid": "2790024",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "\u003cspan title\u003d\"2020-4-28 11:09\"\u003e8\u0026nbsp;小时前\u003c/span\u003e",
+      "username": "liuliya",
+      "groupexpiry": "永不过期"
+    },
+    "1940130": {
+      "cid": "617342",
+      "uid": "1940130",
+      "operatorid": "1793501",
+      "operator": "没糖的葫芦",
+      "action": "禁止发言",
+      "reason": "水龙头，大量相同回复",
+      "dateline": "\u003cspan title\u003d\"2020-4-28 00:42\"\u003e19\u0026nbsp;小时前\u003c/span\u003e",
+      "username": "yduzhe",
+      "groupexpiry": "2020-5-12 00:42"
+    },
+    "3257853": {
+      "cid": "617303",
+      "uid": "3257853",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "\u003cspan title\u003d\"2020-4-27 23:32\"\u003e昨天\u0026nbsp;23:32\u003c/span\u003e",
+      "username": "奶瓶simida",
+      "groupexpiry": "2020-5-11 23:32"
+    },
+    "2034562": {
+      "cid": "617302",
+      "uid": "2034562",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "\u003cspan title\u003d\"2020-4-27 23:32\"\u003e昨天\u0026nbsp;23:32\u003c/span\u003e",
+      "username": "骨头GGsimida",
+      "groupexpiry": "永不过期"
+    },
+    "1770672": {
+      "cid": "617301",
+      "uid": "1770672",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "\u003cspan title\u003d\"2020-4-27 23:32\"\u003e昨天\u0026nbsp;23:32\u003c/span\u003e",
+      "username": "yingchao",
+      "groupexpiry": "永不过期"
+    },
+    "252975": {
+      "cid": "617217",
+      "uid": "252975",
+      "operatorid": "86237",
+      "operator": "缇米Official",
+      "action": "禁止发言",
+      "reason": "剽窃",
+      "dateline": "\u003cspan title\u003d\"2020-4-27 20:02\"\u003e昨天\u0026nbsp;20:02\u003c/span\u003e",
+      "username": "八婆",
+      "groupexpiry": "2020-5-2 20:02"
+    },
+    "2443642": {
+      "cid": "616990",
+      "uid": "2443642",
+      "operatorid": "825085",
+      "operator": "darrksy",
+      "action": "禁止发言",
+      "reason": "水龙头，引战",
+      "dateline": "\u003cspan title\u003d\"2020-4-27 14:04\"\u003e昨天\u0026nbsp;14:04\u003c/span\u003e",
+      "username": "MC2502279374",
+      "groupexpiry": "2020-5-11 14:04"
+    },
+    "3208246": {
+      "cid": "616966",
+      "uid": "3208246",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "\u003cspan title\u003d\"2020-4-27 13:48\"\u003e昨天\u0026nbsp;13:48\u003c/span\u003e",
+      "username": "Ranjunhao666",
+      "groupexpiry": "2020-5-11 13:48"
+    },
+    "2516115": {
+      "cid": "616734",
+      "uid": "2516115",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "销号受理",
+      "dateline": "\u003cspan title\u003d\"2020-4-27 10:54\"\u003e昨天\u0026nbsp;10:54\u003c/span\u003e",
+      "username": "宇遙吖",
+      "groupexpiry": "永不过期"
+    },
+    "3065363": {
+      "cid": "616564",
+      "uid": "3065363",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "\u003cspan title\u003d\"2020-4-26 23:36\"\u003e前天\u0026nbsp;23:36\u003c/span\u003e",
+      "username": "天空im",
+      "groupexpiry": "永不过期"
+    },
+    "1732973": {
+      "cid": "616560",
+      "uid": "1732973",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "\u003cspan title\u003d\"2020-4-26 23:35\"\u003e前天\u0026nbsp;23:35\u003c/span\u003e",
+      "username": "MINECRAFT天空",
+      "groupexpiry": "永不过期"
+    },
+    "2856391": {
+      "cid": "616559",
+      "uid": "2856391",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "\u003cspan title\u003d\"2020-4-26 23:35\"\u003e前天\u0026nbsp;23:35\u003c/span\u003e",
+      "username": "小曲2",
+      "groupexpiry": "永不过期"
+    },
+    "1053279": {
+      "cid": "616558",
+      "uid": "1053279",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "\u003cspan title\u003d\"2020-4-26 23:35\"\u003e前天\u0026nbsp;23:35\u003c/span\u003e",
+      "username": "xiaobingfeng",
+      "groupexpiry": "永不过期"
+    },
+    "2817035": {
+      "cid": "616540",
+      "uid": "2817035",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "\u003cspan title\u003d\"2020-4-26 23:17\"\u003e前天\u0026nbsp;23:17\u003c/span\u003e",
+      "username": "幻雨.",
+      "groupexpiry": "2020-5-3 23:17"
+    },
+    "1600237": {
+      "cid": "616539",
+      "uid": "1600237",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "\u003cspan title\u003d\"2020-4-26 23:17\"\u003e前天\u0026nbsp;23:17\u003c/span\u003e",
+      "username": "【xsxs】",
+      "groupexpiry": "2020-5-10 23:17"
+    },
+    "2289110": {
+      "cid": "616538",
+      "uid": "2289110",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "\u003cspan title\u003d\"2020-4-26 23:17\"\u003e前天\u0026nbsp;23:17\u003c/span\u003e",
+      "username": "酷乐工作室",
+      "groupexpiry": "2020-5-10 23:17"
+    },
+    "922904": {
+      "cid": "616537",
+      "uid": "922904",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "2-4-D",
+      "dateline": "\u003cspan title\u003d\"2020-4-26 23:07\"\u003e前天\u0026nbsp;23:07\u003c/span\u003e",
+      "username": "xiao_yuer",
+      "groupexpiry": "2020-5-3 23:07"
+    },
+    "759904": {
+      "cid": "616536",
+      "uid": "759904",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "\u003cspan title\u003d\"2020-4-26 23:01\"\u003e前天\u0026nbsp;23:01\u003c/span\u003e",
+      "username": "xue2985756343",
+      "groupexpiry": "2020-5-3 23:01"
+    },
+    "1834873": {
+      "cid": "616535",
+      "uid": "1834873",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "\u003cspan title\u003d\"2020-4-26 23:01\"\u003e前天\u0026nbsp;23:01\u003c/span\u003e",
+      "username": "勇士临客",
+      "groupexpiry": "2020-5-1 23:01"
+    },
+    "2960438": {
+      "cid": "616532",
+      "uid": "2960438",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "\u003cspan title\u003d\"2020-4-26 23:00\"\u003e前天\u0026nbsp;23:00\u003c/span\u003e",
+      "username": "onmis",
+      "groupexpiry": "2020-5-1 23:00"
+    },
+    "2790743": {
+      "cid": "616531",
+      "uid": "2790743",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "\u003cspan title\u003d\"2020-4-26 22:59\"\u003e前天\u0026nbsp;22:59\u003c/span\u003e",
+      "username": "铅笔的世界",
+      "groupexpiry": "2020-5-3 22:59"
+    },
+    "1777301": {
+      "cid": "616528",
+      "uid": "1777301",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "\u003cspan title\u003d\"2020-4-26 22:58\"\u003e前天\u0026nbsp;22:58\u003c/span\u003e",
+      "username": "2254306932",
+      "groupexpiry": "2020-5-3 22:58"
+    },
+    "1203358": {
+      "cid": "616526",
+      "uid": "1203358",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "\u003cspan title\u003d\"2020-4-26 22:58\"\u003e前天\u0026nbsp;22:58\u003c/span\u003e",
+      "username": "zjc123456789",
+      "groupexpiry": "2020-5-3 22:58"
+    }
+  }
+}

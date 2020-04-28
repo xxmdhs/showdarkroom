@@ -1,0 +1,140 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "552992"
+  },
+  "data": {
+    "2954043": {
+      "cid": "559043",
+      "uid": "2954043",
+      "operatorid": "2067786",
+      "operator": "消",
+      "action": "禁止发言",
+      "reason": "4-11 失信人员换号发帖",
+      "dateline": "2020-3-9 18:52",
+      "username": "爪爪阿梓_",
+      "groupexpiry": "永不过期"
+    },
+    "2862810": {
+      "cid": "558927",
+      "uid": "2862810",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "灌水",
+      "dateline": "2020-3-9 15:38",
+      "username": "我随便丶",
+      "groupexpiry": "永不过期"
+    },
+    "3111168": {
+      "cid": "558825",
+      "uid": "3111168",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-3-9 14:45",
+      "username": "iPhone1",
+      "groupexpiry": "永不过期"
+    },
+    "1358076": {
+      "cid": "558808",
+      "uid": "1358076",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "复读机",
+      "dateline": "2020-3-9 13:44",
+      "username": "1652774204",
+      "groupexpiry": "永不过期"
+    },
+    "2501765": {
+      "cid": "557840",
+      "uid": "2501765",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "在问答版累计转账3次，永久封禁",
+      "dateline": "2020-3-8 18:15",
+      "username": "xiao_yu_g",
+      "groupexpiry": "永不过期"
+    },
+    "3100199": {
+      "cid": "556036",
+      "uid": "3100199",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2020-3-7 01:55",
+      "username": "梅子紫转青",
+      "groupexpiry": "永不过期"
+    },
+    "2871123": {
+      "cid": "556024",
+      "uid": "2871123",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2020-3-7 01:49",
+      "username": "kingzip",
+      "groupexpiry": "永不过期"
+    },
+    "2560347": {
+      "cid": "555480",
+      "uid": "2560347",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "销号受理",
+      "dateline": "2020-3-6 18:27",
+      "username": "卐Thunder卍",
+      "groupexpiry": "永不过期"
+    },
+    "1393331": {
+      "cid": "555479",
+      "uid": "1393331",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "销号受理",
+      "dateline": "2020-3-6 18:26",
+      "username": "LiangYujia",
+      "groupexpiry": "永不过期"
+    },
+    "3046584": {
+      "cid": "553793",
+      "uid": "3046584",
+      "operatorid": "1196990",
+      "operator": "海螺螺",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-3-5 13:22",
+      "username": "定制",
+      "groupexpiry": "永不过期"
+    },
+    "3097797": {
+      "cid": "553620",
+      "uid": "3097797",
+      "operatorid": "458143",
+      "operator": "阴阳师元素祭祀",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2020-3-5 12:11",
+      "username": "HnuL2",
+      "groupexpiry": "永不过期"
+    },
+    "2578306": {
+      "cid": "552995",
+      "uid": "2578306",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-3-4 20:30",
+      "username": "2725970994",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

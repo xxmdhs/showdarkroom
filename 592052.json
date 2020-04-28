@@ -1,0 +1,30 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "592052"
+  },
+  "data": {
+    "2493818": {
+      "cid": "593639",
+      "uid": "2493818",
+      "operatorid": "111377",
+      "operator": "LittleHei",
+      "action": "禁止发言",
+      "reason": "水龙头屡警无用（大量复制粘贴万用回复灌水）",
+      "dateline": "2020-4-6 19:12",
+      "username": "z2356209287",
+      "groupexpiry": "永不过期"
+    },
+    "2351277": {
+      "cid": "593479",
+      "uid": "2351277",
+      "operatorid": "281332",
+      "operator": "星",
+      "action": "禁止发言",
+      "reason": "剽窃 + 传播破解插件",
+      "dateline": "2020-4-6 16:31",
+      "username": "寒梅风影",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

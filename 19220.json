@@ -1,0 +1,162 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "19220"
+  },
+  "data": {
+    "120307": {
+      "cid": "21633",
+      "uid": "120307",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-6-5 12:39",
+      "username": "cheongpok",
+      "groupexpiry": "永不过期"
+    },
+    "462947": {
+      "cid": "21503",
+      "uid": "462947",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "不文明ID",
+      "dateline": "2014-6-3 11:52",
+      "username": "操我妈逼",
+      "groupexpiry": "永不过期"
+    },
+    "156535": {
+      "cid": "21095",
+      "uid": "156535",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "传播盗号网站，广告机处理",
+      "dateline": "2014-5-24 09:00",
+      "username": "郭志翔",
+      "groupexpiry": "永不过期"
+    },
+    "610521": {
+      "cid": "20992",
+      "uid": "610521",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-5-22 18:22",
+      "username": "ycbingling",
+      "groupexpiry": "永不过期"
+    },
+    "568292": {
+      "cid": "20689",
+      "uid": "568292",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-5-18 12:47",
+      "username": "330050157",
+      "groupexpiry": "永不过期"
+    },
+    "657495": {
+      "cid": "20573",
+      "uid": "657495",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "广告",
+      "dateline": "2014-5-17 12:55",
+      "username": "egsdb",
+      "groupexpiry": "永不过期"
+    },
+    "599424": {
+      "cid": "20498",
+      "uid": "599424",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-5-16 21:10",
+      "username": "1227677263",
+      "groupexpiry": "永不过期"
+    },
+    "588240": {
+      "cid": "20157",
+      "uid": "588240",
+      "operatorid": "151431",
+      "operator": "sawil",
+      "action": "禁止发言",
+      "reason": "马甲顶贴，严重违规处理",
+      "dateline": "2014-5-12 23:14",
+      "username": "断点执事",
+      "groupexpiry": "永不过期"
+    },
+    "166892": {
+      "cid": "20156",
+      "uid": "166892",
+      "operatorid": "151431",
+      "operator": "sawil",
+      "action": "禁止发言",
+      "reason": "马甲顶贴，严重违规处理",
+      "dateline": "2014-5-12 23:13",
+      "username": "库洛里德",
+      "groupexpiry": "永不过期"
+    },
+    "381766": {
+      "cid": "20154",
+      "uid": "381766",
+      "operatorid": "151431",
+      "operator": "sawil",
+      "action": "禁止发言",
+      "reason": "马甲顶贴，严重违规处理",
+      "dateline": "2014-5-12 23:13",
+      "username": "玄良封",
+      "groupexpiry": "永不过期"
+    },
+    "436315": {
+      "cid": "19995",
+      "uid": "436315",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "末地连续骂街，永久禁言",
+      "dateline": "2014-5-11 12:43",
+      "username": "V58",
+      "groupexpiry": "永不过期"
+    },
+    "538820": {
+      "cid": "19835",
+      "uid": "538820",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "末地粗口",
+      "dateline": "2014-5-10 00:19",
+      "username": "小史同志",
+      "groupexpiry": "永不过期"
+    },
+    "571254": {
+      "cid": "19402",
+      "uid": "571254",
+      "operatorid": "151431",
+      "operator": "sawil",
+      "action": "禁止发言",
+      "reason": "大量水回复，影响极其恶劣，永久封禁",
+      "dateline": "2014-5-6 00:03",
+      "username": "魔王牛逼",
+      "groupexpiry": "永不过期"
+    },
+    "620300": {
+      "cid": "19231",
+      "uid": "620300",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "广告",
+      "dateline": "2014-5-4 14:11",
+      "username": "Dnihs392",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

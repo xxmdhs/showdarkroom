@@ -1,0 +1,107 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "181374"
+  },
+  "data": {
+    "1724274": {
+      "cid": "182434",
+      "uid": "1724274",
+      "operatorid": "200097",
+      "operator": "银狼",
+      "action": "禁止发言",
+      "reason": "连着水这么多……珠穆朗玛都支不住",
+      "dateline": "2016-3-8 23:29",
+      "username": "Boss-工程师",
+      "groupexpiry": "永不过期"
+    },
+    "289600": {
+      "cid": "182391",
+      "uid": "289600",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-3-8 20:26",
+      "username": "hwdhwdhzyhzy",
+      "groupexpiry": "永不过期"
+    },
+    "6533": {
+      "cid": "182203",
+      "uid": "6533",
+      "operatorid": "76964",
+      "operator": "zhh0000zhh",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-3-7 14:58",
+      "username": "onlyliumin520",
+      "groupexpiry": "永不过期"
+    },
+    "757581": {
+      "cid": "182151",
+      "uid": "757581",
+      "operatorid": "290486",
+      "operator": "719220502",
+      "action": "禁止发言",
+      "reason": "发帖辱骂",
+      "dateline": "2016-3-6 21:27",
+      "username": "aa120108321",
+      "groupexpiry": "永不过期"
+    },
+    "213257": {
+      "cid": "181871",
+      "uid": "213257",
+      "operatorid": "92880",
+      "operator": "tony990412",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-3-5 19:51",
+      "username": "yun694781849",
+      "groupexpiry": "永不过期"
+    },
+    "1498621": {
+      "cid": "181581",
+      "uid": "1498621",
+      "operatorid": "42992",
+      "operator": "810587921",
+      "action": "禁止发言",
+      "reason": "后门插件，永",
+      "dateline": "2016-3-4 22:55",
+      "username": "圣魔霸主",
+      "groupexpiry": "永不过期"
+    },
+    "1723586": {
+      "cid": "181507",
+      "uid": "1723586",
+      "operatorid": "984070",
+      "operator": "MRTangwin8",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-3-4 17:37",
+      "username": "恋爱太少",
+      "groupexpiry": "永不过期"
+    },
+    "1154357": {
+      "cid": "181390",
+      "uid": "1154357",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-3-3 21:40",
+      "username": "dessler",
+      "groupexpiry": "永不过期"
+    },
+    "1723769": {
+      "cid": "181376",
+      "uid": "1723769",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2016-3-3 20:07",
+      "username": "op995",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

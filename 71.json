@@ -1,1 +1,17 @@
-{ "message": { "dataexist": "0", "cid": "71" }, "data": [] }
+{
+  "message": {
+    "dataexist": "0",
+    "cid": "71"
+  },
+  "data": {
+    "486298": {
+      "cid": "196",
+      "uid": "486298",
+      "operatorid": "72768",
+      "operator": "Sky、果冻",
+      "action": "禁止发言",
+      "reason": "广告机+灌水",
+      "dateline": "2014-1-24 14:28"
+    }
+  }
+}

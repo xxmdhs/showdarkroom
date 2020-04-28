@@ -1,0 +1,305 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "543205"
+  },
+  "data": {
+    "3011261": {
+      "cid": "543341",
+      "uid": "3011261",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-23 20:52",
+      "username": "龙马1234",
+      "groupexpiry": "永不过期"
+    },
+    "3050667": {
+      "cid": "543235",
+      "uid": "3050667",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "复读机",
+      "dateline": "2020-2-23 19:54",
+      "username": "3128554048",
+      "groupexpiry": "永不过期"
+    },
+    "2701349": {
+      "cid": "543234",
+      "uid": "2701349",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "复读机",
+      "dateline": "2020-2-23 19:53",
+      "username": "wznms记",
+      "groupexpiry": "永不过期"
+    },
+    "2513519": {
+      "cid": "543233",
+      "uid": "2513519",
+      "operatorid": "2067786",
+      "operator": "消",
+      "action": "禁止发言",
+      "reason": "4-15-1 机器账号顶贴且超过三天未说明",
+      "dateline": "2020-2-23 19:48",
+      "username": "豪哥丫",
+      "groupexpiry": "永不过期"
+    },
+    "2997802": {
+      "cid": "543230",
+      "uid": "2997802",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-23 19:40",
+      "username": "淡淡稻花香",
+      "groupexpiry": "永不过期"
+    },
+    "2697437": {
+      "cid": "543229",
+      "uid": "2697437",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-23 19:38",
+      "username": "突然唉84",
+      "groupexpiry": "永不过期"
+    },
+    "3032632": {
+      "cid": "543227",
+      "uid": "3032632",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-23 19:37",
+      "username": "拾柒KOKO",
+      "groupexpiry": "永不过期"
+    },
+    "3029509": {
+      "cid": "543226",
+      "uid": "3029509",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-23 19:37",
+      "username": "云层风",
+      "groupexpiry": "永不过期"
+    },
+    "3017339": {
+      "cid": "543225",
+      "uid": "3017339",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-23 19:36",
+      "username": "法法法哥",
+      "groupexpiry": "永不过期"
+    },
+    "2992293": {
+      "cid": "543224",
+      "uid": "2992293",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-23 19:35",
+      "username": "showy",
+      "groupexpiry": "永不过期"
+    },
+    "2942235": {
+      "cid": "543222",
+      "uid": "2942235",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-23 19:35",
+      "username": "淡淡一笑",
+      "groupexpiry": "永不过期"
+    },
+    "2942240": {
+      "cid": "543221",
+      "uid": "2942240",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-23 19:32",
+      "username": "人民币玩家",
+      "groupexpiry": "永不过期"
+    },
+    "2942239": {
+      "cid": "543220",
+      "uid": "2942239",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-23 19:32",
+      "username": "一夕流年",
+      "groupexpiry": "永不过期"
+    },
+    "2930857": {
+      "cid": "543219",
+      "uid": "2930857",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-23 19:32",
+      "username": "weizhu1983",
+      "groupexpiry": "永不过期"
+    },
+    "3019709": {
+      "cid": "543218",
+      "uid": "3019709",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-23 19:31",
+      "username": "wym301",
+      "groupexpiry": "永不过期"
+    },
+    "3017541": {
+      "cid": "543217",
+      "uid": "3017541",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-23 19:31",
+      "username": "NextBM",
+      "groupexpiry": "永不过期"
+    },
+    "3017536": {
+      "cid": "543216",
+      "uid": "3017536",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-23 19:31",
+      "username": "萧邦2566",
+      "groupexpiry": "永不过期"
+    },
+    "3012982": {
+      "cid": "543215",
+      "uid": "3012982",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-23 19:31",
+      "username": "RingMyBell",
+      "groupexpiry": "永不过期"
+    },
+    "3012978": {
+      "cid": "543214",
+      "uid": "3012978",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-23 19:31",
+      "username": "boy你好",
+      "groupexpiry": "永不过期"
+    },
+    "3012974": {
+      "cid": "543213",
+      "uid": "3012974",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-23 19:31",
+      "username": "AntiWaR",
+      "groupexpiry": "永不过期"
+    },
+    "3011268": {
+      "cid": "543212",
+      "uid": "3011268",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-23 19:31",
+      "username": "椎名真白i",
+      "groupexpiry": "永不过期"
+    },
+    "3011254": {
+      "cid": "543211",
+      "uid": "3011254",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-23 19:31",
+      "username": "红石玩家1",
+      "groupexpiry": "永不过期"
+    },
+    "2947180": {
+      "cid": "543210",
+      "uid": "2947180",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-23 19:31",
+      "username": "Deep_hug",
+      "groupexpiry": "永不过期"
+    },
+    "2947175": {
+      "cid": "543209",
+      "uid": "2947175",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-23 19:31",
+      "username": "Sweet_Dream",
+      "groupexpiry": "永不过期"
+    },
+    "2990249": {
+      "cid": "543208",
+      "uid": "2990249",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-23 19:31",
+      "username": "Judicious",
+      "groupexpiry": "永不过期"
+    },
+    "3012984": {
+      "cid": "543207",
+      "uid": "3012984",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-23 19:31",
+      "username": "Aeljinh陌琳",
+      "groupexpiry": "永不过期"
+    },
+    "2947179": {
+      "cid": "543206",
+      "uid": "2947179",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "用户异常,有疑问请移步末路之地版块申诉",
+      "dateline": "2020-2-23 19:31",
+      "username": "Carry_me",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

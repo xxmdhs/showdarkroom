@@ -1,0 +1,184 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "225509"
+  },
+  "data": {
+    "525016": {
+      "cid": "227151",
+      "uid": "525016",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "使用政治敏感头像",
+      "dateline": "2017-1-2 13:55",
+      "username": "senge1986",
+      "groupexpiry": "永不过期"
+    },
+    "1615621": {
+      "cid": "226529",
+      "uid": "1615621",
+      "operatorid": "674931",
+      "operator": "1094822247",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-12-31 18:31",
+      "username": "2625140662",
+      "groupexpiry": "永不过期"
+    },
+    "2026942": {
+      "cid": "226469",
+      "uid": "2026942",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "违规转账",
+      "dateline": "2016-12-31 15:05",
+      "username": "15063210767",
+      "groupexpiry": "永不过期"
+    },
+    "748258": {
+      "cid": "226468",
+      "uid": "748258",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "违规转账",
+      "dateline": "2016-12-31 15:05",
+      "username": "2681024486",
+      "groupexpiry": "永不过期"
+    },
+    "1210636": {
+      "cid": "226107",
+      "uid": "1210636",
+      "operatorid": "790748",
+      "operator": "zxc554989965",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-12-29 18:42",
+      "username": "王锦宝",
+      "groupexpiry": "永不过期"
+    },
+    "1743491": {
+      "cid": "225651",
+      "uid": "1743491",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2016-12-26 17:04",
+      "username": "SX_MC",
+      "groupexpiry": "永不过期"
+    },
+    "2018431": {
+      "cid": "225650",
+      "uid": "2018431",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2016-12-26 17:04",
+      "username": "古德白",
+      "groupexpiry": "永不过期"
+    },
+    "1828963": {
+      "cid": "225649",
+      "uid": "1828963",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2016-12-26 17:03",
+      "username": "起源之地",
+      "groupexpiry": "永不过期"
+    },
+    "1884924": {
+      "cid": "225648",
+      "uid": "1884924",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2016-12-26 17:02",
+      "username": "SX_NAOC",
+      "groupexpiry": "永不过期"
+    },
+    "1762416": {
+      "cid": "225647",
+      "uid": "1762416",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2016-12-26 17:02",
+      "username": "漠小月",
+      "groupexpiry": "永不过期"
+    },
+    "2032988": {
+      "cid": "225646",
+      "uid": "2032988",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2016-12-26 17:01",
+      "username": "纳爱斯",
+      "groupexpiry": "永不过期"
+    },
+    "1967689": {
+      "cid": "225645",
+      "uid": "1967689",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2016-12-26 17:01",
+      "username": "你的世界002",
+      "groupexpiry": "永不过期"
+    },
+    "1967686": {
+      "cid": "225644",
+      "uid": "1967686",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2016-12-26 17:01",
+      "username": "你的世界001",
+      "groupexpiry": "永不过期"
+    },
+    "2036020": {
+      "cid": "225515",
+      "uid": "2036020",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2016-12-25 19:27",
+      "username": "HaoNan.",
+      "groupexpiry": "永不过期"
+    },
+    "718421": {
+      "cid": "225510",
+      "uid": "718421",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "违规转账1500金粒",
+      "dateline": "2016-12-25 18:41",
+      "username": "1441339456",
+      "groupexpiry": "永不过期"
+    },
+    "1678069": {
+      "cid": "225509",
+      "uid": "1678069",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "违规转账1500金粒",
+      "dateline": "2016-12-25 18:41",
+      "username": "blubluu_2",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

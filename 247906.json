@@ -1,0 +1,118 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "247906"
+  },
+  "data": {
+    "2169994": {
+      "cid": "249293",
+      "uid": "2169994",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-4-28 20:48",
+      "username": "森屿Obaヾ",
+      "groupexpiry": "永不过期"
+    },
+    "1567762": {
+      "cid": "249274",
+      "uid": "1567762",
+      "operatorid": "1037910",
+      "operator": "小阿狸....",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-4-28 16:39",
+      "username": "mc_damiao",
+      "groupexpiry": "永不过期"
+    },
+    "2170909": {
+      "cid": "249143",
+      "uid": "2170909",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-4-26 20:06",
+      "username": "创世之巅",
+      "groupexpiry": "永不过期"
+    },
+    "1800832": {
+      "cid": "249138",
+      "uid": "1800832",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-4-26 17:44",
+      "username": "五环之歌",
+      "groupexpiry": "永不过期"
+    },
+    "968283": {
+      "cid": "248578",
+      "uid": "968283",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "使用私信广告骚扰他人",
+      "dateline": "2017-4-21 17:34",
+      "username": "hou9995",
+      "groupexpiry": "永不过期"
+    },
+    "1623858": {
+      "cid": "248271",
+      "uid": "1623858",
+      "operatorid": "237322",
+      "operator": "1427639813",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2017-4-18 14:17",
+      "username": "amingdada",
+      "groupexpiry": "永不过期"
+    },
+    "2147556": {
+      "cid": "248213",
+      "uid": "2147556",
+      "operatorid": "1696224",
+      "operator": "星燚",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2017-4-17 14:31",
+      "username": "【屁屁】",
+      "groupexpiry": "永不过期"
+    },
+    "1792334": {
+      "cid": "248146",
+      "uid": "1792334",
+      "operatorid": "1037910",
+      "operator": "小阿狸....",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-4-16 15:33",
+      "username": "qq3089206010",
+      "groupexpiry": "永不过期"
+    },
+    "2154890": {
+      "cid": "248145",
+      "uid": "2154890",
+      "operatorid": "1037910",
+      "operator": "小阿狸....",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-4-16 15:33",
+      "username": "lianqing233",
+      "groupexpiry": "永不过期"
+    },
+    "2146927": {
+      "cid": "247944",
+      "uid": "2146927",
+      "operatorid": "48495",
+      "operator": "TT702",
+      "action": "禁止发言",
+      "reason": "发布作弊类软件",
+      "dateline": "2017-4-15 21:10",
+      "username": "YeXuanjun",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

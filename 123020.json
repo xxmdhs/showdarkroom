@@ -1,0 +1,129 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "123020"
+  },
+  "data": {
+    "1369790": {
+      "cid": "123998",
+      "uid": "1369790",
+      "operatorid": "266924",
+      "operator": "kehebai",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-6-22 13:24",
+      "username": "Agustin",
+      "groupexpiry": "永不过期"
+    },
+    "228731": {
+      "cid": "123742",
+      "uid": "228731",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-6-21 10:58",
+      "username": "编程的小孩",
+      "groupexpiry": "永不过期"
+    },
+    "1358254": {
+      "cid": "123664",
+      "uid": "1358254",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-6-20 20:12",
+      "username": "1256563357",
+      "groupexpiry": "永不过期"
+    },
+    "1367445": {
+      "cid": "123628",
+      "uid": "1367445",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-6-20 17:36",
+      "username": "霸气阳阳",
+      "groupexpiry": "永不过期"
+    },
+    "1239839": {
+      "cid": "123590",
+      "uid": "1239839",
+      "operatorid": "81501",
+      "operator": "hsk001ufo",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-6-20 16:28",
+      "username": "203518946",
+      "groupexpiry": "永不过期"
+    },
+    "1337599": {
+      "cid": "123527",
+      "uid": "1337599",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-6-20 12:02",
+      "username": "MC服主",
+      "groupexpiry": "永不过期"
+    },
+    "659895": {
+      "cid": "123490",
+      "uid": "659895",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-6-19 22:45",
+      "username": "大声道文",
+      "groupexpiry": "永不过期"
+    },
+    "1168925": {
+      "cid": "123261",
+      "uid": "1168925",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "公告板骂街",
+      "dateline": "2015-6-17 23:32",
+      "username": "Shui_Xi",
+      "groupexpiry": "永不过期"
+    },
+    "600507": {
+      "cid": "123068",
+      "uid": "600507",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "广告机",
+      "dateline": "2015-6-16 17:03",
+      "username": "世界之巅GZ",
+      "groupexpiry": "永不过期"
+    },
+    "1340727": {
+      "cid": "123041",
+      "uid": "1340727",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-6-16 09:21",
+      "username": "No_Ka",
+      "groupexpiry": "永不过期"
+    },
+    "1363555": {
+      "cid": "123020",
+      "uid": "1363555",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "马甲引战",
+      "dateline": "2015-6-15 23:12",
+      "username": "打假小卫士",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

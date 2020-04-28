@@ -1,0 +1,107 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "5169"
+  },
+  "data": {
+    "545647": {
+      "cid": "5934",
+      "uid": "545647",
+      "operatorid": "78672",
+      "operator": "Yihc",
+      "action": "禁止发言",
+      "reason": "水回复",
+      "dateline": "2014-2-28 12:25",
+      "username": "shipizai",
+      "groupexpiry": "永不过期"
+    },
+    "285142": {
+      "cid": "5870",
+      "uid": "285142",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "发广告",
+      "dateline": "2014-2-27 18:24",
+      "username": "56889",
+      "groupexpiry": "永不过期"
+    },
+    "429621": {
+      "cid": "5864",
+      "uid": "429621",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-2-27 16:10",
+      "username": "qwwwwwwwwwe",
+      "groupexpiry": "永不过期"
+    },
+    "478161": {
+      "cid": "5862",
+      "uid": "478161",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "签名带有恶意网站",
+      "dateline": "2014-2-27 16:08",
+      "username": "169的小号",
+      "groupexpiry": "永不过期"
+    },
+    "450023": {
+      "cid": "5848",
+      "uid": "450023",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-2-27 11:59",
+      "username": "爱榴芒",
+      "groupexpiry": "永不过期"
+    },
+    "120230": {
+      "cid": "5626",
+      "uid": "120230",
+      "operatorid": "59136",
+      "operator": "冥王星人",
+      "action": "禁止发言",
+      "reason": "全水，永封",
+      "dateline": "2014-2-26 14:54",
+      "username": "ffssdd123",
+      "groupexpiry": "永不过期"
+    },
+    "456430": {
+      "cid": "5249",
+      "uid": "456430",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "粗口",
+      "dateline": "2014-2-23 17:45",
+      "username": "不水了",
+      "groupexpiry": "永不过期"
+    },
+    "282109": {
+      "cid": "5230",
+      "uid": "282109",
+      "operatorid": "182189",
+      "operator": "Darkyoooooo",
+      "action": "禁止发言",
+      "reason": "剽窃http://www.mcbbs.net/thread-231662-1-1.html",
+      "dateline": "2014-2-23 16:37",
+      "username": "时光CRZAY流逝",
+      "groupexpiry": "永不过期"
+    },
+    "515623": {
+      "cid": "5197",
+      "uid": "515623",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "剽窃+屠版",
+      "dateline": "2014-2-23 13:56",
+      "username": "小高同志",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

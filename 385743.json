@@ -1,0 +1,129 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "385743"
+  },
+  "data": {
+    "2696960": {
+      "cid": "389113",
+      "uid": "2696960",
+      "operatorid": "266277",
+      "operator": "LocusAzzurro",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-3-30 02:27",
+      "username": "方之尔柳",
+      "groupexpiry": "永不过期"
+    },
+    "394443": {
+      "cid": "389112",
+      "uid": "394443",
+      "operatorid": "266277",
+      "operator": "LocusAzzurro",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-3-30 02:07",
+      "username": "512307446",
+      "groupexpiry": "永不过期"
+    },
+    "2616620": {
+      "cid": "388813",
+      "uid": "2616620",
+      "operatorid": "1280406",
+      "operator": "zjxx",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-3-29 06:08",
+      "username": "q3205977915",
+      "groupexpiry": "永不过期"
+    },
+    "1918261": {
+      "cid": "388720",
+      "uid": "1918261",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-3-27 23:34",
+      "username": "1345936209",
+      "groupexpiry": "永不过期"
+    },
+    "2662914": {
+      "cid": "388718",
+      "uid": "2662914",
+      "operatorid": "2073665",
+      "operator": "葉子の",
+      "action": "禁止发言",
+      "reason": "恶意骂人刷屏",
+      "dateline": "2019-3-27 23:27",
+      "username": "王境泽の",
+      "groupexpiry": "永不过期"
+    },
+    "2699854": {
+      "cid": "387615",
+      "uid": "2699854",
+      "operatorid": "1712688",
+      "operator": "雨夜蔷薇",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-3-23 21:14",
+      "username": "呵护",
+      "groupexpiry": "永不过期"
+    },
+    "1240025": {
+      "cid": "385845",
+      "uid": "1240025",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-3-17 00:51",
+      "username": "我很想你",
+      "groupexpiry": "永不过期"
+    },
+    "1016035": {
+      "cid": "385844",
+      "uid": "1016035",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-3-17 00:51",
+      "username": "h88845112",
+      "groupexpiry": "永不过期"
+    },
+    "2667537": {
+      "cid": "385843",
+      "uid": "2667537",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-3-17 00:51",
+      "username": "3240907497",
+      "groupexpiry": "永不过期"
+    },
+    "1002775": {
+      "cid": "385842",
+      "uid": "1002775",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-3-17 00:50",
+      "username": "1250305944",
+      "groupexpiry": "永不过期"
+    },
+    "2693886": {
+      "cid": "385792",
+      "uid": "2693886",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "头像违规,更换后自行申请解封",
+      "dateline": "2019-3-16 19:50",
+      "username": "马桶zzz",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

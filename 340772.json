@@ -1,0 +1,305 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "340772"
+  },
+  "data": {
+    "2816": {
+      "cid": "340806",
+      "uid": "2816",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "元老账号冻结保护",
+      "dateline": "2018-7-14 15:23",
+      "username": "pjqsssssss",
+      "groupexpiry": "永不过期"
+    },
+    "2789": {
+      "cid": "340805",
+      "uid": "2789",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "元老账号冻结保护",
+      "dateline": "2018-7-14 15:23",
+      "username": "hyxkao",
+      "groupexpiry": "永不过期"
+    },
+    "2787": {
+      "cid": "340804",
+      "uid": "2787",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "元老账号冻结保护",
+      "dateline": "2018-7-14 15:23",
+      "username": "S.W.A.T",
+      "groupexpiry": "永不过期"
+    },
+    "2759": {
+      "cid": "340803",
+      "uid": "2759",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "元老账号冻结保护",
+      "dateline": "2018-7-14 15:23",
+      "username": "shadowboy",
+      "groupexpiry": "永不过期"
+    },
+    "2746": {
+      "cid": "340802",
+      "uid": "2746",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "元老账号冻结保护",
+      "dateline": "2018-7-14 15:23",
+      "username": "wilddog",
+      "groupexpiry": "永不过期"
+    },
+    "2733": {
+      "cid": "340801",
+      "uid": "2733",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "元老账号冻结保护",
+      "dateline": "2018-7-14 15:22",
+      "username": "hihicome",
+      "groupexpiry": "永不过期"
+    },
+    "2643": {
+      "cid": "340800",
+      "uid": "2643",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "元老账号紧急冷冻",
+      "dateline": "2018-7-14 15:19",
+      "username": "a0656",
+      "groupexpiry": "永不过期"
+    },
+    "2588": {
+      "cid": "340799",
+      "uid": "2588",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "元老账号紧急冷冻",
+      "dateline": "2018-7-14 15:18",
+      "username": "a445158273",
+      "groupexpiry": "永不过期"
+    },
+    "2529": {
+      "cid": "340798",
+      "uid": "2529",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "元老账号冻结保护",
+      "dateline": "2018-7-14 15:17",
+      "username": "390831152",
+      "groupexpiry": "永不过期"
+    },
+    "2548": {
+      "cid": "340797",
+      "uid": "2548",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "元老账号冻结保护",
+      "dateline": "2018-7-14 15:17",
+      "username": "想玩mincraft",
+      "groupexpiry": "永不过期"
+    },
+    "2522": {
+      "cid": "340796",
+      "uid": "2522",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "元老账号冻结保护",
+      "dateline": "2018-7-14 15:17",
+      "username": "506914644",
+      "groupexpiry": "永不过期"
+    },
+    "2467": {
+      "cid": "340795",
+      "uid": "2467",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "元老账号冻结保护",
+      "dateline": "2018-7-14 15:16",
+      "username": "469259485",
+      "groupexpiry": "永不过期"
+    },
+    "2424": {
+      "cid": "340794",
+      "uid": "2424",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "元老账号冻结保护",
+      "dateline": "2018-7-14 15:16",
+      "username": "litianyu",
+      "groupexpiry": "永不过期"
+    },
+    "2352": {
+      "cid": "340793",
+      "uid": "2352",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "元老账号冻结保护",
+      "dateline": "2018-7-14 15:15",
+      "username": "haxin_0",
+      "groupexpiry": "永不过期"
+    },
+    "2210": {
+      "cid": "340792",
+      "uid": "2210",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "元老账号冻结保护",
+      "dateline": "2018-7-14 15:15",
+      "username": "po221143",
+      "groupexpiry": "永不过期"
+    },
+    "2174": {
+      "cid": "340791",
+      "uid": "2174",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "元老账号冻结保护",
+      "dateline": "2018-7-14 15:14",
+      "username": "9173",
+      "groupexpiry": "永不过期"
+    },
+    "2171": {
+      "cid": "340790",
+      "uid": "2171",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "元老账号冻结保护",
+      "dateline": "2018-7-14 15:14",
+      "username": "gufengzgf",
+      "groupexpiry": "永不过期"
+    },
+    "2136": {
+      "cid": "340789",
+      "uid": "2136",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "元老账号冻结保护",
+      "dateline": "2018-7-14 15:14",
+      "username": "yigjvn",
+      "groupexpiry": "永不过期"
+    },
+    "2134": {
+      "cid": "340788",
+      "uid": "2134",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "元老账号冻结保护",
+      "dateline": "2018-7-14 15:14",
+      "username": "85656611",
+      "groupexpiry": "永不过期"
+    },
+    "2090": {
+      "cid": "340787",
+      "uid": "2090",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "元老账号冻结保护",
+      "dateline": "2018-7-14 15:13",
+      "username": "shchon",
+      "groupexpiry": "永不过期"
+    },
+    "2069": {
+      "cid": "340786",
+      "uid": "2069",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "元老账号冻结保护",
+      "dateline": "2018-7-14 15:13",
+      "username": "3976559",
+      "groupexpiry": "永不过期"
+    },
+    "2039": {
+      "cid": "340785",
+      "uid": "2039",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "元老账号冻结保护",
+      "dateline": "2018-7-14 15:13",
+      "username": "murusu",
+      "groupexpiry": "永不过期"
+    },
+    "1856": {
+      "cid": "340784",
+      "uid": "1856",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "元老账号冻结保护",
+      "dateline": "2018-7-14 15:11",
+      "username": "czhforever",
+      "groupexpiry": "永不过期"
+    },
+    "1853": {
+      "cid": "340783",
+      "uid": "1853",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "元老账号冻结保护",
+      "dateline": "2018-7-14 15:11",
+      "username": "y153725",
+      "groupexpiry": "永不过期"
+    },
+    "1774": {
+      "cid": "340782",
+      "uid": "1774",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "元老账号冻结保护",
+      "dateline": "2018-7-14 15:06",
+      "username": "xinghuayu",
+      "groupexpiry": "永不过期"
+    },
+    "1616": {
+      "cid": "340773",
+      "uid": "1616",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "元老账号冻结保护",
+      "dateline": "2018-7-14 15:00",
+      "username": "a3919169",
+      "groupexpiry": "永不过期"
+    },
+    "1574": {
+      "cid": "340772",
+      "uid": "1574",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "元老账号冻结保护",
+      "dateline": "2018-7-14 14:59",
+      "username": "1992113",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

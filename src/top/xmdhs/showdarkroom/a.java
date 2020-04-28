@@ -51,7 +51,7 @@ class Pa implements Runnable{
                     continue;
                 }
                 cid = Integer.parseInt(Http.getcid(json));
-                try(BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(cid+".txt"), StandardCharsets.UTF_8))) {
+                try(BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(cid+".json"), StandardCharsets.UTF_8))) {
                     writer.write(toPrettyFormat(json));
                 } catch (IOException e) {
                     e.printStackTrace();

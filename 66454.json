@@ -1,0 +1,129 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "66454"
+  },
+  "data": {
+    "974257": {
+      "cid": "67587",
+      "uid": "974257",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-11-18 20:52",
+      "username": "2539673269",
+      "groupexpiry": "永不过期"
+    },
+    "933700": {
+      "cid": "67554",
+      "uid": "933700",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-11-18 18:31",
+      "username": "minecraft小肥",
+      "groupexpiry": "永不过期"
+    },
+    "1018548": {
+      "cid": "67538",
+      "uid": "1018548",
+      "operatorid": "59136",
+      "operator": "冥王星人",
+      "action": "禁止发言",
+      "reason": "广告鸡",
+      "dateline": "2014-11-18 15:54",
+      "username": "雨中的恋人",
+      "groupexpiry": "永不过期"
+    },
+    "441013": {
+      "cid": "67533",
+      "uid": "441013",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "剽窃",
+      "dateline": "2014-11-18 14:03",
+      "username": "2624213236",
+      "groupexpiry": "永不过期"
+    },
+    "116119": {
+      "cid": "67308",
+      "uid": "116119",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "多次粗口，手动5天",
+      "dateline": "2014-11-17 13:46",
+      "username": "lisboa123",
+      "groupexpiry": "永不过期"
+    },
+    "521117": {
+      "cid": "67273",
+      "uid": "521117",
+      "operatorid": "17261",
+      "operator": "rickky2",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2014-11-16 19:26",
+      "username": "wujunjie",
+      "groupexpiry": "永不过期"
+    },
+    "978204": {
+      "cid": "67218",
+      "uid": "978204",
+      "operatorid": "17261",
+      "operator": "rickky2",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-11-16 15:09",
+      "username": "329486716",
+      "groupexpiry": "永不过期"
+    },
+    "955897": {
+      "cid": "67212",
+      "uid": "955897",
+      "operatorid": "17261",
+      "operator": "rickky2",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-11-16 14:49",
+      "username": "虾米虾米下",
+      "groupexpiry": "永不过期"
+    },
+    "90358": {
+      "cid": "67187",
+      "uid": "90358",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "为达6级一天刷帖数量近百条，永久禁言",
+      "dateline": "2014-11-16 12:44",
+      "username": "wdxfandwy",
+      "groupexpiry": "永不过期"
+    },
+    "1030684": {
+      "cid": "67170",
+      "uid": "1030684",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "1",
+      "dateline": "2014-11-16 12:07",
+      "username": "我是苦",
+      "groupexpiry": "永不过期"
+    },
+    "920278": {
+      "cid": "66898",
+      "uid": "920278",
+      "operatorid": "17261",
+      "operator": "rickky2",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-11-15 11:48",
+      "username": "原创一馒头",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

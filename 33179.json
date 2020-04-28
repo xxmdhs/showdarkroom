@@ -1,0 +1,140 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "33179"
+  },
+  "data": {
+    "773296": {
+      "cid": "35603",
+      "uid": "773296",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-7-26 21:17",
+      "username": "LonelgLoner",
+      "groupexpiry": "永不过期"
+    },
+    "445530": {
+      "cid": "35597",
+      "uid": "445530",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-7-26 20:14",
+      "username": "q394960445",
+      "groupexpiry": "永不过期"
+    },
+    "773110": {
+      "cid": "35441",
+      "uid": "773110",
+      "operatorid": "364130",
+      "operator": "42486327",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-7-26 12:06",
+      "username": "503911487",
+      "groupexpiry": "永不过期"
+    },
+    "510486": {
+      "cid": "35337",
+      "uid": "510486",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-7-25 19:05",
+      "username": "849972199",
+      "groupexpiry": "永不过期"
+    },
+    "3": {
+      "cid": "35331",
+      "uid": "3",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "暂时封禁，请PM管理员验证真实身份解封",
+      "dateline": "2014-7-25 18:41",
+      "username": "dyxxzgc",
+      "groupexpiry": "永不过期"
+    },
+    "6": {
+      "cid": "35330",
+      "uid": "6",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "暂时封禁，请PM管理员验证真实身份解封",
+      "dateline": "2014-7-25 18:40",
+      "username": "kklkit",
+      "groupexpiry": "永不过期"
+    },
+    "202": {
+      "cid": "33952",
+      "uid": "202",
+      "operatorid": "410292",
+      "operator": "sb023612",
+      "action": "禁止发言",
+      "reason": "盗号",
+      "dateline": "2014-7-22 18:36",
+      "username": "NO9357",
+      "groupexpiry": "永不过期"
+    },
+    "200": {
+      "cid": "33951",
+      "uid": "200",
+      "operatorid": "410292",
+      "operator": "sb023612",
+      "action": "禁止发言",
+      "reason": "盗号",
+      "dateline": "2014-7-22 18:31",
+      "username": "fung011151",
+      "groupexpiry": "永不过期"
+    },
+    "306778": {
+      "cid": "33919",
+      "uid": "306778",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2014-7-22 15:46",
+      "username": "冰雪季节",
+      "groupexpiry": "永不过期"
+    },
+    "456351": {
+      "cid": "33918",
+      "uid": "456351",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2014-7-22 15:45",
+      "username": "ISTGame",
+      "groupexpiry": "永不过期"
+    },
+    "520757": {
+      "cid": "33760",
+      "uid": "520757",
+      "operatorid": "107792",
+      "operator": "Mayomi",
+      "action": "禁止发言",
+      "reason": "多次违规发帖 ，辱骂版主 ，永久封禁。",
+      "dateline": "2014-7-22 11:05",
+      "username": "丶水墨",
+      "groupexpiry": "永不过期"
+    },
+    "108": {
+      "cid": "33193",
+      "uid": "108",
+      "operatorid": "87890",
+      "operator": "Forever_小树",
+      "action": "禁止发言",
+      "reason": ".",
+      "dateline": "2014-7-20 13:07",
+      "username": "642171471",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

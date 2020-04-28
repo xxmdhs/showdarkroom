@@ -1,0 +1,96 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "41700"
+  },
+  "data": {
+    "332558": {
+      "cid": "44884",
+      "uid": "332558",
+      "operatorid": "496965",
+      "operator": "Tzi君",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-8-26 18:29",
+      "username": "wzc19970615",
+      "groupexpiry": "永不过期"
+    },
+    "846580": {
+      "cid": "44662",
+      "uid": "846580",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-8-25 21:15",
+      "username": "996250565",
+      "groupexpiry": "永不过期"
+    },
+    "840350": {
+      "cid": "44068",
+      "uid": "840350",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-8-24 14:02",
+      "username": "真lan_Fish",
+      "groupexpiry": "永不过期"
+    },
+    "734803": {
+      "cid": "43679",
+      "uid": "734803",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-8-22 16:46",
+      "username": "kou_jiao",
+      "groupexpiry": "永不过期"
+    },
+    "333170": {
+      "cid": "42389",
+      "uid": "333170",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-8-18 18:50",
+      "username": "1020412588",
+      "groupexpiry": "永不过期"
+    },
+    "649581": {
+      "cid": "42096",
+      "uid": "649581",
+      "operatorid": "178523",
+      "operator": "cyqsimon",
+      "action": "禁止发言",
+      "reason": "广告机！",
+      "dateline": "2014-8-18 11:10",
+      "username": "Gold_Bird",
+      "groupexpiry": "永不过期"
+    },
+    "493585": {
+      "cid": "41875",
+      "uid": "493585",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "宣传黄色信息",
+      "dateline": "2014-8-17 17:11",
+      "username": "1016652429z",
+      "groupexpiry": "永不过期"
+    },
+    "681178": {
+      "cid": "41844",
+      "uid": "681178",
+      "operatorid": "184599",
+      "operator": "stool",
+      "action": "禁止发言",
+      "reason": "恶意宣传服务器",
+      "dateline": "2014-8-17 14:32",
+      "username": "1225450793",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

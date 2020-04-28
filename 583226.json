@@ -1,0 +1,118 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "583226"
+  },
+  "data": {
+    "2981260": {
+      "cid": "587473",
+      "uid": "2981260",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-2 02:34",
+      "username": "858569",
+      "groupexpiry": "永不过期"
+    },
+    "2708918": {
+      "cid": "587071",
+      "uid": "2708918",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "5星失信人员 账号交易",
+      "dateline": "2020-4-1 18:43",
+      "username": "lingSerCha",
+      "groupexpiry": "永不过期"
+    },
+    "1442157": {
+      "cid": "586403",
+      "uid": "1442157",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "销号受理",
+      "dateline": "2020-4-1 16:22",
+      "username": "Mr_Fowl",
+      "groupexpiry": "永不过期"
+    },
+    "1360085": {
+      "cid": "586368",
+      "uid": "1360085",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "销号受理",
+      "dateline": "2020-4-1 16:20",
+      "username": "-法尔-",
+      "groupexpiry": "永不过期"
+    },
+    "1210787": {
+      "cid": "586366",
+      "uid": "1210787",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "销号受理",
+      "dateline": "2020-4-1 16:18",
+      "username": "A|cmo|懵男",
+      "groupexpiry": "永不过期"
+    },
+    "3178723": {
+      "cid": "585047",
+      "uid": "3178723",
+      "operatorid": "2444378",
+      "operator": "SPGoding",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-4-1 14:03",
+      "username": "xiaofengjiejie",
+      "groupexpiry": "永不过期"
+    },
+    "1870483": {
+      "cid": "583990",
+      "uid": "1870483",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "销号受理",
+      "dateline": "2020-3-31 16:41",
+      "username": "PAMA",
+      "groupexpiry": "永不过期"
+    },
+    "2589869": {
+      "cid": "583965",
+      "uid": "2589869",
+      "operatorid": "790748",
+      "operator": "酉月一",
+      "action": "禁止发言",
+      "reason": "严重辱骂",
+      "dateline": "2020-3-31 15:56",
+      "username": "纪委",
+      "groupexpiry": "永不过期"
+    },
+    "2436901": {
+      "cid": "583958",
+      "uid": "2436901",
+      "operatorid": "1052157",
+      "operator": "Menzor",
+      "action": "禁止发言",
+      "reason": "6星级失信用户",
+      "dateline": "2020-3-31 15:27",
+      "username": "三土666",
+      "groupexpiry": "永不过期"
+    },
+    "3180614": {
+      "cid": "583226",
+      "uid": "3180614",
+      "operatorid": "2444378",
+      "operator": "SPGoding",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-3-31 07:19",
+      "username": "SDGCwr",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

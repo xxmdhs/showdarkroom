@@ -1,0 +1,74 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "474621"
+  },
+  "data": {
+    "2899263": {
+      "cid": "477641",
+      "uid": "2899263",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-10-10 09:59",
+      "username": "康可健",
+      "groupexpiry": "永不过期"
+    },
+    "2899016": {
+      "cid": "477555",
+      "uid": "2899016",
+      "operatorid": "2067786",
+      "operator": "消",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-10-9 11:44",
+      "username": "15099976578",
+      "groupexpiry": "永不过期"
+    },
+    "2896719": {
+      "cid": "477491",
+      "uid": "2896719",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-10-8 22:23",
+      "username": "快手梦殇",
+      "groupexpiry": "永不过期"
+    },
+    "2874592": {
+      "cid": "477356",
+      "uid": "2874592",
+      "operatorid": "708478",
+      "operator": "南",
+      "action": "禁止发言",
+      "reason": "违规头像",
+      "dateline": "2019-10-8 18:32",
+      "username": "mudz666",
+      "groupexpiry": "永不过期"
+    },
+    "2876247": {
+      "cid": "476392",
+      "uid": "2876247",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2019-10-6 11:03",
+      "username": "老师吃屎",
+      "groupexpiry": "永不过期"
+    },
+    "1489329": {
+      "cid": "474621",
+      "uid": "1489329",
+      "operatorid": "2067786",
+      "operator": "消",
+      "action": "禁止发言",
+      "reason": "4-15 机器账号顶贴超过三天未说明",
+      "dateline": "2019-10-3 19:20",
+      "username": "喵小喵",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

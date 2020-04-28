@@ -1,0 +1,52 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "306499"
+  },
+  "data": {
+    "2455954": {
+      "cid": "309136",
+      "uid": "2455954",
+      "operatorid": "1710570",
+      "operator": "ROF",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2018-2-5 12:35",
+      "username": "诚信卖黑卡",
+      "groupexpiry": "永不过期"
+    },
+    "1288683": {
+      "cid": "307737",
+      "uid": "1288683",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-1-31 13:29",
+      "username": "正版2012",
+      "groupexpiry": "永不过期"
+    },
+    "1030044": {
+      "cid": "307687",
+      "uid": "1030044",
+      "operatorid": "1095012",
+      "operator": "1582952890",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2018-1-30 18:30",
+      "username": "wth976018930",
+      "groupexpiry": "永不过期"
+    },
+    "2182910": {
+      "cid": "307569",
+      "uid": "2182910",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "违规转账",
+      "dateline": "2018-1-30 13:08",
+      "username": "驱蚊器翁的",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "5958"
+  },
+  "data": {
+    "245063": {
+      "cid": "7430",
+      "uid": "245063",
+      "operatorid": "359415",
+      "operator": "wwpzxp",
+      "action": "禁止发言",
+      "reason": "zjy让我封的，广告机",
+      "dateline": "2014-3-6 21:22",
+      "username": "346553936",
+      "groupexpiry": "永不过期"
+    },
+    "561939": {
+      "cid": "7176",
+      "uid": "561939",
+      "operatorid": "319566",
+      "operator": "wjwrh",
+      "action": "禁止发言",
+      "reason": "纯水回复\r\n永封",
+      "dateline": "2014-3-5 19:57",
+      "username": "liu1073758132",
+      "groupexpiry": "永不过期"
+    },
+    "256880": {
+      "cid": "7021",
+      "uid": "256880",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "使用马甲194550297屠版",
+      "dateline": "2014-3-5 12:40",
+      "username": "avshen",
+      "groupexpiry": "永不过期"
+    },
+    "510351": {
+      "cid": "7018",
+      "uid": "510351",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-3-5 12:33",
+      "username": "194550297",
+      "groupexpiry": "永不过期"
+    },
+    "483846": {
+      "cid": "6506",
+      "uid": "483846",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "严重刷水",
+      "dateline": "2014-3-2 10:45",
+      "username": "菊花大虾",
+      "groupexpiry": "永不过期"
+    },
+    "191374": {
+      "cid": "6380",
+      "uid": "191374",
+      "operatorid": "134344",
+      "operator": "PpY_SK",
+      "action": "禁止发言",
+      "reason": "http://www.mcbbs.net/thread-245727-1-1.html",
+      "dateline": "2014-3-1 18:50",
+      "username": "龙鲨",
+      "groupexpiry": "永不过期"
+    },
+    "381663": {
+      "cid": "6306",
+      "uid": "381663",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-3-1 16:48",
+      "username": "315695507",
+      "groupexpiry": "永不过期"
+    },
+    "457932": {
+      "cid": "6248",
+      "uid": "457932",
+      "operatorid": "200097",
+      "operator": "银狼",
+      "action": "禁止发言",
+      "reason": "广告机此类永封",
+      "dateline": "2014-3-1 13:25",
+      "username": "1928879725",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

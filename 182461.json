@@ -1,0 +1,173 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "182461"
+  },
+  "data": {
+    "204646": {
+      "cid": "183372",
+      "uid": "204646",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-3-15 19:48",
+      "username": "lc1094619448",
+      "groupexpiry": "永不过期"
+    },
+    "1576377": {
+      "cid": "183361",
+      "uid": "1576377",
+      "operatorid": "42992",
+      "operator": "810587921",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-3-15 19:11",
+      "username": "a2539648143",
+      "groupexpiry": "永不过期"
+    },
+    "960109": {
+      "cid": "183178",
+      "uid": "960109",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-3-13 22:33",
+      "username": "1747015150",
+      "groupexpiry": "永不过期"
+    },
+    "1727218": {
+      "cid": "183177",
+      "uid": "1727218",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-3-13 22:28",
+      "username": "金次樱世",
+      "groupexpiry": "永不过期"
+    },
+    "580194": {
+      "cid": "183120",
+      "uid": "580194",
+      "operatorid": "1239693",
+      "operator": "DreamsDeductive",
+      "action": "禁止发言",
+      "reason": "新人报道大量屠版",
+      "dateline": "2016-3-13 21:58",
+      "username": "269417933",
+      "groupexpiry": "永不过期"
+    },
+    "1517196": {
+      "cid": "183069",
+      "uid": "1517196",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "永久封禁",
+      "dateline": "2016-3-13 19:40",
+      "username": "blubluu",
+      "groupexpiry": "永不过期"
+    },
+    "1733306": {
+      "cid": "182952",
+      "uid": "1733306",
+      "operatorid": "266924",
+      "operator": "kehebai",
+      "action": "禁止发言",
+      "reason": "。",
+      "dateline": "2016-3-13 00:06",
+      "username": "shabiaa",
+      "groupexpiry": "永不过期"
+    },
+    "1260438": {
+      "cid": "182768",
+      "uid": "1260438",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-3-12 15:35",
+      "username": "2312936963",
+      "groupexpiry": "永不过期"
+    },
+    "1714417": {
+      "cid": "182719",
+      "uid": "1714417",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": ".",
+      "dateline": "2016-3-11 23:39",
+      "username": "siduzi",
+      "groupexpiry": "永不过期"
+    },
+    "798136": {
+      "cid": "182717",
+      "uid": "798136",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-3-11 23:33",
+      "username": "qpaj134679",
+      "groupexpiry": "永不过期"
+    },
+    "386194": {
+      "cid": "182716",
+      "uid": "386194",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-3-11 23:34",
+      "username": "2542131345",
+      "groupexpiry": "永不过期"
+    },
+    "393313": {
+      "cid": "182715",
+      "uid": "393313",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-3-11 23:34",
+      "username": "hfdkoujdfdg",
+      "groupexpiry": "永不过期"
+    },
+    "1731042": {
+      "cid": "182623",
+      "uid": "1731042",
+      "operatorid": "1239693",
+      "operator": "DreamsDeductive",
+      "action": "禁止发言",
+      "reason": "色情头像",
+      "dateline": "2016-3-10 21:49",
+      "username": "富罗云路",
+      "groupexpiry": "永不过期"
+    },
+    "1727171": {
+      "cid": "182526",
+      "uid": "1727171",
+      "operatorid": "42992",
+      "operator": "810587921",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-3-10 06:11",
+      "username": "huaxin233",
+      "groupexpiry": "永不过期"
+    },
+    "864336": {
+      "cid": "182461",
+      "uid": "864336",
+      "operatorid": "610040",
+      "operator": "爱无名灬颂",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-3-9 17:51",
+      "username": "1337675316",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

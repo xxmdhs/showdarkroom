@@ -1,0 +1,173 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "88116"
+  },
+  "data": {
+    "1099266": {
+      "cid": "89900",
+      "uid": "1099266",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "在两个版块来回发重复贴子刷贴，行为恶劣永久封禁",
+      "dateline": "2015-2-9 09:58",
+      "username": "大肾",
+      "groupexpiry": "永不过期"
+    },
+    "255623": {
+      "cid": "89807",
+      "uid": "255623",
+      "operatorid": "77891",
+      "operator": "SkyCatcher",
+      "action": "禁止发言",
+      "reason": "广告机，故意错版发服务器宣传贴",
+      "dateline": "2015-2-8 20:40",
+      "username": "276294367",
+      "groupexpiry": "永不过期"
+    },
+    "1164823": {
+      "cid": "89540",
+      "uid": "1164823",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2015-2-8 03:39",
+      "username": "淡蓝色忧伤",
+      "groupexpiry": "永不过期"
+    },
+    "285882": {
+      "cid": "89435",
+      "uid": "285882",
+      "operatorid": "107792",
+      "operator": "Mayomi",
+      "action": "禁止发言",
+      "reason": "写入后门插件/抄袭原创插件/多次破坏其他服务器/以钱财勒索为由/次数过多且金额过大 永久封禁处理",
+      "dateline": "2015-2-7 16:06",
+      "username": "xhbg888",
+      "groupexpiry": "永不过期"
+    },
+    "437819": {
+      "cid": "89433",
+      "uid": "437819",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-2-7 16:05",
+      "username": "910681362",
+      "groupexpiry": "永不过期"
+    },
+    "626451": {
+      "cid": "89429",
+      "uid": "626451",
+      "operatorid": "87231",
+      "operator": "AQue",
+      "action": "禁止发言",
+      "reason": "恶意敲诈行为利用压测软件攻击他人服务器",
+      "dateline": "2015-2-7 15:55",
+      "username": "sunaotong",
+      "groupexpiry": "永不过期"
+    },
+    "1100423": {
+      "cid": "89411",
+      "uid": "1100423",
+      "operatorid": "193357",
+      "operator": "Exsu",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-2-7 14:37",
+      "username": "钻石镐子",
+      "groupexpiry": "永不过期"
+    },
+    "805082": {
+      "cid": "89130",
+      "uid": "805082",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2015-2-6 19:53",
+      "username": "kenny123牛逼",
+      "groupexpiry": "永不过期"
+    },
+    "502629": {
+      "cid": "89129",
+      "uid": "502629",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2015-2-6 19:52",
+      "username": "新手，新手",
+      "groupexpiry": "永不过期"
+    },
+    "1144868": {
+      "cid": "88655",
+      "uid": "1144868",
+      "operatorid": "80321",
+      "operator": "zjy",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-2-5 08:53",
+      "username": "yhn158",
+      "groupexpiry": "永不过期"
+    },
+    "1144033": {
+      "cid": "88651",
+      "uid": "1144033",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-2-5 00:59",
+      "username": "怨天v尤人",
+      "groupexpiry": "永不过期"
+    },
+    "1143581": {
+      "cid": "88465",
+      "uid": "1143581",
+      "operatorid": "182189",
+      "operator": "Darkyoooooo",
+      "action": "禁止发言",
+      "reason": ".",
+      "dateline": "2015-2-4 17:16",
+      "username": "皱眉公子",
+      "groupexpiry": "永不过期"
+    },
+    "1154806": {
+      "cid": "88135",
+      "uid": "1154806",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-2-3 00:17",
+      "username": "童VVVV",
+      "groupexpiry": "永不过期"
+    },
+    "547344": {
+      "cid": "88117",
+      "uid": "547344",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷分，永久",
+      "dateline": "2015-2-2 22:47",
+      "username": "qq1826474786",
+      "groupexpiry": "永不过期"
+    },
+    "993397": {
+      "cid": "88116",
+      "uid": "993397",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷分，永久",
+      "dateline": "2015-2-2 22:46",
+      "username": "hdfhdf",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

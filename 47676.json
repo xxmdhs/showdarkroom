@@ -1,0 +1,118 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "47676"
+  },
+  "data": {
+    "485283": {
+      "cid": "50070",
+      "uid": "485283",
+      "operatorid": "87537",
+      "operator": "我被盗号了",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-9-14 11:49",
+      "username": "1628293361",
+      "groupexpiry": "永不过期"
+    },
+    "338592": {
+      "cid": "49520",
+      "uid": "338592",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "商业广告机",
+      "dateline": "2014-9-13 10:06",
+      "username": "1004",
+      "groupexpiry": "永不过期"
+    },
+    "904858": {
+      "cid": "49505",
+      "uid": "904858",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-9-13 09:59",
+      "username": "服务器好",
+      "groupexpiry": "永不过期"
+    },
+    "340228": {
+      "cid": "49009",
+      "uid": "340228",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-9-10 19:35",
+      "username": "a2230315741",
+      "groupexpiry": "永不过期"
+    },
+    "249049": {
+      "cid": "48744",
+      "uid": "249049",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "刷分马甲",
+      "dateline": "2014-9-9 11:56",
+      "username": "1462793455",
+      "groupexpiry": "永不过期"
+    },
+    "630512": {
+      "cid": "48742",
+      "uid": "630512",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2014-9-9 11:56",
+      "username": "暖希丶",
+      "groupexpiry": "永不过期"
+    },
+    "563280": {
+      "cid": "47941",
+      "uid": "563280",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-9-7 13:00",
+      "username": "WWW1798250332",
+      "groupexpiry": "永不过期"
+    },
+    "851819": {
+      "cid": "47903",
+      "uid": "851819",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "刷分马甲",
+      "dateline": "2014-9-7 10:08",
+      "username": "3045328803",
+      "groupexpiry": "永不过期"
+    },
+    "358642": {
+      "cid": "47823",
+      "uid": "358642",
+      "operatorid": "290486",
+      "operator": "719220502",
+      "action": "禁止发言",
+      "reason": "广告机作死",
+      "dateline": "2014-9-6 21:09",
+      "username": "a1559534314",
+      "groupexpiry": "永不过期"
+    },
+    "817836": {
+      "cid": "47686",
+      "uid": "817836",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "对同一个帖子连楼刷帖长达21页，永久禁言",
+      "dateline": "2014-9-6 13:37",
+      "username": "ke5973",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

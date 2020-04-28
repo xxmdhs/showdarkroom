@@ -1,0 +1,118 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "218403"
+  },
+  "data": {
+    "1654734": {
+      "cid": "219174",
+      "uid": "1654734",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "垃圾信息",
+      "dateline": "2016-11-4 08:41",
+      "username": "孜孜不倦1",
+      "groupexpiry": "永不过期"
+    },
+    "1762991": {
+      "cid": "219148",
+      "uid": "1762991",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2016-11-3 19:36",
+      "username": "ItIsEnderman.",
+      "groupexpiry": "永不过期"
+    },
+    "860834": {
+      "cid": "219135",
+      "uid": "860834",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "变相宣传同类型论坛",
+      "dateline": "2016-11-3 14:04",
+      "username": "莫念伤",
+      "groupexpiry": "永不过期"
+    },
+    "1959926": {
+      "cid": "219036",
+      "uid": "1959926",
+      "operatorid": "513631",
+      "operator": "Zero_Exact",
+      "action": "禁止发言",
+      "reason": "违反版规2-4-R\r\n干扰版务\r\n在被版主扣分处理的帖子加分\r\n封禁7天",
+      "dateline": "2016-10-31 20:50",
+      "username": "aipai_KXCR",
+      "groupexpiry": "永不过期"
+    },
+    "1900864": {
+      "cid": "218943",
+      "uid": "1900864",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "辱骂版主",
+      "dateline": "2016-10-30 17:11",
+      "username": "噬魂丿血",
+      "groupexpiry": "永不过期"
+    },
+    "1843121": {
+      "cid": "218884",
+      "uid": "1843121",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-10-30 14:49",
+      "username": "a1050600813",
+      "groupexpiry": "永不过期"
+    },
+    "1940126": {
+      "cid": "218770",
+      "uid": "1940126",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-10-29 15:16",
+      "username": "浅失记忆",
+      "groupexpiry": "永不过期"
+    },
+    "1833538": {
+      "cid": "218761",
+      "uid": "1833538",
+      "operatorid": "564746",
+      "operator": "gamerteam",
+      "action": "禁止发言",
+      "reason": "发布作弊类内容",
+      "dateline": "2016-10-29 14:11",
+      "username": "炫鬼--狂三",
+      "groupexpiry": "永不过期"
+    },
+    "1611853": {
+      "cid": "218408",
+      "uid": "1611853",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "对于非积分转账界面的金粒违规转账（例如问答版），小于100金粒的黄牌警告；超出100金粒的部分手动封禁“违规转账的金粒/100”天。（总额超过1000金粒永久禁言）",
+      "dateline": "2016-10-26 00:54",
+      "username": "心灵",
+      "groupexpiry": "永不过期"
+    },
+    "1601713": {
+      "cid": "218407",
+      "uid": "1601713",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "对于非积分转账界面的金粒违规转账（例如问答版），小于100金粒的黄牌警告；超出100金粒的部分手动封禁“违规转账的金粒/100”天。（总额超过1000金粒永久禁言）",
+      "dateline": "2016-10-26 00:54",
+      "username": "南方",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "575966"
+  },
+  "data": {
+    "2645180": {
+      "cid": "578614",
+      "uid": "2645180",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-3-26 02:16",
+      "username": "1351168613",
+      "groupexpiry": "2020-4-30 00:34"
+    },
+    "3059914": {
+      "cid": "576737",
+      "uid": "3059914",
+      "operatorid": "1219598",
+      "operator": "zhanshi123",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-3-25 08:03",
+      "username": "3270863581",
+      "groupexpiry": "永不过期"
+    },
+    "2932323": {
+      "cid": "576546",
+      "uid": "2932323",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-3-24 23:14",
+      "username": "mc_ztq",
+      "groupexpiry": "永不过期"
+    },
+    "2175249": {
+      "cid": "576545",
+      "uid": "2175249",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-3-24 23:14",
+      "username": "pst123",
+      "groupexpiry": "永不过期"
+    },
+    "738474": {
+      "cid": "576544",
+      "uid": "738474",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-3-24 23:14",
+      "username": "彭顺添",
+      "groupexpiry": "永不过期"
+    },
+    "1711070": {
+      "cid": "576543",
+      "uid": "1711070",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-3-24 23:14",
+      "username": "d505204779",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

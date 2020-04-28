@@ -1,0 +1,316 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "456911"
+  },
+  "data": {
+    "2838254": {
+      "cid": "456939",
+      "uid": "2838254",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:58",
+      "username": "1209277720r8",
+      "groupexpiry": "永不过期"
+    },
+    "2838255": {
+      "cid": "456938",
+      "uid": "2838255",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:58",
+      "username": "十月0693x",
+      "groupexpiry": "永不过期"
+    },
+    "2838198": {
+      "cid": "456937",
+      "uid": "2838198",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:57",
+      "username": "LXF1230g",
+      "groupexpiry": "永不过期"
+    },
+    "2838199": {
+      "cid": "456936",
+      "uid": "2838199",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:57",
+      "username": "zjm20020420b5",
+      "groupexpiry": "永不过期"
+    },
+    "2838200": {
+      "cid": "456935",
+      "uid": "2838200",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:56",
+      "username": "yaolonkunf2",
+      "groupexpiry": "永不过期"
+    },
+    "2838201": {
+      "cid": "456934",
+      "uid": "2838201",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:56",
+      "username": "luyifei20029f",
+      "groupexpiry": "永不过期"
+    },
+    "2838202": {
+      "cid": "456933",
+      "uid": "2838202",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:56",
+      "username": "1370543129z7",
+      "groupexpiry": "永不过期"
+    },
+    "2838203": {
+      "cid": "456932",
+      "uid": "2838203",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:56",
+      "username": "11151434645",
+      "groupexpiry": "永不过期"
+    },
+    "2838204": {
+      "cid": "456931",
+      "uid": "2838204",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:56",
+      "username": "767394221qq5e",
+      "groupexpiry": "永不过期"
+    },
+    "2838205": {
+      "cid": "456930",
+      "uid": "2838205",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:55",
+      "username": "ゞ流-小翼1g",
+      "groupexpiry": "永不过期"
+    },
+    "2834061": {
+      "cid": "456928",
+      "uid": "2834061",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:54",
+      "username": "longfei2723605",
+      "groupexpiry": "永不过期"
+    },
+    "2834062": {
+      "cid": "456927",
+      "uid": "2834062",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:54",
+      "username": "xiaoxia90346147",
+      "groupexpiry": "永不过期"
+    },
+    "2834064": {
+      "cid": "456926",
+      "uid": "2834064",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:54",
+      "username": "kangyin7469788",
+      "groupexpiry": "永不过期"
+    },
+    "2834066": {
+      "cid": "456925",
+      "uid": "2834066",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:54",
+      "username": "yangdi354200",
+      "groupexpiry": "永不过期"
+    },
+    "2834068": {
+      "cid": "456924",
+      "uid": "2834068",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:53",
+      "username": "weiyue5796375",
+      "groupexpiry": "永不过期"
+    },
+    "2834075": {
+      "cid": "456923",
+      "uid": "2834075",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:53",
+      "username": "zhongqi85797",
+      "groupexpiry": "永不过期"
+    },
+    "2834076": {
+      "cid": "456922",
+      "uid": "2834076",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:53",
+      "username": "chizi55884",
+      "groupexpiry": "永不过期"
+    },
+    "2834079": {
+      "cid": "456921",
+      "uid": "2834079",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:53",
+      "username": "ningwei16706",
+      "groupexpiry": "永不过期"
+    },
+    "2834212": {
+      "cid": "456920",
+      "uid": "2834212",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:53",
+      "username": "xiaya13369853",
+      "groupexpiry": "永不过期"
+    },
+    "2834214": {
+      "cid": "456919",
+      "uid": "2834214",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:53",
+      "username": "lingyi866432",
+      "groupexpiry": "永不过期"
+    },
+    "2834220": {
+      "cid": "456918",
+      "uid": "2834220",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:53",
+      "username": "xiangta46206384",
+      "groupexpiry": "永不过期"
+    },
+    "2834223": {
+      "cid": "456917",
+      "uid": "2834223",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:53",
+      "username": "ningfan5392143",
+      "groupexpiry": "永不过期"
+    },
+    "2834224": {
+      "cid": "456916",
+      "uid": "2834224",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:53",
+      "username": "nanfeng135096",
+      "groupexpiry": "永不过期"
+    },
+    "2834234": {
+      "cid": "456915",
+      "uid": "2834234",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:53",
+      "username": "mengwei221531",
+      "groupexpiry": "永不过期"
+    },
+    "2834236": {
+      "cid": "456914",
+      "uid": "2834236",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:52",
+      "username": "zhuan56888",
+      "groupexpiry": "永不过期"
+    },
+    "2834238": {
+      "cid": "456913",
+      "uid": "2834238",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:52",
+      "username": "bindie5675571",
+      "groupexpiry": "永不过期"
+    },
+    "2838195": {
+      "cid": "456912",
+      "uid": "2838195",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:52",
+      "username": "jacky154017",
+      "groupexpiry": "永不过期"
+    },
+    "2838196": {
+      "cid": "456911",
+      "uid": "2838196",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-8-29 16:52",
+      "username": "9160328508",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

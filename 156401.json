@@ -1,0 +1,228 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "156401"
+  },
+  "data": {
+    "1296193": {
+      "cid": "157572",
+      "uid": "1296193",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "马甲刷分",
+      "dateline": "2015-11-25 21:44",
+      "username": "Death_Knight",
+      "groupexpiry": "永不过期"
+    },
+    "1416880": {
+      "cid": "157511",
+      "uid": "1416880",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-11-25 14:51",
+      "username": "1574995279",
+      "groupexpiry": "永不过期"
+    },
+    "1583036": {
+      "cid": "157309",
+      "uid": "1583036",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-11-22 23:29",
+      "username": "rshengcun_qwq11",
+      "groupexpiry": "永不过期"
+    },
+    "1588013": {
+      "cid": "157290",
+      "uid": "1588013",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-11-22 21:15",
+      "username": "劲康牌延时",
+      "groupexpiry": "永不过期"
+    },
+    "650364": {
+      "cid": "157182",
+      "uid": "650364",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "坛规2-2",
+      "dateline": "2015-11-22 11:39",
+      "username": "1065187090",
+      "groupexpiry": "永不过期"
+    },
+    "1584579": {
+      "cid": "157166",
+      "uid": "1584579",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-11-22 10:32",
+      "username": "jixua",
+      "groupexpiry": "永不过期"
+    },
+    "1578841": {
+      "cid": "156947",
+      "uid": "1578841",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-11-22 08:38",
+      "username": "maokai_dada",
+      "groupexpiry": "永不过期"
+    },
+    "1584750": {
+      "cid": "156856",
+      "uid": "1584750",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "小号",
+      "dateline": "2015-11-21 22:40",
+      "username": "mc小户",
+      "groupexpiry": "永不过期"
+    },
+    "1584752": {
+      "cid": "156855",
+      "uid": "1584752",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "小号",
+      "dateline": "2015-11-21 22:41",
+      "username": "mc小游",
+      "groupexpiry": "永不过期"
+    },
+    "1581485": {
+      "cid": "156854",
+      "uid": "1581485",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "小号",
+      "dateline": "2015-11-21 22:40",
+      "username": "BBS站长",
+      "groupexpiry": "永不过期"
+    },
+    "1563422": {
+      "cid": "156853",
+      "uid": "1563422",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "小号",
+      "dateline": "2015-11-21 22:39",
+      "username": "MC小教",
+      "groupexpiry": "永不过期"
+    },
+    "636400": {
+      "cid": "156849",
+      "uid": "636400",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-11-21 22:04",
+      "username": "普莱斯恩特",
+      "groupexpiry": "永不过期"
+    },
+    "330570": {
+      "cid": "156804",
+      "uid": "330570",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-11-21 19:12",
+      "username": "夏沫风",
+      "groupexpiry": "永不过期"
+    },
+    "1585091": {
+      "cid": "156793",
+      "uid": "1585091",
+      "operatorid": "77891",
+      "operator": "SkyCatcher",
+      "action": "禁止发言",
+      "reason": "纯灌水",
+      "dateline": "2015-11-21 19:01",
+      "username": "My_bai",
+      "groupexpiry": "永不过期"
+    },
+    "1325772": {
+      "cid": "156718",
+      "uid": "1325772",
+      "operatorid": "92880",
+      "operator": "tony990412",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-11-21 15:30",
+      "username": "爱美世界",
+      "groupexpiry": "永不过期"
+    },
+    "1401435": {
+      "cid": "156683",
+      "uid": "1401435",
+      "operatorid": "189127",
+      "operator": "huanghongxun",
+      "action": "禁止发言",
+      "reason": "宣传服务器+水龙头",
+      "dateline": "2015-11-21 12:52",
+      "username": "Poison_Broken",
+      "groupexpiry": "永不过期"
+    },
+    "1583709": {
+      "cid": "156628",
+      "uid": "1583709",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-11-21 09:06",
+      "username": "wangbaduzia",
+      "groupexpiry": "永不过期"
+    },
+    "1584153": {
+      "cid": "156611",
+      "uid": "1584153",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": ".",
+      "dateline": "2015-11-21 02:12",
+      "username": "jоhп180",
+      "groupexpiry": "永不过期"
+    },
+    "98268": {
+      "cid": "156437",
+      "uid": "98268",
+      "operatorid": "1239693",
+      "operator": "DreamsDeductive",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-11-20 12:57",
+      "username": "congconggo",
+      "groupexpiry": "永不过期"
+    },
+    "1582772": {
+      "cid": "156401",
+      "uid": "1582772",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "广告",
+      "dateline": "2015-11-19 22:16",
+      "username": "老玩家",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "559528"
+  },
+  "data": {
+    "3106290": {
+      "cid": "562914",
+      "uid": "3106290",
+      "operatorid": "46925",
+      "operator": "xukarhei",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-3-13 00:02",
+      "username": "Biga243",
+      "groupexpiry": "永不过期"
+    },
+    "3095681": {
+      "cid": "562906",
+      "uid": "3095681",
+      "operatorid": "46925",
+      "operator": "xukarhei",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-3-13 00:00",
+      "username": "Biga9",
+      "groupexpiry": "永不过期"
+    },
+    "3097248": {
+      "cid": "562884",
+      "uid": "3097248",
+      "operatorid": "46925",
+      "operator": "xukarhei",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-3-12 23:54",
+      "username": "Biga27",
+      "groupexpiry": "永不过期"
+    },
+    "1704733": {
+      "cid": "562493",
+      "uid": "1704733",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "销号受理",
+      "dateline": "2020-3-12 15:54",
+      "username": "ZH_JK",
+      "groupexpiry": "永不过期"
+    },
+    "1607523": {
+      "cid": "562178",
+      "uid": "1607523",
+      "operatorid": "86237",
+      "operator": "缇米Official",
+      "action": "禁止发言",
+      "reason": "2-4-D 挑起事端，恶性骚扰",
+      "dateline": "2020-3-12 10:48",
+      "username": "爱情不是爱",
+      "groupexpiry": "2020-5-2 14:29"
+    },
+    "2483236": {
+      "cid": "561234",
+      "uid": "2483236",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-3-11 21:58",
+      "username": "bei_zmxy",
+      "groupexpiry": "永不过期"
+    },
+    "1552219": {
+      "cid": "560806",
+      "uid": "1552219",
+      "operatorid": "782680",
+      "operator": "PQguanfang",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-3-11 08:13",
+      "username": "shang673818565",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

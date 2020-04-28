@@ -1,0 +1,30 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "341586"
+  },
+  "data": {
+    "1562497": {
+      "cid": "342524",
+      "uid": "1562497",
+      "operatorid": "720449",
+      "operator": "玄素",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2018-7-19 09:55",
+      "username": "13665374636",
+      "groupexpiry": "永不过期"
+    },
+    "2552094": {
+      "cid": "342071",
+      "uid": "2552094",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "孤海一帆马甲",
+      "dateline": "2018-7-18 09:59",
+      "username": "雪花冰饮料",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "327983"
+  },
+  "data": {
+    "1850": {
+      "cid": "329506",
+      "uid": "1850",
+      "operatorid": "1095012",
+      "operator": "1582952890",
+      "action": "禁止发言",
+      "reason": "回血1人气",
+      "dateline": "2018-6-15 22:14",
+      "username": "plh714",
+      "groupexpiry": "永不过期"
+    },
+    "2524127": {
+      "cid": "329035",
+      "uid": "2524127",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2018-6-13 05:34",
+      "username": "ggttu",
+      "groupexpiry": "永不过期"
+    },
+    "2213311": {
+      "cid": "329022",
+      "uid": "2213311",
+      "operatorid": "390164",
+      "operator": "908278185",
+      "action": "禁止发言",
+      "reason": "卖PMMOD",
+      "dateline": "2018-6-12 20:50",
+      "username": "到底几级",
+      "groupexpiry": "永不过期"
+    },
+    "1305258": {
+      "cid": "328847",
+      "uid": "1305258",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "严重抄袭",
+      "dateline": "2018-6-11 10:57",
+      "username": "liqinglong23",
+      "groupexpiry": "永不过期"
+    },
+    "1318597": {
+      "cid": "328404",
+      "uid": "1318597",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "特殊IP临时封禁",
+      "dateline": "2018-6-8 13:57",
+      "username": "韩彬妹纸",
+      "groupexpiry": "永不过期"
+    },
+    "1748995": {
+      "cid": "328072",
+      "uid": "1748995",
+      "operatorid": "1095012",
+      "operator": "1582952890",
+      "action": "禁止发言",
+      "reason": "剽窃",
+      "dateline": "2018-6-6 22:56",
+      "username": "Brave_boy",
+      "groupexpiry": "2020-5-1 10:04"
+    }
+  }
+}

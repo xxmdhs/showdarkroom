@@ -1,0 +1,129 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "604212"
+  },
+  "data": {
+    "1552302": {
+      "cid": "608303",
+      "uid": "1552302",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "头像违规, 缓存过期后自行申请解封",
+      "dateline": "2020-4-18 21:53",
+      "username": "nmgczt2006",
+      "groupexpiry": "永不过期"
+    },
+    "2012600": {
+      "cid": "607597",
+      "uid": "2012600",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "复读机",
+      "dateline": "2020-4-18 10:26",
+      "username": "pasibear",
+      "groupexpiry": "永不过期"
+    },
+    "3231728": {
+      "cid": "607130",
+      "uid": "3231728",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "复读机",
+      "dateline": "2020-4-17 19:13",
+      "username": "青左231",
+      "groupexpiry": "永不过期"
+    },
+    "2728787": {
+      "cid": "607105",
+      "uid": "2728787",
+      "operatorid": "2511498",
+      "operator": "AzureHanChen",
+      "action": "禁止发言",
+      "reason": "总坛规2-4-A 恶性刷帖",
+      "dateline": "2020-4-17 16:04",
+      "username": "shenren3-f",
+      "groupexpiry": "2020-5-4 00:00"
+    },
+    "2858465": {
+      "cid": "607057",
+      "uid": "2858465",
+      "operatorid": "1793501",
+      "operator": "没糖的葫芦",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-17 14:16",
+      "username": "您吃了吗",
+      "groupexpiry": "2020-5-1 14:16"
+    },
+    "3098068": {
+      "cid": "606945",
+      "uid": "3098068",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-4-17 12:41",
+      "username": "目不转睛",
+      "groupexpiry": "永不过期"
+    },
+    "3069320": {
+      "cid": "606926",
+      "uid": "3069320",
+      "operatorid": "2444378",
+      "operator": "SPGoding",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-4-17 12:25",
+      "username": "toodles",
+      "groupexpiry": "永不过期"
+    },
+    "461841": {
+      "cid": "605756",
+      "uid": "461841",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "2-4-R",
+      "dateline": "2020-4-16 17:51",
+      "username": "aaa1149636143",
+      "groupexpiry": "2020-4-30 17:51"
+    },
+    "501778": {
+      "cid": "605624",
+      "uid": "501778",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "在问答版违规转账3次及以上，永久封禁",
+      "dateline": "2020-4-16 15:50",
+      "username": "qq1521798248",
+      "groupexpiry": "永不过期"
+    },
+    "2947084": {
+      "cid": "605623",
+      "uid": "2947084",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "在问答版违规转账3次及以上，永久封禁",
+      "dateline": "2020-4-16 15:49",
+      "username": "paperspigot",
+      "groupexpiry": "永不过期"
+    },
+    "295933": {
+      "cid": "605507",
+      "uid": "295933",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "销号受理",
+      "dateline": "2020-4-16 14:35",
+      "username": "970137782",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

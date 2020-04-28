@@ -1,0 +1,138 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "14843"
+  },
+  "data": {
+    "249911": {
+      "cid": "16855",
+      "uid": "249911",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-4-17 17:22",
+      "username": "jiaqiyao2001",
+      "groupexpiry": "永不过期"
+    },
+    "618582": {
+      "cid": "16679",
+      "uid": "618582",
+      "operatorid": "178523",
+      "operator": "cyqsimon",
+      "action": "禁止发言",
+      "reason": "利用bug刷分",
+      "dateline": "2014-4-16 16:44"
+    },
+    "230677": {
+      "cid": "16383",
+      "uid": "230677",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-4-13 11:09",
+      "username": "TNTs",
+      "groupexpiry": "永不过期"
+    },
+    "518140": {
+      "cid": "16246",
+      "uid": "518140",
+      "operatorid": "319566",
+      "operator": "wjwrh",
+      "action": "禁止发言",
+      "reason": "恶意灌水屠版",
+      "dateline": "2014-4-12 17:10",
+      "username": "wuyujunpeter",
+      "groupexpiry": "永不过期"
+    },
+    "364916": {
+      "cid": "16065",
+      "uid": "364916",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-4-11 22:52",
+      "username": ".面包Bread",
+      "groupexpiry": "永不过期"
+    },
+    "452242": {
+      "cid": "15882",
+      "uid": "452242",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-4-10 21:20",
+      "username": "stop-bulde",
+      "groupexpiry": "永不过期"
+    },
+    "190576": {
+      "cid": "15185",
+      "uid": "190576",
+      "operatorid": "59136",
+      "operator": "冥王星人",
+      "action": "禁止发言",
+      "reason": ",",
+      "dateline": "2014-4-10 13:06",
+      "username": "321550",
+      "groupexpiry": "永不过期"
+    },
+    "609901": {
+      "cid": "15095",
+      "uid": "609901",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-4-9 20:44",
+      "username": "bnhjbnhj",
+      "groupexpiry": "永不过期"
+    },
+    "347873": {
+      "cid": "15045",
+      "uid": "347873",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "完全灌水",
+      "dateline": "2014-4-9 14:20",
+      "username": "15983122201",
+      "groupexpiry": "永不过期"
+    },
+    "458639": {
+      "cid": "14853",
+      "uid": "458639",
+      "operatorid": "38787",
+      "operator": "wolski",
+      "action": "禁止发言",
+      "reason": "屠版",
+      "dateline": "2014-4-8 19:08",
+      "username": "1375094533",
+      "groupexpiry": "永不过期"
+    },
+    "530662": {
+      "cid": "14844",
+      "uid": "530662",
+      "operatorid": "59136",
+      "operator": "冥王星人",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-4-8 15:32",
+      "username": "Ghost_L",
+      "groupexpiry": "永不过期"
+    },
+    "608703": {
+      "cid": "14843",
+      "uid": "608703",
+      "operatorid": "59136",
+      "operator": "冥王星人",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-4-8 15:30",
+      "username": "linqiben2",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

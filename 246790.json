@@ -1,0 +1,74 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "246790"
+  },
+  "data": {
+    "778755": {
+      "cid": "247898",
+      "uid": "778755",
+      "operatorid": "447060",
+      "operator": "522240858",
+      "action": "禁止发言",
+      "reason": "灌水",
+      "dateline": "2017-4-15 18:04",
+      "username": "2421880394",
+      "groupexpiry": "永不过期"
+    },
+    "2119744": {
+      "cid": "247755",
+      "uid": "2119744",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-4-14 12:56",
+      "username": "Ghost#57974",
+      "groupexpiry": "永不过期"
+    },
+    "2119730": {
+      "cid": "247754",
+      "uid": "2119730",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-4-14 12:54",
+      "username": "_111_",
+      "groupexpiry": "永不过期"
+    },
+    "1792334": {
+      "cid": "247145",
+      "uid": "1792334",
+      "operatorid": "447060",
+      "operator": "522240858",
+      "action": "禁止发言",
+      "reason": "非法宣传",
+      "dateline": "2017-4-8 15:02",
+      "username": "qq3089206010",
+      "groupexpiry": "永不过期"
+    },
+    "2156634": {
+      "cid": "246927",
+      "uid": "2156634",
+      "operatorid": "223908",
+      "operator": "minehenry",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2017-4-4 23:59",
+      "username": "babyaa22",
+      "groupexpiry": "永不过期"
+    },
+    "1611115": {
+      "cid": "246812",
+      "uid": "1611115",
+      "operatorid": "1037910",
+      "operator": "小阿狸....",
+      "action": "禁止发言",
+      "reason": "多次辱骂他人",
+      "dateline": "2017-4-4 13:17",
+      "username": "xing_guang",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

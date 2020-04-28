@@ -1,0 +1,118 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "21794"
+  },
+  "data": {
+    "686054": {
+      "cid": "22947",
+      "uid": "686054",
+      "operatorid": "359415",
+      "operator": "wwpzxp",
+      "action": "禁止发言",
+      "reason": "广告机！",
+      "dateline": "2014-6-16 17:49",
+      "username": "三国梦",
+      "groupexpiry": "永不过期"
+    },
+    "684102": {
+      "cid": "22945",
+      "uid": "684102",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-6-16 17:37",
+      "username": "wangbo147",
+      "groupexpiry": "永不过期"
+    },
+    "690833": {
+      "cid": "22943",
+      "uid": "690833",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-6-16 17:35",
+      "username": "Block-W",
+      "groupexpiry": "永不过期"
+    },
+    "353928": {
+      "cid": "22847",
+      "uid": "353928",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-6-15 16:17",
+      "username": "25.75.108.12",
+      "groupexpiry": "永不过期"
+    },
+    "685885": {
+      "cid": "22554",
+      "uid": "685885",
+      "operatorid": "107792",
+      "operator": "Mayomi",
+      "action": "禁止发言",
+      "reason": "下个ID见",
+      "dateline": "2014-6-14 11:57",
+      "username": "mcbbs-作死",
+      "groupexpiry": "永不过期"
+    },
+    "300114": {
+      "cid": "22433",
+      "uid": "300114",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "发布恶意后门插件",
+      "dateline": "2014-6-12 20:01",
+      "username": "jerryh96",
+      "groupexpiry": "永不过期"
+    },
+    "458951": {
+      "cid": "22421",
+      "uid": "458951",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止访问",
+      "reason": "末地灌水",
+      "dateline": "2014-6-12 07:19",
+      "username": "1132328163",
+      "groupexpiry": "永不过期"
+    },
+    "470693": {
+      "cid": "22403",
+      "uid": "470693",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-6-11 20:21",
+      "username": "hzq1963366428",
+      "groupexpiry": "永不过期"
+    },
+    "634841": {
+      "cid": "22366",
+      "uid": "634841",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止访问",
+      "reason": "封禁",
+      "dateline": "2014-6-11 11:52",
+      "username": "无忧世界",
+      "groupexpiry": "永不过期"
+    },
+    "188048": {
+      "cid": "22103",
+      "uid": "188048",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2014-6-8 22:19",
+      "username": "1007547522",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

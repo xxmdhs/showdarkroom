@@ -1,0 +1,96 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "417352"
+  },
+  "data": {
+    "1205997": {
+      "cid": "418965",
+      "uid": "1205997",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "失信人员屡次换号，处罚升级",
+      "dateline": "2019-6-29 14:03",
+      "username": "samvictory",
+      "groupexpiry": "永不过期"
+    },
+    "160977": {
+      "cid": "418964",
+      "uid": "160977",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "失信人员屡次换号，处罚升级",
+      "dateline": "2019-6-29 14:02",
+      "username": "aws45612300823",
+      "groupexpiry": "永不过期"
+    },
+    "2139453": {
+      "cid": "418963",
+      "uid": "2139453",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "失信人员屡次换号",
+      "dateline": "2019-6-29 14:02",
+      "username": "帅的没天理",
+      "groupexpiry": "永不过期"
+    },
+    "576068": {
+      "cid": "418707",
+      "uid": "576068",
+      "operatorid": "1575538",
+      "operator": "ff98sha",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-6-28 18:13",
+      "username": "c18050390849",
+      "groupexpiry": "永不过期"
+    },
+    "2779270": {
+      "cid": "418686",
+      "uid": "2779270",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-6-28 17:44",
+      "username": "v13826057771",
+      "groupexpiry": "永不过期"
+    },
+    "2778790": {
+      "cid": "418630",
+      "uid": "2778790",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止访问",
+      "reason": "广告机",
+      "dateline": "2019-6-28 15:56",
+      "username": "泰哥004",
+      "groupexpiry": "永不过期"
+    },
+    "1893266": {
+      "cid": "418431",
+      "uid": "1893266",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "诈骗|卷款跑路",
+      "dateline": "2019-6-27 20:42",
+      "username": "Dream_Spuer",
+      "groupexpiry": "永不过期"
+    },
+    "2577659": {
+      "cid": "418040",
+      "uid": "2577659",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2019-6-27 01:01",
+      "username": "性感马化腾",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "265266"
+  },
+  "data": {
+    "2243021": {
+      "cid": "267749",
+      "uid": "2243021",
+      "operatorid": "969417",
+      "operator": "言之安",
+      "action": "禁止发言",
+      "reason": "灌水",
+      "dateline": "2017-8-3 00:33",
+      "username": "杰之纹章",
+      "groupexpiry": "永不过期"
+    },
+    "1835772": {
+      "cid": "267748",
+      "uid": "1835772",
+      "operatorid": "969417",
+      "operator": "言之安",
+      "action": "禁止发言",
+      "reason": "灌水",
+      "dateline": "2017-8-3 00:33",
+      "username": "j314510139",
+      "groupexpiry": "永不过期"
+    },
+    "2265139": {
+      "cid": "267536",
+      "uid": "2265139",
+      "operatorid": "1793599",
+      "operator": "DGK2",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-8-2 15:42",
+      "username": "fkhx",
+      "groupexpiry": "永不过期"
+    },
+    "1175335": {
+      "cid": "267515",
+      "uid": "1175335",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2017-8-2 15:22",
+      "username": "a6680211",
+      "groupexpiry": "永不过期"
+    },
+    "2201692": {
+      "cid": "266810",
+      "uid": "2201692",
+      "operatorid": "564746",
+      "operator": "gamerteam",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2017-8-1 00:19",
+      "username": "idc07",
+      "groupexpiry": "永不过期"
+    },
+    "2236438": {
+      "cid": "266625",
+      "uid": "2236438",
+      "operatorid": "1422337",
+      "operator": "MystiaCC",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-7-31 16:08",
+      "username": "623428422",
+      "groupexpiry": "永不过期"
+    },
+    "2268426": {
+      "cid": "266024",
+      "uid": "2268426",
+      "operatorid": "969417",
+      "operator": "言之安",
+      "action": "禁止发言",
+      "reason": "2-4-d",
+      "dateline": "2017-7-29 13:08",
+      "username": "Y_sw",
+      "groupexpiry": "永不过期"
+    },
+    "675617": {
+      "cid": "265612",
+      "uid": "675617",
+      "operatorid": "679293",
+      "operator": "FHC红石",
+      "action": "禁止发言",
+      "reason": "转账1000",
+      "dateline": "2017-7-28 10:34",
+      "username": "KK44KK",
+      "groupexpiry": "永不过期"
+    },
+    "469562": {
+      "cid": "265611",
+      "uid": "469562",
+      "operatorid": "679293",
+      "operator": "FHC红石",
+      "action": "禁止发言",
+      "reason": "转账1000",
+      "dateline": "2017-7-28 10:33",
+      "username": "1640727878",
+      "groupexpiry": "永不过期"
+    },
+    "2202369": {
+      "cid": "265289",
+      "uid": "2202369",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "辱骂版主",
+      "dateline": "2017-7-27 08:35",
+      "username": "O0000000000000O",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

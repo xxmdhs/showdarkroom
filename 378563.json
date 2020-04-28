@@ -1,0 +1,140 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "378563"
+  },
+  "data": {
+    "2646604": {
+      "cid": "380561",
+      "uid": "2646604",
+      "operatorid": "1280406",
+      "operator": "zjxx",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-2-1 06:18",
+      "username": "princess3518",
+      "groupexpiry": "永不过期"
+    },
+    "2087090": {
+      "cid": "380405",
+      "uid": "2087090",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "提升卡挖坟",
+      "dateline": "2019-1-31 12:23",
+      "username": "虎水小骥",
+      "groupexpiry": "永不过期"
+    },
+    "2643247": {
+      "cid": "380114",
+      "uid": "2643247",
+      "operatorid": "720449",
+      "operator": "玄素",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-1-30 19:53",
+      "username": "28897914",
+      "groupexpiry": "永不过期"
+    },
+    "1692326": {
+      "cid": "379772",
+      "uid": "1692326",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "转账",
+      "dateline": "2019-1-27 19:45",
+      "username": "tangljun",
+      "groupexpiry": "永不过期"
+    },
+    "2499469": {
+      "cid": "379771",
+      "uid": "2499469",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "转账",
+      "dateline": "2019-1-27 19:45",
+      "username": "sibei",
+      "groupexpiry": "永不过期"
+    },
+    "2499443": {
+      "cid": "379762",
+      "uid": "2499443",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "转账",
+      "dateline": "2019-1-27 19:37",
+      "username": "乱世当年",
+      "groupexpiry": "永不过期"
+    },
+    "2220426": {
+      "cid": "379761",
+      "uid": "2220426",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "转账",
+      "dateline": "2019-1-27 19:37",
+      "username": " 小小小宇",
+      "groupexpiry": "永不过期"
+    },
+    "2631129": {
+      "cid": "379407",
+      "uid": "2631129",
+      "operatorid": "2073665",
+      "operator": "葉子の",
+      "action": "禁止发言",
+      "reason": "大量灌水",
+      "dateline": "2019-1-26 11:06",
+      "username": "1564272357",
+      "groupexpiry": "永不过期"
+    },
+    "1257288": {
+      "cid": "379406",
+      "uid": "1257288",
+      "operatorid": "2073665",
+      "operator": "葉子の",
+      "action": "禁止发言",
+      "reason": "大量灌水",
+      "dateline": "2019-1-26 11:06",
+      "username": "2651861658",
+      "groupexpiry": "永不过期"
+    },
+    "2631693": {
+      "cid": "379404",
+      "uid": "2631693",
+      "operatorid": "2073665",
+      "operator": "葉子の",
+      "action": "禁止发言",
+      "reason": "大量灌水",
+      "dateline": "2019-1-26 11:01",
+      "username": "love百里",
+      "groupexpiry": "永不过期"
+    },
+    "2617155": {
+      "cid": "378721",
+      "uid": "2617155",
+      "operatorid": "2073665",
+      "operator": "葉子の",
+      "action": "禁止发言",
+      "reason": "大量灌水",
+      "dateline": "2019-1-24 12:29",
+      "username": "叶灵",
+      "groupexpiry": "永不过期"
+    },
+    "2628324": {
+      "cid": "378594",
+      "uid": "2628324",
+      "operatorid": "2073665",
+      "operator": "葉子の",
+      "action": "禁止发言",
+      "reason": "大量灌水",
+      "dateline": "2019-1-23 21:02",
+      "username": "578677973",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

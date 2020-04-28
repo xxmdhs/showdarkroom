@@ -1,0 +1,173 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "50309"
+  },
+  "data": {
+    "939857": {
+      "cid": "54641",
+      "uid": "939857",
+      "operatorid": "178523",
+      "operator": "cyqsimon",
+      "action": "禁止发言",
+      "reason": "骂街",
+      "dateline": "2014-9-30 17:52",
+      "username": "士兵小号1",
+      "groupexpiry": "永不过期"
+    },
+    "938675": {
+      "cid": "54599",
+      "uid": "938675",
+      "operatorid": "178523",
+      "operator": "cyqsimon",
+      "action": "禁止发言",
+      "reason": "大肆辱骂，没有发表任何有意义内容，按广告机处理，永封",
+      "dateline": "2014-9-30 16:51",
+      "username": "我喜欢女人",
+      "groupexpiry": "永不过期"
+    },
+    "914069": {
+      "cid": "53856",
+      "uid": "914069",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "语言粗俗",
+      "dateline": "2014-9-28 19:29",
+      "username": "分野生的狼",
+      "groupexpiry": "永不过期"
+    },
+    "388504": {
+      "cid": "53537",
+      "uid": "388504",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷帖长达17页，永久封禁",
+      "dateline": "2014-9-27 16:47",
+      "username": "ASU",
+      "groupexpiry": "永不过期"
+    },
+    "535855": {
+      "cid": "53482",
+      "uid": "535855",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-9-27 14:13",
+      "username": "panshi763962560",
+      "groupexpiry": "永不过期"
+    },
+    "394739": {
+      "cid": "53243",
+      "uid": "394739",
+      "operatorid": "285824",
+      "operator": "stauch",
+      "action": "禁止发言",
+      "reason": "多次灌水",
+      "dateline": "2014-9-26 19:29",
+      "username": "super、Rain",
+      "groupexpiry": "永不过期"
+    },
+    "872635": {
+      "cid": "52316",
+      "uid": "872635",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-9-22 15:59",
+      "username": "午阳大大",
+      "groupexpiry": "永不过期"
+    },
+    "330244": {
+      "cid": "52313",
+      "uid": "330244",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-9-22 15:40",
+      "username": "wangzhe2000",
+      "groupexpiry": "永不过期"
+    },
+    "518308": {
+      "cid": "52153",
+      "uid": "518308",
+      "operatorid": "160123",
+      "operator": "贰逼",
+      "action": "禁止发言",
+      "reason": "多次发表广告，辱骂性水贴",
+      "dateline": "2014-9-21 20:48",
+      "username": "1400623239",
+      "groupexpiry": "永不过期"
+    },
+    "293037": {
+      "cid": "52104",
+      "uid": "293037",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-9-21 16:35",
+      "username": "356412",
+      "groupexpiry": "永不过期"
+    },
+    "287265": {
+      "cid": "51157",
+      "uid": "287265",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-9-18 08:35",
+      "username": "a1656602294",
+      "groupexpiry": "永不过期"
+    },
+    "855860": {
+      "cid": "51146",
+      "uid": "855860",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-9-17 22:35",
+      "username": "冷酷～～",
+      "groupexpiry": "永不过期"
+    },
+    "488257": {
+      "cid": "50732",
+      "uid": "488257",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-9-17 12:57",
+      "username": "a1261774350",
+      "groupexpiry": "永不过期"
+    },
+    "723543": {
+      "cid": "50341",
+      "uid": "723543",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "马甲自加分",
+      "dateline": "2014-9-15 21:05",
+      "username": "CNBIN",
+      "groupexpiry": "永不过期"
+    },
+    "840315": {
+      "cid": "50309",
+      "uid": "840315",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-9-15 13:15",
+      "username": "Horry__",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

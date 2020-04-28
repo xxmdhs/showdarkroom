@@ -1,0 +1,85 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "10702"
+  },
+  "data": {
+    "161742": {
+      "cid": "12433",
+      "uid": "161742",
+      "operatorid": "143042",
+      "operator": "sdszwilliam",
+      "action": "禁止发言",
+      "reason": "水",
+      "dateline": "2014-3-26 14:59",
+      "username": "fuboyuan",
+      "groupexpiry": "永不过期"
+    },
+    "589794": {
+      "cid": "12396",
+      "uid": "589794",
+      "operatorid": "359415",
+      "operator": "wwpzxp",
+      "action": "禁止发言",
+      "reason": "全部水贴+屠版",
+      "dateline": "2014-3-26 11:47",
+      "username": "qq200900573",
+      "groupexpiry": "永不过期"
+    },
+    "574188": {
+      "cid": "12356",
+      "uid": "574188",
+      "operatorid": "178523",
+      "operator": "cyqsimon",
+      "action": "禁止发言",
+      "reason": "辱骂",
+      "dateline": "2014-3-25 20:39",
+      "username": "APOX",
+      "groupexpiry": "永不过期"
+    },
+    "445249": {
+      "cid": "12224",
+      "uid": "445249",
+      "operatorid": "143042",
+      "operator": "sdszwilliam",
+      "action": "禁止发言",
+      "reason": "全水",
+      "dateline": "2014-3-24 17:57",
+      "username": "189232123a",
+      "groupexpiry": "永不过期"
+    },
+    "407707": {
+      "cid": "12220",
+      "uid": "407707",
+      "operatorid": "143042",
+      "operator": "sdszwilliam",
+      "action": "禁止发言",
+      "reason": "全水",
+      "dateline": "2014-3-24 17:54",
+      "username": "a771678045",
+      "groupexpiry": "永不过期"
+    },
+    "268215": {
+      "cid": "12097",
+      "uid": "268215",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-3-23 20:58",
+      "username": "zf583869767",
+      "groupexpiry": "永不过期"
+    },
+    "234399": {
+      "cid": "11379",
+      "uid": "234399",
+      "operatorid": "38787",
+      "operator": "wolski",
+      "action": "禁止发言",
+      "reason": "违反坛规",
+      "dateline": "2014-3-22 11:40",
+      "username": "836931836",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

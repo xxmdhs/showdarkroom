@@ -1,0 +1,151 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "188071"
+  },
+  "data": {
+    "1128934": {
+      "cid": "188958",
+      "uid": "1128934",
+      "operatorid": "77891",
+      "operator": "SkyCatcher",
+      "action": "禁止发言",
+      "reason": "纯灌水",
+      "dateline": "2016-4-16 10:30",
+      "username": "1402700284",
+      "groupexpiry": "永不过期"
+    },
+    "1585870": {
+      "cid": "188951",
+      "uid": "1585870",
+      "operatorid": "77891",
+      "operator": "SkyCatcher",
+      "action": "禁止发言",
+      "reason": "广告，永久封禁",
+      "dateline": "2016-4-16 10:30",
+      "username": "863599230",
+      "groupexpiry": "永不过期"
+    },
+    "1751609": {
+      "cid": "188885",
+      "uid": "1751609",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-4-16 05:49",
+      "username": "pola",
+      "groupexpiry": "永不过期"
+    },
+    "1761061": {
+      "cid": "188601",
+      "uid": "1761061",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-4-13 17:39",
+      "username": "quyuhud",
+      "groupexpiry": "永不过期"
+    },
+    "1743485": {
+      "cid": "188584",
+      "uid": "1743485",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": ".",
+      "dateline": "2016-4-13 10:55",
+      "username": "masinimen929",
+      "groupexpiry": "永不过期"
+    },
+    "1757523": {
+      "cid": "188583",
+      "uid": "1757523",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": ".",
+      "dateline": "2016-4-13 08:17",
+      "username": "GLY只会摆弄",
+      "groupexpiry": "永不过期"
+    },
+    "1760944": {
+      "cid": "188582",
+      "uid": "1760944",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": ".",
+      "dateline": "2016-4-13 08:16",
+      "username": "王八rom",
+      "groupexpiry": "永不过期"
+    },
+    "1324585": {
+      "cid": "188573",
+      "uid": "1324585",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-4-13 01:10",
+      "username": "555哇塞的",
+      "groupexpiry": "永不过期"
+    },
+    "314462": {
+      "cid": "188572",
+      "uid": "314462",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-4-13 01:08",
+      "username": "128649188",
+      "groupexpiry": "永不过期"
+    },
+    "1719788": {
+      "cid": "188532",
+      "uid": "1719788",
+      "operatorid": "290486",
+      "operator": "719220502",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-4-12 20:28",
+      "username": "帅逼侠",
+      "groupexpiry": "永不过期"
+    },
+    "1755429": {
+      "cid": "188477",
+      "uid": "1755429",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-4-12 12:43",
+      "username": "漠晓月",
+      "groupexpiry": "永不过期"
+    },
+    "1564987": {
+      "cid": "188441",
+      "uid": "1564987",
+      "operatorid": "1047807",
+      "operator": "ffc2412966076",
+      "action": "禁止发言",
+      "reason": "政治相关",
+      "dateline": "2016-4-11 22:19",
+      "username": "重视的还是",
+      "groupexpiry": "永不过期"
+    },
+    "1585549": {
+      "cid": "188071",
+      "uid": "1585549",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2016-4-10 03:23",
+      "username": "这SB论坛",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

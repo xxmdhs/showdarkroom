@@ -1,0 +1,261 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "115189"
+  },
+  "data": {
+    "235870": {
+      "cid": "115793",
+      "uid": "235870",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-5-10 13:28",
+      "username": "烈枫",
+      "groupexpiry": "永不过期"
+    },
+    "320011": {
+      "cid": "115785",
+      "uid": "320011",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-5-10 13:27",
+      "username": "gg20000113",
+      "groupexpiry": "永不过期"
+    },
+    "503183": {
+      "cid": "115784",
+      "uid": "503183",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-5-10 13:28",
+      "username": "1225235462",
+      "groupexpiry": "永不过期"
+    },
+    "229324": {
+      "cid": "115770",
+      "uid": "229324",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-5-10 13:26",
+      "username": "1303193423",
+      "groupexpiry": "永不过期"
+    },
+    "754328": {
+      "cid": "115769",
+      "uid": "754328",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-5-10 13:25",
+      "username": "xiaoxiaoshijie",
+      "groupexpiry": "永不过期"
+    },
+    "951089": {
+      "cid": "115768",
+      "uid": "951089",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-5-10 13:24",
+      "username": "hs-DD",
+      "groupexpiry": "永不过期"
+    },
+    "415018": {
+      "cid": "115760",
+      "uid": "415018",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-5-10 13:21",
+      "username": "sjj",
+      "groupexpiry": "永不过期"
+    },
+    "1318833": {
+      "cid": "115645",
+      "uid": "1318833",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2015-5-10 10:53",
+      "username": "爱桶桶丶洗",
+      "groupexpiry": "永不过期"
+    },
+    "1274890": {
+      "cid": "115583",
+      "uid": "1274890",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止访问",
+      "reason": "末地多次违规发贴",
+      "dateline": "2015-5-9 23:31",
+      "username": "SAS麦克上尉",
+      "groupexpiry": "永不过期"
+    },
+    "1317034": {
+      "cid": "115536",
+      "uid": "1317034",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-5-9 18:23",
+      "username": "123jiajiajia",
+      "groupexpiry": "永不过期"
+    },
+    "577851": {
+      "cid": "115520",
+      "uid": "577851",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-5-9 17:47",
+      "username": "1346556838",
+      "groupexpiry": "永不过期"
+    },
+    "1056575": {
+      "cid": "115485",
+      "uid": "1056575",
+      "operatorid": "910117",
+      "operator": "__Tong__",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-5-9 13:47",
+      "username": "queaque",
+      "groupexpiry": "永不过期"
+    },
+    "674265": {
+      "cid": "115241",
+      "uid": "674265",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2015-5-8 00:53",
+      "username": "qq1798433762",
+      "groupexpiry": "永不过期"
+    },
+    "655659": {
+      "cid": "115211",
+      "uid": "655659",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-5-7 17:15",
+      "username": "34365",
+      "groupexpiry": "永不过期"
+    },
+    "233977": {
+      "cid": "115210",
+      "uid": "233977",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-5-7 17:13",
+      "username": "q2210977092",
+      "groupexpiry": "永不过期"
+    },
+    "935089": {
+      "cid": "115209",
+      "uid": "935089",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-5-7 17:13",
+      "username": "泪已成海",
+      "groupexpiry": "永不过期"
+    },
+    "467913": {
+      "cid": "115208",
+      "uid": "467913",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头。",
+      "dateline": "2015-5-7 17:10",
+      "username": "妖娆桃夭",
+      "groupexpiry": "永不过期"
+    },
+    "565211": {
+      "cid": "115207",
+      "uid": "565211",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-5-7 17:09",
+      "username": "w1002657032",
+      "groupexpiry": "永不过期"
+    },
+    "645209": {
+      "cid": "115206",
+      "uid": "645209",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-5-7 17:09",
+      "username": "顾紫彤",
+      "groupexpiry": "永不过期"
+    },
+    "165538": {
+      "cid": "115202",
+      "uid": "165538",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-5-7 17:04",
+      "username": "我没说你欠我钱",
+      "groupexpiry": "永不过期"
+    },
+    "808594": {
+      "cid": "115191",
+      "uid": "808594",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-5-7 17:00",
+      "username": "adawdoapk",
+      "groupexpiry": "永不过期"
+    },
+    "943395": {
+      "cid": "115190",
+      "uid": "943395",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-5-7 16:58",
+      "username": "Thunder_ADK",
+      "groupexpiry": "永不过期"
+    },
+    "599683": {
+      "cid": "115189",
+      "uid": "599683",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头。",
+      "dateline": "2015-5-7 16:57",
+      "username": "ssw12564",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

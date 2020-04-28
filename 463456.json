@@ -1,0 +1,173 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "463456"
+  },
+  "data": {
+    "2882091": {
+      "cid": "465917",
+      "uid": "2882091",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "異常帳號",
+      "dateline": "2019-9-18 15:32",
+      "username": "heiye2",
+      "groupexpiry": "永不过期"
+    },
+    "2882088": {
+      "cid": "465916",
+      "uid": "2882088",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "異常帳號",
+      "dateline": "2019-9-18 15:32",
+      "username": "heiye1",
+      "groupexpiry": "永不过期"
+    },
+    "2882105": {
+      "cid": "465914",
+      "uid": "2882105",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "廣告機",
+      "dateline": "2019-9-18 15:29",
+      "username": "叶叠清4",
+      "groupexpiry": "永不过期"
+    },
+    "2882092": {
+      "cid": "465913",
+      "uid": "2882092",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "廣告機",
+      "dateline": "2019-9-18 15:29",
+      "username": "叶叠清3",
+      "groupexpiry": "永不过期"
+    },
+    "2882085": {
+      "cid": "465912",
+      "uid": "2882085",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-9-18 15:24",
+      "username": "叶叠清2",
+      "groupexpiry": "永不过期"
+    },
+    "2882076": {
+      "cid": "465911",
+      "uid": "2882076",
+      "operatorid": "2067786",
+      "operator": "消",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-9-18 14:57",
+      "username": "叶叠清",
+      "groupexpiry": "永不过期"
+    },
+    "2882068": {
+      "cid": "465910",
+      "uid": "2882068",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-9-18 14:00",
+      "username": "heiye6",
+      "groupexpiry": "永不过期"
+    },
+    "2659658": {
+      "cid": "464673",
+      "uid": "2659658",
+      "operatorid": "264829",
+      "operator": "Bryan33",
+      "action": "禁止发言",
+      "reason": "植入后门",
+      "dateline": "2019-9-14 15:45",
+      "username": "DoMCerNB",
+      "groupexpiry": "永不过期"
+    },
+    "2258049": {
+      "cid": "464581",
+      "uid": "2258049",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-9-14 12:57",
+      "username": "lds123123",
+      "groupexpiry": "永不过期"
+    },
+    "2676044": {
+      "cid": "463862",
+      "uid": "2676044",
+      "operatorid": "708478",
+      "operator": "南",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-9-12 19:10",
+      "username": "千秋夏",
+      "groupexpiry": "永不过期"
+    },
+    "2706689": {
+      "cid": "463752",
+      "uid": "2706689",
+      "operatorid": "708478",
+      "operator": "南",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-9-12 15:16",
+      "username": "祥祥26",
+      "groupexpiry": "永不过期"
+    },
+    "2875205": {
+      "cid": "463459",
+      "uid": "2875205",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "复读机",
+      "dateline": "2019-9-11 20:29",
+      "username": "18030508154",
+      "groupexpiry": "永不过期"
+    },
+    "2866998": {
+      "cid": "463458",
+      "uid": "2866998",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器账户",
+      "dateline": "2019-9-11 19:08",
+      "username": "kop10",
+      "groupexpiry": "永不过期"
+    },
+    "2866994": {
+      "cid": "463457",
+      "uid": "2866994",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器账户",
+      "dateline": "2019-9-11 19:08",
+      "username": "CappU4",
+      "groupexpiry": "永不过期"
+    },
+    "2866992": {
+      "cid": "463456",
+      "uid": "2866992",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器账户",
+      "dateline": "2019-9-11 19:08",
+      "username": "majaqi008l",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

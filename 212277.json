@@ -1,0 +1,63 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "212277"
+  },
+  "data": {
+    "1782375": {
+      "cid": "213039",
+      "uid": "1782375",
+      "operatorid": "1757048",
+      "operator": "逗比桃",
+      "action": "禁止发言",
+      "reason": "发布锁机bat",
+      "dateline": "2016-9-12 19:30",
+      "username": "青烟灬夏临",
+      "groupexpiry": "永不过期"
+    },
+    "1814649": {
+      "cid": "212806",
+      "uid": "1814649",
+      "operatorid": "266277",
+      "operator": "LocusAzzurro",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-9-10 23:10",
+      "username": "Dream_chenxi",
+      "groupexpiry": "永不过期"
+    },
+    "1493895": {
+      "cid": "212604",
+      "uid": "1493895",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "请更换正常头像后申请解封",
+      "dateline": "2016-9-9 11:39",
+      "username": "win2000",
+      "groupexpiry": "永不过期"
+    },
+    "1922938": {
+      "cid": "212542",
+      "uid": "1922938",
+      "operatorid": "80321",
+      "operator": "zjy",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-9-7 16:23",
+      "username": "abc0909111",
+      "groupexpiry": "永不过期"
+    },
+    "1638709": {
+      "cid": "212277",
+      "uid": "1638709",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2016-9-5 11:31",
+      "username": "2092546835",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

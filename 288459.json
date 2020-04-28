@@ -1,0 +1,118 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "288459"
+  },
+  "data": {
+    "2383151": {
+      "cid": "289939",
+      "uid": "2383151",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-10-5 16:27",
+      "username": "VV乐乐",
+      "groupexpiry": "永不过期"
+    },
+    "2375632": {
+      "cid": "289503",
+      "uid": "2375632",
+      "operatorid": "1095012",
+      "operator": "1582952890",
+      "action": "禁止发言",
+      "reason": "A恶性刷帖",
+      "dateline": "2017-10-3 10:20",
+      "username": "MC_FKHSD",
+      "groupexpiry": "永不过期"
+    },
+    "2255881": {
+      "cid": "289455",
+      "uid": "2255881",
+      "operatorid": "1095012",
+      "operator": "1582952890",
+      "action": "禁止发言",
+      "reason": "吕乐乐马甲",
+      "dateline": "2017-10-2 20:02",
+      "username": "de_er",
+      "groupexpiry": "永不过期"
+    },
+    "2110200": {
+      "cid": "289392",
+      "uid": "2110200",
+      "operatorid": "1095012",
+      "operator": "1582952890",
+      "action": "禁止发言",
+      "reason": "http://www.mcbbs.net/thread-730758-1-1.html",
+      "dateline": "2017-10-2 15:19",
+      "username": "V乐乐",
+      "groupexpiry": "永不过期"
+    },
+    "1739465": {
+      "cid": "289362",
+      "uid": "1739465",
+      "operatorid": "679293",
+      "operator": "FHC红石",
+      "action": "禁止发言",
+      "reason": "转账600",
+      "dateline": "2017-10-2 11:46",
+      "username": "2503180246",
+      "groupexpiry": "永不过期"
+    },
+    "2372043": {
+      "cid": "288745",
+      "uid": "2372043",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "多人举报私信骚扰",
+      "dateline": "2017-9-27 16:22",
+      "username": "畅享ARZ",
+      "groupexpiry": "永不过期"
+    },
+    "1918420": {
+      "cid": "288518",
+      "uid": "1918420",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-9-25 10:57",
+      "username": "名流",
+      "groupexpiry": "永不过期"
+    },
+    "2370064": {
+      "cid": "288461",
+      "uid": "2370064",
+      "operatorid": "322837",
+      "operator": "天域",
+      "action": "禁止发言",
+      "reason": "版聊",
+      "dateline": "2017-9-24 18:30",
+      "username": "王者333(2号)",
+      "groupexpiry": "永不过期"
+    },
+    "2340033": {
+      "cid": "288460",
+      "uid": "2340033",
+      "operatorid": "322837",
+      "operator": "天域",
+      "action": "禁止发言",
+      "reason": "版聊",
+      "dateline": "2017-9-24 18:28",
+      "username": "牛叉111",
+      "groupexpiry": "永不过期"
+    },
+    "1662264": {
+      "cid": "288459",
+      "uid": "1662264",
+      "operatorid": "322837",
+      "operator": "天域",
+      "action": "禁止发言",
+      "reason": "发布作弊mod",
+      "dateline": "2017-9-24 18:26",
+      "username": "15847294420",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

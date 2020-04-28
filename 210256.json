@@ -1,0 +1,118 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "210256"
+  },
+  "data": {
+    "1910170": {
+      "cid": "211390",
+      "uid": "1910170",
+      "operatorid": "80321",
+      "operator": "zjy",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-8-28 08:45",
+      "username": "asdad456",
+      "groupexpiry": "永不过期"
+    },
+    "1609243": {
+      "cid": "211202",
+      "uid": "1609243",
+      "operatorid": "223908",
+      "operator": "minehenry",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-8-27 15:29",
+      "username": "2784508007",
+      "groupexpiry": "永不过期"
+    },
+    "1894666": {
+      "cid": "211087",
+      "uid": "1894666",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "水贴",
+      "dateline": "2016-8-26 16:36",
+      "username": "梁泽希2",
+      "groupexpiry": "永不过期"
+    },
+    "1898262": {
+      "cid": "210927",
+      "uid": "1898262",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "广告",
+      "dateline": "2016-8-25 14:29",
+      "username": "UBC002",
+      "groupexpiry": "永不过期"
+    },
+    "1904490": {
+      "cid": "210610",
+      "uid": "1904490",
+      "operatorid": "1757048",
+      "operator": "逗比桃",
+      "action": "禁止发言",
+      "reason": "发布XX软件",
+      "dateline": "2016-8-24 20:51",
+      "username": "zhang1348350771",
+      "groupexpiry": "永不过期"
+    },
+    "1736998": {
+      "cid": "210562",
+      "uid": "1736998",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "刷分马甲",
+      "dateline": "2016-8-24 13:42",
+      "username": "0斩首0",
+      "groupexpiry": "永不过期"
+    },
+    "1259162": {
+      "cid": "210561",
+      "uid": "1259162",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "刷分马甲",
+      "dateline": "2016-8-24 13:41",
+      "username": "lyzplyc",
+      "groupexpiry": "永不过期"
+    },
+    "690026": {
+      "cid": "210400",
+      "uid": "690026",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "失窃账号，永久封禁",
+      "dateline": "2016-8-23 22:56",
+      "username": "qq1349169381",
+      "groupexpiry": "永不过期"
+    },
+    "1903366": {
+      "cid": "210368",
+      "uid": "1903366",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2016-8-23 18:14",
+      "username": "最后一次",
+      "groupexpiry": "永不过期"
+    },
+    "1882766": {
+      "cid": "210367",
+      "uid": "1882766",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2016-8-23 18:13",
+      "username": "soms1234",
+      "groupexpiry": "永不过期"
+    }
+  }
+}
