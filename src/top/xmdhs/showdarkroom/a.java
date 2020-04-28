@@ -1,5 +1,10 @@
 package top.xmdhs.showdarkroom;
 
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import com.google.gson.JsonObject;
+import com.google.gson.JsonParser;
+
 import java.io.*;
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -27,6 +32,12 @@ class Pa implements Runnable{
         this.STRATCID = STRATCID;
         this.ENDCID = ENDCID;
     }
+    private static String toPrettyFormat(String json) {
+        JsonParser jsonParser = new JsonParser();
+        JsonObject jsonObject = jsonParser.parse(json).getAsJsonObject();
+        Gson gson = new GsonBuilder().setPrettyPrinting().create();
+        return gson.toJson(jsonObject);
+    }
 
     public void run() {
         int cid = STRATCID;
@@ -41,7 +52,7 @@ class Pa implements Runnable{
                 }
                 cid = Integer.parseInt(Http.getcid(json));
                 try(BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(cid+".txt"), StandardCharsets.UTF_8))) {
-                    writer.write(json);
+                    writer.write(toPrettyFormat(json));
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
