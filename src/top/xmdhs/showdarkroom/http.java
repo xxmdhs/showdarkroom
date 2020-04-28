@@ -62,7 +62,7 @@ public class http {
             if(current.contains("id=\"darkroommore\" cid=\"")){
                 int a = current.indexOf("id=\"darkroommore\" cid=\"");
                 int b = current.indexOf("\">更多</a></div></span>");
-                return Integer.parseInt(current.substring(a+24,b));
+                return Integer.parseInt(current.substring(a+23,b));
             }
         }
         return 10000;

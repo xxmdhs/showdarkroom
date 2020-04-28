@@ -8,9 +8,11 @@ import java.nio.charset.StandardCharsets;
 public class a {
     public static void main(String[] args){
         System.out.println("开始爬取");
-        Thread pa1 = new Thread(new Pa(616526,411018));
-        Thread pa2 = new Thread(new Pa(411018,205510));
-        Thread pa3 = new Thread(new Pa(205510,0));
+        int a = http.getStartCid();
+        System.out.println(a);
+        Thread pa1 = new Thread(new Pa(http.getStartCid()*10,a/3*2+2));
+        Thread pa2 = new Thread(new Pa(a/3*2+2,a/3+2));
+        Thread pa3 = new Thread(new Pa(a/3+2,0));
         pa1.start();
         pa2.start();
         pa3.start();
@@ -30,7 +32,7 @@ class Pa implements Runnable{
         int cid = STRATCID;
        while (cid > ENDCID){
             try {
-                System.out.println(STRATCID + ": "+ cid);
+                System.out.println(STRATCID + "-" + ENDCID + ": "+ cid);
                 http Http = new http(new URL("https://www.mcbbs.net/forum.php?mod=misc&action=showdarkroom&cid="+ cid +"&ajaxdata=json"));
                 String json = Http.getjson();
                 if(cid == Integer.parseInt(Http.getcid(json))){
