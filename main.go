@@ -4,10 +4,7 @@ import (
 	"fmt"
 	http "showdarkroom/showdarkroom"
 	"strconv"
-	"sync"
 )
-
-var ww sync.WaitGroup
 
 func main() {
 	i := http.GetStartCid()
@@ -24,12 +21,10 @@ func main() {
 		STRATCID: ii/3 + 2,
 		ENDCID:   0,
 	}
-	ww.Add(1)
+	http.W.Add(3)
 	go a.Toget()
-	ww.Add(1)
 	go b.Toget()
-	ww.Add(1)
 	go c.Toget()
-	ww.Wait()
+	http.W.Wait()
 	fmt.Println("完成")
 }
