@@ -1,0 +1,250 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "706077"
+  },
+  "data": {
+    "2977007": {
+      "cid": "706811",
+      "uid": "2977007",
+      "operatorid": "2153967",
+      "operator": "SHEEP_REALMS",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-9-4 11:56",
+      "username": "xpao",
+      "groupexpiry": "永不过期"
+    },
+    "3440193": {
+      "cid": "706651",
+      "uid": "3440193",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "违反版规2-4-S",
+      "dateline": "2020-9-4 00:56",
+      "username": "wxy123.",
+      "groupexpiry": "永不过期"
+    },
+    "3401514": {
+      "cid": "706650",
+      "uid": "3401514",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "违反版规2-4-S",
+      "dateline": "2020-9-4 00:55",
+      "username": "z616611938",
+      "groupexpiry": "永不过期"
+    },
+    "2568694": {
+      "cid": "706649",
+      "uid": "2568694",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "违反版规2-4-S",
+      "dateline": "2020-9-4 00:55",
+      "username": "616611938",
+      "groupexpiry": "永不过期"
+    },
+    "1324304": {
+      "cid": "706648",
+      "uid": "1324304",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "违反版规2-4-S",
+      "dateline": "2020-9-4 00:55",
+      "username": "z416117127",
+      "groupexpiry": "永不过期"
+    },
+    "2005539": {
+      "cid": "706644",
+      "uid": "2005539",
+      "operatorid": "2153967",
+      "operator": "SHEEP_REALMS",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-9-4 00:47",
+      "username": "2804487306",
+      "groupexpiry": "永不过期"
+    },
+    "2867541": {
+      "cid": "706548",
+      "uid": "2867541",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "为账号“阿呢”疑似刷分8人气40金粒，且与已证实的多个账号“阿呢”所用刷分账号有积分互加现象，坛规2-4K永久封禁处理",
+      "dateline": "2020-9-3 20:16",
+      "username": "lupin6666",
+      "groupexpiry": "永不过期"
+    },
+    "2512978": {
+      "cid": "706547",
+      "uid": "2512978",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "为账号“阿呢”刷分11人气60金粒，坛规2-4K永久封禁处理",
+      "dateline": "2020-9-3 20:11",
+      "username": "妖气腐竹",
+      "groupexpiry": "永不过期"
+    },
+    "933710": {
+      "cid": "706545",
+      "uid": "933710",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "马甲账号之一，多马甲共为账号“阿呢”刷分51人气240金粒，坛规2-4K对有加分行为的马甲全部封禁处理",
+      "dateline": "2020-9-3 20:00",
+      "username": "1321720999",
+      "groupexpiry": "永不过期"
+    },
+    "3543153": {
+      "cid": "706544",
+      "uid": "3543153",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "马甲账号之一，多马甲共为账号“阿呢”刷分51人气240金粒，坛规2-4K对有加分行为的马甲全部封禁处理",
+      "dateline": "2020-9-3 19:59",
+      "username": "cc_axiao",
+      "groupexpiry": "永不过期"
+    },
+    "3492231": {
+      "cid": "706543",
+      "uid": "3492231",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "马甲账号之一，多马甲共为账号“阿呢”刷分51人气240金粒，坛规2-4K对有加分行为的马甲全部封禁处理",
+      "dateline": "2020-9-3 19:59",
+      "username": "m娃亲",
+      "groupexpiry": "永不过期"
+    },
+    "3484857": {
+      "cid": "706542",
+      "uid": "3484857",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "马甲账号之一，多马甲共为账号“阿呢”刷分51人气240金粒，坛规2-4K对有加分行为的马甲全部封禁处理",
+      "dateline": "2020-9-3 19:59",
+      "username": "起源系",
+      "groupexpiry": "永不过期"
+    },
+    "2404760": {
+      "cid": "706541",
+      "uid": "2404760",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "马甲账号之一，多马甲共为账号“阿呢”刷分51人气240金粒，坛规2-4K对有加分行为的马甲全部封禁处理",
+      "dateline": "2020-9-3 19:58",
+      "username": "1805843660",
+      "groupexpiry": "永不过期"
+    },
+    "1709705": {
+      "cid": "706540",
+      "uid": "1709705",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "马甲账号之一，多马甲共为账号“阿呢”刷分51人气240金粒，坛规2-4K对有加分行为的马甲全部封禁处理",
+      "dateline": "2020-9-3 19:57",
+      "username": "13224",
+      "groupexpiry": "永不过期"
+    },
+    "3488609": {
+      "cid": "706538",
+      "uid": "3488609",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "马甲账号之一，多马甲共为账号“阿呢”刷分18人气，坛规2-4K对有加分行为的马甲全部封禁处理",
+      "dateline": "2020-9-3 19:56",
+      "username": "一起上加减乘除",
+      "groupexpiry": "永不过期"
+    },
+    "3489610": {
+      "cid": "706537",
+      "uid": "3489610",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "马甲账号之一，多马甲共为账号“阿呢”刷分18人气，坛规2-4K对有加分行为的马甲全部封禁处理",
+      "dateline": "2020-9-3 19:55",
+      "username": "mc七别",
+      "groupexpiry": "永不过期"
+    },
+    "3492258": {
+      "cid": "706536",
+      "uid": "3492258",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "马甲账号之一，多马甲共为账号“阿呢”刷分18人气，坛规2-4K对有加分行为的马甲全部封禁处理",
+      "dateline": "2020-9-3 19:55",
+      "username": "冬笋来啦",
+      "groupexpiry": "永不过期"
+    },
+    "3543129": {
+      "cid": "706535",
+      "uid": "3543129",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "马甲账号之一，多马甲共为账号“阿呢”刷分18人气，坛规2-4K对有加分行为的马甲全部封禁处理",
+      "dateline": "2020-9-3 19:54",
+      "username": "mc阿勒",
+      "groupexpiry": "永不过期"
+    },
+    "3542857": {
+      "cid": "706534",
+      "uid": "3542857",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "马甲账号之一，多马甲共为账号“阿呢”刷分18人气，坛规2-4K对有加分行为的马甲全部封禁处理",
+      "dateline": "2020-9-3 19:54",
+      "username": "小可mc",
+      "groupexpiry": "永不过期"
+    },
+    "3391878": {
+      "cid": "706527",
+      "uid": "3391878",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "证实利用其他账号联合刷分80人气300金粒（疑似刷分部分不计），坛规2-4K永久封禁",
+      "dateline": "2020-9-3 19:47",
+      "username": "阿呢",
+      "groupexpiry": "永不过期"
+    },
+    "3300149": {
+      "cid": "706385",
+      "uid": "3300149",
+      "operatorid": "2153967",
+      "operator": "SHEEP_REALMS",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-9-3 15:55",
+      "username": "庄拾弎",
+      "groupexpiry": "永不过期"
+    },
+    "3567006": {
+      "cid": "706358",
+      "uid": "3567006",
+      "operatorid": "679293",
+      "operator": "爱心魔王FHC",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-9-3 15:28",
+      "username": "董谦坚",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

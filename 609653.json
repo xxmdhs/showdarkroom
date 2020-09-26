@@ -1,0 +1,129 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "609653"
+  },
+  "data": {
+    "2769615": {
+      "cid": "612646",
+      "uid": "2769615",
+      "operatorid": "1793501",
+      "operator": "没糖的葫芦",
+      "action": "禁止发言",
+      "reason": "养号脚本灌水",
+      "dateline": "2020-4-23 13:53",
+      "username": "Re.MyWorld",
+      "groupexpiry": "永不过期"
+    },
+    "1103034": {
+      "cid": "612645",
+      "uid": "1103034",
+      "operatorid": "1793501",
+      "operator": "没糖的葫芦",
+      "action": "禁止发言",
+      "reason": "养号脚本灌水",
+      "dateline": "2020-4-23 13:53",
+      "username": "chen931155283",
+      "groupexpiry": "永不过期"
+    },
+    "1169658": {
+      "cid": "612644",
+      "uid": "1169658",
+      "operatorid": "1793501",
+      "operator": "没糖的葫芦",
+      "action": "禁止发言",
+      "reason": "养号脚本灌水",
+      "dateline": "2020-4-23 13:52",
+      "username": "ll1050723826",
+      "groupexpiry": "永不过期"
+    },
+    "2773077": {
+      "cid": "612643",
+      "uid": "2773077",
+      "operatorid": "1793501",
+      "operator": "没糖的葫芦",
+      "action": "禁止发言",
+      "reason": "养号脚本灌水",
+      "dateline": "2020-4-23 13:52",
+      "username": "里里和琦琦",
+      "groupexpiry": "永不过期"
+    },
+    "783273": {
+      "cid": "611922",
+      "uid": "783273",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止访问",
+      "reason": "末地水贴",
+      "dateline": "2020-4-22 21:18",
+      "username": "北辰。",
+      "groupexpiry": "永不过期"
+    },
+    "2531912": {
+      "cid": "611738",
+      "uid": "2531912",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-22 16:19",
+      "username": "libin123159",
+      "groupexpiry": "永不过期"
+    },
+    "2780684": {
+      "cid": "611710",
+      "uid": "2780684",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "接举报超长评分",
+      "dateline": "2020-4-22 13:46",
+      "username": "_Prinz_Eugen_",
+      "groupexpiry": "2020-10-28 19:24"
+    },
+    "1102006": {
+      "cid": "611686",
+      "uid": "1102006",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2020-4-22 12:31",
+      "username": "屁爷。",
+      "groupexpiry": "永不过期"
+    },
+    "2233119": {
+      "cid": "610044",
+      "uid": "2233119",
+      "operatorid": "1253833",
+      "operator": "brooke_zb",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-20 16:21",
+      "username": "火系忍者",
+      "groupexpiry": "永不过期"
+    },
+    "2664480": {
+      "cid": "609798",
+      "uid": "2664480",
+      "operatorid": "458143",
+      "operator": "阴阳师元素祭祀",
+      "action": "禁止发言",
+      "reason": "小号辱骂",
+      "dateline": "2020-4-20 14:28",
+      "username": "995699798BC",
+      "groupexpiry": "永不过期"
+    },
+    "2351277": {
+      "cid": "609653",
+      "uid": "2351277",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止访问",
+      "reason": "末地骂街",
+      "dateline": "2020-4-20 13:11",
+      "username": "寒梅风影",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

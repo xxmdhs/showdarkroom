@@ -1,0 +1,250 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "453036"
+  },
+  "data": {
+    "2602001": {
+      "cid": "453341",
+      "uid": "2602001",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "同IP可疑账号",
+      "dateline": "2019-8-23 11:54",
+      "username": "1515656612",
+      "groupexpiry": "永不过期"
+    },
+    "2847156": {
+      "cid": "453340",
+      "uid": "2847156",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "同IP可疑账号",
+      "dateline": "2019-8-23 11:53",
+      "username": "2576844301",
+      "groupexpiry": "永不过期"
+    },
+    "2842568": {
+      "cid": "453339",
+      "uid": "2842568",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "同IP可疑账号",
+      "dateline": "2019-8-23 11:53",
+      "username": "a6355255",
+      "groupexpiry": "永不过期"
+    },
+    "2840982": {
+      "cid": "453338",
+      "uid": "2840982",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "同IP可疑账号",
+      "dateline": "2019-8-23 11:53",
+      "username": "3170162286",
+      "groupexpiry": "永不过期"
+    },
+    "2769926": {
+      "cid": "453337",
+      "uid": "2769926",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "同IP可疑账号",
+      "dateline": "2019-8-23 11:53",
+      "username": "Wan_",
+      "groupexpiry": "永不过期"
+    },
+    "2769922": {
+      "cid": "453336",
+      "uid": "2769922",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "同IP可疑账号",
+      "dateline": "2019-8-23 11:53",
+      "username": "24445256",
+      "groupexpiry": "永不过期"
+    },
+    "2857836": {
+      "cid": "453151",
+      "uid": "2857836",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-8-22 18:33",
+      "username": "Green5201314",
+      "groupexpiry": "永不过期"
+    },
+    "2434291": {
+      "cid": "453078",
+      "uid": "2434291",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-8-22 17:49",
+      "username": "水杯yo",
+      "groupexpiry": "永不过期"
+    },
+    "2854184": {
+      "cid": "453065",
+      "uid": "2854184",
+      "operatorid": "2339970",
+      "operator": "极光creeper",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-8-22 17:38",
+      "username": "小的是",
+      "groupexpiry": "永不过期"
+    },
+    "2834042": {
+      "cid": "453048",
+      "uid": "2834042",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "可疑账号",
+      "dateline": "2019-8-22 17:25",
+      "username": "liwang1768903",
+      "groupexpiry": "永不过期"
+    },
+    "2834039": {
+      "cid": "453047",
+      "uid": "2834039",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "可疑账号",
+      "dateline": "2019-8-22 17:25",
+      "username": "helai31779",
+      "groupexpiry": "永不过期"
+    },
+    "2834002": {
+      "cid": "453046",
+      "uid": "2834002",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "可疑账号",
+      "dateline": "2019-8-22 17:25",
+      "username": "zheyi77617",
+      "groupexpiry": "永不过期"
+    },
+    "2822450": {
+      "cid": "453045",
+      "uid": "2822450",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "可疑账号",
+      "dateline": "2019-8-22 17:25",
+      "username": "zwl15981346156w",
+      "groupexpiry": "永不过期"
+    },
+    "2822449": {
+      "cid": "453044",
+      "uid": "2822449",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "可疑账号",
+      "dateline": "2019-8-22 17:25",
+      "username": "fgdfy4564",
+      "groupexpiry": "永不过期"
+    },
+    "2030880": {
+      "cid": "453043",
+      "uid": "2030880",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "可疑账号",
+      "dateline": "2019-8-22 17:25",
+      "username": "abcabcz",
+      "groupexpiry": "永不过期"
+    },
+    "2822476": {
+      "cid": "453042",
+      "uid": "2822476",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "可疑账号",
+      "dateline": "2019-8-22 17:25",
+      "username": "小黑身g",
+      "groupexpiry": "永不过期"
+    },
+    "2822475": {
+      "cid": "453041",
+      "uid": "2822475",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "可疑账号",
+      "dateline": "2019-8-22 17:24",
+      "username": "Dave海南8",
+      "groupexpiry": "永不过期"
+    },
+    "2857721": {
+      "cid": "453040",
+      "uid": "2857721",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "可疑账号",
+      "dateline": "2019-8-22 17:24",
+      "username": "kyu66804",
+      "groupexpiry": "永不过期"
+    },
+    "2834240": {
+      "cid": "453039",
+      "uid": "2834240",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "可疑账号",
+      "dateline": "2019-8-22 17:24",
+      "username": "jingta7275163",
+      "groupexpiry": "永不过期"
+    },
+    "2834217": {
+      "cid": "453038",
+      "uid": "2834217",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "可疑账号",
+      "dateline": "2019-8-22 17:24",
+      "username": "haiwei32272",
+      "groupexpiry": "永不过期"
+    },
+    "2830006": {
+      "cid": "453037",
+      "uid": "2830006",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "可疑账号",
+      "dateline": "2019-8-22 17:24",
+      "username": "ruimo45502",
+      "groupexpiry": "永不过期"
+    },
+    "2829681": {
+      "cid": "453036",
+      "uid": "2829681",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "可疑账号",
+      "dateline": "2019-8-22 17:24",
+      "username": "linxue92920",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

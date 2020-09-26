@@ -1,0 +1,184 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "540481"
+  },
+  "data": {
+    "2997827": {
+      "cid": "543195",
+      "uid": "2997827",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "复读机",
+      "dateline": "2020-2-23 19:27",
+      "username": "惊恐君",
+      "groupexpiry": "永不过期"
+    },
+    "2993305": {
+      "cid": "543194",
+      "uid": "2993305",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "复读机",
+      "dateline": "2020-2-23 19:26",
+      "username": "stick_man",
+      "groupexpiry": "永不过期"
+    },
+    "2993327": {
+      "cid": "543193",
+      "uid": "2993327",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "复读机",
+      "dateline": "2020-2-23 19:24",
+      "username": "Slag_male",
+      "groupexpiry": "永不过期"
+    },
+    "3011273": {
+      "cid": "543192",
+      "uid": "3011273",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-2-23 19:22",
+      "username": "mincrft_hehe",
+      "groupexpiry": "永不过期"
+    },
+    "2997838": {
+      "cid": "543191",
+      "uid": "2997838",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-2-23 19:20",
+      "username": "MAMA在咆哮",
+      "groupexpiry": "永不过期"
+    },
+    "760709": {
+      "cid": "543143",
+      "uid": "760709",
+      "operatorid": "1052157",
+      "operator": "Menzor",
+      "action": "禁止发言",
+      "reason": "失信人员换号发帖",
+      "dateline": "2020-2-23 17:01",
+      "username": "我爱侬",
+      "groupexpiry": "永不过期"
+    },
+    "3008253": {
+      "cid": "542864",
+      "uid": "3008253",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-2-23 13:14",
+      "username": "Minako_Sakurai",
+      "groupexpiry": "永不过期"
+    },
+    "3052072": {
+      "cid": "541788",
+      "uid": "3052072",
+      "operatorid": "790748",
+      "operator": "血君",
+      "action": "禁止发言",
+      "reason": "大量重复水贴",
+      "dateline": "2020-2-22 19:29",
+      "username": "3109615585",
+      "groupexpiry": "永不过期"
+    },
+    "3047655": {
+      "cid": "541698",
+      "uid": "3047655",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-2-22 17:03",
+      "username": "3450271761",
+      "groupexpiry": "永不过期"
+    },
+    "2670331": {
+      "cid": "541464",
+      "uid": "2670331",
+      "operatorid": "2067786",
+      "operator": "消",
+      "action": "禁止发言",
+      "reason": "4-11 失信人员换号发帖",
+      "dateline": "2020-2-22 09:49",
+      "username": "鸣琴而治86",
+      "groupexpiry": "永不过期"
+    },
+    "3058014": {
+      "cid": "540695",
+      "uid": "3058014",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-2-21 17:40",
+      "username": "独问给",
+      "groupexpiry": "永不过期"
+    },
+    "2821153": {
+      "cid": "540547",
+      "uid": "2821153",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2020-2-21 15:46",
+      "username": "gdfghdfj",
+      "groupexpiry": "永不过期"
+    },
+    "2870238": {
+      "cid": "540484",
+      "uid": "2870238",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2020-2-21 15:16",
+      "username": "oylo6",
+      "groupexpiry": "永不过期"
+    },
+    "2870235": {
+      "cid": "540483",
+      "uid": "2870235",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2020-2-21 15:16",
+      "username": "bgyv",
+      "groupexpiry": "永不过期"
+    },
+    "2870223": {
+      "cid": "540482",
+      "uid": "2870223",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2020-2-21 15:16",
+      "username": "wpyd",
+      "groupexpiry": "永不过期"
+    },
+    "2870211": {
+      "cid": "540481",
+      "uid": "2870211",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2020-2-21 15:16",
+      "username": "xiuerxk",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

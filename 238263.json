@@ -1,0 +1,52 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "238263"
+  },
+  "data": {
+    "1747812": {
+      "cid": "238649",
+      "uid": "1747812",
+      "operatorid": "804453",
+      "operator": "602723113",
+      "action": "禁止发言",
+      "reason": "水龙头,可查回帖记录",
+      "dateline": "2017-2-18 20:48",
+      "username": "1298701681",
+      "groupexpiry": "永不过期"
+    },
+    "11659": {
+      "cid": "238352",
+      "uid": "11659",
+      "operatorid": "825050",
+      "operator": "qq1812538626",
+      "action": "禁止发言",
+      "reason": "剽窃",
+      "dateline": "2017-2-17 12:47",
+      "username": "lihongzhuo",
+      "groupexpiry": "永不过期"
+    },
+    "2096738": {
+      "cid": "238336",
+      "uid": "2096738",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "违反版规2.4.D",
+      "dateline": "2017-2-16 22:16",
+      "username": "AlexisElla",
+      "groupexpiry": "永不过期"
+    },
+    "2111782": {
+      "cid": "238263",
+      "uid": "2111782",
+      "operatorid": "80321",
+      "operator": "zjy",
+      "action": "禁止发言",
+      "reason": "回复里全是复制粘贴视为水龙头",
+      "dateline": "2017-2-16 08:01",
+      "username": "觉得萌萌哒",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

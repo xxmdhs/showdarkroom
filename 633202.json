@@ -1,0 +1,118 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "633202"
+  },
+  "data": {
+    "808768": {
+      "cid": "634440",
+      "uid": "808768",
+      "operatorid": "111377",
+      "operator": "LittleHei",
+      "action": "禁止发言",
+      "reason": "2-4-A 恶意刷帖",
+      "dateline": "2020-5-17 11:23",
+      "username": "5825918",
+      "groupexpiry": "永不过期"
+    },
+    "2513921": {
+      "cid": "634383",
+      "uid": "2513921",
+      "operatorid": "975525",
+      "operator": "ruhuasiyu",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-5-17 09:34",
+      "username": "1511829221",
+      "groupexpiry": "永不过期"
+    },
+    "2898457": {
+      "cid": "633487",
+      "uid": "2898457",
+      "operatorid": "790748",
+      "operator": "酉月一",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-5-16 05:06",
+      "username": "q6848755448",
+      "groupexpiry": "永不过期"
+    },
+    "960267": {
+      "cid": "633365",
+      "uid": "960267",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "在问答版累计转账3次及以上，永久封禁",
+      "dateline": "2020-5-15 22:46",
+      "username": "未来恒星",
+      "groupexpiry": "永不过期"
+    },
+    "1028032": {
+      "cid": "633364",
+      "uid": "1028032",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "在问答版累计转账3次及以上，永久封禁",
+      "dateline": "2020-5-15 22:46",
+      "username": "LinBodd",
+      "groupexpiry": "永不过期"
+    },
+    "2568209": {
+      "cid": "633228",
+      "uid": "2568209",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "在问答版违规转账3次，永久封禁",
+      "dateline": "2020-5-15 21:08",
+      "username": "真皮沙发呢",
+      "groupexpiry": "永不过期"
+    },
+    "1927482": {
+      "cid": "633227",
+      "uid": "1927482",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "在问答版违规转账3次及以上，永久封禁",
+      "dateline": "2020-5-15 21:08",
+      "username": "maziyang123",
+      "groupexpiry": "永不过期"
+    },
+    "3235349": {
+      "cid": "633204",
+      "uid": "3235349",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "马甲转账3次，永久",
+      "dateline": "2020-5-15 20:43",
+      "username": "mc_jianchuan",
+      "groupexpiry": "永不过期"
+    },
+    "3308187": {
+      "cid": "633203",
+      "uid": "3308187",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "马甲转账3次，永久",
+      "dateline": "2020-5-15 20:43",
+      "username": "你的剑川",
+      "groupexpiry": "永不过期"
+    },
+    "3058100": {
+      "cid": "633202",
+      "uid": "3058100",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "在问答版违规转账3次及以上，永久封禁",
+      "dateline": "2020-5-15 20:42",
+      "username": "X_jianchuan",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

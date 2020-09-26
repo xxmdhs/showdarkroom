@@ -1,0 +1,96 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "317856"
+  },
+  "data": {
+    "1307033": {
+      "cid": "320361",
+      "uid": "1307033",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2018-4-12 18:05",
+      "username": "冰天雪女",
+      "groupexpiry": "永不过期"
+    },
+    "2471715": {
+      "cid": "319241",
+      "uid": "2471715",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2018-4-4 23:40",
+      "username": "VMC001",
+      "groupexpiry": "永不过期"
+    },
+    "2490492": {
+      "cid": "319131",
+      "uid": "2490492",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2018-4-4 00:56",
+      "username": "外約賴z69696",
+      "groupexpiry": "永不过期"
+    },
+    "2488529": {
+      "cid": "319093",
+      "uid": "2488529",
+      "operatorid": "720449",
+      "operator": "玄素",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2018-4-2 23:06",
+      "username": "陳曉",
+      "groupexpiry": "永不过期"
+    },
+    "2339220": {
+      "cid": "318198",
+      "uid": "2339220",
+      "operatorid": "1422337",
+      "operator": "MystiaCC",
+      "action": "禁止发言",
+      "reason": "多次违规剽窃",
+      "dateline": "2018-3-30 11:10",
+      "username": "18877150220",
+      "groupexpiry": "永不过期"
+    },
+    "2234768": {
+      "cid": "317864",
+      "uid": "2234768",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "版规4-4 http://www.mcbbs.net/thread-787891-1-1.html",
+      "dateline": "2018-3-26 19:41",
+      "username": "140101953",
+      "groupexpiry": "永不过期"
+    },
+    "1287586": {
+      "cid": "317859",
+      "uid": "1287586",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "版规4-4 http://www.mcbbs.net/thread-787891-1-1.html",
+      "dateline": "2018-3-26 19:39",
+      "username": "Miudrg",
+      "groupexpiry": "永不过期"
+    },
+    "527058": {
+      "cid": "317857",
+      "uid": "527058",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "版规4-4 http://www.mcbbs.net/thread-787891-1-1.html",
+      "dateline": "2018-3-26 19:38",
+      "username": "Min__",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

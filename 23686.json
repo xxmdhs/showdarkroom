@@ -1,0 +1,140 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "23686"
+  },
+  "data": {
+    "721436": {
+      "cid": "27097",
+      "uid": "721436",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-7-4 23:09",
+      "username": "mimi4567",
+      "groupexpiry": "永不过期"
+    },
+    "494407": {
+      "cid": "26965",
+      "uid": "494407",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-7-4 13:42",
+      "username": "雪碧叔叔",
+      "groupexpiry": "永不过期"
+    },
+    "719063": {
+      "cid": "26274",
+      "uid": "719063",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "水贴屠版",
+      "dateline": "2014-7-3 11:59",
+      "username": "吱吱声",
+      "groupexpiry": "永不过期"
+    },
+    "461320": {
+      "cid": "26078",
+      "uid": "461320",
+      "operatorid": "410292",
+      "operator": "sb023612",
+      "action": "禁止发言",
+      "reason": "多次在Mod发布版块发布辱骂版主的帖子，屡教不改",
+      "dateline": "2014-7-2 19:26",
+      "username": "我的世界刘烨",
+      "groupexpiry": "永不过期"
+    },
+    "288968": {
+      "cid": "25536",
+      "uid": "288968",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-7-1 13:23",
+      "username": "qwe4564520",
+      "groupexpiry": "永不过期"
+    },
+    "175697": {
+      "cid": "25490",
+      "uid": "175697",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "发布涉黄广告内容",
+      "dateline": "2014-7-1 00:51",
+      "username": "56767484",
+      "groupexpiry": "永不过期"
+    },
+    "711080": {
+      "cid": "24528",
+      "uid": "711080",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-6-29 11:13",
+      "username": "天空娱乐",
+      "groupexpiry": "永不过期"
+    },
+    "708921": {
+      "cid": "24244",
+      "uid": "708921",
+      "operatorid": "364130",
+      "operator": "42486327",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-6-28 12:26",
+      "username": "2289925022",
+      "groupexpiry": "永不过期"
+    },
+    "484124": {
+      "cid": "24135",
+      "uid": "484124",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-6-27 19:16",
+      "username": "129844546",
+      "groupexpiry": "永不过期"
+    },
+    "548658": {
+      "cid": "24111",
+      "uid": "548658",
+      "operatorid": "378822",
+      "operator": "a2455564728",
+      "action": "禁止发言",
+      "reason": "站内转载，剽窃",
+      "dateline": "2014-6-27 16:51",
+      "username": "18683147842",
+      "groupexpiry": "永不过期"
+    },
+    "479839": {
+      "cid": "24110",
+      "uid": "479839",
+      "operatorid": "378822",
+      "operator": "a2455564728",
+      "action": "禁止发言",
+      "reason": "站内抄袭、转载，并且有病",
+      "dateline": "2014-6-27 16:48",
+      "username": "2451443804",
+      "groupexpiry": "永不过期"
+    },
+    "694325": {
+      "cid": "23759",
+      "uid": "694325",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-6-23 18:14",
+      "username": "cn550998207",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

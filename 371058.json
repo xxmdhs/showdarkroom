@@ -1,0 +1,107 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "371058"
+  },
+  "data": {
+    "2618319": {
+      "cid": "372143",
+      "uid": "2618319",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2018-11-29 15:38",
+      "username": "要你好好",
+      "groupexpiry": "永不过期"
+    },
+    "2617828": {
+      "cid": "371874",
+      "uid": "2617828",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2018-11-28 09:19",
+      "username": "zd7",
+      "groupexpiry": "永不过期"
+    },
+    "2617708": {
+      "cid": "371760",
+      "uid": "2617708",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2018-11-27 06:24",
+      "username": "zd5",
+      "groupexpiry": "永不过期"
+    },
+    "2617706": {
+      "cid": "371759",
+      "uid": "2617706",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2018-11-27 06:24",
+      "username": "zd4",
+      "groupexpiry": "永不过期"
+    },
+    "2617487": {
+      "cid": "371645",
+      "uid": "2617487",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-11-26 13:59",
+      "username": "zd2",
+      "groupexpiry": "永不过期"
+    },
+    "2617468": {
+      "cid": "371640",
+      "uid": "2617468",
+      "operatorid": "1037910",
+      "operator": "小阿狸....",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2018-11-26 12:28",
+      "username": "cgzk1",
+      "groupexpiry": "永不过期"
+    },
+    "465072": {
+      "cid": "371510",
+      "uid": "465072",
+      "operatorid": "720449",
+      "operator": "玄素",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2018-11-24 18:49",
+      "username": "wk841211184",
+      "groupexpiry": "永不过期"
+    },
+    "2593368": {
+      "cid": "371173",
+      "uid": "2593368",
+      "operatorid": "1280406",
+      "operator": "zjxx",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2018-11-24 07:06",
+      "username": "西本艾衣",
+      "groupexpiry": "永不过期"
+    },
+    "2561093": {
+      "cid": "371069",
+      "uid": "2561093",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "追加封禁",
+      "dateline": "2018-11-21 22:52",
+      "username": "qq2727703742",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "708088"
+  },
+  "data": {
+    "3609325": {
+      "cid": "708963",
+      "uid": "3609325",
+      "operatorid": "692708",
+      "operator": "tnqzh123",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-9-8 11:02",
+      "username": "王JP",
+      "groupexpiry": "永不过期"
+    },
+    "3613750": {
+      "cid": "708621",
+      "uid": "3613750",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-9-7 17:02",
+      "username": "余平晨",
+      "groupexpiry": "永不过期"
+    },
+    "2769866": {
+      "cid": "708620",
+      "uid": "2769866",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "销号受理",
+      "dateline": "2020-9-7 16:31",
+      "username": "wdx123456",
+      "groupexpiry": "永不过期"
+    },
+    "3298638": {
+      "cid": "708619",
+      "uid": "3298638",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "销号受理",
+      "dateline": "2020-9-7 16:30",
+      "username": "阿秋Minecarft",
+      "groupexpiry": "永不过期"
+    },
+    "740313": {
+      "cid": "708618",
+      "uid": "740313",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "销号受理",
+      "dateline": "2020-9-7 16:29",
+      "username": "王泽恩",
+      "groupexpiry": "永不过期"
+    },
+    "3606492": {
+      "cid": "708137",
+      "uid": "3606492",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-9-6 23:53",
+      "username": "虎牙-朦胧",
+      "groupexpiry": "\u003cspan title\u003d\"2020-9-26 18:43\"\u003e4\u0026nbsp;小时前\u003c/span\u003e"
+    },
+    "3422305": {
+      "cid": "708126",
+      "uid": "3422305",
+      "operatorid": "111377",
+      "operator": "LittleHei",
+      "action": "禁止发言",
+      "reason": "2-4-A 恶意刷帖灌水",
+      "dateline": "2020-9-6 23:17",
+      "username": "辛集明月",
+      "groupexpiry": "永不过期"
+    },
+    "3421975": {
+      "cid": "708125",
+      "uid": "3421975",
+      "operatorid": "111377",
+      "operator": "LittleHei",
+      "action": "禁止发言",
+      "reason": "2-4-A 恶意刷帖灌水",
+      "dateline": "2020-9-6 23:16",
+      "username": "yeyue3",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

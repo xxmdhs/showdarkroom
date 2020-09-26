@@ -1,0 +1,107 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "582376"
+  },
+  "data": {
+    "3178723": {
+      "cid": "585047",
+      "uid": "3178723",
+      "operatorid": "2444378",
+      "operator": "SPGoding",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-4-1 14:03",
+      "username": "xiaofengjiejie",
+      "groupexpiry": "永不过期"
+    },
+    "2589869": {
+      "cid": "583965",
+      "uid": "2589869",
+      "operatorid": "790748",
+      "operator": "酉月一",
+      "action": "禁止发言",
+      "reason": "严重辱骂",
+      "dateline": "2020-3-31 15:56",
+      "username": "纪委",
+      "groupexpiry": "永不过期"
+    },
+    "2436901": {
+      "cid": "583958",
+      "uid": "2436901",
+      "operatorid": "1052157",
+      "operator": "Menzor",
+      "action": "禁止发言",
+      "reason": "6星级失信用户",
+      "dateline": "2020-3-31 15:27",
+      "username": "三土666",
+      "groupexpiry": "永不过期"
+    },
+    "3180614": {
+      "cid": "583226",
+      "uid": "3180614",
+      "operatorid": "2444378",
+      "operator": "SPGoding",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-3-31 07:19",
+      "username": "SDGCwr",
+      "groupexpiry": "永不过期"
+    },
+    "2418673": {
+      "cid": "582806",
+      "uid": "2418673",
+      "operatorid": "111377",
+      "operator": "LittleHei",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-3-30 18:48",
+      "username": "MC_guoguo",
+      "groupexpiry": "永不过期"
+    },
+    "1344770": {
+      "cid": "582692",
+      "uid": "1344770",
+      "operatorid": "46925",
+      "operator": "xukarhei",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-3-30 16:27",
+      "username": "jklnaa",
+      "groupexpiry": "永不过期"
+    },
+    "2173056": {
+      "cid": "582605",
+      "uid": "2173056",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "色情头像",
+      "dateline": "2020-3-30 12:48",
+      "username": "huai2120821705",
+      "groupexpiry": "永不过期"
+    },
+    "2757511": {
+      "cid": "582416",
+      "uid": "2757511",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-3-30 08:31",
+      "username": "lzg1234",
+      "groupexpiry": "永不过期"
+    },
+    "3161377": {
+      "cid": "582376",
+      "uid": "3161377",
+      "operatorid": "2511498",
+      "operator": "AzureHanChen",
+      "action": "禁止发言",
+      "reason": "2-4-R",
+      "dateline": "2020-3-30 06:49",
+      "username": "帅...",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

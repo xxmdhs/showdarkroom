@@ -1,0 +1,85 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "635175"
+  },
+  "data": {
+    "2751291": {
+      "cid": "636148",
+      "uid": "2751291",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "为马甲账号刷分18人气1爱心40金粒，5月7日被警告后仍有刷分行为，合并处理。坛规2-4K永久封禁",
+      "dateline": "2020-5-19 21:01",
+      "username": "wuyi7785",
+      "groupexpiry": "永不过期"
+    },
+    "1651286": {
+      "cid": "635799",
+      "uid": "1651286",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "为马甲账号刷分10人气1爱心92金粒；5月9日被转账警告之后仍有刷分行为，坛规2-4K永久封禁",
+      "dateline": "2020-5-19 10:21",
+      "username": "舒玘鑫",
+      "groupexpiry": "永不过期"
+    },
+    "818040": {
+      "cid": "635797",
+      "uid": "818040",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "为马甲账号刷分12人气1爱心30金粒；被马甲账号刷分9人气1爱心92金粒，5月9日被转账警告之后仍有刷分行为，坛规2-4K永久封禁+封禁2周，合并永久封禁",
+      "dateline": "2020-5-19 10:21",
+      "username": "tito100",
+      "groupexpiry": "永不过期"
+    },
+    "1642491": {
+      "cid": "635328",
+      "uid": "1642491",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "账号交易",
+      "dateline": "2020-5-18 10:46",
+      "username": "Yu_Jie_Kong",
+      "groupexpiry": "永不过期"
+    },
+    "3307418": {
+      "cid": "635319",
+      "uid": "3307418",
+      "operatorid": "458143",
+      "operator": "阴阳师元素祭祀",
+      "action": "禁止发言",
+      "reason": "咏e刷屏两次",
+      "dateline": "2020-5-18 10:10",
+      "username": "2道阳光",
+      "groupexpiry": "永不过期"
+    },
+    "1376942": {
+      "cid": "635246",
+      "uid": "1376942",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "疑似盗号",
+      "dateline": "2020-5-18 08:34",
+      "username": "末影剑客",
+      "groupexpiry": "永不过期"
+    },
+    "1573733": {
+      "cid": "635181",
+      "uid": "1573733",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-5-17 22:37",
+      "username": "749112221a",
+      "groupexpiry": "2020-10-13 18:18"
+    }
+  }
+}

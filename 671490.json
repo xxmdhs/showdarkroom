@@ -1,0 +1,118 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "671490"
+  },
+  "data": {
+    "3331945": {
+      "cid": "672702",
+      "uid": "3331945",
+      "operatorid": "458143",
+      "operator": "阴阳师元素祭祀",
+      "action": "禁止发言",
+      "reason": "炫耀违规+宣传魔法",
+      "dateline": "2020-7-28 16:43",
+      "username": "wwz_chinese",
+      "groupexpiry": "永不过期"
+    },
+    "3455669": {
+      "cid": "672599",
+      "uid": "3455669",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "广告账号",
+      "dateline": "2020-7-28 13:06",
+      "username": "xbs333665",
+      "groupexpiry": "永不过期"
+    },
+    "792207": {
+      "cid": "672449",
+      "uid": "792207",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2020-7-28 01:54",
+      "username": "我次奥尼玛",
+      "groupexpiry": "永不过期"
+    },
+    "3453783": {
+      "cid": "672436",
+      "uid": "3453783",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2020-7-28 01:51",
+      "username": "我真TM的无语了",
+      "groupexpiry": "永不过期"
+    },
+    "3067324": {
+      "cid": "672435",
+      "uid": "3067324",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "违反版规2-4-S",
+      "dateline": "2020-7-28 01:43",
+      "username": "艺妓",
+      "groupexpiry": "永不过期"
+    },
+    "2478373": {
+      "cid": "672180",
+      "uid": "2478373",
+      "operatorid": "2067786",
+      "operator": "消失失失失",
+      "action": "禁止发言",
+      "reason": "4-11 失信人员换号发帖",
+      "dateline": "2020-7-27 19:02",
+      "username": "2656989851",
+      "groupexpiry": "永不过期"
+    },
+    "569516": {
+      "cid": "671621",
+      "uid": "569516",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "销号受理",
+      "dateline": "2020-7-27 11:15",
+      "username": "mingcraft小白",
+      "groupexpiry": "永不过期"
+    },
+    "3008253": {
+      "cid": "671507",
+      "uid": "3008253",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "违反版规2-4-S",
+      "dateline": "2020-7-26 22:36",
+      "username": "Minako_Sakurai",
+      "groupexpiry": "永不过期"
+    },
+    "2825848": {
+      "cid": "671506",
+      "uid": "2825848",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "违反版规2-4-S",
+      "dateline": "2020-7-26 22:36",
+      "username": "000qingqing",
+      "groupexpiry": "永不过期"
+    },
+    "2758505": {
+      "cid": "671505",
+      "uid": "2758505",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "违法版规2-4-S",
+      "dateline": "2020-7-26 22:36",
+      "username": "LiangXi2",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

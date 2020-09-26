@@ -1,0 +1,118 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "698982"
+  },
+  "data": {
+    "3582964": {
+      "cid": "705544",
+      "uid": "3582964",
+      "operatorid": "71635",
+      "operator": "尤里的猫",
+      "action": "禁止发言",
+      "reason": "您的帖子https://www.mcbbs.net/thread-1112885-1-1.html涉嫌剽窃，现已根据版规2-5-a进行处理，详细内容请查看私聊！",
+      "dateline": "2020-9-2 12:12",
+      "username": "星辰之域",
+      "groupexpiry": "永不过期"
+    },
+    "1696963": {
+      "cid": "705411",
+      "uid": "1696963",
+      "operatorid": "111377",
+      "operator": "LittleHei",
+      "action": "禁止发言",
+      "reason": "2-4-A 恶意灌水刷帖",
+      "dateline": "2020-9-2 10:16",
+      "username": "五大升幅",
+      "groupexpiry": "永不过期"
+    },
+    "3597660": {
+      "cid": "704571",
+      "uid": "3597660",
+      "operatorid": "782680",
+      "operator": "PQguanfang",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-9-1 07:24",
+      "username": "残星痕月",
+      "groupexpiry": "永不过期"
+    },
+    "2246493": {
+      "cid": "704338",
+      "uid": "2246493",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "销号受理",
+      "dateline": "2020-8-31 16:10",
+      "username": "唯笔淡墨",
+      "groupexpiry": "永不过期"
+    },
+    "2508001": {
+      "cid": "702401",
+      "uid": "2508001",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "广告账户",
+      "dateline": "2020-8-30 11:49",
+      "username": "502502502",
+      "groupexpiry": "永不过期"
+    },
+    "2883936": {
+      "cid": "701616",
+      "uid": "2883936",
+      "operatorid": "692708",
+      "operator": "tnqzh123",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-8-29 21:33",
+      "username": "AQZL",
+      "groupexpiry": "永不过期"
+    },
+    "1594914": {
+      "cid": "700282",
+      "uid": "1594914",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2020-8-29 01:13",
+      "username": "鈤尼麻痹",
+      "groupexpiry": "永不过期"
+    },
+    "3483551": {
+      "cid": "700258",
+      "uid": "3483551",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2020-8-29 01:11",
+      "username": "特朗普Trump",
+      "groupexpiry": "永不过期"
+    },
+    "1733262": {
+      "cid": "699747",
+      "uid": "1733262",
+      "operatorid": "458143",
+      "operator": "阴阳师元素祭祀",
+      "action": "禁止发言",
+      "reason": "开小号扰乱论坛秩序",
+      "dateline": "2020-8-28 20:37",
+      "username": "JJ怪大战",
+      "groupexpiry": "永不过期"
+    },
+    "3587936": {
+      "cid": "699738",
+      "uid": "3587936",
+      "operatorid": "458143",
+      "operator": "阴阳师元素祭祀",
+      "action": "禁止发言",
+      "reason": "搞事小号",
+      "dateline": "2020-8-28 20:34",
+      "username": "S零S",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

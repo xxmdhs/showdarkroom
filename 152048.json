@@ -1,0 +1,140 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "152048"
+  },
+  "data": {
+    "1546229": {
+      "cid": "152938",
+      "uid": "1546229",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "恶意刷帖",
+      "dateline": "2015-10-30 13:09",
+      "username": "CN_BlackHeart",
+      "groupexpiry": "永不过期"
+    },
+    "1555977": {
+      "cid": "152900",
+      "uid": "1555977",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2015-10-29 13:10",
+      "username": "maolongqi_jun",
+      "groupexpiry": "永不过期"
+    },
+    "1520460": {
+      "cid": "152884",
+      "uid": "1520460",
+      "operatorid": "189127",
+      "operator": "huanghongxun",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-10-28 22:49",
+      "username": "鼎起小员工",
+      "groupexpiry": "永不过期"
+    },
+    "1560221": {
+      "cid": "152722",
+      "uid": "1560221",
+      "operatorid": "1239693",
+      "operator": "DreamsDeductive",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-10-27 23:06",
+      "username": "戴小孩",
+      "groupexpiry": "永不过期"
+    },
+    "1271317": {
+      "cid": "152633",
+      "uid": "1271317",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷帖",
+      "dateline": "2015-10-26 19:33",
+      "username": "3180863941",
+      "groupexpiry": "永不过期"
+    },
+    "1517681": {
+      "cid": "152372",
+      "uid": "1517681",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2015-10-24 22:18",
+      "username": "X-9021",
+      "groupexpiry": "永不过期"
+    },
+    "1319382": {
+      "cid": "152361",
+      "uid": "1319382",
+      "operatorid": "92880",
+      "operator": "tony990412",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-10-24 21:27",
+      "username": "1811452342",
+      "groupexpiry": "永不过期"
+    },
+    "965360": {
+      "cid": "152318",
+      "uid": "965360",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2015-10-24 18:59",
+      "username": "847657567",
+      "groupexpiry": "永不过期"
+    },
+    "300370": {
+      "cid": "152312",
+      "uid": "300370",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "马甲刷分",
+      "dateline": "2015-10-24 18:58",
+      "username": "yumingyang123",
+      "groupexpiry": "永不过期"
+    },
+    "1108503": {
+      "cid": "152308",
+      "uid": "1108503",
+      "operatorid": "1239693",
+      "operator": "DreamsDeductive",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-10-24 18:42",
+      "username": "haoxx",
+      "groupexpiry": "永不过期"
+    },
+    "1544084": {
+      "cid": "152303",
+      "uid": "1544084",
+      "operatorid": "92880",
+      "operator": "tony990412",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-10-24 17:30",
+      "username": "Eliots",
+      "groupexpiry": "永不过期"
+    },
+    "1554256": {
+      "cid": "152048",
+      "uid": "1554256",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-10-23 23:14",
+      "username": "fccwxhn",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

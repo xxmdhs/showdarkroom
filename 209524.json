@@ -1,0 +1,96 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "209524"
+  },
+  "data": {
+    "1903366": {
+      "cid": "210358",
+      "uid": "1903366",
+      "operatorid": "1502709",
+      "operator": "麦白",
+      "action": "禁止发言",
+      "reason": "侮辱.",
+      "dateline": "2016-8-23 17:20",
+      "username": "最后一次",
+      "groupexpiry": "永不过期"
+    },
+    "1899754": {
+      "cid": "209932",
+      "uid": "1899754",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "新人报道屠版",
+      "dateline": "2016-8-21 19:06",
+      "username": "Skt_文刀",
+      "groupexpiry": "永不过期"
+    },
+    "1889764": {
+      "cid": "209863",
+      "uid": "1889764",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-8-21 13:22",
+      "username": "xsj1950133643",
+      "groupexpiry": "永不过期"
+    },
+    "1070156": {
+      "cid": "209801",
+      "uid": "1070156",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2016-8-20 20:30",
+      "username": "扁桃",
+      "groupexpiry": "永不过期"
+    },
+    "255731": {
+      "cid": "209800",
+      "uid": "255731",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2016-8-20 20:30",
+      "username": "654520560",
+      "groupexpiry": "永不过期"
+    },
+    "442642": {
+      "cid": "209799",
+      "uid": "442642",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2016-8-20 20:30",
+      "username": "2421589",
+      "groupexpiry": "永不过期"
+    },
+    "1896712": {
+      "cid": "209798",
+      "uid": "1896712",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2016-8-20 20:30",
+      "username": "辰逝",
+      "groupexpiry": "永不过期"
+    },
+    "1890871": {
+      "cid": "209578",
+      "uid": "1890871",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2016-8-19 19:40",
+      "username": "小心殿下",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

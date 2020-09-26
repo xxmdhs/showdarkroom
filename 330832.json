@@ -1,0 +1,173 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "330832"
+  },
+  "data": {
+    "2518405": {
+      "cid": "333070",
+      "uid": "2518405",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2018-6-28 13:33",
+      "username": "周晓语",
+      "groupexpiry": "永不过期"
+    },
+    "2518304": {
+      "cid": "333069",
+      "uid": "2518304",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-6-28 13:32",
+      "username": "林忠明",
+      "groupexpiry": "永不过期"
+    },
+    "2534975": {
+      "cid": "333049",
+      "uid": "2534975",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-6-28 10:28",
+      "username": "我心长思",
+      "groupexpiry": "永不过期"
+    },
+    "2534161": {
+      "cid": "333048",
+      "uid": "2534161",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-6-28 10:28",
+      "username": "好无奈啊",
+      "groupexpiry": "永不过期"
+    },
+    "1000664": {
+      "cid": "332889",
+      "uid": "1000664",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-6-27 13:34",
+      "username": "1657417776",
+      "groupexpiry": "永不过期"
+    },
+    "2354499": {
+      "cid": "332595",
+      "uid": "2354499",
+      "operatorid": "838515",
+      "operator": "xiaosung1234",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2018-6-26 13:23",
+      "username": "Wichier",
+      "groupexpiry": "永不过期"
+    },
+    "2494888": {
+      "cid": "331146",
+      "uid": "2494888",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "疑似被盗账户",
+      "dateline": "2018-6-22 17:58",
+      "username": "3222987004",
+      "groupexpiry": "永不过期"
+    },
+    "2513983": {
+      "cid": "331143",
+      "uid": "2513983",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "疑似被盗账户",
+      "dateline": "2018-6-22 17:58",
+      "username": "White_c",
+      "groupexpiry": "永不过期"
+    },
+    "1372554": {
+      "cid": "331141",
+      "uid": "1372554",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "疑似被盗账户",
+      "dateline": "2018-6-22 17:57",
+      "username": "li12345678910",
+      "groupexpiry": "永不过期"
+    },
+    "1322479": {
+      "cid": "331139",
+      "uid": "1322479",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "疑似被盗账户",
+      "dateline": "2018-6-22 17:57",
+      "username": "tybaba",
+      "groupexpiry": "永不过期"
+    },
+    "2529680": {
+      "cid": "331033",
+      "uid": "2529680",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-6-21 10:25",
+      "username": "yangsanxiao5",
+      "groupexpiry": "永不过期"
+    },
+    "2529409": {
+      "cid": "331032",
+      "uid": "2529409",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-6-21 10:25",
+      "username": "yangsanxiao4",
+      "groupexpiry": "永不过期"
+    },
+    "2529297": {
+      "cid": "331031",
+      "uid": "2529297",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-6-21 10:24",
+      "username": "yangsanxiao3",
+      "groupexpiry": "永不过期"
+    },
+    "2528258": {
+      "cid": "331030",
+      "uid": "2528258",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-6-21 10:24",
+      "username": "yangsanxiao2",
+      "groupexpiry": "永不过期"
+    },
+    "2526673": {
+      "cid": "331029",
+      "uid": "2526673",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-6-21 10:23",
+      "username": "yangsanxiao1",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

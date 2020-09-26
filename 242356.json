@@ -1,0 +1,129 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "242356"
+  },
+  "data": {
+    "2138345": {
+      "cid": "244298",
+      "uid": "2138345",
+      "operatorid": "825085",
+      "operator": "darrksy",
+      "action": "禁止发言",
+      "reason": "批量万用回复，近似水龙头",
+      "dateline": "2017-3-14 23:10",
+      "username": "血色雷光",
+      "groupexpiry": "2020-9-28 23:24"
+    },
+    "2132336": {
+      "cid": "244238",
+      "uid": "2132336",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "刷贴",
+      "dateline": "2017-3-14 18:39",
+      "username": "adain",
+      "groupexpiry": "永不过期"
+    },
+    "2132164": {
+      "cid": "244237",
+      "uid": "2132164",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "刷贴",
+      "dateline": "2017-3-14 18:39",
+      "username": "lcwy",
+      "groupexpiry": "永不过期"
+    },
+    "2113020": {
+      "cid": "244214",
+      "uid": "2113020",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "灌水",
+      "dateline": "2017-3-14 13:36",
+      "username": "殇尊z",
+      "groupexpiry": "永不过期"
+    },
+    "1927781": {
+      "cid": "244204",
+      "uid": "1927781",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "违规转账",
+      "dateline": "2017-3-14 11:22",
+      "username": "kanni",
+      "groupexpiry": "永不过期"
+    },
+    "39831": {
+      "cid": "244203",
+      "uid": "39831",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "违规转账",
+      "dateline": "2017-3-14 11:22",
+      "username": "lastcyc",
+      "groupexpiry": "永不过期"
+    },
+    "1483716": {
+      "cid": "243803",
+      "uid": "1483716",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-3-12 00:51",
+      "username": "k丶小嘉",
+      "groupexpiry": "永不过期"
+    },
+    "293345": {
+      "cid": "243539",
+      "uid": "293345",
+      "operatorid": "825085",
+      "operator": "darrksy",
+      "action": "禁止发言",
+      "reason": "水龙头。",
+      "dateline": "2017-3-11 10:33",
+      "username": "yan611611",
+      "groupexpiry": "永不过期"
+    },
+    "2131440": {
+      "cid": "243194",
+      "uid": "2131440",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-3-8 13:06",
+      "username": "_末影使者_",
+      "groupexpiry": "永不过期"
+    },
+    "1450082": {
+      "cid": "242518",
+      "uid": "1450082",
+      "operatorid": "1696224",
+      "operator": "星燚",
+      "action": "禁止发言",
+      "reason": "发布后门插件",
+      "dateline": "2017-3-4 21:30",
+      "username": "1195936718",
+      "groupexpiry": "永不过期"
+    },
+    "313393": {
+      "cid": "242356",
+      "uid": "313393",
+      "operatorid": "447060",
+      "operator": "522240858",
+      "action": "禁止发言",
+      "reason": "色情站推广",
+      "dateline": "2017-3-4 17:38",
+      "username": "923565379",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

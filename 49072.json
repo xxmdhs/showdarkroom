@@ -1,0 +1,140 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "49072"
+  },
+  "data": {
+    "872635": {
+      "cid": "52316",
+      "uid": "872635",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-9-22 15:59",
+      "username": "午阳大大",
+      "groupexpiry": "永不过期"
+    },
+    "330244": {
+      "cid": "52313",
+      "uid": "330244",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-9-22 15:40",
+      "username": "wangzhe2000",
+      "groupexpiry": "永不过期"
+    },
+    "518308": {
+      "cid": "52153",
+      "uid": "518308",
+      "operatorid": "160123",
+      "operator": "贰逼",
+      "action": "禁止发言",
+      "reason": "多次发表广告，辱骂性水贴",
+      "dateline": "2014-9-21 20:48",
+      "username": "1400623239",
+      "groupexpiry": "永不过期"
+    },
+    "293037": {
+      "cid": "52104",
+      "uid": "293037",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-9-21 16:35",
+      "username": "356412",
+      "groupexpiry": "永不过期"
+    },
+    "287265": {
+      "cid": "51157",
+      "uid": "287265",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-9-18 08:35",
+      "username": "a1656602294",
+      "groupexpiry": "永不过期"
+    },
+    "855860": {
+      "cid": "51146",
+      "uid": "855860",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-9-17 22:35",
+      "username": "冷酷～～",
+      "groupexpiry": "永不过期"
+    },
+    "488257": {
+      "cid": "50732",
+      "uid": "488257",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-9-17 12:57",
+      "username": "a1261774350",
+      "groupexpiry": "永不过期"
+    },
+    "723543": {
+      "cid": "50341",
+      "uid": "723543",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "马甲自加分",
+      "dateline": "2014-9-15 21:05",
+      "username": "CNBIN",
+      "groupexpiry": "永不过期"
+    },
+    "840315": {
+      "cid": "50309",
+      "uid": "840315",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-9-15 13:15",
+      "username": "Horry__",
+      "groupexpiry": "永不过期"
+    },
+    "485283": {
+      "cid": "50070",
+      "uid": "485283",
+      "operatorid": "87537",
+      "operator": "我被盗号了",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-9-14 11:49",
+      "username": "1628293361",
+      "groupexpiry": "永不过期"
+    },
+    "338592": {
+      "cid": "49520",
+      "uid": "338592",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "商业广告机",
+      "dateline": "2014-9-13 10:06",
+      "username": "1004",
+      "groupexpiry": "永不过期"
+    },
+    "904858": {
+      "cid": "49505",
+      "uid": "904858",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-9-13 09:59",
+      "username": "服务器好",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

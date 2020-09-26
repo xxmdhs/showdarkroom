@@ -1,0 +1,250 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "385725"
+  },
+  "data": {
+    "1240025": {
+      "cid": "385845",
+      "uid": "1240025",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-3-17 00:51",
+      "username": "我很想你",
+      "groupexpiry": "永不过期"
+    },
+    "1016035": {
+      "cid": "385844",
+      "uid": "1016035",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-3-17 00:51",
+      "username": "h88845112",
+      "groupexpiry": "永不过期"
+    },
+    "2667537": {
+      "cid": "385843",
+      "uid": "2667537",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-3-17 00:51",
+      "username": "3240907497",
+      "groupexpiry": "永不过期"
+    },
+    "1002775": {
+      "cid": "385842",
+      "uid": "1002775",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-3-17 00:50",
+      "username": "1250305944",
+      "groupexpiry": "永不过期"
+    },
+    "2693886": {
+      "cid": "385792",
+      "uid": "2693886",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "头像违规,更换后自行申请解封",
+      "dateline": "2019-3-16 19:50",
+      "username": "马桶zzz",
+      "groupexpiry": "永不过期"
+    },
+    "2685677": {
+      "cid": "385742",
+      "uid": "2685677",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-3-16 17:35",
+      "username": "BadFlood",
+      "groupexpiry": "永不过期"
+    },
+    "2685718": {
+      "cid": "385741",
+      "uid": "2685718",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-3-16 17:35",
+      "username": "YiMia",
+      "groupexpiry": "永不过期"
+    },
+    "2685711": {
+      "cid": "385740",
+      "uid": "2685711",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-3-16 17:35",
+      "username": "HengLinga",
+      "groupexpiry": "永不过期"
+    },
+    "2685706": {
+      "cid": "385739",
+      "uid": "2685706",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-3-16 17:35",
+      "username": "ZeSonga",
+      "groupexpiry": "永不过期"
+    },
+    "2685699": {
+      "cid": "385738",
+      "uid": "2685699",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-3-16 17:34",
+      "username": "TianHuaa",
+      "groupexpiry": "永不过期"
+    },
+    "2685687": {
+      "cid": "385737",
+      "uid": "2685687",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-3-16 17:34",
+      "username": "QiaoZhia",
+      "groupexpiry": "永不过期"
+    },
+    "2632865": {
+      "cid": "385736",
+      "uid": "2632865",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-3-16 17:34",
+      "username": "cute7777",
+      "groupexpiry": "永不过期"
+    },
+    "2550239": {
+      "cid": "385735",
+      "uid": "2550239",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-3-16 17:34",
+      "username": "中纬西风",
+      "groupexpiry": "永不过期"
+    },
+    "2538339": {
+      "cid": "385734",
+      "uid": "2538339",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-3-16 17:34",
+      "username": "duangduangmian",
+      "groupexpiry": "永不过期"
+    },
+    "2538075": {
+      "cid": "385733",
+      "uid": "2538075",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-3-16 17:34",
+      "username": "liusuizuishuai",
+      "groupexpiry": "永不过期"
+    },
+    "2527374": {
+      "cid": "385732",
+      "uid": "2527374",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-3-16 17:34",
+      "username": "死神来了iv",
+      "groupexpiry": "永不过期"
+    },
+    "2532179": {
+      "cid": "385731",
+      "uid": "2532179",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-3-16 17:34",
+      "username": "zYue.",
+      "groupexpiry": "永不过期"
+    },
+    "2496842": {
+      "cid": "385729",
+      "uid": "2496842",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-3-16 17:33",
+      "username": "卡吧图钉",
+      "groupexpiry": "永不过期"
+    },
+    "2496731": {
+      "cid": "385728",
+      "uid": "2496731",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-3-16 17:33",
+      "username": "RGB-YES",
+      "groupexpiry": "永不过期"
+    },
+    "2496725": {
+      "cid": "385727",
+      "uid": "2496725",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-3-16 17:33",
+      "username": "旋旋的陀螺",
+      "groupexpiry": "永不过期"
+    },
+    "2496712": {
+      "cid": "385726",
+      "uid": "2496712",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-3-16 17:33",
+      "username": "借酒的伤",
+      "groupexpiry": "永不过期"
+    },
+    "2228359": {
+      "cid": "385725",
+      "uid": "2228359",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-3-16 17:33",
+      "username": "2357987648",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

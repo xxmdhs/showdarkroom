@@ -1,0 +1,215 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "434217"
+  },
+  "data": {
+    "0": {
+      "cid": "435617",
+      "uid": "0",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-7-27 20:29"
+    },
+    "2819602": {
+      "cid": "435163",
+      "uid": "2819602",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "广告",
+      "dateline": "2019-7-27 06:15",
+      "username": "独额给",
+      "groupexpiry": "永不过期"
+    },
+    "2642309": {
+      "cid": "434806",
+      "uid": "2642309",
+      "operatorid": "1219598",
+      "operator": "zhanshi123",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-7-26 00:42",
+      "username": "3270646173",
+      "groupexpiry": "永不过期"
+    },
+    "2783261": {
+      "cid": "434438",
+      "uid": "2783261",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "大量注册马甲账号",
+      "dateline": "2019-7-25 15:58",
+      "username": "140101954",
+      "groupexpiry": "永不过期"
+    },
+    "2780926": {
+      "cid": "434437",
+      "uid": "2780926",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "大量注册马甲账号",
+      "dateline": "2019-7-25 15:58",
+      "username": "138212882431",
+      "groupexpiry": "永不过期"
+    },
+    "2780901": {
+      "cid": "434436",
+      "uid": "2780901",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "大量注册马甲账号",
+      "dateline": "2019-7-25 15:58",
+      "username": "13821288243",
+      "groupexpiry": "永不过期"
+    },
+    "2442626": {
+      "cid": "434435",
+      "uid": "2442626",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "大量注册马甲账号",
+      "dateline": "2019-7-25 15:58",
+      "username": "13437477193",
+      "groupexpiry": "永不过期"
+    },
+    "2442021": {
+      "cid": "434434",
+      "uid": "2442021",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "大量注册马甲账号",
+      "dateline": "2019-7-25 15:58",
+      "username": "13437477192",
+      "groupexpiry": "永不过期"
+    },
+    "2441734": {
+      "cid": "434433",
+      "uid": "2441734",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "大量注册马甲账号",
+      "dateline": "2019-7-25 15:58",
+      "username": "1343747719",
+      "groupexpiry": "永不过期"
+    },
+    "2242466": {
+      "cid": "434432",
+      "uid": "2242466",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "大量注册马甲账号",
+      "dateline": "2019-7-25 15:58",
+      "username": "14786531323",
+      "groupexpiry": "永不过期"
+    },
+    "2234768": {
+      "cid": "434431",
+      "uid": "2234768",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "大量注册马甲账号",
+      "dateline": "2019-7-25 15:58",
+      "username": "140101953",
+      "groupexpiry": "永不过期"
+    },
+    "2233598": {
+      "cid": "434430",
+      "uid": "2233598",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "大量注册马甲账号",
+      "dateline": "2019-7-25 15:58",
+      "username": "14786531322",
+      "groupexpiry": "永不过期"
+    },
+    "2232992": {
+      "cid": "434429",
+      "uid": "2232992",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "大量注册马甲账号",
+      "dateline": "2019-7-25 15:58",
+      "username": "140101952",
+      "groupexpiry": "永不过期"
+    },
+    "2223993": {
+      "cid": "434428",
+      "uid": "2223993",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "大量注册马甲账号",
+      "dateline": "2019-7-25 15:58",
+      "username": "14786531321",
+      "groupexpiry": "永不过期"
+    },
+    "2223499": {
+      "cid": "434427",
+      "uid": "2223499",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "大量注册马甲账号",
+      "dateline": "2019-7-25 15:58",
+      "username": "140101951",
+      "groupexpiry": "永不过期"
+    },
+    "2140655": {
+      "cid": "434426",
+      "uid": "2140655",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "大量注册马甲账号",
+      "dateline": "2019-7-25 15:58",
+      "username": "14010195",
+      "groupexpiry": "永不过期"
+    },
+    "2140650": {
+      "cid": "434425",
+      "uid": "2140650",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "大量注册马甲账号",
+      "dateline": "2019-7-25 15:58",
+      "username": "1478653132",
+      "groupexpiry": "永不过期"
+    },
+    "2140478": {
+      "cid": "434424",
+      "uid": "2140478",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "大量注册马甲账号",
+      "dateline": "2019-7-25 15:58",
+      "username": "Lelouch_Lamper",
+      "groupexpiry": "永不过期"
+    },
+    "2097606": {
+      "cid": "434423",
+      "uid": "2097606",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "大量注册马甲账号",
+      "dateline": "2019-7-25 15:58",
+      "username": "Silly_Pig",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

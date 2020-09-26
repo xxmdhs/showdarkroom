@@ -1,0 +1,151 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "484306"
+  },
+  "data": {
+    "2804712": {
+      "cid": "485842",
+      "uid": "2804712",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常行为帐号",
+      "dateline": "2019-11-5 17:36",
+      "username": "blackuuu",
+      "groupexpiry": "永不过期"
+    },
+    "2876009": {
+      "cid": "485839",
+      "uid": "2876009",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器人",
+      "dateline": "2019-11-5 17:32",
+      "username": "sg_feixue",
+      "groupexpiry": "永不过期"
+    },
+    "2874755": {
+      "cid": "485838",
+      "uid": "2874755",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器人",
+      "dateline": "2019-11-5 17:31",
+      "username": "_Tian_xia",
+      "groupexpiry": "永不过期"
+    },
+    "2877124": {
+      "cid": "485837",
+      "uid": "2877124",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器人",
+      "dateline": "2019-11-5 17:28",
+      "username": "D_Lingluo_",
+      "groupexpiry": "永不过期"
+    },
+    "1739025": {
+      "cid": "485822",
+      "uid": "1739025",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "剽窃 违规adf链接",
+      "dateline": "2019-11-5 11:57",
+      "username": "陈宇鹏",
+      "groupexpiry": "永不过期"
+    },
+    "2167140": {
+      "cid": "485463",
+      "uid": "2167140",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-11-3 16:11",
+      "username": "Spraddry",
+      "groupexpiry": "永不过期"
+    },
+    "2169535": {
+      "cid": "485462",
+      "uid": "2169535",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-11-3 16:11",
+      "username": "MCgolden",
+      "groupexpiry": "永不过期"
+    },
+    "2915363": {
+      "cid": "485384",
+      "uid": "2915363",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-11-3 11:52",
+      "username": "陈待我",
+      "groupexpiry": "永不过期"
+    },
+    "2641156": {
+      "cid": "484310",
+      "uid": "2641156",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "软件养号",
+      "dateline": "2019-10-31 16:06",
+      "username": "张曼玉156",
+      "groupexpiry": "永不过期"
+    },
+    "2641153": {
+      "cid": "484309",
+      "uid": "2641153",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "软件养号",
+      "dateline": "2019-10-31 16:06",
+      "username": "F传奇人物",
+      "groupexpiry": "永不过期"
+    },
+    "2641149": {
+      "cid": "484308",
+      "uid": "2641149",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "软件养号",
+      "dateline": "2019-10-31 16:06",
+      "username": "kuCrre",
+      "groupexpiry": "永不过期"
+    },
+    "2641148": {
+      "cid": "484307",
+      "uid": "2641148",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "软件养号",
+      "dateline": "2019-10-31 16:06",
+      "username": "张之洞uuid",
+      "groupexpiry": "永不过期"
+    },
+    "2641107": {
+      "cid": "484306",
+      "uid": "2641107",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "软件养号",
+      "dateline": "2019-10-31 16:06",
+      "username": "C妈咪宝贝",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

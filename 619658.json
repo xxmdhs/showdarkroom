@@ -1,0 +1,19 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "619658"
+  },
+  "data": {
+    "1573733": {
+      "cid": "619664",
+      "uid": "1573733",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-30 23:46",
+      "username": "749112221a",
+      "groupexpiry": "2020-10-13 18:18"
+    }
+  }
+}

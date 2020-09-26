@@ -1,0 +1,162 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "256242"
+  },
+  "data": {
+    "2227148": {
+      "cid": "256569",
+      "uid": "2227148",
+      "operatorid": "1757048",
+      "operator": "逗比桃",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2017-6-27 20:26",
+      "username": "13099621119",
+      "groupexpiry": "永不过期"
+    },
+    "2224929": {
+      "cid": "256551",
+      "uid": "2224929",
+      "operatorid": "237322",
+      "operator": "1427639813",
+      "action": "禁止发言",
+      "reason": "骂街号",
+      "dateline": "2017-6-27 14:22",
+      "username": "小林乐乐",
+      "groupexpiry": "永不过期"
+    },
+    "2211663": {
+      "cid": "256476",
+      "uid": "2211663",
+      "operatorid": "564746",
+      "operator": "gamerteam",
+      "action": "禁止发言",
+      "reason": "广告机（发送服务器宣传贴）",
+      "dateline": "2017-6-26 00:45",
+      "username": "kongkong201",
+      "groupexpiry": "永不过期"
+    },
+    "1451367": {
+      "cid": "256422",
+      "uid": "1451367",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-6-25 16:21",
+      "username": "流年5201314",
+      "groupexpiry": "永不过期"
+    },
+    "1310531": {
+      "cid": "256421",
+      "uid": "1310531",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-6-25 16:15",
+      "username": "t1984002786",
+      "groupexpiry": "永不过期"
+    },
+    "661609": {
+      "cid": "256418",
+      "uid": "661609",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-6-25 16:14",
+      "username": "祖宗",
+      "groupexpiry": "永不过期"
+    },
+    "2158310": {
+      "cid": "256416",
+      "uid": "2158310",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-6-25 16:12",
+      "username": "您的琴里",
+      "groupexpiry": "永不过期"
+    },
+    "1035519": {
+      "cid": "256415",
+      "uid": "1035519",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-6-25 16:12",
+      "username": "MC123_2",
+      "groupexpiry": "永不过期"
+    },
+    "696104": {
+      "cid": "256414",
+      "uid": "696104",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-6-25 16:12",
+      "username": "卟负红颜丶",
+      "groupexpiry": "永不过期"
+    },
+    "254778": {
+      "cid": "256413",
+      "uid": "254778",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-6-25 16:12",
+      "username": "2283409085",
+      "groupexpiry": "永不过期"
+    },
+    "2218023": {
+      "cid": "256412",
+      "uid": "2218023",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-6-25 16:12",
+      "username": "7XYD",
+      "groupexpiry": "永不过期"
+    },
+    "2052140": {
+      "cid": "256310",
+      "uid": "2052140",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-6-24 09:47",
+      "username": "十分建站",
+      "groupexpiry": "永不过期"
+    },
+    "2222155": {
+      "cid": "256288",
+      "uid": "2222155",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2017-6-23 21:19",
+      "username": "EG丶雨天",
+      "groupexpiry": "永不过期"
+    },
+    "2217341": {
+      "cid": "256278",
+      "uid": "2217341",
+      "operatorid": "1793599",
+      "operator": "DGK2",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-6-23 18:23",
+      "username": "2899086319",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

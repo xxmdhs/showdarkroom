@@ -1,0 +1,74 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "10190"
+  },
+  "data": {
+    "268215": {
+      "cid": "12097",
+      "uid": "268215",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-3-23 20:58",
+      "username": "zf583869767",
+      "groupexpiry": "永不过期"
+    },
+    "234399": {
+      "cid": "11379",
+      "uid": "234399",
+      "operatorid": "38787",
+      "operator": "wolski",
+      "action": "禁止发言",
+      "reason": "违反坛规",
+      "dateline": "2014-3-22 11:40",
+      "username": "836931836",
+      "groupexpiry": "永不过期"
+    },
+    "572686": {
+      "cid": "10543",
+      "uid": "572686",
+      "operatorid": "178523",
+      "operator": "cyqsimon",
+      "action": "禁止发言",
+      "reason": "多次无视版规发找基友贴",
+      "dateline": "2014-3-17 22:09",
+      "username": "LWJMB",
+      "groupexpiry": "永不过期"
+    },
+    "272049": {
+      "cid": "10396",
+      "uid": "272049",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "茶馆内发帖屠版",
+      "dateline": "2014-3-17 20:26",
+      "username": "永远的归曼",
+      "groupexpiry": "永不过期"
+    },
+    "226354": {
+      "cid": "10204",
+      "uid": "226354",
+      "operatorid": "80321",
+      "operator": "zjy",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-3-16 13:21",
+      "username": "18621160009",
+      "groupexpiry": "永不过期"
+    },
+    "358642": {
+      "cid": "10194",
+      "uid": "358642",
+      "operatorid": "132943",
+      "operator": "a20001017",
+      "action": "禁止发言",
+      "reason": "末路之地盛产金币",
+      "dateline": "2014-3-16 10:59",
+      "username": "a1559534314",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

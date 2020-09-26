@@ -1,0 +1,94 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "435618"
+  },
+  "data": {
+    "2218605": {
+      "cid": "436776",
+      "uid": "2218605",
+      "operatorid": "1101813",
+      "operator": "XJue_DaDa",
+      "action": "禁止发言",
+      "reason": "后门",
+      "dateline": "2019-7-31 00:19",
+      "username": "hnfhu1",
+      "groupexpiry": "永不过期"
+    },
+    "0": {
+      "cid": "436596",
+      "uid": "0",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-7-30 11:49"
+    },
+    "2810548": {
+      "cid": "436481",
+      "uid": "2810548",
+      "operatorid": "458143",
+      "operator": "阴阳师元素祭祀",
+      "action": "禁止发言",
+      "reason": "ad.",
+      "dateline": "2019-7-30 00:45",
+      "username": "南人的",
+      "groupexpiry": "永不过期"
+    },
+    "2441896": {
+      "cid": "436207",
+      "uid": "2441896",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "大量注册马甲账号",
+      "dateline": "2019-7-29 13:33",
+      "username": "13437477191",
+      "groupexpiry": "永不过期"
+    },
+    "2821355": {
+      "cid": "436085",
+      "uid": "2821355",
+      "operatorid": "674931",
+      "operator": "1094822247",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-7-29 11:08",
+      "username": "最小",
+      "groupexpiry": "永不过期"
+    },
+    "2820291": {
+      "cid": "435968",
+      "uid": "2820291",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-7-28 21:18",
+      "username": "xi_nianqwe",
+      "groupexpiry": "永不过期"
+    },
+    "2808115": {
+      "cid": "435867",
+      "uid": "2808115",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-7-28 15:58",
+      "username": "屁高人胆大",
+      "groupexpiry": "永不过期"
+    },
+    "2820984": {
+      "cid": "435752",
+      "uid": "2820984",
+      "operatorid": "458143",
+      "operator": "阴阳师元素祭祀",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-7-28 12:10",
+      "username": "太我陈",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

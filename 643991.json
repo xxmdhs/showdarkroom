@@ -1,0 +1,283 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "643991"
+  },
+  "data": {
+    "3340848": {
+      "cid": "644249",
+      "uid": "3340848",
+      "operatorid": "2153967",
+      "operator": "SHEEP_REALMS",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-6-9 20:14",
+      "username": "Nanopuk",
+      "groupexpiry": "永不过期"
+    },
+    "2567995": {
+      "cid": "644229",
+      "uid": "2567995",
+      "operatorid": "2067786",
+      "operator": "消",
+      "action": "禁止发言",
+      "reason": "失信黑名单四星",
+      "dateline": "2020-6-9 18:58",
+      "username": "hugang36",
+      "groupexpiry": "永不过期"
+    },
+    "2780684": {
+      "cid": "644094",
+      "uid": "2780684",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "1-6.不得恶意模仿论坛现有用户及站内外团体",
+      "dateline": "2020-6-8 22:08",
+      "username": "_Prinz_Eugen_",
+      "groupexpiry": "2020-10-28 19:24"
+    },
+    "3304438": {
+      "cid": "644083",
+      "uid": "3304438",
+      "operatorid": "1575538",
+      "operator": "ff98sha",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-6-8 21:10",
+      "username": "ven737",
+      "groupexpiry": "永不过期"
+    },
+    "2945007": {
+      "cid": "644079",
+      "uid": "2945007",
+      "operatorid": "2763754",
+      "operator": "Azitate",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-6-8 20:06",
+      "username": "此生啊",
+      "groupexpiry": "永不过期"
+    },
+    "3189185": {
+      "cid": "644064",
+      "uid": "3189185",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-6-8 18:18",
+      "username": "网投小浩",
+      "groupexpiry": "永不过期"
+    },
+    "3341509": {
+      "cid": "644058",
+      "uid": "3341509",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-6-8 17:15",
+      "username": "qaz357159",
+      "groupexpiry": "永不过期"
+    },
+    "3341440": {
+      "cid": "644057",
+      "uid": "3341440",
+      "operatorid": "2153967",
+      "operator": "SHEEP_REALMS",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-6-8 16:15",
+      "username": "qew357159",
+      "groupexpiry": "永不过期"
+    },
+    "3341226": {
+      "cid": "644036",
+      "uid": "3341226",
+      "operatorid": "458143",
+      "operator": "阴阳师元素祭祀",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-6-8 12:37",
+      "username": "担任法国",
+      "groupexpiry": "永不过期"
+    },
+    "3174597": {
+      "cid": "644006",
+      "uid": "3174597",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2020-6-8 09:54",
+      "username": "君红伪颜醉",
+      "groupexpiry": "永不过期"
+    },
+    "3174601": {
+      "cid": "644005",
+      "uid": "3174601",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2020-6-8 09:54",
+      "username": "墨朱眉砂",
+      "groupexpiry": "永不过期"
+    },
+    "3174605": {
+      "cid": "644004",
+      "uid": "3174605",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2020-6-8 09:54",
+      "username": "维的尼幸福",
+      "groupexpiry": "永不过期"
+    },
+    "3174606": {
+      "cid": "644003",
+      "uid": "3174606",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2020-6-8 09:54",
+      "username": "南浅巷唱",
+      "groupexpiry": "永不过期"
+    },
+    "3174609": {
+      "cid": "644002",
+      "uid": "3174609",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2020-6-8 09:54",
+      "username": "末恋代人",
+      "groupexpiry": "永不过期"
+    },
+    "3174610": {
+      "cid": "644001",
+      "uid": "3174610",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2020-6-8 09:54",
+      "username": "暗未恋遂",
+      "groupexpiry": "永不过期"
+    },
+    "3174594": {
+      "cid": "644000",
+      "uid": "3174594",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2020-6-8 09:53",
+      "username": "若若即离",
+      "groupexpiry": "永不过期"
+    },
+    "3174558": {
+      "cid": "643999",
+      "uid": "3174558",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2020-6-8 09:50",
+      "username": "安就静好",
+      "groupexpiry": "永不过期"
+    },
+    "3174555": {
+      "cid": "643998",
+      "uid": "3174555",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2020-6-8 09:50",
+      "username": "只陌是生人",
+      "groupexpiry": "永不过期"
+    },
+    "3174556": {
+      "cid": "643997",
+      "uid": "3174556",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2020-6-8 09:50",
+      "username": "着引笔相思",
+      "groupexpiry": "永不过期"
+    },
+    "3174561": {
+      "cid": "643996",
+      "uid": "3174561",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2020-6-8 09:50",
+      "username": "不则念忘",
+      "groupexpiry": "永不过期"
+    },
+    "3174563": {
+      "cid": "643995",
+      "uid": "3174563",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2020-6-8 09:49",
+      "username": "少如年他",
+      "groupexpiry": "永不过期"
+    },
+    "3174564": {
+      "cid": "643994",
+      "uid": "3174564",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2020-6-8 09:49",
+      "username": "迷小途书童",
+      "groupexpiry": "永不过期"
+    },
+    "3174566": {
+      "cid": "643993",
+      "uid": "3174566",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2020-6-8 09:49",
+      "username": "心伊为人殇",
+      "groupexpiry": "永不过期"
+    },
+    "3174568": {
+      "cid": "643992",
+      "uid": "3174568",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2020-6-8 09:49",
+      "username": "谁了忘谁",
+      "groupexpiry": "永不过期"
+    },
+    "3174570": {
+      "cid": "643991",
+      "uid": "3174570",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "异常帐号",
+      "dateline": "2020-6-8 09:49",
+      "username": "无厚可非",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "147289"
+  },
+  "data": {
+    "1513931": {
+      "cid": "147696",
+      "uid": "1513931",
+      "operatorid": "46925",
+      "operator": "xukarhei",
+      "action": "禁止发言",
+      "reason": "刷帖灌水，永封",
+      "dateline": "2015-9-21 13:38",
+      "username": "升级快快",
+      "groupexpiry": "永不过期"
+    },
+    "1474383": {
+      "cid": "147674",
+      "uid": "1474383",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-9-20 21:49",
+      "username": "fsesaf",
+      "groupexpiry": "永不过期"
+    },
+    "1318724": {
+      "cid": "147601",
+      "uid": "1318724",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷帖，广告机",
+      "dateline": "2015-9-20 14:03",
+      "username": "晓熠",
+      "groupexpiry": "永不过期"
+    },
+    "90736": {
+      "cid": "147594",
+      "uid": "90736",
+      "operatorid": "76964",
+      "operator": "zhh0000zhh",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-9-20 11:02",
+      "username": "adwfads",
+      "groupexpiry": "永不过期"
+    },
+    "1217227": {
+      "cid": "147590",
+      "uid": "1217227",
+      "operatorid": "77891",
+      "operator": "SkyCatcher",
+      "action": "禁止发言",
+      "reason": "发广告的",
+      "dateline": "2015-9-20 10:03",
+      "username": "1613664134",
+      "groupexpiry": "永不过期"
+    },
+    "216936": {
+      "cid": "147550",
+      "uid": "216936",
+      "operatorid": "258439",
+      "operator": "Grandiose",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-9-19 23:10",
+      "username": "Future",
+      "groupexpiry": "永不过期"
+    },
+    "914327": {
+      "cid": "147498",
+      "uid": "914327",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-9-19 19:34",
+      "username": "暴走的阿狸",
+      "groupexpiry": "永不过期"
+    },
+    "1365421": {
+      "cid": "147375",
+      "uid": "1365421",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-9-19 10:34",
+      "username": "是的发生时",
+      "groupexpiry": "永不过期"
+    },
+    "1316142": {
+      "cid": "147358",
+      "uid": "1316142",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷帖",
+      "dateline": "2015-9-19 09:38",
+      "username": "1972960923",
+      "groupexpiry": "永不过期"
+    },
+    "763475": {
+      "cid": "147357",
+      "uid": "763475",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-9-19 09:30",
+      "username": "123JHJHH",
+      "groupexpiry": "永不过期"
+    },
+    "1513830": {
+      "cid": "147329",
+      "uid": "1513830",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "ID敏感",
+      "dateline": "2015-9-18 22:51",
+      "username": "MCBBS论坛",
+      "groupexpiry": "永不过期"
+    },
+    "1481626": {
+      "cid": "147311",
+      "uid": "1481626",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-9-18 20:43",
+      "username": "瀛洲王郡",
+      "groupexpiry": "永不过期"
+    },
+    "497127": {
+      "cid": "147310",
+      "uid": "497127",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-9-18 20:42",
+      "username": "qw3717883",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

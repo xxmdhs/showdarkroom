@@ -1,0 +1,151 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "414108"
+  },
+  "data": {
+    "2770279": {
+      "cid": "415874",
+      "uid": "2770279",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-6-19 21:50",
+      "username": "泰哥003",
+      "groupexpiry": "永不过期"
+    },
+    "2719806": {
+      "cid": "415820",
+      "uid": "2719806",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "1-6.不得恶意模仿论坛现有用户及站内外团体。",
+      "dateline": "2019-6-19 17:13",
+      "username": "差评君",
+      "groupexpiry": "永不过期"
+    },
+    "1343535": {
+      "cid": "415709",
+      "uid": "1343535",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "刷分用马甲",
+      "dateline": "2019-6-19 12:49",
+      "username": "1361236863@qq.c",
+      "groupexpiry": "永不过期"
+    },
+    "2769586": {
+      "cid": "415677",
+      "uid": "2769586",
+      "operatorid": "237322",
+      "operator": "1427639813",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-6-19 02:27",
+      "username": "泰哥002",
+      "groupexpiry": "永不过期"
+    },
+    "160977": {
+      "cid": "415637",
+      "uid": "160977",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "失信人员换号发帖",
+      "dateline": "2019-6-18 20:57",
+      "username": "aws45612300823",
+      "groupexpiry": "永不过期"
+    },
+    "268602": {
+      "cid": "415589",
+      "uid": "268602",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "刷分马甲永久禁言",
+      "dateline": "2019-6-18 13:53",
+      "username": "asd397391127",
+      "groupexpiry": "永不过期"
+    },
+    "1998681": {
+      "cid": "415588",
+      "uid": "1998681",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "刷分马甲永久禁言",
+      "dateline": "2019-6-18 13:53",
+      "username": "奇妙之旅",
+      "groupexpiry": "永不过期"
+    },
+    "2121365": {
+      "cid": "415416",
+      "uid": "2121365",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "违规转账",
+      "dateline": "2019-6-17 22:16",
+      "username": "神的鄙视圣",
+      "groupexpiry": "永不过期"
+    },
+    "2364321": {
+      "cid": "415414",
+      "uid": "2364321",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "违规转账",
+      "dateline": "2019-6-17 22:00",
+      "username": "伱爷ぃ",
+      "groupexpiry": "永不过期"
+    },
+    "1459376": {
+      "cid": "415288",
+      "uid": "1459376",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "版规4-7-1",
+      "dateline": "2019-6-17 15:01",
+      "username": "544101247",
+      "groupexpiry": "永不过期"
+    },
+    "2133841": {
+      "cid": "415285",
+      "uid": "2133841",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "服务器管理人员诈骗",
+      "dateline": "2019-6-17 14:57",
+      "username": "z1298701681",
+      "groupexpiry": "永不过期"
+    },
+    "2601897": {
+      "cid": "414827",
+      "uid": "2601897",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-6-16 16:51",
+      "username": "GinR",
+      "groupexpiry": "永不过期"
+    },
+    "2763869": {
+      "cid": "414108",
+      "uid": "2763869",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-6-14 12:57",
+      "username": "泰哥001",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

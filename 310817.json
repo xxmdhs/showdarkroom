@@ -1,0 +1,173 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "310817"
+  },
+  "data": {
+    "1741860": {
+      "cid": "313009",
+      "uid": "1741860",
+      "operatorid": "679293",
+      "operator": "FHC红石",
+      "action": "禁止发言",
+      "reason": "转账",
+      "dateline": "2018-2-20 22:38",
+      "username": "1425115471",
+      "groupexpiry": "永不过期"
+    },
+    "242766": {
+      "cid": "312776",
+      "uid": "242766",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2018-2-19 21:38",
+      "username": "星光满天",
+      "groupexpiry": "永不过期"
+    },
+    "1708507": {
+      "cid": "312771",
+      "uid": "1708507",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "恶意利用论坛bug刷积分",
+      "dateline": "2018-2-19 20:00",
+      "username": "969592505@qq.co",
+      "groupexpiry": "永不过期"
+    },
+    "1736943": {
+      "cid": "312475",
+      "uid": "1736943",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "违规转账",
+      "dateline": "2018-2-18 15:34",
+      "username": "a578859276",
+      "groupexpiry": "永不过期"
+    },
+    "2019673": {
+      "cid": "312474",
+      "uid": "2019673",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "违规转账",
+      "dateline": "2018-2-18 15:34",
+      "username": "一颗蓝果君",
+      "groupexpiry": "永不过期"
+    },
+    "2290096": {
+      "cid": "312108",
+      "uid": "2290096",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "广告",
+      "dateline": "2018-2-17 15:04",
+      "username": "bobohaokaixin",
+      "groupexpiry": "永不过期"
+    },
+    "1039810": {
+      "cid": "311988",
+      "uid": "1039810",
+      "operatorid": "674931",
+      "operator": "1094822247",
+      "action": "禁止发言",
+      "reason": "剽窃，见http://www.mcbbs.net/thread-782082-1-1.html",
+      "dateline": "2018-2-16 21:39",
+      "username": "筱楊",
+      "groupexpiry": "永不过期"
+    },
+    "265039": {
+      "cid": "311523",
+      "uid": "265039",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2018-2-14 14:01",
+      "username": "姑娘让你受精了",
+      "groupexpiry": "永不过期"
+    },
+    "1030547": {
+      "cid": "311273",
+      "uid": "1030547",
+      "operatorid": "1095012",
+      "operator": "1582952890",
+      "action": "禁止发言",
+      "reason": "剽窃 6贴",
+      "dateline": "2018-2-13 09:28",
+      "username": "2406366250",
+      "groupexpiry": "永不过期"
+    },
+    "2056024": {
+      "cid": "311212",
+      "uid": "2056024",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2018-2-12 14:18",
+      "username": "残念战争服",
+      "groupexpiry": "永不过期"
+    },
+    "1540692": {
+      "cid": "311211",
+      "uid": "1540692",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2018-2-12 14:18",
+      "username": "1816924075",
+      "groupexpiry": "永不过期"
+    },
+    "2056045": {
+      "cid": "311210",
+      "uid": "2056045",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2018-2-12 14:18",
+      "username": "人间巨炮",
+      "groupexpiry": "永不过期"
+    },
+    "2048022": {
+      "cid": "311209",
+      "uid": "2048022",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2018-2-12 14:18",
+      "username": "血腥搅拌机",
+      "groupexpiry": "永不过期"
+    },
+    "2048007": {
+      "cid": "311208",
+      "uid": "2048007",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2018-2-12 14:18",
+      "username": "愤怒的蝌蚪",
+      "groupexpiry": "永不过期"
+    },
+    "1984946": {
+      "cid": "311205",
+      "uid": "1984946",
+      "operatorid": "1095012",
+      "operator": "1582952890",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2018-2-12 14:15",
+      "username": "Wate6",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

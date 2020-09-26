@@ -1,0 +1,149 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "441163"
+  },
+  "data": {
+    "2468179": {
+      "cid": "442865",
+      "uid": "2468179",
+      "operatorid": "1101813",
+      "operator": "XJue_DaDa",
+      "action": "禁止发言",
+      "reason": "大量无意义回复，水龙头",
+      "dateline": "2019-8-7 20:39",
+      "username": "q2639716792",
+      "groupexpiry": "永不过期"
+    },
+    "690054": {
+      "cid": "442757",
+      "uid": "690054",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "金锭机器人",
+      "dateline": "2019-8-7 18:31",
+      "username": "wadda1",
+      "groupexpiry": "永不过期"
+    },
+    "2761857": {
+      "cid": "442756",
+      "uid": "2761857",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "金锭机器人",
+      "dateline": "2019-8-7 18:31",
+      "username": "wadda6",
+      "groupexpiry": "永不过期"
+    },
+    "2663032": {
+      "cid": "442753",
+      "uid": "2663032",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "自动抢金锭机器人",
+      "dateline": "2019-8-7 18:25",
+      "username": "圣沐兮",
+      "groupexpiry": "永不过期"
+    },
+    "2662108": {
+      "cid": "442752",
+      "uid": "2662108",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "自动抢金锭机器人",
+      "dateline": "2019-8-7 18:25",
+      "username": "圣夜雨",
+      "groupexpiry": "永不过期"
+    },
+    "1583250": {
+      "cid": "442699",
+      "uid": "1583250",
+      "operatorid": "1052157",
+      "operator": "Menzor",
+      "action": "禁止发言",
+      "reason": "版规4-12",
+      "dateline": "2019-8-7 13:56",
+      "username": "040516xcy",
+      "groupexpiry": "永不过期"
+    },
+    "1356177": {
+      "cid": "442276",
+      "uid": "1356177",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "广告",
+      "dateline": "2019-8-6 21:55",
+      "username": "zzhilling",
+      "groupexpiry": "永不过期"
+    },
+    "2616596": {
+      "cid": "441747",
+      "uid": "2616596",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "超级复读机",
+      "dateline": "2019-8-6 18:28",
+      "username": "xiaohei52142",
+      "groupexpiry": "永不过期"
+    },
+    "886662": {
+      "cid": "441457",
+      "uid": "886662",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-8-6 17:01",
+      "username": "额鹅鹅鹅饿",
+      "groupexpiry": "永不过期"
+    },
+    "2834952": {
+      "cid": "441354",
+      "uid": "2834952",
+      "operatorid": "458143",
+      "operator": "阴阳师元素祭祀",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-8-6 14:09",
+      "username": "陈太我",
+      "groupexpiry": "永不过期"
+    },
+    "2033932": {
+      "cid": "441172",
+      "uid": "2033932",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-8-6 00:01",
+      "username": "陌路若疏",
+      "groupexpiry": "永不过期"
+    },
+    "0": {
+      "cid": "441171",
+      "uid": "0",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-8-6 00:00"
+    },
+    "2496869": {
+      "cid": "441170",
+      "uid": "2496869",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-8-5 23:59",
+      "username": "yunlongxiong",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

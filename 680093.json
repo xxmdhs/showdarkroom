@@ -1,0 +1,85 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "680093"
+  },
+  "data": {
+    "3508187": {
+      "cid": "681312",
+      "uid": "3508187",
+      "operatorid": "92880",
+      "operator": "Tony🐴",
+      "action": "禁止发言",
+      "reason": "2-4-Q 盈利目的注册大量账号 失信人员换号发帖",
+      "dateline": "2020-8-9 09:10",
+      "username": "Jefchen_",
+      "groupexpiry": "永不过期"
+    },
+    "1753643": {
+      "cid": "681051",
+      "uid": "1753643",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2020-8-8 21:45",
+      "username": "我曹你奶奶",
+      "groupexpiry": "永不过期"
+    },
+    "2747962": {
+      "cid": "681050",
+      "uid": "2747962",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-8-8 21:45",
+      "username": "VOLRIS",
+      "groupexpiry": "永不过期"
+    },
+    "2753232": {
+      "cid": "681024",
+      "uid": "2753232",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止访问",
+      "reason": "诈骗",
+      "dateline": "2020-8-8 20:06",
+      "username": "一念初见",
+      "groupexpiry": "永不过期"
+    },
+    "3495503": {
+      "cid": "680999",
+      "uid": "3495503",
+      "operatorid": "92880",
+      "operator": "Tony🐴",
+      "action": "禁止发言",
+      "reason": "2-4-S 盈利目的注册大量账号 失信人员换号发帖",
+      "dateline": "2020-8-8 17:47",
+      "username": "余生_",
+      "groupexpiry": "永不过期"
+    },
+    "3401514": {
+      "cid": "680720",
+      "uid": "3401514",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-8-8 01:29",
+      "username": "z616611938",
+      "groupexpiry": "永不过期"
+    },
+    "3125511": {
+      "cid": "680308",
+      "uid": "3125511",
+      "operatorid": "2153967",
+      "operator": "SHEEP_REALMS",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-8-7 16:18",
+      "username": "linjunyi",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

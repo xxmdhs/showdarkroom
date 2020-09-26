@@ -1,0 +1,184 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "63229"
+  },
+  "data": {
+    "1016080": {
+      "cid": "65996",
+      "uid": "1016080",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-11-10 20:03",
+      "username": "小子你不行",
+      "groupexpiry": "永不过期"
+    },
+    "1014598": {
+      "cid": "65994",
+      "uid": "1014598",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-11-10 20:01",
+      "username": "然、",
+      "groupexpiry": "永不过期"
+    },
+    "268755": {
+      "cid": "65992",
+      "uid": "268755",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-11-10 20:01",
+      "username": "刘涛520",
+      "groupexpiry": "永不过期"
+    },
+    "447066": {
+      "cid": "65830",
+      "uid": "447066",
+      "operatorid": "17261",
+      "operator": "rickky2",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-11-9 21:04",
+      "username": "thn121181",
+      "groupexpiry": "永不过期"
+    },
+    "982241": {
+      "cid": "65701",
+      "uid": "982241",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-11-9 15:08",
+      "username": "qiushui",
+      "groupexpiry": "永不过期"
+    },
+    "675270": {
+      "cid": "65605",
+      "uid": "675270",
+      "operatorid": "17261",
+      "operator": "rickky2",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-11-9 00:33",
+      "username": "nininn",
+      "groupexpiry": "永不过期"
+    },
+    "997051": {
+      "cid": "65281",
+      "uid": "997051",
+      "operatorid": "17261",
+      "operator": "rickky2",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-11-8 11:06",
+      "username": "8goxi",
+      "groupexpiry": "永不过期"
+    },
+    "719562": {
+      "cid": "65196",
+      "uid": "719562",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "广告，应该是被盗号",
+      "dateline": "2014-11-7 20:22",
+      "username": "1461497398",
+      "groupexpiry": "永不过期"
+    },
+    "532551": {
+      "cid": "64455",
+      "uid": "532551",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-11-4 22:07",
+      "username": "魂梦归他处",
+      "groupexpiry": "永不过期"
+    },
+    "876141": {
+      "cid": "64454",
+      "uid": "876141",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "参与刷分",
+      "dateline": "2014-11-4 21:59",
+      "username": "Darcey★依赖",
+      "groupexpiry": "永不过期"
+    },
+    "39973": {
+      "cid": "64453",
+      "uid": "39973",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "参与刷分",
+      "dateline": "2014-11-4 21:59",
+      "username": "YNZTFZJ",
+      "groupexpiry": "永不过期"
+    },
+    "1007491": {
+      "cid": "63728",
+      "uid": "1007491",
+      "operatorid": "32775",
+      "operator": "hukk",
+      "action": "禁止发言",
+      "reason": "多主题回复广告",
+      "dateline": "2014-11-3 10:50",
+      "username": "15073120300",
+      "groupexpiry": "永不过期"
+    },
+    "969333": {
+      "cid": "63724",
+      "uid": "969333",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "请修改正常头像后私信管理员申请解封",
+      "dateline": "2014-11-3 09:52",
+      "username": "美丽不是骚",
+      "groupexpiry": "永不过期"
+    },
+    "970679": {
+      "cid": "63715",
+      "uid": "970679",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2014-11-2 23:42",
+      "username": "qaz2523488",
+      "groupexpiry": "永不过期"
+    },
+    "767736": {
+      "cid": "63676",
+      "uid": "767736",
+      "operatorid": "17261",
+      "operator": "rickky2",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2014-11-2 18:53",
+      "username": "GOD系列",
+      "groupexpiry": "永不过期"
+    },
+    "963951": {
+      "cid": "63229",
+      "uid": "963951",
+      "operatorid": "17261",
+      "operator": "rickky2",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2014-10-30 18:41",
+      "username": "jinhui023",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

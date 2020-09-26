@@ -1,0 +1,250 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "163195"
+  },
+  "data": {
+    "1617626": {
+      "cid": "163841",
+      "uid": "1617626",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "广告",
+      "dateline": "2015-12-30 21:38",
+      "username": "糧珈堡朒",
+      "groupexpiry": "永不过期"
+    },
+    "1623876": {
+      "cid": "163840",
+      "uid": "1623876",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止访问",
+      "reason": "广告",
+      "dateline": "2015-12-30 21:38",
+      "username": "ojbyr",
+      "groupexpiry": "永不过期"
+    },
+    "1288328": {
+      "cid": "163660",
+      "uid": "1288328",
+      "operatorid": "437492",
+      "operator": "darknova",
+      "action": "禁止发言",
+      "reason": "类剽窃行为",
+      "dateline": "2015-12-29 18:35",
+      "username": "CloudStudio",
+      "groupexpiry": "永不过期"
+    },
+    "1284267": {
+      "cid": "163547",
+      "uid": "1284267",
+      "operatorid": "42992",
+      "operator": "810587921",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-12-28 22:10",
+      "username": "tong_bai",
+      "groupexpiry": "永不过期"
+    },
+    "1590306": {
+      "cid": "163494",
+      "uid": "1590306",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2015-12-28 19:15",
+      "username": "暖蓝",
+      "groupexpiry": "永不过期"
+    },
+    "1622111": {
+      "cid": "163492",
+      "uid": "1622111",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "高仿ID",
+      "dateline": "2015-12-28 18:57",
+      "username": "rom781",
+      "groupexpiry": "永不过期"
+    },
+    "759664": {
+      "cid": "163490",
+      "uid": "759664",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "引发版战",
+      "dateline": "2015-12-28 18:33",
+      "username": "a1093663086",
+      "groupexpiry": "永不过期"
+    },
+    "1254578": {
+      "cid": "163488",
+      "uid": "1254578",
+      "operatorid": "92880",
+      "operator": "tony990412",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-12-28 18:22",
+      "username": "Love_kati",
+      "groupexpiry": "永不过期"
+    },
+    "767014": {
+      "cid": "163473",
+      "uid": "767014",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2015-12-28 14:21",
+      "username": "呵了个呵呵",
+      "groupexpiry": "永不过期"
+    },
+    "1039763": {
+      "cid": "163471",
+      "uid": "1039763",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-12-28 14:17",
+      "username": "2358539568",
+      "groupexpiry": "永不过期"
+    },
+    "502960": {
+      "cid": "163470",
+      "uid": "502960",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-12-28 14:17",
+      "username": "tpgregk",
+      "groupexpiry": "永不过期"
+    },
+    "1610073": {
+      "cid": "163464",
+      "uid": "1610073",
+      "operatorid": "77891",
+      "operator": "SkyCatcher",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-12-28 08:58",
+      "username": "xzhul",
+      "groupexpiry": "永不过期"
+    },
+    "490631": {
+      "cid": "163429",
+      "uid": "490631",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "虚假宣传",
+      "dateline": "2015-12-28 06:34",
+      "username": "xxz5445489",
+      "groupexpiry": "永不过期"
+    },
+    "851761": {
+      "cid": "163426",
+      "uid": "851761",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "虚假宣传",
+      "dateline": "2015-12-28 06:24",
+      "username": "1427268709",
+      "groupexpiry": "永不过期"
+    },
+    "1616522": {
+      "cid": "163320",
+      "uid": "1616522",
+      "operatorid": "437492",
+      "operator": "darknova",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-12-27 17:55",
+      "username": "wsdmq",
+      "groupexpiry": "永不过期"
+    },
+    "1611361": {
+      "cid": "163317",
+      "uid": "1611361",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "发布后门插件",
+      "dateline": "2015-12-27 17:05",
+      "username": "魍魉大大",
+      "groupexpiry": "永不过期"
+    },
+    "693695": {
+      "cid": "163314",
+      "uid": "693695",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "发布后门插件",
+      "dateline": "2015-12-27 16:57",
+      "username": "wm146538",
+      "groupexpiry": "永不过期"
+    },
+    "1603546": {
+      "cid": "163311",
+      "uid": "1603546",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-12-27 16:52",
+      "username": "mpdota2",
+      "groupexpiry": "永不过期"
+    },
+    "1526313": {
+      "cid": "163310",
+      "uid": "1526313",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-12-27 16:51",
+      "username": "夏樱雪",
+      "groupexpiry": "永不过期"
+    },
+    "1572504": {
+      "cid": "163255",
+      "uid": "1572504",
+      "operatorid": "77891",
+      "operator": "SkyCatcher",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-12-27 11:51",
+      "username": "M_Xiao_Hei",
+      "groupexpiry": "永不过期"
+    },
+    "1609678": {
+      "cid": "163247",
+      "uid": "1609678",
+      "operatorid": "984070",
+      "operator": "MRTangwin8",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-12-27 11:21",
+      "username": "eltnrgwv",
+      "groupexpiry": "永不过期"
+    },
+    "1607018": {
+      "cid": "163195",
+      "uid": "1607018",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2015-12-26 23:45",
+      "username": "uonpmgup",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

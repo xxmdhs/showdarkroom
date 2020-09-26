@@ -1,0 +1,316 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "339577"
+  },
+  "data": {
+    "2463023": {
+      "cid": "339990",
+      "uid": "2463023",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "参与买卖帐号，马甲刷分",
+      "dateline": "2018-7-13 00:11",
+      "username": "莫德雷德卿",
+      "groupexpiry": "永不过期"
+    },
+    "2462238": {
+      "cid": "339989",
+      "uid": "2462238",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "参与买卖帐号，马甲刷分",
+      "dateline": "2018-7-13 00:10",
+      "username": "齐格佛里德",
+      "groupexpiry": "永不过期"
+    },
+    "2456296": {
+      "cid": "339988",
+      "uid": "2456296",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "参与买卖帐号，马甲刷分",
+      "dateline": "2018-7-13 00:10",
+      "username": "天草四郎",
+      "groupexpiry": "永不过期"
+    },
+    "2450377": {
+      "cid": "339987",
+      "uid": "2450377",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "参与买卖帐号，马甲刷分",
+      "dateline": "2018-7-13 00:10",
+      "username": "贞德",
+      "groupexpiry": "永不过期"
+    },
+    "496752": {
+      "cid": "339986",
+      "uid": "496752",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "参与买卖帐号，马甲刷分",
+      "dateline": "2018-7-13 00:10",
+      "username": "十六夜咲吉",
+      "groupexpiry": "永不过期"
+    },
+    "2480": {
+      "cid": "339985",
+      "uid": "2480",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "参与买卖帐号，马甲刷分",
+      "dateline": "2018-7-13 00:09",
+      "username": "20100427",
+      "groupexpiry": "永不过期"
+    },
+    "2211890": {
+      "cid": "339853",
+      "uid": "2211890",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "滋养马甲",
+      "dateline": "2018-7-12 13:26",
+      "username": "666CCC",
+      "groupexpiry": "永不过期"
+    },
+    "1008932": {
+      "cid": "339852",
+      "uid": "1008932",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "滋养马甲",
+      "dateline": "2018-7-12 13:20",
+      "username": "Balrog_",
+      "groupexpiry": "永不过期"
+    },
+    "2003476": {
+      "cid": "339851",
+      "uid": "2003476",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "滋养马甲",
+      "dateline": "2018-7-12 13:15",
+      "username": "Junior_Feng",
+      "groupexpiry": "永不过期"
+    },
+    "284": {
+      "cid": "339843",
+      "uid": "284",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "疑似被盗号",
+      "dateline": "2018-7-12 12:55",
+      "username": "juve",
+      "groupexpiry": "永不过期"
+    },
+    "302": {
+      "cid": "339842",
+      "uid": "302",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "疑似被盗号",
+      "dateline": "2018-7-12 12:55",
+      "username": "bgifu",
+      "groupexpiry": "永不过期"
+    },
+    "293": {
+      "cid": "339841",
+      "uid": "293",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "疑似被盗号",
+      "dateline": "2018-7-12 12:55",
+      "username": "neppo",
+      "groupexpiry": "永不过期"
+    },
+    "273": {
+      "cid": "339840",
+      "uid": "273",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "疑似被盗号",
+      "dateline": "2018-7-12 12:54",
+      "username": "magulc",
+      "groupexpiry": "永不过期"
+    },
+    "270": {
+      "cid": "339839",
+      "uid": "270",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "疑似被盗号",
+      "dateline": "2018-7-12 12:54",
+      "username": "flasoul",
+      "groupexpiry": "永不过期"
+    },
+    "255": {
+      "cid": "339838",
+      "uid": "255",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "疑似被盗号",
+      "dateline": "2018-7-12 12:54",
+      "username": "635738878",
+      "groupexpiry": "永不过期"
+    },
+    "212": {
+      "cid": "339837",
+      "uid": "212",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "疑似被盗号",
+      "dateline": "2018-7-12 12:54",
+      "username": "银色子夜",
+      "groupexpiry": "永不过期"
+    },
+    "173": {
+      "cid": "339832",
+      "uid": "173",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "意思被盗号",
+      "dateline": "2018-7-12 12:53",
+      "username": "a363272287a0213",
+      "groupexpiry": "永不过期"
+    },
+    "172": {
+      "cid": "339830",
+      "uid": "172",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "疑似被盗号",
+      "dateline": "2018-7-12 12:53",
+      "username": "cold004",
+      "groupexpiry": "永不过期"
+    },
+    "146": {
+      "cid": "339829",
+      "uid": "146",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "疑似被盗号",
+      "dateline": "2018-7-12 12:52",
+      "username": "g4h1",
+      "groupexpiry": "永不过期"
+    },
+    "147": {
+      "cid": "339827",
+      "uid": "147",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "疑似被盗号",
+      "dateline": "2018-7-12 12:52",
+      "username": "774252330",
+      "groupexpiry": "永不过期"
+    },
+    "1952718": {
+      "cid": "339619",
+      "uid": "1952718",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "利用bug刷绿宝石",
+      "dateline": "2018-7-11 18:15",
+      "username": "lajibbs",
+      "groupexpiry": "永不过期"
+    },
+    "1941892": {
+      "cid": "339618",
+      "uid": "1941892",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "利用bug刷绿宝石",
+      "dateline": "2018-7-11 18:07",
+      "username": "Vanity_",
+      "groupexpiry": "永不过期"
+    },
+    "1958013": {
+      "cid": "339617",
+      "uid": "1958013",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "利用bug刷绿宝石",
+      "dateline": "2018-7-11 18:07",
+      "username": "2571346",
+      "groupexpiry": "永不过期"
+    },
+    "1958306": {
+      "cid": "339616",
+      "uid": "1958306",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "利用bug刷绿宝石",
+      "dateline": "2018-7-11 18:04",
+      "username": "士兵小号2",
+      "groupexpiry": "永不过期"
+    },
+    "1952530": {
+      "cid": "339615",
+      "uid": "1952530",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "利用bug刷绿宝石",
+      "dateline": "2018-7-11 18:02",
+      "username": "woaiqianbai1",
+      "groupexpiry": "永不过期"
+    },
+    "512955": {
+      "cid": "339614",
+      "uid": "512955",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "利用BUG刷绿宝石",
+      "dateline": "2018-7-11 17:59",
+      "username": "Rin-Ice",
+      "groupexpiry": "永不过期"
+    },
+    "281577": {
+      "cid": "339613",
+      "uid": "281577",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "利用BUG刷绿宝石",
+      "dateline": "2018-7-11 17:58",
+      "username": "ZERO_EX",
+      "groupexpiry": "永不过期"
+    },
+    "1892909": {
+      "cid": "339577",
+      "uid": "1892909",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "马甲刷分",
+      "dateline": "2018-7-11 13:47",
+      "username": "qi_mi",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

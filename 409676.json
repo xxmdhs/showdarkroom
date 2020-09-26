@@ -1,0 +1,129 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "409676"
+  },
+  "data": {
+    "2252766": {
+      "cid": "412405",
+      "uid": "2252766",
+      "operatorid": "1575538",
+      "operator": "ff98sha",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-6-8 12:34",
+      "username": "coco65",
+      "groupexpiry": "永不过期"
+    },
+    "2207272": {
+      "cid": "410270",
+      "uid": "2207272",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "神奇宝贝公益服骗审870023|870027",
+      "dateline": "2019-5-31 21:01",
+      "username": "LD空岛",
+      "groupexpiry": "永不过期"
+    },
+    "2028323": {
+      "cid": "410168",
+      "uid": "2028323",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-5-31 15:34",
+      "username": "2048028141",
+      "groupexpiry": "永不过期"
+    },
+    "1582339": {
+      "cid": "410167",
+      "uid": "1582339",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-5-31 15:34",
+      "username": "1137305770",
+      "groupexpiry": "永不过期"
+    },
+    "2610245": {
+      "cid": "409893",
+      "uid": "2610245",
+      "operatorid": "1101813",
+      "operator": "XJue_DaDa",
+      "action": "禁止发言",
+      "reason": "大量万用回复 版规7-2",
+      "dateline": "2019-5-30 19:32",
+      "username": "1723624171",
+      "groupexpiry": "永不过期"
+    },
+    "2724283": {
+      "cid": "409793",
+      "uid": "2724283",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-5-29 14:04",
+      "username": "a976340107",
+      "groupexpiry": "永不过期"
+    },
+    "2683384": {
+      "cid": "409680",
+      "uid": "2683384",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-5-28 17:02",
+      "username": "AYAYA4693",
+      "groupexpiry": "永不过期"
+    },
+    "2748073": {
+      "cid": "409679",
+      "uid": "2748073",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-5-28 17:01",
+      "username": "亮陈明",
+      "groupexpiry": "永不过期"
+    },
+    "2741348": {
+      "cid": "409678",
+      "uid": "2741348",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-5-28 17:01",
+      "username": "昆交的",
+      "groupexpiry": "永不过期"
+    },
+    "2752815": {
+      "cid": "409677",
+      "uid": "2752815",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-5-28 17:01",
+      "username": "显示的",
+      "groupexpiry": "永不过期"
+    },
+    "2752813": {
+      "cid": "409676",
+      "uid": "2752813",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-5-28 17:00",
+      "username": "昆的交",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

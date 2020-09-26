@@ -1,0 +1,85 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "343466"
+  },
+  "data": {
+    "2555466": {
+      "cid": "345378",
+      "uid": "2555466",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "孤海一帆马甲",
+      "dateline": "2018-7-25 19:26",
+      "username": "跃度",
+      "groupexpiry": "永不过期"
+    },
+    "2474241": {
+      "cid": "345084",
+      "uid": "2474241",
+      "operatorid": "1280406",
+      "operator": "zjxx",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2018-7-25 10:11",
+      "username": "yediei666",
+      "groupexpiry": "永不过期"
+    },
+    "1879066": {
+      "cid": "345005",
+      "uid": "1879066",
+      "operatorid": "1280406",
+      "operator": "zjxx",
+      "action": "禁止发言",
+      "reason": "剽窃",
+      "dateline": "2018-7-24 18:22",
+      "username": "橙子233333",
+      "groupexpiry": "永不过期"
+    },
+    "943777": {
+      "cid": "344628",
+      "uid": "943777",
+      "operatorid": "264829",
+      "operator": "a390807154",
+      "action": "禁止发言",
+      "reason": "植入后门",
+      "dateline": "2018-7-24 09:41",
+      "username": "Keng_Die",
+      "groupexpiry": "永不过期"
+    },
+    "2522511": {
+      "cid": "344432",
+      "uid": "2522511",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2018-7-23 22:47",
+      "username": "3506897862",
+      "groupexpiry": "永不过期"
+    },
+    "2556538": {
+      "cid": "344431",
+      "uid": "2556538",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2018-7-23 22:44",
+      "username": "老子开G",
+      "groupexpiry": "永不过期"
+    },
+    "2553779": {
+      "cid": "344290",
+      "uid": "2553779",
+      "operatorid": "1280406",
+      "operator": "zjxx",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2018-7-23 14:38",
+      "username": "ycx020322",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "636153"
+  },
+  "data": {
+    "2933219": {
+      "cid": "636891",
+      "uid": "2933219",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-5-21 00:01",
+      "username": "落幕ovo",
+      "groupexpiry": "永不过期"
+    },
+    "3301590": {
+      "cid": "636890",
+      "uid": "3301590",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-5-21 00:01",
+      "username": "克顿呀",
+      "groupexpiry": "永不过期"
+    },
+    "3297576": {
+      "cid": "636889",
+      "uid": "3297576",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-5-21 00:01",
+      "username": "落幕awa",
+      "groupexpiry": "永不过期"
+    },
+    "1589836": {
+      "cid": "636888",
+      "uid": "1589836",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-5-21 00:00",
+      "username": "抖猫",
+      "groupexpiry": "永不过期"
+    },
+    "1388598": {
+      "cid": "636803",
+      "uid": "1388598",
+      "operatorid": "2763754",
+      "operator": "Azitate",
+      "action": "禁止发言",
+      "reason": "发布后门插件",
+      "dateline": "2020-5-20 20:04",
+      "username": "Penguin_Mars",
+      "groupexpiry": "永不过期"
+    },
+    "3317899": {
+      "cid": "636799",
+      "uid": "3317899",
+      "operatorid": "564746",
+      "operator": "gamerteam",
+      "action": "禁止发言",
+      "reason": "引战",
+      "dateline": "2020-5-20 19:25",
+      "username": "Sweeticecream",
+      "groupexpiry": "永不过期"
+    },
+    "2712541": {
+      "cid": "636669",
+      "uid": "2712541",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2020-5-20 15:09",
+      "username": "昆交会",
+      "groupexpiry": "永不过期"
+    },
+    "2831118": {
+      "cid": "636666",
+      "uid": "2831118",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2020-5-20 15:09",
+      "username": "可健康",
+      "groupexpiry": "永不过期"
+    },
+    "2842337": {
+      "cid": "636660",
+      "uid": "2842337",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2020-5-20 15:08",
+      "username": "林晓晓",
+      "groupexpiry": "永不过期"
+    },
+    "2804903": {
+      "cid": "636655",
+      "uid": "2804903",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2020-5-20 14:34",
+      "username": "陈太亮",
+      "groupexpiry": "永不过期"
+    },
+    "2907463": {
+      "cid": "636652",
+      "uid": "2907463",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止访问",
+      "reason": "广告机",
+      "dateline": "2020-5-20 13:54",
+      "username": "陈我天",
+      "groupexpiry": "永不过期"
+    },
+    "3314724": {
+      "cid": "636485",
+      "uid": "3314724",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2020-5-20 12:32",
+      "username": "x.co/3e",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

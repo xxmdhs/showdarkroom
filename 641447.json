@@ -1,0 +1,173 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "641447"
+  },
+  "data": {
+    "3088951": {
+      "cid": "643443",
+      "uid": "3088951",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-6-6 21:23",
+      "username": "故乡味俱全",
+      "groupexpiry": "永不过期"
+    },
+    "3268212": {
+      "cid": "643195",
+      "uid": "3268212",
+      "operatorid": "2671072",
+      "operator": "星海Starsea",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-6-6 07:46",
+      "username": "3268212",
+      "groupexpiry": "永不过期"
+    },
+    "3229342": {
+      "cid": "642158",
+      "uid": "3229342",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "冒充论坛版主，私信骚扰",
+      "dateline": "2020-6-1 17:40",
+      "username": "中国_MC",
+      "groupexpiry": "永不过期"
+    },
+    "2912122": {
+      "cid": "641719",
+      "uid": "2912122",
+      "operatorid": "2511498",
+      "operator": "AzureHanChen",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-6-1 05:55",
+      "username": "2963426675",
+      "groupexpiry": "永不过期"
+    },
+    "2266027": {
+      "cid": "641650",
+      "uid": "2266027",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-5-31 23:39",
+      "username": "预定i",
+      "groupexpiry": "永不过期"
+    },
+    "636270": {
+      "cid": "641646",
+      "uid": "636270",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-5-31 23:39",
+      "username": "cyqokh",
+      "groupexpiry": "永不过期"
+    },
+    "889": {
+      "cid": "641644",
+      "uid": "889",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-5-31 23:39",
+      "username": "yunhoilun",
+      "groupexpiry": "永不过期"
+    },
+    "1407849": {
+      "cid": "641641",
+      "uid": "1407849",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-5-31 23:39",
+      "username": "@@lililili",
+      "groupexpiry": "永不过期"
+    },
+    "1550172": {
+      "cid": "641639",
+      "uid": "1550172",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-5-31 23:38",
+      "username": "An-xin",
+      "groupexpiry": "永不过期"
+    },
+    "304599": {
+      "cid": "641636",
+      "uid": "304599",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-5-31 23:38",
+      "username": "a824843131",
+      "groupexpiry": "永不过期"
+    },
+    "2575574": {
+      "cid": "641634",
+      "uid": "2575574",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-5-31 23:38",
+      "username": "Waterious",
+      "groupexpiry": "永不过期"
+    },
+    "1532574": {
+      "cid": "641633",
+      "uid": "1532574",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-5-31 23:38",
+      "username": "子桦",
+      "groupexpiry": "永不过期"
+    },
+    "3168504": {
+      "cid": "641502",
+      "uid": "3168504",
+      "operatorid": "975525",
+      "operator": "ruhuasiyu",
+      "action": "禁止发言",
+      "reason": "回血 2-4-R",
+      "dateline": "2020-5-31 18:18",
+      "username": "youtoto",
+      "groupexpiry": "永不过期"
+    },
+    "3329843": {
+      "cid": "641448",
+      "uid": "3329843",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "可疑账号",
+      "dateline": "2020-5-31 16:26",
+      "username": "xyq680505",
+      "groupexpiry": "永不过期"
+    },
+    "3329814": {
+      "cid": "641447",
+      "uid": "3329814",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "可疑账号",
+      "dateline": "2020-5-31 16:26",
+      "username": "xyq680303",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "592044"
+  },
+  "data": {
+    "2351277": {
+      "cid": "593479",
+      "uid": "2351277",
+      "operatorid": "281332",
+      "operator": "星",
+      "action": "禁止发言",
+      "reason": "剽窃 + 传播破解插件",
+      "dateline": "2020-4-6 16:31",
+      "username": "寒梅风影",
+      "groupexpiry": "永不过期"
+    },
+    "3157522": {
+      "cid": "592063",
+      "uid": "3157522",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-4 22:53",
+      "username": "Wang_Zai_Tang",
+      "groupexpiry": "永不过期"
+    },
+    "1138076": {
+      "cid": "592048",
+      "uid": "1138076",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-4 22:43",
+      "username": "MC_xiao_xi",
+      "groupexpiry": "永不过期"
+    },
+    "1923906": {
+      "cid": "592046",
+      "uid": "1923906",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2020-4-4 22:41",
+      "username": "草拟吗123555",
+      "groupexpiry": "永不过期"
+    },
+    "3006630": {
+      "cid": "592045",
+      "uid": "3006630",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-4 22:40",
+      "username": "Dseale",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

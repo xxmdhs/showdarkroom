@@ -1,0 +1,184 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "138253"
+  },
+  "data": {
+    "61999": {
+      "cid": "139314",
+      "uid": "61999",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2015-8-13 12:42",
+      "username": "lbx15970",
+      "groupexpiry": "永不过期"
+    },
+    "1358787": {
+      "cid": "139301",
+      "uid": "1358787",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-8-13 11:35",
+      "username": "一叶尘埃",
+      "groupexpiry": "永不过期"
+    },
+    "1453446": {
+      "cid": "139293",
+      "uid": "1453446",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷帖",
+      "dateline": "2015-8-13 10:49",
+      "username": "无与.伦比",
+      "groupexpiry": "永不过期"
+    },
+    "1459895": {
+      "cid": "139268",
+      "uid": "1459895",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-8-13 09:04",
+      "username": "飞天地面",
+      "groupexpiry": "永不过期"
+    },
+    "1458563": {
+      "cid": "139227",
+      "uid": "1458563",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-8-12 18:41",
+      "username": "dohei.",
+      "groupexpiry": "永不过期"
+    },
+    "770588": {
+      "cid": "139226",
+      "uid": "770588",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "无意义回复刷帖",
+      "dateline": "2015-8-12 17:52",
+      "username": "快乐恩儿",
+      "groupexpiry": "永不过期"
+    },
+    "1458051": {
+      "cid": "139222",
+      "uid": "1458051",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-8-12 16:25",
+      "username": "我无语了5",
+      "groupexpiry": "永不过期"
+    },
+    "1432764": {
+      "cid": "139114",
+      "uid": "1432764",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "马甲刷分",
+      "dateline": "2015-8-12 12:26",
+      "username": "小白--兔",
+      "groupexpiry": "永不过期"
+    },
+    "1431605": {
+      "cid": "139113",
+      "uid": "1431605",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "马甲刷分",
+      "dateline": "2015-8-12 12:26",
+      "username": "了邱",
+      "groupexpiry": "永不过期"
+    },
+    "1457515": {
+      "cid": "139021",
+      "uid": "1457515",
+      "operatorid": "437492",
+      "operator": "darknova",
+      "action": "禁止发言",
+      "reason": "滚",
+      "dateline": "2015-8-12 09:22",
+      "username": "fjw.",
+      "groupexpiry": "永不过期"
+    },
+    "715249": {
+      "cid": "138912",
+      "uid": "715249",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "广告",
+      "dateline": "2015-8-11 23:59",
+      "username": "chong3",
+      "groupexpiry": "永不过期"
+    },
+    "1419682": {
+      "cid": "138875",
+      "uid": "1419682",
+      "operatorid": "42992",
+      "operator": "810587921",
+      "action": "禁止发言",
+      "reason": "屠版\r\n无意义疯狂水贴",
+      "dateline": "2015-8-11 22:23",
+      "username": "游神丶",
+      "groupexpiry": "永不过期"
+    },
+    "182147": {
+      "cid": "138782",
+      "uid": "182147",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-8-11 17:09",
+      "username": "不想起名",
+      "groupexpiry": "永不过期"
+    },
+    "1456382": {
+      "cid": "138770",
+      "uid": "1456382",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-8-11 16:47",
+      "username": "许元译",
+      "groupexpiry": "永不过期"
+    },
+    "1311779": {
+      "cid": "138254",
+      "uid": "1311779",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-8-11 09:16",
+      "username": "逆天丶战",
+      "groupexpiry": "永不过期"
+    },
+    "1446046": {
+      "cid": "138253",
+      "uid": "1446046",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "小号",
+      "dateline": "2015-8-11 09:07",
+      "username": "wiime",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

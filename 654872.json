@@ -1,0 +1,206 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "654872"
+  },
+  "data": {
+    "868822": {
+      "cid": "655670",
+      "uid": "868822",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2020-7-1 23:53",
+      "username": "Dream1",
+      "groupexpiry": "永不过期"
+    },
+    "3355389": {
+      "cid": "655656",
+      "uid": "3355389",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "传播谣言",
+      "dateline": "2020-7-1 21:45",
+      "username": "林忆明",
+      "groupexpiry": "永不过期"
+    },
+    "3372161": {
+      "cid": "655655",
+      "uid": "3372161",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "传播谣言",
+      "dateline": "2020-7-1 21:44",
+      "username": "尹雅梅",
+      "groupexpiry": "永不过期"
+    },
+    "2286933": {
+      "cid": "655539",
+      "uid": "2286933",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "违反总版规2-4-S",
+      "dateline": "2020-7-1 16:00",
+      "username": "A_boy",
+      "groupexpiry": "永不过期"
+    },
+    "3007027": {
+      "cid": "655406",
+      "uid": "3007027",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2020-7-1 00:56",
+      "username": "李奶奶炸了",
+      "groupexpiry": "永不过期"
+    },
+    "3345520": {
+      "cid": "655405",
+      "uid": "3345520",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "违反版规2-4-S",
+      "dateline": "2020-7-1 00:56",
+      "username": "FGWA552",
+      "groupexpiry": "永不过期"
+    },
+    "3345279": {
+      "cid": "655404",
+      "uid": "3345279",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "违反版规2-4-S",
+      "dateline": "2020-7-1 00:56",
+      "username": "kkk11583",
+      "groupexpiry": "永不过期"
+    },
+    "3344651": {
+      "cid": "655403",
+      "uid": "3344651",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "违反版规2-4-S",
+      "dateline": "2020-7-1 00:55",
+      "username": "ddd558214",
+      "groupexpiry": "永不过期"
+    },
+    "3344276": {
+      "cid": "655402",
+      "uid": "3344276",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "违反版规2-4-S",
+      "dateline": "2020-7-1 00:55",
+      "username": "DDD111111",
+      "groupexpiry": "永不过期"
+    },
+    "3344245": {
+      "cid": "655401",
+      "uid": "3344245",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "违反版规2-4-S",
+      "dateline": "2020-7-1 00:55",
+      "username": "Gzx190620",
+      "groupexpiry": "永不过期"
+    },
+    "3344218": {
+      "cid": "655400",
+      "uid": "3344218",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "违反版规2-4-S",
+      "dateline": "2020-7-1 00:55",
+      "username": "Dzy190620",
+      "groupexpiry": "永不过期"
+    },
+    "3292093": {
+      "cid": "655399",
+      "uid": "3292093",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "违反版规2-4-S",
+      "dateline": "2020-7-1 00:55",
+      "username": "一夜落花",
+      "groupexpiry": "永不过期"
+    },
+    "2084452": {
+      "cid": "655398",
+      "uid": "2084452",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "违反版规2-4-S",
+      "dateline": "2020-7-1 00:55",
+      "username": "那些记忆",
+      "groupexpiry": "永不过期"
+    },
+    "2068276": {
+      "cid": "655397",
+      "uid": "2068276",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "违反版规2-4-S",
+      "dateline": "2020-7-1 00:55",
+      "username": "2918943097",
+      "groupexpiry": "永不过期"
+    },
+    "1810428": {
+      "cid": "655396",
+      "uid": "1810428",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "违反版规2-4-S",
+      "dateline": "2020-7-1 00:55",
+      "username": "余温昔梦",
+      "groupexpiry": "永不过期"
+    },
+    "1582919": {
+      "cid": "655395",
+      "uid": "1582919",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "违反版规2-4-S",
+      "dateline": "2020-7-1 00:54",
+      "username": "666666i",
+      "groupexpiry": "永不过期"
+    },
+    "1422896": {
+      "cid": "655394",
+      "uid": "1422896",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "违反版规2-4-S",
+      "dateline": "2020-7-1 00:54",
+      "username": "1060535161",
+      "groupexpiry": "永不过期"
+    },
+    "301829": {
+      "cid": "654872",
+      "uid": "301829",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "销号受理",
+      "dateline": "2020-6-29 17:05",
+      "username": "1126199509",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

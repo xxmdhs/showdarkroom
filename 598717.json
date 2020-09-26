@@ -1,0 +1,85 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "598717"
+  },
+  "data": {
+    "3171711": {
+      "cid": "600093",
+      "uid": "3171711",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-12 17:27",
+      "username": "听歌的小孩",
+      "groupexpiry": "永不过期"
+    },
+    "783273": {
+      "cid": "600089",
+      "uid": "783273",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-12 17:26",
+      "username": "北辰。",
+      "groupexpiry": "永不过期"
+    },
+    "1319436": {
+      "cid": "599628",
+      "uid": "1319436",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2020-4-12 13:18",
+      "username": "2b傻B",
+      "groupexpiry": "永不过期"
+    },
+    "2920322": {
+      "cid": "599586",
+      "uid": "2920322",
+      "operatorid": "1575538",
+      "operator": "ff98sha",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-4-12 11:07",
+      "username": "sohush",
+      "groupexpiry": "永不过期"
+    },
+    "2380759": {
+      "cid": "599408",
+      "uid": "2380759",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "在问答版违规转账3次，永久封禁",
+      "dateline": "2020-4-11 23:45",
+      "username": "Blockwdy",
+      "groupexpiry": "永不过期"
+    },
+    "1587858": {
+      "cid": "599400",
+      "uid": "1587858",
+      "operatorid": "2127154",
+      "operator": "楠木i",
+      "action": "禁止发言",
+      "reason": "剽窃",
+      "dateline": "2020-4-11 23:12",
+      "username": "ma0205601",
+      "groupexpiry": "永不过期"
+    },
+    "2139023": {
+      "cid": "599273",
+      "uid": "2139023",
+      "operatorid": "2511498",
+      "operator": "AzureHanChen",
+      "action": "禁止发言",
+      "reason": "屡次违反服务端版规2-6-3（宣传服务器、技术群）",
+      "dateline": "2020-4-11 20:21",
+      "username": "Duan__",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

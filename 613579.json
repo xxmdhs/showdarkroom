@@ -1,0 +1,52 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "613579"
+  },
+  "data": {
+    "1607523": {
+      "cid": "614659",
+      "uid": "1607523",
+      "operatorid": "86237",
+      "operator": "缇米Official",
+      "action": "禁止发言",
+      "reason": "2-4-D 恶性挑起事端",
+      "dateline": "2020-4-25 14:29",
+      "username": "爱情不是爱",
+      "groupexpiry": "永不过期"
+    },
+    "2682678": {
+      "cid": "614441",
+      "uid": "2682678",
+      "operatorid": "2511498",
+      "operator": "AzureHanChen",
+      "action": "禁止发言",
+      "reason": "服务端版块 版规2-6-4 情节严重",
+      "dateline": "2020-4-25 10:52",
+      "username": "3193125015",
+      "groupexpiry": "永不过期"
+    },
+    "3246519": {
+      "cid": "614322",
+      "uid": "3246519",
+      "operatorid": "2511498",
+      "operator": "AzureHanChen",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-25 10:29",
+      "username": "757337822",
+      "groupexpiry": "永不过期"
+    },
+    "2478373": {
+      "cid": "613617",
+      "uid": "2478373",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-24 23:42",
+      "username": "2656989851",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

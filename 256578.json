@@ -1,0 +1,151 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "256578"
+  },
+  "data": {
+    "974108": {
+      "cid": "258442",
+      "uid": "974108",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-7-4 18:49",
+      "username": "lolhd",
+      "groupexpiry": "永不过期"
+    },
+    "2230818": {
+      "cid": "258007",
+      "uid": "2230818",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2017-7-3 16:36",
+      "username": "以茎制洞53",
+      "groupexpiry": "永不过期"
+    },
+    "663849": {
+      "cid": "258001",
+      "uid": "663849",
+      "operatorid": "51737",
+      "operator": "mjmj1996",
+      "action": "禁止发言",
+      "reason": "涉黄，http://www.mcbbs.net/forum.php?mod\u003dredirect\u0026amp;goto\u003dfindpost\u0026amp;ptid\u003d702130\u0026amp;pid\u003d11946900",
+      "dateline": "2017-7-3 16:19",
+      "username": "a645859717",
+      "groupexpiry": "永不过期"
+    },
+    "420874": {
+      "cid": "257991",
+      "uid": "420874",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "巨额刷分，永久封禁",
+      "dateline": "2017-7-3 15:36",
+      "username": "xinxin243489212",
+      "groupexpiry": "永不过期"
+    },
+    "1131539": {
+      "cid": "257805",
+      "uid": "1131539",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "·",
+      "dateline": "2017-7-2 14:47",
+      "username": "我爱扁桃",
+      "groupexpiry": "永不过期"
+    },
+    "1999220": {
+      "cid": "257521",
+      "uid": "1999220",
+      "operatorid": "564746",
+      "operator": "gamerteam",
+      "action": "禁止发言",
+      "reason": "广告机！",
+      "dateline": "2017-7-1 22:33",
+      "username": "apkabc",
+      "groupexpiry": "永不过期"
+    },
+    "1094514": {
+      "cid": "257419",
+      "uid": "1094514",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-7-1 15:53",
+      "username": "Mis.",
+      "groupexpiry": "永不过期"
+    },
+    "1618946": {
+      "cid": "257418",
+      "uid": "1618946",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-7-1 15:51",
+      "username": "THE_SECOND",
+      "groupexpiry": "永不过期"
+    },
+    "1109337": {
+      "cid": "257117",
+      "uid": "1109337",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-6-30 11:36",
+      "username": "hahahh",
+      "groupexpiry": "永不过期"
+    },
+    "2225859": {
+      "cid": "257059",
+      "uid": "2225859",
+      "operatorid": "679293",
+      "operator": "FHC红石",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2017-6-29 23:28",
+      "username": "gdyjy1997",
+      "groupexpiry": "永不过期"
+    },
+    "2207274": {
+      "cid": "256806",
+      "uid": "2207274",
+      "operatorid": "1757048",
+      "operator": "逗比桃",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2017-6-28 20:37",
+      "username": "2793077009",
+      "groupexpiry": "永不过期"
+    },
+    "1316597": {
+      "cid": "256774",
+      "uid": "1316597",
+      "operatorid": "266277",
+      "operator": "LocusAzzurro",
+      "action": "禁止发言",
+      "reason": "广告机 服务器宣传",
+      "dateline": "2017-6-28 19:04",
+      "username": "yanyan3",
+      "groupexpiry": "永不过期"
+    },
+    "1236048": {
+      "cid": "256699",
+      "uid": "1236048",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-6-28 13:14",
+      "username": "DM_xiongzai",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

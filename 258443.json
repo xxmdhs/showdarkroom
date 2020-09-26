@@ -1,0 +1,74 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "258443"
+  },
+  "data": {
+    "995858": {
+      "cid": "259181",
+      "uid": "995858",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-7-7 22:45",
+      "username": "爱拍小昝",
+      "groupexpiry": "永不过期"
+    },
+    "430412": {
+      "cid": "259176",
+      "uid": "430412",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-7-7 22:39",
+      "username": "a13413",
+      "groupexpiry": "永不过期"
+    },
+    "2239084": {
+      "cid": "258878",
+      "uid": "2239084",
+      "operatorid": "564746",
+      "operator": "gamerteam",
+      "action": "禁止发言",
+      "reason": "商业广告机",
+      "dateline": "2017-7-6 12:23",
+      "username": "倾宇科技",
+      "groupexpiry": "永不过期"
+    },
+    "100095": {
+      "cid": "258546",
+      "uid": "100095",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-7-4 21:51",
+      "username": "gwt8462",
+      "groupexpiry": "永不过期"
+    },
+    "1651014": {
+      "cid": "258510",
+      "uid": "1651014",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-7-4 21:36",
+      "username": "迷の十六",
+      "groupexpiry": "永不过期"
+    },
+    "72507": {
+      "cid": "258443",
+      "uid": "72507",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-7-4 18:49",
+      "username": "小何viab",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "551108"
+  },
+  "data": {
+    "2501765": {
+      "cid": "557840",
+      "uid": "2501765",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "在问答版累计转账3次，永久封禁",
+      "dateline": "2020-3-8 18:15",
+      "username": "xiao_yu_g",
+      "groupexpiry": "永不过期"
+    },
+    "3100199": {
+      "cid": "556036",
+      "uid": "3100199",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2020-3-7 01:55",
+      "username": "梅子紫转青",
+      "groupexpiry": "永不过期"
+    },
+    "2871123": {
+      "cid": "556024",
+      "uid": "2871123",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2020-3-7 01:49",
+      "username": "kingzip",
+      "groupexpiry": "永不过期"
+    },
+    "3067324": {
+      "cid": "554061",
+      "uid": "3067324",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2020-3-5 20:51",
+      "username": "艺妓",
+      "groupexpiry": "永不过期"
+    },
+    "3046584": {
+      "cid": "553793",
+      "uid": "3046584",
+      "operatorid": "1196990",
+      "operator": "海螺螺",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-3-5 13:22",
+      "username": "定制",
+      "groupexpiry": "永不过期"
+    },
+    "3097797": {
+      "cid": "553620",
+      "uid": "3097797",
+      "operatorid": "458143",
+      "operator": "阴阳师元素祭祀",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2020-3-5 12:11",
+      "username": "HnuL2",
+      "groupexpiry": "永不过期"
+    },
+    "2578306": {
+      "cid": "552995",
+      "uid": "2578306",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-3-4 20:30",
+      "username": "2725970994",
+      "groupexpiry": "永不过期"
+    },
+    "2222763": {
+      "cid": "552989",
+      "uid": "2222763",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2020-3-4 20:27",
+      "username": "我爱逗妇乳",
+      "groupexpiry": "永不过期"
+    },
+    "2932323": {
+      "cid": "552916",
+      "uid": "2932323",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "转账100",
+      "dateline": "2020-3-4 19:18",
+      "username": "mc_ztq",
+      "groupexpiry": "永不过期"
+    },
+    "2769311": {
+      "cid": "551857",
+      "uid": "2769311",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "个人资料含有违规内容",
+      "dateline": "2020-3-4 02:09",
+      "username": "heheda23333",
+      "groupexpiry": "永不过期"
+    },
+    "3084088": {
+      "cid": "551108",
+      "uid": "3084088",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2020-3-3 22:01",
+      "username": "妮玛煤了",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

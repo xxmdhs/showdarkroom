@@ -1,0 +1,107 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "188656"
+  },
+  "data": {
+    "1711346": {
+      "cid": "189860",
+      "uid": "1711346",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-4-23 18:56",
+      "username": "M_ai",
+      "groupexpiry": "永不过期"
+    },
+    "1730129": {
+      "cid": "189820",
+      "uid": "1730129",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": ".",
+      "dateline": "2016-4-23 14:45",
+      "username": "雨de印记",
+      "groupexpiry": "永不过期"
+    },
+    "1760559": {
+      "cid": "189737",
+      "uid": "1760559",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "广告",
+      "dateline": "2016-4-22 22:43",
+      "username": "佳云IDC",
+      "groupexpiry": "永不过期"
+    },
+    "1766528": {
+      "cid": "189673",
+      "uid": "1766528",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-4-21 20:48",
+      "username": "QAQ2051902302",
+      "groupexpiry": "永不过期"
+    },
+    "1436474": {
+      "cid": "189459",
+      "uid": "1436474",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-4-19 19:30",
+      "username": "a919813308",
+      "groupexpiry": "永不过期"
+    },
+    "1760376": {
+      "cid": "189438",
+      "uid": "1760376",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-4-19 19:20",
+      "username": "lomc.net",
+      "groupexpiry": "永不过期"
+    },
+    "1128934": {
+      "cid": "188958",
+      "uid": "1128934",
+      "operatorid": "77891",
+      "operator": "SkyCatcher",
+      "action": "禁止发言",
+      "reason": "纯灌水",
+      "dateline": "2016-4-16 10:30",
+      "username": "1402700284",
+      "groupexpiry": "永不过期"
+    },
+    "1585870": {
+      "cid": "188951",
+      "uid": "1585870",
+      "operatorid": "77891",
+      "operator": "SkyCatcher",
+      "action": "禁止发言",
+      "reason": "广告，永久封禁",
+      "dateline": "2016-4-16 10:30",
+      "username": "863599230",
+      "groupexpiry": "永不过期"
+    },
+    "1751609": {
+      "cid": "188885",
+      "uid": "1751609",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-4-16 05:49",
+      "username": "pola",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "247075"
+  },
+  "data": {
+    "1623858": {
+      "cid": "248271",
+      "uid": "1623858",
+      "operatorid": "237322",
+      "operator": "1427639813",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2017-4-18 14:17",
+      "username": "amingdada",
+      "groupexpiry": "永不过期"
+    },
+    "2147556": {
+      "cid": "248213",
+      "uid": "2147556",
+      "operatorid": "1696224",
+      "operator": "星燚",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2017-4-17 14:31",
+      "username": "【屁屁】",
+      "groupexpiry": "永不过期"
+    },
+    "1792334": {
+      "cid": "248146",
+      "uid": "1792334",
+      "operatorid": "1037910",
+      "operator": "小阿狸....",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-4-16 15:33",
+      "username": "qq3089206010",
+      "groupexpiry": "永不过期"
+    },
+    "2154890": {
+      "cid": "248145",
+      "uid": "2154890",
+      "operatorid": "1037910",
+      "operator": "小阿狸....",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-4-16 15:33",
+      "username": "lianqing233",
+      "groupexpiry": "永不过期"
+    },
+    "2146927": {
+      "cid": "247944",
+      "uid": "2146927",
+      "operatorid": "48495",
+      "operator": "TT702",
+      "action": "禁止发言",
+      "reason": "发布作弊类软件",
+      "dateline": "2017-4-15 21:10",
+      "username": "YeXuanjun",
+      "groupexpiry": "永不过期"
+    },
+    "778755": {
+      "cid": "247898",
+      "uid": "778755",
+      "operatorid": "447060",
+      "operator": "522240858",
+      "action": "禁止发言",
+      "reason": "灌水",
+      "dateline": "2017-4-15 18:04",
+      "username": "2421880394",
+      "groupexpiry": "永不过期"
+    },
+    "2119744": {
+      "cid": "247755",
+      "uid": "2119744",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-4-14 12:56",
+      "username": "Ghost#57974",
+      "groupexpiry": "永不过期"
+    },
+    "2119730": {
+      "cid": "247754",
+      "uid": "2119730",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-4-14 12:54",
+      "username": "_111_",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "485979"
+  },
+  "data": {
+    "2876130": {
+      "cid": "486006",
+      "uid": "2876130",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:38",
+      "username": "nu_zhuang",
+      "groupexpiry": "永不过期"
+    },
+    "2876089": {
+      "cid": "486005",
+      "uid": "2876089",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:38",
+      "username": "k_xingye",
+      "groupexpiry": "永不过期"
+    },
+    "2876087": {
+      "cid": "486004",
+      "uid": "2876087",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:38",
+      "username": "vita_cc",
+      "groupexpiry": "永不过期"
+    },
+    "2876086": {
+      "cid": "486003",
+      "uid": "2876086",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:38",
+      "username": "_xiaozhou_",
+      "groupexpiry": "永不过期"
+    },
+    "2876035": {
+      "cid": "486002",
+      "uid": "2876035",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:38",
+      "username": "xiao_zedm",
+      "groupexpiry": "永不过期"
+    },
+    "2876031": {
+      "cid": "486001",
+      "uid": "2876031",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:38",
+      "username": "intolove_zedm",
+      "groupexpiry": "永不过期"
+    },
+    "2876012": {
+      "cid": "486000",
+      "uid": "2876012",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:38",
+      "username": "wu_shang7",
+      "groupexpiry": "永不过期"
+    },
+    "2875930": {
+      "cid": "485999",
+      "uid": "2875930",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:38",
+      "username": "mo_teng",
+      "groupexpiry": "永不过期"
+    },
+    "2875737": {
+      "cid": "485998",
+      "uid": "2875737",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:38",
+      "username": "chu_meng",
+      "groupexpiry": "永不过期"
+    },
+    "2875732": {
+      "cid": "485997",
+      "uid": "2875732",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:38",
+      "username": "shixiansen",
+      "groupexpiry": "永不过期"
+    },
+    "2875721": {
+      "cid": "485996",
+      "uid": "2875721",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:38",
+      "username": "3065_ya",
+      "groupexpiry": "永不过期"
+    },
+    "2875716": {
+      "cid": "485995",
+      "uid": "2875716",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:38",
+      "username": "Dubai_",
+      "groupexpiry": "永不过期"
+    },
+    "2875714": {
+      "cid": "485994",
+      "uid": "2875714",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:37",
+      "username": "YueYuan",
+      "groupexpiry": "永不过期"
+    },
+    "2875672": {
+      "cid": "485993",
+      "uid": "2875672",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:37",
+      "username": "little_nick",
+      "groupexpiry": "永不过期"
+    },
+    "2875657": {
+      "cid": "485992",
+      "uid": "2875657",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:37",
+      "username": "i_iogiao",
+      "groupexpiry": "永不过期"
+    },
+    "2875651": {
+      "cid": "485991",
+      "uid": "2875651",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:37",
+      "username": "fangxiao_",
+      "groupexpiry": "永不过期"
+    },
+    "2875649": {
+      "cid": "485990",
+      "uid": "2875649",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:37",
+      "username": "EX_ZZH",
+      "groupexpiry": "永不过期"
+    },
+    "2875027": {
+      "cid": "485989",
+      "uid": "2875027",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:37",
+      "username": "xingchensuiyue",
+      "groupexpiry": "永不过期"
+    },
+    "2874999": {
+      "cid": "485988",
+      "uid": "2874999",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:37",
+      "username": "Team_Dopa",
+      "groupexpiry": "永不过期"
+    },
+    "2874981": {
+      "cid": "485987",
+      "uid": "2874981",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:37",
+      "username": "Relics",
+      "groupexpiry": "永不过期"
+    },
+    "2874971": {
+      "cid": "485986",
+      "uid": "2874971",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:37",
+      "username": "oh_yes_shit",
+      "groupexpiry": "永不过期"
+    },
+    "2874969": {
+      "cid": "485985",
+      "uid": "2874969",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:37",
+      "username": "Mu_mu666",
+      "groupexpiry": "永不过期"
+    },
+    "2874966": {
+      "cid": "485984",
+      "uid": "2874966",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:37",
+      "username": "mmp6666",
+      "groupexpiry": "永不过期"
+    },
+    "2874954": {
+      "cid": "485983",
+      "uid": "2874954",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:37",
+      "username": "luomuwuqing",
+      "groupexpiry": "永不过期"
+    },
+    "2874947": {
+      "cid": "485982",
+      "uid": "2874947",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:37",
+      "username": "huanghaol",
+      "groupexpiry": "永不过期"
+    },
+    "2874745": {
+      "cid": "485981",
+      "uid": "2874745",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:37",
+      "username": "xiaochi_",
+      "groupexpiry": "永不过期"
+    },
+    "2873258": {
+      "cid": "485980",
+      "uid": "2873258",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:37",
+      "username": "UgdgbSkujz",
+      "groupexpiry": "永不过期"
+    },
+    "2869676": {
+      "cid": "485979",
+      "uid": "2869676",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "马甲账号",
+      "dateline": "2019-11-5 22:37",
+      "username": "小星星19001",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

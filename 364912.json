@@ -1,0 +1,184 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "364912"
+  },
+  "data": {
+    "1552": {
+      "cid": "366850",
+      "uid": "1552",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-10-20 23:58",
+      "username": "bt1352",
+      "groupexpiry": "永不过期"
+    },
+    "1139": {
+      "cid": "366849",
+      "uid": "1139",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-10-20 23:57",
+      "username": "tgouki",
+      "groupexpiry": "永不过期"
+    },
+    "2507063": {
+      "cid": "366825",
+      "uid": "2507063",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-10-20 23:30",
+      "username": "Seven1983",
+      "groupexpiry": "永不过期"
+    },
+    "217565": {
+      "cid": "365735",
+      "uid": "217565",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "http://www.mcbbs.net/thread-823731-1-1.html",
+      "dateline": "2018-10-13 21:41",
+      "username": "小孩不乖",
+      "groupexpiry": "永不过期"
+    },
+    "1561539": {
+      "cid": "365689",
+      "uid": "1561539",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2018-10-13 19:25",
+      "username": "SE49NT",
+      "groupexpiry": "永不过期"
+    },
+    "2582020": {
+      "cid": "365340",
+      "uid": "2582020",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "囤积账号",
+      "dateline": "2018-10-12 23:12",
+      "username": "m13893797407",
+      "groupexpiry": "永不过期"
+    },
+    "2582022": {
+      "cid": "365339",
+      "uid": "2582022",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "囤积账号",
+      "dateline": "2018-10-12 23:12",
+      "username": "m13993768494",
+      "groupexpiry": "永不过期"
+    },
+    "1565793": {
+      "cid": "365338",
+      "uid": "1565793",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "囤积账号",
+      "dateline": "2018-10-12 23:12",
+      "username": "2028505948",
+      "groupexpiry": "永不过期"
+    },
+    "2575866": {
+      "cid": "365337",
+      "uid": "2575866",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "囤积账号",
+      "dateline": "2018-10-12 23:12",
+      "username": "2548795068",
+      "groupexpiry": "永不过期"
+    },
+    "2467701": {
+      "cid": "365322",
+      "uid": "2467701",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "囤积账号",
+      "dateline": "2018-10-12 22:59",
+      "username": "yuhanai5",
+      "groupexpiry": "永不过期"
+    },
+    "2475457": {
+      "cid": "365321",
+      "uid": "2475457",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "囤积账号",
+      "dateline": "2018-10-12 22:59",
+      "username": "yuhanai6",
+      "groupexpiry": "永不过期"
+    },
+    "2529388": {
+      "cid": "365320",
+      "uid": "2529388",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "囤积账号",
+      "dateline": "2018-10-12 22:59",
+      "username": "yuhanai7",
+      "groupexpiry": "永不过期"
+    },
+    "2466829": {
+      "cid": "365318",
+      "uid": "2466829",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "囤积账号",
+      "dateline": "2018-10-12 22:59",
+      "username": "yuhanai4",
+      "groupexpiry": "永不过期"
+    },
+    "2465311": {
+      "cid": "365317",
+      "uid": "2465311",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "囤积账号",
+      "dateline": "2018-10-12 22:59",
+      "username": "yuhanai3",
+      "groupexpiry": "永不过期"
+    },
+    "2463794": {
+      "cid": "365316",
+      "uid": "2463794",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "囤积账号",
+      "dateline": "2018-10-12 22:59",
+      "username": "yuhanai2",
+      "groupexpiry": "永不过期"
+    },
+    "1245656": {
+      "cid": "365075",
+      "uid": "1245656",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2018-10-12 22:03",
+      "username": "qq1694772360",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

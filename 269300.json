@@ -1,0 +1,129 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "269300"
+  },
+  "data": {
+    "2315608": {
+      "cid": "273938",
+      "uid": "2315608",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2017-8-15 16:40",
+      "username": "qq3071972210",
+      "groupexpiry": "永不过期"
+    },
+    "2314948": {
+      "cid": "273828",
+      "uid": "2314948",
+      "operatorid": "1575538",
+      "operator": "ff98sha",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2017-8-15 13:29",
+      "username": "溪谷小兵",
+      "groupexpiry": "永不过期"
+    },
+    "1612934": {
+      "cid": "273345",
+      "uid": "1612934",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": "用户名违规",
+      "dateline": "2017-8-14 15:48",
+      "username": "草你妈妈",
+      "groupexpiry": "永不过期"
+    },
+    "2227145": {
+      "cid": "273209",
+      "uid": "2227145",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2017-8-14 11:12",
+      "username": "守护丽人",
+      "groupexpiry": "永不过期"
+    },
+    "2307835": {
+      "cid": "273030",
+      "uid": "2307835",
+      "operatorid": "237322",
+      "operator": "1427639813",
+      "action": "禁止发言",
+      "reason": "刷帖",
+      "dateline": "2017-8-13 22:18",
+      "username": "genius2",
+      "groupexpiry": "永不过期"
+    },
+    "2309152": {
+      "cid": "272608",
+      "uid": "2309152",
+      "operatorid": "1422337",
+      "operator": "MystiaCC",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-8-13 06:05",
+      "username": "yushun",
+      "groupexpiry": "永不过期"
+    },
+    "1438917": {
+      "cid": "272604",
+      "uid": "1438917",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "疑似广告机",
+      "dateline": "2017-8-13 01:01",
+      "username": "杜嘉楠",
+      "groupexpiry": "永不过期"
+    },
+    "1435614": {
+      "cid": "270988",
+      "uid": "1435614",
+      "operatorid": "237322",
+      "operator": "1427639813",
+      "action": "禁止发言",
+      "reason": "恶意刷帖",
+      "dateline": "2017-8-9 19:19",
+      "username": "598464011",
+      "groupexpiry": "永不过期"
+    },
+    "2018009": {
+      "cid": "270798",
+      "uid": "2018009",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": "用户名违规",
+      "dateline": "2017-8-9 00:12",
+      "username": "fuck我",
+      "groupexpiry": "永不过期"
+    },
+    "2280324": {
+      "cid": "270447",
+      "uid": "2280324",
+      "operatorid": "564746",
+      "operator": "gamerteam",
+      "action": "禁止发言",
+      "reason": "发布作弊类内容",
+      "dateline": "2017-8-8 17:10",
+      "username": "lan_mei_jun",
+      "groupexpiry": "永不过期"
+    },
+    "2284380": {
+      "cid": "270224",
+      "uid": "2284380",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "主题水贴/恶性刷帖",
+      "dateline": "2017-8-8 09:50",
+      "username": "lcxieun",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

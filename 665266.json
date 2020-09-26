@@ -1,0 +1,195 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "665266"
+  },
+  "data": {
+    "3431194": {
+      "cid": "666559",
+      "uid": "3431194",
+      "operatorid": "2153967",
+      "operator": "SHEEP_REALMS",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-7-21 10:19",
+      "username": "北方度七",
+      "groupexpiry": "永不过期"
+    },
+    "3392204": {
+      "cid": "666500",
+      "uid": "3392204",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "注册多个帐号大量水贴",
+      "dateline": "2020-7-21 02:03",
+      "username": "2234885539",
+      "groupexpiry": "永不过期"
+    },
+    "3389642": {
+      "cid": "666499",
+      "uid": "3389642",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "注册多个帐号大量水贴",
+      "dateline": "2020-7-21 02:03",
+      "username": "1090332370",
+      "groupexpiry": "永不过期"
+    },
+    "3381829": {
+      "cid": "666498",
+      "uid": "3381829",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "注册多个帐号大量水贴",
+      "dateline": "2020-7-21 02:03",
+      "username": "202702867",
+      "groupexpiry": "永不过期"
+    },
+    "2550709": {
+      "cid": "666497",
+      "uid": "2550709",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "注册多个帐号大量水贴",
+      "dateline": "2020-7-21 02:03",
+      "username": "1341553868",
+      "groupexpiry": "永不过期"
+    },
+    "3414209": {
+      "cid": "666460",
+      "uid": "3414209",
+      "operatorid": "674931",
+      "operator": "1094822247",
+      "action": "禁止发言",
+      "reason": "马甲自导自演",
+      "dateline": "2020-7-20 21:46",
+      "username": "末影疾光",
+      "groupexpiry": "永不过期"
+    },
+    "3355127": {
+      "cid": "666459",
+      "uid": "3355127",
+      "operatorid": "674931",
+      "operator": "1094822247",
+      "action": "禁止发言",
+      "reason": "马甲自导自演",
+      "dateline": "2020-7-20 21:45",
+      "username": "米线菌",
+      "groupexpiry": "永不过期"
+    },
+    "299096": {
+      "cid": "665678",
+      "uid": "299096",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器养号",
+      "dateline": "2020-7-20 00:20",
+      "username": "majingyuan2000",
+      "groupexpiry": "永不过期"
+    },
+    "2201124": {
+      "cid": "665677",
+      "uid": "2201124",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器养号",
+      "dateline": "2020-7-20 00:19",
+      "username": "BiShop9621",
+      "groupexpiry": "永不过期"
+    },
+    "2218113": {
+      "cid": "665676",
+      "uid": "2218113",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器养号",
+      "dateline": "2020-7-20 00:19",
+      "username": "mc次元空间",
+      "groupexpiry": "永不过期"
+    },
+    "3375001": {
+      "cid": "665273",
+      "uid": "3375001",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "机器养号",
+      "dateline": "2020-7-19 16:33",
+      "username": "隐秘的角落",
+      "groupexpiry": "永不过期"
+    },
+    "3385846": {
+      "cid": "665271",
+      "uid": "3385846",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "机器养号",
+      "dateline": "2020-7-19 15:51",
+      "username": "MC_No1",
+      "groupexpiry": "永不过期"
+    },
+    "3385793": {
+      "cid": "665270",
+      "uid": "3385793",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "机器养号",
+      "dateline": "2020-7-19 15:51",
+      "username": "PeterEd",
+      "groupexpiry": "永不过期"
+    },
+    "3385748": {
+      "cid": "665269",
+      "uid": "3385748",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "机器养号",
+      "dateline": "2020-7-19 15:50",
+      "username": "Ai_Max",
+      "groupexpiry": "永不过期"
+    },
+    "3377983": {
+      "cid": "665268",
+      "uid": "3377983",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "机器养号",
+      "dateline": "2020-7-19 15:50",
+      "username": "BTS_Yifei",
+      "groupexpiry": "永不过期"
+    },
+    "3377969": {
+      "cid": "665267",
+      "uid": "3377969",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "机器养号",
+      "dateline": "2020-7-19 15:50",
+      "username": "爱菲比",
+      "groupexpiry": "永不过期"
+    },
+    "3375407": {
+      "cid": "665266",
+      "uid": "3375407",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "机器养号",
+      "dateline": "2020-7-19 15:50",
+      "username": "PeterMa",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "518408"
+  },
+  "data": {
+    "2861628": {
+      "cid": "520607",
+      "uid": "2861628",
+      "operatorid": "1793501",
+      "operator": "没糖的葫芦",
+      "action": "禁止发言",
+      "reason": "2-3-f，请勿辱骂他人或者他人作品",
+      "dateline": "2020-1-29 21:31",
+      "username": "HeartOfCold",
+      "groupexpiry": "永不过期"
+    },
+    "2930958": {
+      "cid": "520568",
+      "uid": "2930958",
+      "operatorid": "2073665",
+      "operator": "葉子の",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-1-29 17:08",
+      "username": "weiwoweiwei",
+      "groupexpiry": "永不过期"
+    },
+    "862730": {
+      "cid": "520210",
+      "uid": "862730",
+      "operatorid": "46925",
+      "operator": "xukarhei",
+      "action": "禁止发言",
+      "reason": "水龙头。大量复制黏贴灌水",
+      "dateline": "2020-1-28 17:21",
+      "username": "1048907869",
+      "groupexpiry": "永不过期"
+    },
+    "2472688": {
+      "cid": "520158",
+      "uid": "2472688",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "在问答版累计转账3次",
+      "dateline": "2020-1-28 14:34",
+      "username": "Not105",
+      "groupexpiry": "永不过期"
+    },
+    "2670323": {
+      "cid": "520157",
+      "uid": "2670323",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "在问答版累计转账3次",
+      "dateline": "2020-1-28 14:34",
+      "username": "DuC_PPu884466",
+      "groupexpiry": "永不过期"
+    },
+    "2006037": {
+      "cid": "520156",
+      "uid": "2006037",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "在问答版累计转账3次",
+      "dateline": "2020-1-28 14:34",
+      "username": "13976128494",
+      "groupexpiry": "永不过期"
+    },
+    "2992728": {
+      "cid": "519722",
+      "uid": "2992728",
+      "operatorid": "564746",
+      "operator": "gamerteam",
+      "action": "禁止发言",
+      "reason": "辱骂",
+      "dateline": "2020-1-27 13:40",
+      "username": "3515479287",
+      "groupexpiry": "永不过期"
+    },
+    "2957788": {
+      "cid": "518454",
+      "uid": "2957788",
+      "operatorid": "1422337",
+      "operator": "米斯琪",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-1-25 00:12",
+      "username": "17737800365",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

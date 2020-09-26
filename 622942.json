@@ -1,0 +1,96 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "622942"
+  },
+  "data": {
+    "2466649": {
+      "cid": "624451",
+      "uid": "2466649",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-5-6 23:44",
+      "username": "binitian",
+      "groupexpiry": "永不过期"
+    },
+    "2703530": {
+      "cid": "624159",
+      "uid": "2703530",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-5-6 11:29",
+      "username": "MCJYSS",
+      "groupexpiry": "永不过期"
+    },
+    "3136525": {
+      "cid": "624156",
+      "uid": "3136525",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-5-6 11:28",
+      "username": "梦伴",
+      "groupexpiry": "永不过期"
+    },
+    "3282172": {
+      "cid": "623729",
+      "uid": "3282172",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "复读机",
+      "dateline": "2020-5-5 20:35",
+      "username": "2175928499",
+      "groupexpiry": "永不过期"
+    },
+    "2861103": {
+      "cid": "623334",
+      "uid": "2861103",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-5-5 12:43",
+      "username": "淋雨吖",
+      "groupexpiry": "永不过期"
+    },
+    "3279080": {
+      "cid": "623323",
+      "uid": "3279080",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-5-5 12:12",
+      "username": "白给就跳激光雨",
+      "groupexpiry": "永不过期"
+    },
+    "3247288": {
+      "cid": "623314",
+      "uid": "3247288",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-5-5 12:04",
+      "username": "sgs147",
+      "groupexpiry": "永不过期"
+    },
+    "1157564": {
+      "cid": "623270",
+      "uid": "1157564",
+      "operatorid": "2444378",
+      "operator": "SPGoding",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-5-5 12:00",
+      "username": "xuemingyu3333",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

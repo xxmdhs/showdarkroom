@@ -1,0 +1,184 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "148932"
+  },
+  "data": {
+    "1541754": {
+      "cid": "150356",
+      "uid": "1541754",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2015-10-8 23:32",
+      "username": "buluoli111",
+      "groupexpiry": "永不过期"
+    },
+    "412052": {
+      "cid": "150255",
+      "uid": "412052",
+      "operatorid": "42992",
+      "operator": "810587921",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-10-7 20:25",
+      "username": "2814680411",
+      "groupexpiry": "永不过期"
+    },
+    "1269786": {
+      "cid": "150196",
+      "uid": "1269786",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-10-7 16:08",
+      "username": "Gary。2",
+      "groupexpiry": "永不过期"
+    },
+    "1538721": {
+      "cid": "150012",
+      "uid": "1538721",
+      "operatorid": "92880",
+      "operator": "tony990412",
+      "action": "禁止发言",
+      "reason": "广告机！",
+      "dateline": "2015-10-6 15:56",
+      "username": "wxq1029196377",
+      "groupexpiry": "永不过期"
+    },
+    "239596": {
+      "cid": "149969",
+      "uid": "239596",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷帖",
+      "dateline": "2015-10-6 11:01",
+      "username": "1564955637",
+      "groupexpiry": "永不过期"
+    },
+    "216386": {
+      "cid": "149968",
+      "uid": "216386",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷帖",
+      "dateline": "2015-10-6 10:58",
+      "username": "aslkcn23",
+      "groupexpiry": "永不过期"
+    },
+    "408346": {
+      "cid": "149954",
+      "uid": "408346",
+      "operatorid": "42992",
+      "operator": "810587921",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-10-6 05:46",
+      "username": "761659827",
+      "groupexpiry": "永不过期"
+    },
+    "945810": {
+      "cid": "149880",
+      "uid": "945810",
+      "operatorid": "92880",
+      "operator": "tony990412",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-10-5 21:26",
+      "username": "a2916688485",
+      "groupexpiry": "永不过期"
+    },
+    "1033023": {
+      "cid": "149785",
+      "uid": "1033023",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-10-5 14:51",
+      "username": "我是江北",
+      "groupexpiry": "永不过期"
+    },
+    "1528696": {
+      "cid": "149568",
+      "uid": "1528696",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2015-10-4 14:43",
+      "username": "遗梦Paradise",
+      "groupexpiry": "永不过期"
+    },
+    "569098": {
+      "cid": "149561",
+      "uid": "569098",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-10-4 14:18",
+      "username": "2655259452aaa",
+      "groupexpiry": "永不过期"
+    },
+    "1276357": {
+      "cid": "149445",
+      "uid": "1276357",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-10-3 14:46",
+      "username": "BlueCraft",
+      "groupexpiry": "永不过期"
+    },
+    "1183178": {
+      "cid": "149311",
+      "uid": "1183178",
+      "operatorid": "42992",
+      "operator": "810587921",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-10-2 21:34",
+      "username": "a157359546",
+      "groupexpiry": "永不过期"
+    },
+    "1377040": {
+      "cid": "149296",
+      "uid": "1377040",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2015-10-2 18:13",
+      "username": "妈了个逼的",
+      "groupexpiry": "永不过期"
+    },
+    "1347357": {
+      "cid": "149277",
+      "uid": "1347357",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-10-2 16:22",
+      "username": "中华创想组",
+      "groupexpiry": "永不过期"
+    },
+    "1520395": {
+      "cid": "149243",
+      "uid": "1520395",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-10-2 13:02",
+      "username": "Gopeheng",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "691877"
+  },
+  "data": {
+    "3560913": {
+      "cid": "694572",
+      "uid": "3560913",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "违反坛规1-6",
+      "dateline": "2020-8-22 20:17",
+      "username": "gamerteamed",
+      "groupexpiry": "永不过期"
+    },
+    "3563032": {
+      "cid": "694503",
+      "uid": "3563032",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "广告账号",
+      "dateline": "2020-8-22 19:18",
+      "username": "Superfoodie",
+      "groupexpiry": "永不过期"
+    },
+    "3440193": {
+      "cid": "694216",
+      "uid": "3440193",
+      "operatorid": "1142520",
+      "operator": "猜猜谁是谁",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-8-22 10:51",
+      "username": "wxy123.",
+      "groupexpiry": "永不过期"
+    },
+    "1324304": {
+      "cid": "694215",
+      "uid": "1324304",
+      "operatorid": "1142520",
+      "operator": "猜猜谁是谁",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-8-22 10:51",
+      "username": "z416117127",
+      "groupexpiry": "永不过期"
+    },
+    "1720875": {
+      "cid": "694162",
+      "uid": "1720875",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "为马甲账号刷分，坛规2-4K永久禁言处理",
+      "dateline": "2020-8-22 09:35",
+      "username": "illness_emc",
+      "groupexpiry": "永不过期"
+    },
+    "2062958": {
+      "cid": "694161",
+      "uid": "2062958",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "为马甲账号刷分，坛规2-4K永久禁言处理",
+      "dateline": "2020-8-22 09:35",
+      "username": "Shi_Xian",
+      "groupexpiry": "永不过期"
+    },
+    "3179924": {
+      "cid": "694158",
+      "uid": "3179924",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "为马甲账号刷分12人气，坛规2-4K永久禁言处理",
+      "dateline": "2020-8-22 09:25",
+      "username": "61324",
+      "groupexpiry": "永不过期"
+    },
+    "1433047": {
+      "cid": "693746",
+      "uid": "1433047",
+      "operatorid": "46925",
+      "operator": "xukarhei",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-8-22 00:32",
+      "username": "Again灬",
+      "groupexpiry": "永不过期"
+    },
+    "3559275": {
+      "cid": "693201",
+      "uid": "3559275",
+      "operatorid": "46925",
+      "operator": "xukarhei",
+      "action": "禁止发言",
+      "reason": "恶意辱骂",
+      "dateline": "2020-8-21 17:51",
+      "username": "祖安三旬猎母者",
+      "groupexpiry": "永不过期"
+    },
+    "3433178": {
+      "cid": "693185",
+      "uid": "3433178",
+      "operatorid": "458143",
+      "operator": "阴阳师元素祭祀",
+      "action": "禁止发言",
+      "reason": "传播恶意代码",
+      "dateline": "2020-8-21 17:20",
+      "username": "梦想的道路",
+      "groupexpiry": "永不过期"
+    },
+    "3543153": {
+      "cid": "692818",
+      "uid": "3543153",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-8-21 01:31",
+      "username": "cc_axiao",
+      "groupexpiry": "永不过期"
+    },
+    "2568694": {
+      "cid": "692816",
+      "uid": "2568694",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-8-21 01:31",
+      "username": "616611938",
+      "groupexpiry": "永不过期"
+    },
+    "3331945": {
+      "cid": "691877",
+      "uid": "3331945",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止访问",
+      "reason": "末地水贴",
+      "dateline": "2020-8-20 08:21",
+      "username": "wwz_chinese",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

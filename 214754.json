@@ -1,0 +1,184 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "214754"
+  },
+  "data": {
+    "252945": {
+      "cid": "215294",
+      "uid": "252945",
+      "operatorid": "1757048",
+      "operator": "逗比桃",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2016-9-27 22:34",
+      "username": "520111222",
+      "groupexpiry": "永不过期"
+    },
+    "1338783": {
+      "cid": "215293",
+      "uid": "1338783",
+      "operatorid": "1757048",
+      "operator": "逗比桃",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2016-9-27 22:25",
+      "username": "asjwdwan521",
+      "groupexpiry": "永不过期"
+    },
+    "1827297": {
+      "cid": "215288",
+      "uid": "1827297",
+      "operatorid": "61635",
+      "operator": "jianghr",
+      "action": "禁止发言",
+      "reason": "黄",
+      "dateline": "2016-9-27 21:07",
+      "username": "不灭的烟头",
+      "groupexpiry": "永不过期"
+    },
+    "1943344": {
+      "cid": "215272",
+      "uid": "1943344",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "违规用户名",
+      "dateline": "2016-9-27 15:41",
+      "username": "MineCraft国服",
+      "groupexpiry": "永不过期"
+    },
+    "1942689": {
+      "cid": "215271",
+      "uid": "1942689",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "违规用户名",
+      "dateline": "2016-9-27 15:24",
+      "username": "版_主",
+      "groupexpiry": "永不过期"
+    },
+    "1943444": {
+      "cid": "215178",
+      "uid": "1943444",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2016-9-25 21:35",
+      "username": "www.whbc.com.cn",
+      "groupexpiry": "永不过期"
+    },
+    "1942628": {
+      "cid": "215177",
+      "uid": "1942628",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2016-9-25 21:35",
+      "username": "导学号3",
+      "groupexpiry": "永不过期"
+    },
+    "1891362": {
+      "cid": "215108",
+      "uid": "1891362",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-9-25 18:41",
+      "username": "zgx919028504",
+      "groupexpiry": "永不过期"
+    },
+    "1899049": {
+      "cid": "215106",
+      "uid": "1899049",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-9-25 18:25",
+      "username": "jinpeng80452101",
+      "groupexpiry": "永不过期"
+    },
+    "1894666": {
+      "cid": "215033",
+      "uid": "1894666",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2016-9-25 12:55",
+      "username": "梁泽希2",
+      "groupexpiry": "永不过期"
+    },
+    "1908025": {
+      "cid": "215032",
+      "uid": "1908025",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2016-9-25 12:55",
+      "username": "梁泽希3",
+      "groupexpiry": "永不过期"
+    },
+    "1941688": {
+      "cid": "215030",
+      "uid": "1941688",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2016-9-25 12:54",
+      "username": "chuga111",
+      "groupexpiry": "永不过期"
+    },
+    "1939532": {
+      "cid": "214910",
+      "uid": "1939532",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2016-9-24 20:03",
+      "username": "导学号2",
+      "groupexpiry": "永不过期"
+    },
+    "1939742": {
+      "cid": "214887",
+      "uid": "1939742",
+      "operatorid": "77891",
+      "operator": "SkyCatcher",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-9-24 18:40",
+      "username": "Gyzercc",
+      "groupexpiry": "永不过期"
+    },
+    "1939050": {
+      "cid": "214768",
+      "uid": "1939050",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2016-9-23 21:38",
+      "username": "whbc1111",
+      "groupexpiry": "永不过期"
+    },
+    "1938997": {
+      "cid": "214754",
+      "uid": "1938997",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "模仿官方口径宣布活动",
+      "dateline": "2016-9-23 17:07",
+      "username": "导学号1",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

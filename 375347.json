@@ -1,0 +1,140 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "375347"
+  },
+  "data": {
+    "2633135": {
+      "cid": "376992",
+      "uid": "2633135",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": "广告机",
+      "dateline": "2019-1-1 18:29",
+      "username": "q1747047215",
+      "groupexpiry": "永不过期"
+    },
+    "2631693": {
+      "cid": "376963",
+      "uid": "2631693",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2018-12-31 22:03",
+      "username": "love百里",
+      "groupexpiry": "永不过期"
+    },
+    "2630687": {
+      "cid": "376686",
+      "uid": "2630687",
+      "operatorid": "1575538",
+      "operator": "ff98sha",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2018-12-29 13:26",
+      "username": "第十四",
+      "groupexpiry": "永不过期"
+    },
+    "2611324": {
+      "cid": "376673",
+      "uid": "2611324",
+      "operatorid": "467426",
+      "operator": "Tollainmear",
+      "action": "禁止发言",
+      "reason": "转账2000",
+      "dateline": "2018-12-28 13:16",
+      "username": "玲舟_呢",
+      "groupexpiry": "永不过期"
+    },
+    "364270": {
+      "cid": "376672",
+      "uid": "364270",
+      "operatorid": "467426",
+      "operator": "Tollainmear",
+      "action": "禁止发言",
+      "reason": "转账2000",
+      "dateline": "2018-12-28 13:16",
+      "username": "TEUFO",
+      "groupexpiry": "永不过期"
+    },
+    "2628785": {
+      "cid": "376628",
+      "uid": "2628785",
+      "operatorid": "1575538",
+      "operator": "ff98sha",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2018-12-25 18:31",
+      "username": "zyjzzm",
+      "groupexpiry": "永不过期"
+    },
+    "2571903": {
+      "cid": "376439",
+      "uid": "2571903",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2018-12-22 01:22",
+      "username": "佐木君Carl",
+      "groupexpiry": "永不过期"
+    },
+    "2016119": {
+      "cid": "376438",
+      "uid": "2016119",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2018-12-22 01:22",
+      "username": "Me_Dorom",
+      "groupexpiry": "永不过期"
+    },
+    "2628324": {
+      "cid": "376374",
+      "uid": "2628324",
+      "operatorid": "1280406",
+      "operator": "zjxx",
+      "action": "禁止发言",
+      "reason": "大量灌水",
+      "dateline": "2018-12-21 19:48",
+      "username": "578677973",
+      "groupexpiry": "永不过期"
+    },
+    "2610245": {
+      "cid": "376272",
+      "uid": "2610245",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "坛规2-4-R",
+      "dateline": "2018-12-19 20:59",
+      "username": "1723624171",
+      "groupexpiry": "永不过期"
+    },
+    "2624752": {
+      "cid": "375463",
+      "uid": "2624752",
+      "operatorid": "720449",
+      "operator": "玄素",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2018-12-11 22:57",
+      "username": "淫妹子eyny88",
+      "groupexpiry": "永不过期"
+    },
+    "2139453": {
+      "cid": "375362",
+      "uid": "2139453",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "神奇宝贝服骗审833749",
+      "dateline": "2018-12-11 13:28",
+      "username": "帅的没天理",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

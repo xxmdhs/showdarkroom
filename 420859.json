@@ -1,0 +1,162 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "420859"
+  },
+  "data": {
+    "2135354": {
+      "cid": "423358",
+      "uid": "2135354",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-7-7 19:27",
+      "username": "M-qingtian",
+      "groupexpiry": "永不过期"
+    },
+    "768914": {
+      "cid": "423357",
+      "uid": "768914",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-7-7 19:24",
+      "username": "DmrGiokeUncle",
+      "groupexpiry": "永不过期"
+    },
+    "2695791": {
+      "cid": "423349",
+      "uid": "2695791",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-7-7 19:06",
+      "username": "William_Che",
+      "groupexpiry": "永不过期"
+    },
+    "1490739": {
+      "cid": "423330",
+      "uid": "1490739",
+      "operatorid": "679293",
+      "operator": "FHC红石",
+      "action": "禁止发言",
+      "reason": "私信辱骂",
+      "dateline": "2019-7-7 17:38",
+      "username": "Army_Master",
+      "groupexpiry": "永不过期"
+    },
+    "2236225": {
+      "cid": "423329",
+      "uid": "2236225",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-7-7 17:22",
+      "username": "Willam_Che",
+      "groupexpiry": "永不过期"
+    },
+    "2574563": {
+      "cid": "423328",
+      "uid": "2574563",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-7-7 17:21",
+      "username": "safari_che",
+      "groupexpiry": "永不过期"
+    },
+    "1737881": {
+      "cid": "423327",
+      "uid": "1737881",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-7-7 17:21",
+      "username": "wc5477",
+      "groupexpiry": "永不过期"
+    },
+    "2207327": {
+      "cid": "423326",
+      "uid": "2207327",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-7-7 17:20",
+      "username": "Zuo_Zhu666",
+      "groupexpiry": "永不过期"
+    },
+    "1287586": {
+      "cid": "423325",
+      "uid": "1287586",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2019-7-7 17:20",
+      "username": "Miudrg",
+      "groupexpiry": "永不过期"
+    },
+    "2791349": {
+      "cid": "423270",
+      "uid": "2791349",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2019-7-7 14:55",
+      "username": "好大的jb",
+      "groupexpiry": "永不过期"
+    },
+    "2782869": {
+      "cid": "422129",
+      "uid": "2782869",
+      "operatorid": "458143",
+      "operator": "阴阳师元素祭祀",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-7-5 10:43",
+      "username": "MCheise",
+      "groupexpiry": "永不过期"
+    },
+    "2739082": {
+      "cid": "421270",
+      "uid": "2739082",
+      "operatorid": "612006",
+      "operator": "ysy960108",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-7-3 16:35",
+      "username": "ILONG",
+      "groupexpiry": "永不过期"
+    },
+    "2785446": {
+      "cid": "421268",
+      "uid": "2785446",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-7-3 15:58",
+      "username": "外送茶bjx250",
+      "groupexpiry": "永不过期"
+    },
+    "2740832": {
+      "cid": "420859",
+      "uid": "2740832",
+      "operatorid": "1101813",
+      "operator": "XJue_DaDa",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-7-3 00:01",
+      "username": "o8858",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

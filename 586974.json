@@ -1,0 +1,151 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "586974"
+  },
+  "data": {
+    "2582690": {
+      "cid": "592043",
+      "uid": "2582690",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2020-4-4 22:39",
+      "username": "hyt垃圾论坛",
+      "groupexpiry": "永不过期"
+    },
+    "2024267": {
+      "cid": "592041",
+      "uid": "2024267",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "复读机",
+      "dateline": "2020-4-4 22:25",
+      "username": "2331901494",
+      "groupexpiry": "永不过期"
+    },
+    "171057": {
+      "cid": "592030",
+      "uid": "171057",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "头像违规, 待修改后自行申诉解封",
+      "dateline": "2020-4-4 21:31",
+      "username": "Liangv",
+      "groupexpiry": "永不过期"
+    },
+    "3042841": {
+      "cid": "591690",
+      "uid": "3042841",
+      "operatorid": "46925",
+      "operator": "xukarhei",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-4 16:46",
+      "username": "fangchen",
+      "groupexpiry": "永不过期"
+    },
+    "3123706": {
+      "cid": "591682",
+      "uid": "3123706",
+      "operatorid": "46925",
+      "operator": "xukarhei",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-4 16:21",
+      "username": "抓不住",
+      "groupexpiry": "永不过期"
+    },
+    "3156592": {
+      "cid": "591680",
+      "uid": "3156592",
+      "operatorid": "46925",
+      "operator": "xukarhei",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-4 16:20",
+      "username": "154051",
+      "groupexpiry": "永不过期"
+    },
+    "2888069": {
+      "cid": "590261",
+      "uid": "2888069",
+      "operatorid": "2511498",
+      "operator": "AzureHanChen",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-4-3 11:25",
+      "username": "yyxzzlove",
+      "groupexpiry": "永不过期"
+    },
+    "2981260": {
+      "cid": "589502",
+      "uid": "2981260",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2020-4-2 22:35",
+      "username": "858569",
+      "groupexpiry": "永不过期"
+    },
+    "2566173": {
+      "cid": "588077",
+      "uid": "2566173",
+      "operatorid": "111377",
+      "operator": "LittleHei",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-2 14:03",
+      "username": "zx2587338920",
+      "groupexpiry": "永不过期"
+    },
+    "2478373": {
+      "cid": "587480",
+      "uid": "2478373",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-2 02:38",
+      "username": "2656989851",
+      "groupexpiry": "永不过期"
+    },
+    "3136525": {
+      "cid": "587478",
+      "uid": "3136525",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-2 02:36",
+      "username": "梦伴",
+      "groupexpiry": "永不过期"
+    },
+    "121673": {
+      "cid": "587476",
+      "uid": "121673",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-2 02:36",
+      "username": "37510932",
+      "groupexpiry": "永不过期"
+    },
+    "2708918": {
+      "cid": "587071",
+      "uid": "2708918",
+      "operatorid": "240460",
+      "operator": "xu11xx",
+      "action": "禁止发言",
+      "reason": "5星失信人员 账号交易",
+      "dateline": "2020-4-1 18:43",
+      "username": "lingSerCha",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

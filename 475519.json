@@ -1,0 +1,129 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "475519"
+  },
+  "data": {
+    "2805319": {
+      "cid": "479028",
+      "uid": "2805319",
+      "operatorid": "1196990",
+      "operator": "海螺螺",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-10-14 15:33",
+      "username": "jk5822",
+      "groupexpiry": "永不过期"
+    },
+    "2902007": {
+      "cid": "479026",
+      "uid": "2902007",
+      "operatorid": "2444378",
+      "operator": "SPGoding",
+      "action": "禁止发言",
+      "reason": "复读机",
+      "dateline": "2019-10-14 14:14",
+      "username": "qq1641096147",
+      "groupexpiry": "永不过期"
+    },
+    "2902023": {
+      "cid": "478983",
+      "uid": "2902023",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-10-14 11:39",
+      "username": "昆多的",
+      "groupexpiry": "永不过期"
+    },
+    "2901134": {
+      "cid": "478490",
+      "uid": "2901134",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-10-13 12:28",
+      "username": "超时尚",
+      "groupexpiry": "永不过期"
+    },
+    "2863085": {
+      "cid": "478169",
+      "uid": "2863085",
+      "operatorid": "679293",
+      "operator": "爱心魔王FHC",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-10-12 12:37",
+      "username": "南放发",
+      "groupexpiry": "永不过期"
+    },
+    "2899238": {
+      "cid": "478049",
+      "uid": "2899238",
+      "operatorid": "165947",
+      "operator": "凛",
+      "action": "禁止发言",
+      "reason": "机器人",
+      "dateline": "2019-10-11 17:08",
+      "username": "绘墨扇",
+      "groupexpiry": "永不过期"
+    },
+    "2899263": {
+      "cid": "477641",
+      "uid": "2899263",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-10-10 09:59",
+      "username": "康可健",
+      "groupexpiry": "永不过期"
+    },
+    "2899016": {
+      "cid": "477555",
+      "uid": "2899016",
+      "operatorid": "2067786",
+      "operator": "消",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-10-9 11:44",
+      "username": "15099976578",
+      "groupexpiry": "永不过期"
+    },
+    "2896719": {
+      "cid": "477491",
+      "uid": "2896719",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2019-10-8 22:23",
+      "username": "快手梦殇",
+      "groupexpiry": "永不过期"
+    },
+    "2874592": {
+      "cid": "477356",
+      "uid": "2874592",
+      "operatorid": "708478",
+      "operator": "南",
+      "action": "禁止发言",
+      "reason": "违规头像",
+      "dateline": "2019-10-8 18:32",
+      "username": "mudz666",
+      "groupexpiry": "永不过期"
+    },
+    "2876247": {
+      "cid": "476392",
+      "uid": "2876247",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2019-10-6 11:03",
+      "username": "老师吃屎",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

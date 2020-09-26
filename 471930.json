@@ -1,0 +1,162 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "471930"
+  },
+  "data": {
+    "1489329": {
+      "cid": "474621",
+      "uid": "1489329",
+      "operatorid": "2067786",
+      "operator": "消",
+      "action": "禁止发言",
+      "reason": "4-15 机器账号顶贴超过三天未说明",
+      "dateline": "2019-10-3 19:20",
+      "username": "喵小喵",
+      "groupexpiry": "永不过期"
+    },
+    "2641159": {
+      "cid": "474620",
+      "uid": "2641159",
+      "operatorid": "2067786",
+      "operator": "消",
+      "action": "禁止发言",
+      "reason": "4-15 机器账号顶贴超过三天未说明",
+      "dateline": "2019-10-3 19:20",
+      "username": "猫猫单UDcco",
+      "groupexpiry": "永不过期"
+    },
+    "2772706": {
+      "cid": "474559",
+      "uid": "2772706",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-10-3 18:46",
+      "username": "fawdwa",
+      "groupexpiry": "永不过期"
+    },
+    "2770141": {
+      "cid": "474558",
+      "uid": "2770141",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-10-3 18:46",
+      "username": "wghhw",
+      "groupexpiry": "永不过期"
+    },
+    "2770139": {
+      "cid": "474557",
+      "uid": "2770139",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-10-3 18:46",
+      "username": "scszczs",
+      "groupexpiry": "永不过期"
+    },
+    "2770135": {
+      "cid": "474556",
+      "uid": "2770135",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-10-3 18:45",
+      "username": "ywwyy",
+      "groupexpiry": "永不过期"
+    },
+    "2770131": {
+      "cid": "474555",
+      "uid": "2770131",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-10-3 18:45",
+      "username": "wtpop",
+      "groupexpiry": "永不过期"
+    },
+    "2770123": {
+      "cid": "474554",
+      "uid": "2770123",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-10-3 18:45",
+      "username": "dwag",
+      "groupexpiry": "永不过期"
+    },
+    "2770117": {
+      "cid": "474553",
+      "uid": "2770117",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "异常账号",
+      "dateline": "2019-10-3 18:45",
+      "username": "piuww",
+      "groupexpiry": "永不过期"
+    },
+    "2892991": {
+      "cid": "474062",
+      "uid": "2892991",
+      "operatorid": "281332",
+      "operator": "星",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-10-3 13:42",
+      "username": "替归化",
+      "groupexpiry": "永不过期"
+    },
+    "2470758": {
+      "cid": "473963",
+      "uid": "2470758",
+      "operatorid": "1101813",
+      "operator": "匿名的网友",
+      "action": "禁止发言",
+      "reason": "剽窃晒尸",
+      "dateline": "2019-10-3 09:19",
+      "username": "九",
+      "groupexpiry": "永不过期"
+    },
+    "1444557": {
+      "cid": "473595",
+      "uid": "1444557",
+      "operatorid": "975525",
+      "operator": "ruhuasiyu",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2019-10-2 17:53",
+      "username": "张顺",
+      "groupexpiry": "永不过期"
+    },
+    "2890816": {
+      "cid": "471931",
+      "uid": "2890816",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-10-1 21:00",
+      "username": "烂茅逗",
+      "groupexpiry": "永不过期"
+    },
+    "2891002": {
+      "cid": "471930",
+      "uid": "2891002",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2019-10-1 20:59",
+      "username": "时空传说550",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

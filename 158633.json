@@ -1,0 +1,250 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "158633"
+  },
+  "data": {
+    "1567908": {
+      "cid": "159640",
+      "uid": "1567908",
+      "operatorid": "77891",
+      "operator": "SkyCatcher",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-12-8 10:59",
+      "username": "我来了哦也",
+      "groupexpiry": "永不过期"
+    },
+    "1384429": {
+      "cid": "159639",
+      "uid": "1384429",
+      "operatorid": "77891",
+      "operator": "SkyCatcher",
+      "action": "禁止发言",
+      "reason": "广告机+恶意辱骂",
+      "dateline": "2015-12-8 10:59",
+      "username": "3085666866",
+      "groupexpiry": "永不过期"
+    },
+    "1600786": {
+      "cid": "159622",
+      "uid": "1600786",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": ".",
+      "dateline": "2015-12-7 21:02",
+      "username": "sb我要曝光",
+      "groupexpiry": "永不过期"
+    },
+    "1431346": {
+      "cid": "159536",
+      "uid": "1431346",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-12-6 22:01",
+      "username": "2638512265",
+      "groupexpiry": "永不过期"
+    },
+    "366041": {
+      "cid": "159480",
+      "uid": "366041",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2015-12-6 17:38",
+      "username": "huangshize",
+      "groupexpiry": "永不过期"
+    },
+    "1085661": {
+      "cid": "159479",
+      "uid": "1085661",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2015-12-6 17:36",
+      "username": "huangshize2000",
+      "groupexpiry": "永不过期"
+    },
+    "148361": {
+      "cid": "159478",
+      "uid": "148361",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2015-12-6 17:36",
+      "username": "Kelvely",
+      "groupexpiry": "永不过期"
+    },
+    "361303": {
+      "cid": "159477",
+      "uid": "361303",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2015-12-6 17:37",
+      "username": "cs13965753888",
+      "groupexpiry": "永不过期"
+    },
+    "368624": {
+      "cid": "159476",
+      "uid": "368624",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2015-12-6 17:37",
+      "username": "GJP",
+      "groupexpiry": "永不过期"
+    },
+    "272049": {
+      "cid": "159475",
+      "uid": "272049",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2015-12-6 17:37",
+      "username": "永远的归曼",
+      "groupexpiry": "永不过期"
+    },
+    "403841": {
+      "cid": "159474",
+      "uid": "403841",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2015-12-6 17:37",
+      "username": "qwe2298946728",
+      "groupexpiry": "永不过期"
+    },
+    "1291297": {
+      "cid": "159473",
+      "uid": "1291297",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2015-12-6 17:36",
+      "username": "Yuxi_Jun",
+      "groupexpiry": "永不过期"
+    },
+    "1199462": {
+      "cid": "159177",
+      "uid": "1199462",
+      "operatorid": "984070",
+      "operator": "MRTangwin8",
+      "action": "禁止发言",
+      "reason": "新人报到大量屠版",
+      "dateline": "2015-12-5 06:57",
+      "username": "兔丶仔",
+      "groupexpiry": "永不过期"
+    },
+    "1149520": {
+      "cid": "159163",
+      "uid": "1149520",
+      "operatorid": "1239693",
+      "operator": "DreamsDeductive",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-12-4 23:53",
+      "username": "萤火虫",
+      "groupexpiry": "永不过期"
+    },
+    "1169757": {
+      "cid": "159040",
+      "uid": "1169757",
+      "operatorid": "1047807",
+      "operator": "ffc2412966076",
+      "action": "禁止发言",
+      "reason": "广告机\r\n藏得略深",
+      "dateline": "2015-12-4 12:30",
+      "username": "yjldngyj",
+      "groupexpiry": "永不过期"
+    },
+    "1463141": {
+      "cid": "158953",
+      "uid": "1463141",
+      "operatorid": "42992",
+      "operator": "810587921",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-12-3 18:33",
+      "username": "Helloeveryone",
+      "groupexpiry": "永不过期"
+    },
+    "1590062": {
+      "cid": "158899",
+      "uid": "1590062",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": ".",
+      "dateline": "2015-12-3 14:13",
+      "username": "luotou",
+      "groupexpiry": "永不过期"
+    },
+    "1595646": {
+      "cid": "158897",
+      "uid": "1595646",
+      "operatorid": "189127",
+      "operator": "huanghongxun",
+      "action": "禁止发言",
+      "reason": "广告机\r\n\r\n大台北出 差旅遊 約正妹line：twtw5208台北旅館約台北找服務",
+      "dateline": "2015-12-3 13:38",
+      "username": "ddd2589",
+      "groupexpiry": "永不过期"
+    },
+    "1545780": {
+      "cid": "158669",
+      "uid": "1545780",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-12-1 19:25",
+      "username": "tztwind",
+      "groupexpiry": "永不过期"
+    },
+    "1553712": {
+      "cid": "158668",
+      "uid": "1553712",
+      "operatorid": "61635",
+      "operator": "jianghr",
+      "action": "禁止发言",
+      "reason": "广告机再见",
+      "dateline": "2015-12-1 19:24",
+      "username": "Jack_mod",
+      "groupexpiry": "永不过期"
+    },
+    "23999": {
+      "cid": "158642",
+      "uid": "23999",
+      "operatorid": "77891",
+      "operator": "SkyCatcher",
+      "action": "禁止发言",
+      "reason": "在人才市场版块屡次重发招聘主题，违反版规2-4",
+      "dateline": "2015-12-1 10:15",
+      "username": "长翅膀滴喵",
+      "groupexpiry": "永不过期"
+    },
+    "657073": {
+      "cid": "158633",
+      "uid": "657073",
+      "operatorid": "77891",
+      "operator": "SkyCatcher",
+      "action": "禁止发言",
+      "reason": "感广告机",
+      "dateline": "2015-12-1 10:07",
+      "username": "pp839484",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

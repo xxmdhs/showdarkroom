@@ -1,0 +1,85 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "616194"
+  },
+  "data": {
+    "1770672": {
+      "cid": "617301",
+      "uid": "1770672",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-4-27 23:32",
+      "username": "yingchao",
+      "groupexpiry": "永不过期"
+    },
+    "3065363": {
+      "cid": "616564",
+      "uid": "3065363",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-4-26 23:36",
+      "username": "天空im",
+      "groupexpiry": "永不过期"
+    },
+    "1732973": {
+      "cid": "616560",
+      "uid": "1732973",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-4-26 23:35",
+      "username": "MINECRAFT天空",
+      "groupexpiry": "永不过期"
+    },
+    "2856391": {
+      "cid": "616559",
+      "uid": "2856391",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-4-26 23:35",
+      "username": "小曲2",
+      "groupexpiry": "永不过期"
+    },
+    "1053279": {
+      "cid": "616558",
+      "uid": "1053279",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-4-26 23:35",
+      "username": "xiaobingfeng",
+      "groupexpiry": "永不过期"
+    },
+    "922904": {
+      "cid": "616537",
+      "uid": "922904",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "2-4-D",
+      "dateline": "2020-4-26 23:07",
+      "username": "xiao_yuer",
+      "groupexpiry": "永不过期"
+    },
+    "2846965": {
+      "cid": "616408",
+      "uid": "2846965",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-26 20:08",
+      "username": "3493086769",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

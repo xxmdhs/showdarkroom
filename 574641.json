@@ -1,0 +1,129 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "574641"
+  },
+  "data": {
+    "1550172": {
+      "cid": "577307",
+      "uid": "1550172",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "转账晒尸  https://www.mcbbs.net/thread-996391-1-1.html",
+      "dateline": "2020-3-25 12:58",
+      "username": "An-xin",
+      "groupexpiry": "永不过期"
+    },
+    "3059914": {
+      "cid": "576737",
+      "uid": "3059914",
+      "operatorid": "1219598",
+      "operator": "zhanshi123",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-3-25 08:03",
+      "username": "3270863581",
+      "groupexpiry": "永不过期"
+    },
+    "2932323": {
+      "cid": "576546",
+      "uid": "2932323",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-3-24 23:14",
+      "username": "mc_ztq",
+      "groupexpiry": "永不过期"
+    },
+    "2175249": {
+      "cid": "576545",
+      "uid": "2175249",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-3-24 23:14",
+      "username": "pst123",
+      "groupexpiry": "永不过期"
+    },
+    "738474": {
+      "cid": "576544",
+      "uid": "738474",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-3-24 23:14",
+      "username": "彭顺添",
+      "groupexpiry": "永不过期"
+    },
+    "1711070": {
+      "cid": "576543",
+      "uid": "1711070",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-3-24 23:14",
+      "username": "d505204779",
+      "groupexpiry": "永不过期"
+    },
+    "1265965": {
+      "cid": "575462",
+      "uid": "1265965",
+      "operatorid": "46925",
+      "operator": "xukarhei",
+      "action": "禁止发言",
+      "reason": "水龙头不知为啥解封了",
+      "dateline": "2020-3-23 21:14",
+      "username": "1151420165",
+      "groupexpiry": "永不过期"
+    },
+    "2770337": {
+      "cid": "575364",
+      "uid": "2770337",
+      "operatorid": "46925",
+      "operator": "xukarhei",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-3-23 20:36",
+      "username": "wu_ko",
+      "groupexpiry": "永不过期"
+    },
+    "2163807": {
+      "cid": "575363",
+      "uid": "2163807",
+      "operatorid": "46925",
+      "operator": "xukarhei",
+      "action": "禁止发言",
+      "reason": "水龙头，不知为何被解封了",
+      "dateline": "2020-3-23 20:32",
+      "username": "862320339",
+      "groupexpiry": "永不过期"
+    },
+    "3156811": {
+      "cid": "575077",
+      "uid": "3156811",
+      "operatorid": "1575538",
+      "operator": "ff98sha",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-3-23 16:24",
+      "username": "xuejian2020",
+      "groupexpiry": "永不过期"
+    },
+    "3150634": {
+      "cid": "574641",
+      "uid": "3150634",
+      "operatorid": "458143",
+      "operator": "阴阳师元素祭祀",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-3-23 10:51",
+      "username": "小小样子",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

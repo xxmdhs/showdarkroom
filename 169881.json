@@ -1,0 +1,162 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "169881"
+  },
+  "data": {
+    "378596": {
+      "cid": "171964",
+      "uid": "378596",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-1-29 16:54",
+      "username": "dcq6562449",
+      "groupexpiry": "永不过期"
+    },
+    "1660563": {
+      "cid": "171963",
+      "uid": "1660563",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-1-29 16:50",
+      "username": "Manito~",
+      "groupexpiry": "永不过期"
+    },
+    "277580": {
+      "cid": "171962",
+      "uid": "277580",
+      "operatorid": "437492",
+      "operator": "darknova",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-1-29 16:47",
+      "username": "dl94999",
+      "groupexpiry": "永不过期"
+    },
+    "1084402": {
+      "cid": "171152",
+      "uid": "1084402",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-1-28 14:49",
+      "username": "2439868697",
+      "groupexpiry": "永不过期"
+    },
+    "943437": {
+      "cid": "171106",
+      "uid": "943437",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-1-28 14:32",
+      "username": "游戏--道法",
+      "groupexpiry": "永不过期"
+    },
+    "462202": {
+      "cid": "170973",
+      "uid": "462202",
+      "operatorid": "84901",
+      "operator": "pogox",
+      "action": "禁止发言",
+      "reason": "多次多个板块发表违规/不合格商业宣传贴，永封",
+      "dateline": "2016-1-27 23:23",
+      "username": "0122",
+      "groupexpiry": "永不过期"
+    },
+    "1105860": {
+      "cid": "170685",
+      "uid": "1105860",
+      "operatorid": "92880",
+      "operator": "tony990412",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2016-1-27 13:35",
+      "username": "simple_fhb",
+      "groupexpiry": "永不过期"
+    },
+    "1664270": {
+      "cid": "170415",
+      "uid": "1664270",
+      "operatorid": "984070",
+      "operator": "MRTangwin8",
+      "action": "禁止发言",
+      "reason": ".",
+      "dateline": "2016-1-26 20:43",
+      "username": "guywcl",
+      "groupexpiry": "永不过期"
+    },
+    "571476": {
+      "cid": "170381",
+      "uid": "571476",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "刷分马甲",
+      "dateline": "2016-1-26 19:39",
+      "username": "1843831698",
+      "groupexpiry": "永不过期"
+    },
+    "753461": {
+      "cid": "170377",
+      "uid": "753461",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "刷分用马甲",
+      "dateline": "2016-1-26 19:36",
+      "username": "这是小号",
+      "groupexpiry": "永不过期"
+    },
+    "1662202": {
+      "cid": "170114",
+      "uid": "1662202",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2016-1-25 22:46",
+      "username": "voatwn",
+      "groupexpiry": "永不过期"
+    },
+    "1661020": {
+      "cid": "170113",
+      "uid": "1661020",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2016-1-25 22:46",
+      "username": "lfpavr",
+      "groupexpiry": "永不过期"
+    },
+    "971254": {
+      "cid": "169907",
+      "uid": "971254",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2016-1-25 17:53",
+      "username": "ndfn",
+      "groupexpiry": "永不过期"
+    },
+    "1660693": {
+      "cid": "169881",
+      "uid": "1660693",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": ".",
+      "dateline": "2016-1-25 15:45",
+      "username": "bzwcl1234",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

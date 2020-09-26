@@ -1,0 +1,217 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "90968"
+  },
+  "data": {
+    "1037273": {
+      "cid": "92518",
+      "uid": "1037273",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "自注册时间11月起就有刷分行为，永久封禁",
+      "dateline": "2015-2-16 11:06",
+      "username": "°夏魁",
+      "groupexpiry": "永不过期"
+    },
+    "1174195": {
+      "cid": "92257",
+      "uid": "1174195",
+      "operatorid": "274490",
+      "operator": "SPE__HaiKuo",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-2-15 20:11",
+      "username": "光明帝国",
+      "groupexpiry": "永不过期"
+    },
+    "1173721": {
+      "cid": "91953",
+      "uid": "1173721",
+      "operatorid": "437492",
+      "operator": "darknova",
+      "action": "禁止发言",
+      "reason": "剽窃",
+      "dateline": "2015-2-15 15:45",
+      "username": "zjy1393080704",
+      "groupexpiry": "永不过期"
+    },
+    "1093030": {
+      "cid": "91869",
+      "uid": "1093030",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷帖，永久",
+      "dateline": "2015-2-15 14:03",
+      "username": "aa3050779",
+      "groupexpiry": "永不过期"
+    },
+    "241237": {
+      "cid": "91833",
+      "uid": "241237",
+      "operatorid": "132943",
+      "operator": "a20001017",
+      "action": "禁止发言",
+      "reason": "多次发布宣传贴",
+      "dateline": "2015-2-15 12:02",
+      "username": "王子殿下",
+      "groupexpiry": "永不过期"
+    },
+    "674039": {
+      "cid": "91601",
+      "uid": "674039",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-2-14 15:21",
+      "username": "541974216",
+      "groupexpiry": "永不过期"
+    },
+    "133231": {
+      "cid": "91561",
+      "uid": "133231",
+      "operatorid": "76964",
+      "operator": "zhh0000zhh",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-2-14 13:04",
+      "username": "wwwvw",
+      "groupexpiry": "永不过期"
+    },
+    "962775": {
+      "cid": "91553",
+      "uid": "962775",
+      "operatorid": "76964",
+      "operator": "zhh0000zhh",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-2-14 12:49",
+      "username": "无双剑姬",
+      "groupexpiry": "永不过期"
+    },
+    "1176715": {
+      "cid": "91232",
+      "uid": "1176715",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-2-13 22:45",
+      "username": "mmmmmm.",
+      "groupexpiry": "永不过期"
+    },
+    "109756": {
+      "cid": "91227",
+      "uid": "109756",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "版战争吵，7天",
+      "dateline": "2015-2-13 21:58",
+      "username": "597676370",
+      "groupexpiry": "永不过期"
+    },
+    "999528": {
+      "cid": "91108",
+      "uid": "999528",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷贴，永久",
+      "dateline": "2015-2-13 13:09",
+      "username": "kaikai935955080",
+      "groupexpiry": "永不过期"
+    },
+    "1171919": {
+      "cid": "91104",
+      "uid": "1171919",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-2-13 12:58",
+      "username": "你死了",
+      "groupexpiry": "永不过期"
+    },
+    "1059740": {
+      "cid": "91103",
+      "uid": "1059740",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-2-13 12:40",
+      "username": "懵懂",
+      "groupexpiry": "永不过期"
+    },
+    "1160038": {
+      "cid": "90987",
+      "uid": "1160038",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷贴，永久封禁",
+      "dateline": "2015-2-12 22:05",
+      "username": "MC时光之城",
+      "groupexpiry": "永不过期"
+    },
+    "1171175": {
+      "cid": "90975",
+      "uid": "1171175",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷分，永久封禁",
+      "dateline": "2015-2-12 21:04",
+      "username": "pp16178",
+      "groupexpiry": "永不过期"
+    },
+    "497739": {
+      "cid": "90974",
+      "uid": "497739",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷分，永久封禁",
+      "dateline": "2015-2-12 21:04",
+      "username": "pp16175",
+      "groupexpiry": "永不过期"
+    },
+    "317806": {
+      "cid": "90973",
+      "uid": "317806",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷分，永久封禁",
+      "dateline": "2015-2-12 21:03",
+      "username": "Alex_meser",
+      "groupexpiry": "永不过期"
+    },
+    "1175785": {
+      "cid": "90970",
+      "uid": "1175785",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "永久禁言",
+      "dateline": "2015-2-12 20:39",
+      "username": "ice_light2",
+      "groupexpiry": "永不过期"
+    },
+    "1009565": {
+      "cid": "90969",
+      "uid": "1009565",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "永久封禁",
+      "dateline": "2015-2-12 20:35",
+      "username": "ice_light",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

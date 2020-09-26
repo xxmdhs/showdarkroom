@@ -1,0 +1,140 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "617302"
+  },
+  "data": {
+    "121673": {
+      "cid": "619639",
+      "uid": "121673",
+      "operatorid": "458143",
+      "operator": "阴阳师元素祭祀",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-30 23:20",
+      "username": "37510932",
+      "groupexpiry": "永不过期"
+    },
+    "399175": {
+      "cid": "619630",
+      "uid": "399175",
+      "operatorid": "458143",
+      "operator": "阴阳师元素祭祀",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-30 23:14",
+      "username": "Danty丶轩辕",
+      "groupexpiry": "永不过期"
+    },
+    "2804832": {
+      "cid": "619532",
+      "uid": "2804832",
+      "operatorid": "3467",
+      "operator": "sjjklh",
+      "action": "禁止发言",
+      "reason": "刷分马甲账号",
+      "dateline": "2020-4-30 20:13",
+      "username": "哇塞服气",
+      "groupexpiry": "永不过期"
+    },
+    "3128213": {
+      "cid": "619317",
+      "uid": "3128213",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-4-30 12:41",
+      "username": "houyan2008",
+      "groupexpiry": "永不过期"
+    },
+    "3231211": {
+      "cid": "619307",
+      "uid": "3231211",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "复读机",
+      "dateline": "2020-4-30 12:17",
+      "username": "泽ker",
+      "groupexpiry": "永不过期"
+    },
+    "3265809": {
+      "cid": "619266",
+      "uid": "3265809",
+      "operatorid": "975525",
+      "operator": "ruhuasiyu",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-30 09:57",
+      "username": "、、、、、、、",
+      "groupexpiry": "永不过期"
+    },
+    "3130796": {
+      "cid": "618932",
+      "uid": "3130796",
+      "operatorid": "2659980",
+      "operator": "秦无心_Renoi",
+      "action": "禁止发言",
+      "reason": "连续20灌水",
+      "dateline": "2020-4-29 23:09",
+      "username": "安塔利亚RPG",
+      "groupexpiry": "永不过期"
+    },
+    "2834397": {
+      "cid": "617531",
+      "uid": "2834397",
+      "operatorid": "2444378",
+      "operator": "SPGoding",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-28 12:30",
+      "username": "七宫安澄",
+      "groupexpiry": "永不过期"
+    },
+    "2790215": {
+      "cid": "617490",
+      "uid": "2790215",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-4-28 11:10",
+      "username": "datoutian",
+      "groupexpiry": "永不过期"
+    },
+    "2870242": {
+      "cid": "617489",
+      "uid": "2870242",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-4-28 11:09",
+      "username": "xhnjj",
+      "groupexpiry": "永不过期"
+    },
+    "2790024": {
+      "cid": "617488",
+      "uid": "2790024",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-4-28 11:09",
+      "username": "liuliya",
+      "groupexpiry": "永不过期"
+    },
+    "2034562": {
+      "cid": "617302",
+      "uid": "2034562",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2020-4-27 23:32",
+      "username": "骨头GGsimida",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

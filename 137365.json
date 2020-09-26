@@ -1,0 +1,173 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "137365"
+  },
+  "data": {
+    "1393122": {
+      "cid": "138131",
+      "uid": "1393122",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "无意义回复刷帖",
+      "dateline": "2015-8-10 19:24",
+      "username": "Mei_Yuan",
+      "groupexpiry": "永不过期"
+    },
+    "1450771": {
+      "cid": "138066",
+      "uid": "1450771",
+      "operatorid": "258439",
+      "operator": "Grandiose",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2015-8-10 14:46",
+      "username": "wumao123",
+      "groupexpiry": "永不过期"
+    },
+    "830218": {
+      "cid": "138022",
+      "uid": "830218",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷帖",
+      "dateline": "2015-8-10 13:43",
+      "username": "xuanwo大大",
+      "groupexpiry": "永不过期"
+    },
+    "1453691": {
+      "cid": "137983",
+      "uid": "1453691",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-8-10 10:51",
+      "username": "王军飞.",
+      "groupexpiry": "永不过期"
+    },
+    "403841": {
+      "cid": "137952",
+      "uid": "403841",
+      "operatorid": "42992",
+      "operator": "810587921",
+      "action": "禁止发言",
+      "reason": "000",
+      "dateline": "2015-8-10 00:49",
+      "username": "qwe2298946728",
+      "groupexpiry": "永不过期"
+    },
+    "1244713": {
+      "cid": "137946",
+      "uid": "1244713",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-8-9 22:10",
+      "username": "kanper",
+      "groupexpiry": "永不过期"
+    },
+    "1452819": {
+      "cid": "137917",
+      "uid": "1452819",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-8-9 20:40",
+      "username": "imistake",
+      "groupexpiry": "永不过期"
+    },
+    "1299550": {
+      "cid": "137916",
+      "uid": "1299550",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-8-9 20:39",
+      "username": "isyoushabi",
+      "groupexpiry": "永不过期"
+    },
+    "1446078": {
+      "cid": "137882",
+      "uid": "1446078",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-8-9 16:30",
+      "username": "doyou.",
+      "groupexpiry": "永不过期"
+    },
+    "1349209": {
+      "cid": "137829",
+      "uid": "1349209",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-8-9 13:12",
+      "username": "Ch丶安小兮",
+      "groupexpiry": "永不过期"
+    },
+    "1168981": {
+      "cid": "137823",
+      "uid": "1168981",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "色情头像，刷帖",
+      "dateline": "2015-8-9 12:17",
+      "username": "火焰白虎",
+      "groupexpiry": "永不过期"
+    },
+    "720725": {
+      "cid": "137756",
+      "uid": "720725",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "引导会员到与论坛相同定位的论坛，违规签名档宣传",
+      "dateline": "2015-8-9 10:02",
+      "username": "1293395005",
+      "groupexpiry": "永不过期"
+    },
+    "890402": {
+      "cid": "137749",
+      "uid": "890402",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-8-9 09:23",
+      "username": "qqqqww1",
+      "groupexpiry": "永不过期"
+    },
+    "542384": {
+      "cid": "137739",
+      "uid": "542384",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷帖水龙头",
+      "dateline": "2015-8-9 09:05",
+      "username": "1791445456",
+      "groupexpiry": "永不过期"
+    },
+    "1285613": {
+      "cid": "137495",
+      "uid": "1285613",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-8-8 17:37",
+      "username": "ma212124732",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

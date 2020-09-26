@@ -1,0 +1,184 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "612647"
+  },
+  "data": {
+    "2763242": {
+      "cid": "613558",
+      "uid": "2763242",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2020-4-24 23:26",
+      "username": "我杀了你妈",
+      "groupexpiry": "永不过期"
+    },
+    "3163207": {
+      "cid": "613557",
+      "uid": "3163207",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2020-4-24 23:26",
+      "username": "沙你个雕ing",
+      "groupexpiry": "永不过期"
+    },
+    "2422988": {
+      "cid": "613556",
+      "uid": "2422988",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "用户名违规",
+      "dateline": "2020-4-24 23:25",
+      "username": "你是一只兲",
+      "groupexpiry": "永不过期"
+    },
+    "1573733": {
+      "cid": "613551",
+      "uid": "1573733",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-24 23:22",
+      "username": "749112221a",
+      "groupexpiry": "2020-10-13 18:18"
+    },
+    "3258724": {
+      "cid": "613440",
+      "uid": "3258724",
+      "operatorid": "458143",
+      "operator": "阴阳师元素祭祀",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-4-24 18:58",
+      "username": "ret34534453",
+      "groupexpiry": "永不过期"
+    },
+    "3258258": {
+      "cid": "613371",
+      "uid": "3258258",
+      "operatorid": "458143",
+      "operator": "阴阳师元素祭祀",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2020-4-24 16:16",
+      "username": "43545611",
+      "groupexpiry": "永不过期"
+    },
+    "3229342": {
+      "cid": "613296",
+      "uid": "3229342",
+      "operatorid": "2067786",
+      "operator": "消",
+      "action": "禁止发言",
+      "reason": "2-4-D",
+      "dateline": "2020-4-24 14:10",
+      "username": "中国_MC",
+      "groupexpiry": "永不过期"
+    },
+    "3197169": {
+      "cid": "613114",
+      "uid": "3197169",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-24 12:08",
+      "username": "ss043312",
+      "groupexpiry": "永不过期"
+    },
+    "3254585": {
+      "cid": "613113",
+      "uid": "3254585",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-24 12:07",
+      "username": "han_yue759",
+      "groupexpiry": "永不过期"
+    },
+    "2792951": {
+      "cid": "613070",
+      "uid": "2792951",
+      "operatorid": "2006215",
+      "operator": "skyliye",
+      "action": "禁止发言",
+      "reason": "转账晒尸 https://www.mcbbs.net/thread-1027686-1-1.html",
+      "dateline": "2020-4-24 12:00",
+      "username": "K_KaKu",
+      "groupexpiry": "永不过期"
+    },
+    "3092335": {
+      "cid": "612865",
+      "uid": "3092335",
+      "operatorid": "782680",
+      "operator": "PQguanfang",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-23 22:41",
+      "username": "yhzg",
+      "groupexpiry": "永不过期"
+    },
+    "3228286": {
+      "cid": "612809",
+      "uid": "3228286",
+      "operatorid": "458143",
+      "operator": "阴阳师元素祭祀",
+      "action": "禁止发言",
+      "reason": "小号私信刷屏+回帖刷屏",
+      "dateline": "2020-4-23 21:56",
+      "username": "辣鸡阴阳师",
+      "groupexpiry": "永不过期"
+    },
+    "2416562": {
+      "cid": "612683",
+      "uid": "2416562",
+      "operatorid": "46925",
+      "operator": "xukarhei",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2020-4-23 17:04",
+      "username": "冷韵",
+      "groupexpiry": "永不过期"
+    },
+    "133562": {
+      "cid": "612666",
+      "uid": "133562",
+      "operatorid": "1793501",
+      "operator": "没糖的葫芦",
+      "action": "禁止发言",
+      "reason": "圈养小号大量灌水(水龙头)",
+      "dateline": "2020-4-23 14:43",
+      "username": "wasdwasd123",
+      "groupexpiry": "永不过期"
+    },
+    "3171711": {
+      "cid": "612665",
+      "uid": "3171711",
+      "operatorid": "1793501",
+      "operator": "没糖的葫芦",
+      "action": "禁止发言",
+      "reason": "圈养小号大量灌水(水龙头)",
+      "dateline": "2020-4-23 14:43",
+      "username": "听歌的小孩",
+      "groupexpiry": "永不过期"
+    },
+    "2654941": {
+      "cid": "612647",
+      "uid": "2654941",
+      "operatorid": "1793501",
+      "operator": "没糖的葫芦",
+      "action": "禁止发言",
+      "reason": "养号脚本灌水",
+      "dateline": "2020-4-23 13:53",
+      "username": "傲慢无礼",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

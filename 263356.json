@@ -1,0 +1,173 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "263356"
+  },
+  "data": {
+    "2268426": {
+      "cid": "266024",
+      "uid": "2268426",
+      "operatorid": "969417",
+      "operator": "言之安",
+      "action": "禁止发言",
+      "reason": "2-4-d",
+      "dateline": "2017-7-29 13:08",
+      "username": "Y_sw",
+      "groupexpiry": "永不过期"
+    },
+    "675617": {
+      "cid": "265612",
+      "uid": "675617",
+      "operatorid": "679293",
+      "operator": "FHC红石",
+      "action": "禁止发言",
+      "reason": "转账1000",
+      "dateline": "2017-7-28 10:34",
+      "username": "KK44KK",
+      "groupexpiry": "永不过期"
+    },
+    "469562": {
+      "cid": "265611",
+      "uid": "469562",
+      "operatorid": "679293",
+      "operator": "FHC红石",
+      "action": "禁止发言",
+      "reason": "转账1000",
+      "dateline": "2017-7-28 10:33",
+      "username": "1640727878",
+      "groupexpiry": "永不过期"
+    },
+    "2202369": {
+      "cid": "265289",
+      "uid": "2202369",
+      "operatorid": "165947",
+      "operator": "china521",
+      "action": "禁止发言",
+      "reason": "辱骂版主",
+      "dateline": "2017-7-27 08:35",
+      "username": "O0000000000000O",
+      "groupexpiry": "永不过期"
+    },
+    "367021": {
+      "cid": "265231",
+      "uid": "367021",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-7-26 22:17",
+      "username": "sujiw",
+      "groupexpiry": "永不过期"
+    },
+    "2250757": {
+      "cid": "264330",
+      "uid": "2250757",
+      "operatorid": "1073223",
+      "operator": "乙烯_中国",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2017-7-24 05:24",
+      "username": "haosi09",
+      "groupexpiry": "永不过期"
+    },
+    "1532645": {
+      "cid": "264329",
+      "uid": "1532645",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "剽窃",
+      "dateline": "2017-7-24 03:09",
+      "username": "1246422194s",
+      "groupexpiry": "永不过期"
+    },
+    "1910875": {
+      "cid": "264325",
+      "uid": "1910875",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "·",
+      "dateline": "2017-7-24 00:41",
+      "username": "2054876559",
+      "groupexpiry": "永不过期"
+    },
+    "1917383": {
+      "cid": "263805",
+      "uid": "1917383",
+      "operatorid": "362381",
+      "operator": "130s",
+      "action": "禁止发言",
+      "reason": "剽窃",
+      "dateline": "2017-7-22 13:05",
+      "username": "z1041313804",
+      "groupexpiry": "永不过期"
+    },
+    "769222": {
+      "cid": "263795",
+      "uid": "769222",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-7-22 12:24",
+      "username": "lc6363463",
+      "groupexpiry": "永不过期"
+    },
+    "2263178": {
+      "cid": "263585",
+      "uid": "2263178",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-7-21 17:34",
+      "username": "若瞳①号",
+      "groupexpiry": "永不过期"
+    },
+    "1813196": {
+      "cid": "263584",
+      "uid": "1813196",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-7-21 17:32",
+      "username": "kill丿若瞳",
+      "groupexpiry": "永不过期"
+    },
+    "1881320": {
+      "cid": "263583",
+      "uid": "1881320",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-7-21 17:32",
+      "username": "若瞳②号",
+      "groupexpiry": "永不过期"
+    },
+    "1899418": {
+      "cid": "263582",
+      "uid": "1899418",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-7-21 17:32",
+      "username": "若瞳③号",
+      "groupexpiry": "永不过期"
+    },
+    "2255197": {
+      "cid": "263356",
+      "uid": "2255197",
+      "operatorid": "237322",
+      "operator": "1427639813",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-7-21 02:42",
+      "username": "lzx2210171135",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

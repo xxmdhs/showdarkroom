@@ -1,0 +1,96 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "255408"
+  },
+  "data": {
+    "816382": {
+      "cid": "256223",
+      "uid": "816382",
+      "operatorid": "264829",
+      "operator": "a390807154",
+      "action": "禁止发言",
+      "reason": "http://www.mcbbs.net/forum.php?mod\u003dviewthread\u0026amp;tid\u003d699729",
+      "dateline": "2017-6-22 10:45",
+      "username": "吕乐乐",
+      "groupexpiry": "永不过期"
+    },
+    "249975": {
+      "cid": "256123",
+      "uid": "249975",
+      "operatorid": "240366",
+      "operator": "西红柿片",
+      "action": "禁止发言",
+      "reason": "水龙头",
+      "dateline": "2017-6-21 13:52",
+      "username": "1154302920",
+      "groupexpiry": "永不过期"
+    },
+    "909933": {
+      "cid": "256035",
+      "uid": "909933",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2017-6-20 14:23",
+      "username": "w1005714912",
+      "groupexpiry": "永不过期"
+    },
+    "1339543": {
+      "cid": "256005",
+      "uid": "1339543",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-6-19 14:57",
+      "username": "我不二耶",
+      "groupexpiry": "永不过期"
+    },
+    "1887872": {
+      "cid": "256000",
+      "uid": "1887872",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-6-19 14:54",
+      "username": "Zero2436329189",
+      "groupexpiry": "永不过期"
+    },
+    "159364": {
+      "cid": "255998",
+      "uid": "159364",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-6-19 14:54",
+      "username": "bzq0207",
+      "groupexpiry": "永不过期"
+    },
+    "1609039": {
+      "cid": "255997",
+      "uid": "1609039",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-6-19 14:53",
+      "username": "蛙草",
+      "groupexpiry": "永不过期"
+    },
+    "2140478": {
+      "cid": "255994",
+      "uid": "2140478",
+      "operatorid": "5367",
+      "operator": "john180",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2017-6-19 14:52",
+      "username": "Lelouch_Lamper",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

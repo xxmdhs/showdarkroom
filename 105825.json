@@ -1,0 +1,173 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "105825"
+  },
+  "data": {
+    "681783": {
+      "cid": "107324",
+      "uid": "681783",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2015-4-14 12:39",
+      "username": "ssshen",
+      "groupexpiry": "永不过期"
+    },
+    "1283508": {
+      "cid": "107295",
+      "uid": "1283508",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-4-14 09:15",
+      "username": "喜爱棒棒乐",
+      "groupexpiry": "永不过期"
+    },
+    "1034104": {
+      "cid": "107284",
+      "uid": "1034104",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "恶意攻击污蔑他人",
+      "dateline": "2015-4-13 23:20",
+      "username": "夜暗伤",
+      "groupexpiry": "永不过期"
+    },
+    "865993": {
+      "cid": "107098",
+      "uid": "865993",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "利用小号互刷积分",
+      "dateline": "2015-4-13 18:58",
+      "username": "秒杀你",
+      "groupexpiry": "永不过期"
+    },
+    "1095357": {
+      "cid": "107097",
+      "uid": "1095357",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "利用小号互刷积分",
+      "dateline": "2015-4-13 18:58",
+      "username": "黑耀、",
+      "groupexpiry": "永不过期"
+    },
+    "1014062": {
+      "cid": "106865",
+      "uid": "1014062",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-4-12 20:57",
+      "username": "Gary。",
+      "groupexpiry": "永不过期"
+    },
+    "684414": {
+      "cid": "106844",
+      "uid": "684414",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2015-4-12 20:46",
+      "username": "SamSun_S",
+      "groupexpiry": "永不过期"
+    },
+    "229516": {
+      "cid": "106841",
+      "uid": "229516",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷分",
+      "dateline": "2015-4-12 20:46",
+      "username": "96302456",
+      "groupexpiry": "永不过期"
+    },
+    "1158652": {
+      "cid": "106828",
+      "uid": "1158652",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "签名档商业广告，警告性禁言一天",
+      "dateline": "2015-4-12 20:42",
+      "username": "天端服务器",
+      "groupexpiry": "永不过期"
+    },
+    "478163": {
+      "cid": "106827",
+      "uid": "478163",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "签名档商业广告，警告性封禁1天",
+      "dateline": "2015-4-12 20:40",
+      "username": "USA到USB",
+      "groupexpiry": "永不过期"
+    },
+    "1253789": {
+      "cid": "106770",
+      "uid": "1253789",
+      "operatorid": "274490",
+      "operator": "SPE__HaiKuo",
+      "action": "禁止发言",
+      "reason": "广告机",
+      "dateline": "2015-4-12 19:07",
+      "username": "yywwmm",
+      "groupexpiry": "永不过期"
+    },
+    "766749": {
+      "cid": "106501",
+      "uid": "766749",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止发言",
+      "reason": "刷帖",
+      "dateline": "2015-4-12 16:25",
+      "username": "947365518",
+      "groupexpiry": "永不过期"
+    },
+    "1277709": {
+      "cid": "106489",
+      "uid": "1277709",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-4-12 15:46",
+      "username": "2825814588",
+      "groupexpiry": "永不过期"
+    },
+    "1271741": {
+      "cid": "105988",
+      "uid": "1271741",
+      "operatorid": "66971",
+      "operator": "爱国青年",
+      "action": "禁止访问",
+      "reason": "",
+      "dateline": "2015-4-11 14:53",
+      "username": "32848316",
+      "groupexpiry": "永不过期"
+    },
+    "1260438": {
+      "cid": "105968",
+      "uid": "1260438",
+      "operatorid": "266924",
+      "operator": "kehebai",
+      "action": "禁止发言",
+      "reason": "多次无意义灌水回复",
+      "dateline": "2015-4-11 14:23",
+      "username": "2312936963",
+      "groupexpiry": "永不过期"
+    }
+  }
+}

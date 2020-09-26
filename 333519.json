@@ -1,0 +1,228 @@
+{
+  "message": {
+    "dataexist": "1",
+    "cid": "333519"
+  },
+  "data": {
+    "289435": {
+      "cid": "336893",
+      "uid": "289435",
+      "operatorid": "3038",
+      "operator": "混乱",
+      "action": "禁止发言",
+      "reason": "违反中华人民共和国《全国人大常委会关于维护互联网安全的决定》",
+      "dateline": "2018-7-5 23:36",
+      "username": "SotrForgotten",
+      "groupexpiry": "永不过期"
+    },
+    "2538478": {
+      "cid": "335134",
+      "uid": "2538478",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "1-6",
+      "dateline": "2018-7-1 21:39",
+      "username": "Sakurа_End",
+      "groupexpiry": "永不过期"
+    },
+    "2531976": {
+      "cid": "335074",
+      "uid": "2531976",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "马甲",
+      "dateline": "2018-7-1 18:28",
+      "username": "何小川",
+      "groupexpiry": "永不过期"
+    },
+    "2441100": {
+      "cid": "335073",
+      "uid": "2441100",
+      "operatorid": "1280406",
+      "operator": "zjxx",
+      "action": "禁止发言",
+      "reason": "马甲",
+      "dateline": "2018-7-1 18:28",
+      "username": "1314.00g123",
+      "groupexpiry": "永不过期"
+    },
+    "2531387": {
+      "cid": "335072",
+      "uid": "2531387",
+      "operatorid": "1280406",
+      "operator": "zjxx",
+      "action": "禁止发言",
+      "reason": "马甲",
+      "dateline": "2018-7-1 18:25",
+      "username": "临海之泉",
+      "groupexpiry": "永不过期"
+    },
+    "1622561": {
+      "cid": "335071",
+      "uid": "1622561",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "注册马甲 提升惩罚等级",
+      "dateline": "2018-7-1 18:17",
+      "username": "1715853522",
+      "groupexpiry": "永不过期"
+    },
+    "2513615": {
+      "cid": "335070",
+      "uid": "2513615",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "马甲",
+      "dateline": "2018-7-1 18:15",
+      "username": "孤海一帆",
+      "groupexpiry": "永不过期"
+    },
+    "1218798": {
+      "cid": "335019",
+      "uid": "1218798",
+      "operatorid": "2067786",
+      "operator": "Sakura_End",
+      "action": "禁止发言",
+      "reason": "回帖奖励转账",
+      "dateline": "2018-7-1 16:18",
+      "username": "767832567",
+      "groupexpiry": "永不过期"
+    },
+    "1338824": {
+      "cid": "334892",
+      "uid": "1338824",
+      "operatorid": "108341",
+      "operator": "U1U420039",
+      "action": "禁止发言",
+      "reason": "人类的本质就是复读机",
+      "dateline": "2018-7-1 13:01",
+      "username": "1658306623",
+      "groupexpiry": "永不过期"
+    },
+    "1923836": {
+      "cid": "334588",
+      "uid": "1923836",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-6-30 20:48",
+      "username": "666233886fake",
+      "groupexpiry": "永不过期"
+    },
+    "1915863": {
+      "cid": "334587",
+      "uid": "1915863",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-6-30 20:48",
+      "username": "asdfgereq",
+      "groupexpiry": "永不过期"
+    },
+    "1928267": {
+      "cid": "334586",
+      "uid": "1928267",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "",
+      "dateline": "2018-6-30 20:47",
+      "username": "1054865432",
+      "groupexpiry": "永不过期"
+    },
+    "1915778": {
+      "cid": "334585",
+      "uid": "1915778",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "囤号，刷分",
+      "dateline": "2018-6-30 20:44",
+      "username": "boom虾卡辣",
+      "groupexpiry": "永不过期"
+    },
+    "1834799": {
+      "cid": "334048",
+      "uid": "1834799",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "囤号，刷分",
+      "dateline": "2018-6-30 15:25",
+      "username": "雨涵丶",
+      "groupexpiry": "永不过期"
+    },
+    "527058": {
+      "cid": "334047",
+      "uid": "527058",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "囤号，刷分",
+      "dateline": "2018-6-30 15:19",
+      "username": "Min__",
+      "groupexpiry": "永不过期"
+    },
+    "2316699": {
+      "cid": "334046",
+      "uid": "2316699",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "囤号，刷分",
+      "dateline": "2018-6-30 15:18",
+      "username": "月亮岛腐竹",
+      "groupexpiry": "永不过期"
+    },
+    "2058180": {
+      "cid": "334045",
+      "uid": "2058180",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "囤号，刷分",
+      "dateline": "2018-6-30 15:17",
+      "username": "Sanyu__",
+      "groupexpiry": "永不过期"
+    },
+    "1348916": {
+      "cid": "334044",
+      "uid": "1348916",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "囤号，刷分",
+      "dateline": "2018-6-30 15:16",
+      "username": "gggggggawe",
+      "groupexpiry": "永不过期"
+    },
+    "2535256": {
+      "cid": "333526",
+      "uid": "2535256",
+      "operatorid": "265600",
+      "operator": "rom718",
+      "action": "禁止发言",
+      "reason": "让我再发现你注册新马甲，你的大号都一起永久禁止发言",
+      "dateline": "2018-6-29 15:09",
+      "username": "长来长有",
+      "groupexpiry": "永不过期"
+    },
+    "2045984": {
+      "cid": "333519",
+      "uid": "2045984",
+      "operatorid": "2159991",
+      "operator": "星光aaa",
+      "action": "禁止发言",
+      "reason": "宣传服务器",
+      "dateline": "2018-6-29 12:41",
+      "username": "651085294",
+      "groupexpiry": "永不过期"
+    }
+  }
+}
