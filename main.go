@@ -1,30 +1,65 @@
 package main
 
 import (
-	"fmt"
-	http "showdarkroom/showdarkroom"
+	"encoding/json"
+	"log"
+	"os"
 	"strconv"
+	"time"
+
+	"github.com/xmdhs/showdarkroom/get"
 )
 
 func main() {
-	i := http.GetStartCid()
-	ii, _ := strconv.Atoi(i)
-	a := http.Get{
-		STRATCID: ii * 10,
-		ENDCID:   ii/3*2 + 2,
+	data := map[string][]get.BanData{}
+	ch := make(chan *get.Baninfo, 20)
+	go tosave(&data, ch)
+
+	var i int64 = 0
+	for {
+		log.Println(i)
+		b, err := get.GetBanData(int(i))
+		if err != nil {
+			log.Println(err)
+			time.Sleep(3 * time.Second)
+			continue
+		}
+		ch <- b
+		if b.Message.Dataexist == "1" {
+			i, err = strconv.ParseInt(b.Message.Cid, 10, 64)
+			must(err)
+		} else {
+			break
+		}
+		time.Sleep(500 * time.Millisecond)
 	}
-	b := http.Get{
-		STRATCID: ii/3*2 + 2,
-		ENDCID:   ii/3 + 2,
+
+	close(ch)
+
+	f, err := os.Create("data.json")
+	must(err)
+	defer f.Close()
+	jw := json.NewEncoder(f)
+	jw.SetIndent("", "    ")
+	jw.Encode(data)
+	jw.SetEscapeHTML(false)
+}
+
+func tosave(data *map[string][]get.BanData, ch <-chan *get.Baninfo) {
+	for v := range ch {
+		for k, v := range v.Data {
+			if l, ok := (*data)[k]; ok {
+				l = append(l, v)
+				(*data)[k] = l
+			} else {
+				(*data)[k] = []get.BanData{v}
+			}
+		}
 	}
-	c := http.Get{
-		STRATCID: ii/3 + 2,
-		ENDCID:   0,
+}
+
+func must(err error) {
+	if err != nil {
+		panic(err)
 	}
-	http.W.Add(3)
-	go a.Toget()
-	go b.Toget()
-	go c.Toget()
-	http.W.Wait()
-	fmt.Println("完成")
 }
