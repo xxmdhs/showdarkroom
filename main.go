@@ -41,8 +41,8 @@ func main() {
 	defer f.Close()
 	jw := json.NewEncoder(f)
 	jw.SetIndent("", "    ")
-	jw.Encode(data)
 	jw.SetEscapeHTML(false)
+	jw.Encode(data)
 }
 
 func tosave(data *map[string][]get.BanData, ch <-chan *get.Baninfo) {
