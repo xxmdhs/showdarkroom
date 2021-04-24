@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>mcbbs 封禁查询</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/xmdhs/searchqanda/style.css">
+
+    <script>
+        window.addEventListener("load", () => {
+            let f = document.getElementById("find");
+            f.addEventListener("submit", function (event) {
+                event.preventDefault();
+                find();
+            });
+        })
+        let data = null
+        async function find() {
+            let uid = document.querySelector("#uid").value.toString();
+            if (uid == "") {
+                return;
+            }
+            if (data == null) {
+                let d = await fetch("./data.json")
+                data = await d.json()
+            }
+            let tb = document.getElementById("tb")
+            tb.innerHTML = ""
+
+            let r = data[uid]
+            if (r == null) {
+                tb.innerText = "没找到"
+                document.getElementById("info").style.removeProperty("display")
+                return
+            }
+            for (const v of r) {
+                let item = document.createElement("tr")
+                add(item, v["uid"])
+                add(item, `<a href="https://www.mcbbs.net/home.php?mod=space&uid=` + v["uid"] + `" target="_blank">` + v["username"] + `</a>`, true)
+                add(item, v["action"])
+                add(item, v["groupexpiry"])
+                add(item, v["dateline"])
+                add(item, v["reason"])
+                add(item, `<a href="https://www.mcbbs.net/home.php?mod=space&uid=` + v["operatorid"] + `" target="_blank">` + v["operator"] + `</a>`, true)
+                add(item, v["operatorid"])
+                tb.appendChild(item)
+            }
+            document.getElementById("info").style.removeProperty("display")
+        }
+
+        function add(item, v, h) {
+            let t = document.createElement("td")
+            if (h === true) {
+                t.innerHTML = v
+            } else {
+                t.innerText = v
+            }
+            item.appendChild(t)
+        }
+    </script>
+</head>
+
+<body>
+    <div class="container-lg px-3 my-5 markdown-body">
+        <h1>mcbbs 封禁查询</h1>
+        <form id="find">
+            <input type="search" id="uid" placeholder="uid" name="ip" title="uid" pattern="^\d*$">
+            <input type="submit" value="查询">
+        </form>
+        <br>
+        <div id="info" style="display: none;">
+            <table>
+                <thead>
+                    <tr>
+                        <th>uid</th>
+                        <th>用户名</th>
+                        <th>操作行为</th>
+                        <th>过期时间</th>
+                        <th>操作时间</th>
+                        <th>操作理由</th>
+                        <th>操作者</th>
+                        <th>操作者 uid</th>
+                    </tr>
+                </thead>
+                <tbody id="tb">
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+
+</html>
