@@ -25,8 +25,7 @@ func main() {
 		err = json.Unmarshal(b, &d)
 		if err == nil {
 			temp := d.Cid
-			oldcid, err = strconv.ParseInt(temp, 10, 64)
-			must(err)
+			oldcid, _ = strconv.ParseInt(temp, 10, 64)
 		}
 	}
 
