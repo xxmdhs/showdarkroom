@@ -22,8 +22,9 @@ func main() {
 	if err == nil {
 		var d jsonData
 		err = json.Unmarshal(b, &d)
-		must(err)
-		oldcid = d.Cid
+		if err == nil {
+			oldcid = d.Cid
+		}
 	}
 
 	var i int64 = 0

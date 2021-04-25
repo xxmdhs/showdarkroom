@@ -1,8 +1,6 @@
 name: Auto update
 
 on:
-  push:
-    branches: [ master ]
   schedule:
     - cron: '0 1 * * 1'
   workflow_dispatch:
@@ -16,15 +14,13 @@ jobs:
     - name: Set up Go 1.x
       uses: actions/setup-go@v2
       with:
-        go-version: ^1.13
+        go-version: ^1.16
       id: go
 
-    - name: Clone repo from xxmdhs/tiebasign
+    - name: Clone repo 
       uses: actions/checkout@v2
-      with:
-          repository: xxmdhs/tiebasign
 
-    - name: Start sign
+    - name: Start auto update
       run: go run main.go
 
     - name: Git
