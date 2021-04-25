@@ -81,7 +81,13 @@ type jsonData struct {
 func tosave(data *map[string]map[string]get.BanData, ch <-chan *get.Baninfo) {
 	for v := range ch {
 		for k, v := range v.Data {
-			(*data)[k][v.Cid] = v
+			var m map[string]get.BanData
+			var ok bool
+			if m, ok = (*data)[k]; !ok {
+				m = make(map[string]get.BanData)
+			}
+			m[v.Cid] = v
+			(*data)[k] = m
 		}
 	}
 }
