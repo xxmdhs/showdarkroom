@@ -25,6 +25,7 @@
             if (data == null) {
                 let d = await fetch("./data.json")
                 data = await d.json()
+                data = data["data"]
             }
             let tb = document.getElementById("tb")
             tb.innerHTML = ""

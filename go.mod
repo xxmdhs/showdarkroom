@@ -1,4 +1,4 @@
-module github.com/xmdhs/showdarkroom
+module github.com/xxmdhs/showdarkroom
 
 go 1.14
 

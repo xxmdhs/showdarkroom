@@ -1,6 +1,7 @@
 package get
 
 import (
+	"errors"
 	"fmt"
 	"strconv"
 
@@ -12,12 +13,28 @@ func GetBanData(cid int) (*Baninfo, error) {
 	if err != nil {
 		return nil, fmt.Errorf("GetBanData: %w", err)
 	}
-	var b Baninfo
-	err = json5.Unmarshal(data, &b)
+	var t test
+	err = json5.Unmarshal(data, &t)
 	if err != nil {
 		return nil, fmt.Errorf("GetBanData: %w", err)
 	}
+	var d map[string]BanData
+	err = json5.Unmarshal(t.Data, &d)
+	if err != nil {
+		return &Baninfo{Data: d, Message: t.Message}, fmt.Errorf("GetBanData: %v : %w", string(t.Data), Errjson)
+	}
+	b := Baninfo{
+		Data:    d,
+		Message: t.Message,
+	}
 	return &b, err
+}
+
+var Errjson = errors.New("json err")
+
+type test struct {
+	Data    json5.RawMessage `json:"data"`
+	Message banMessage       `json:"message"`
 }
 
 type Baninfo struct {
