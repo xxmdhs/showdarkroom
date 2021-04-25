@@ -25,6 +25,7 @@ func main() {
 		err = json.Unmarshal(b, &d)
 		if err == nil {
 			temp := d.Cid
+			data = d.Data
 			oldcid, _ = strconv.ParseInt(temp, 10, 64)
 		}
 	}
