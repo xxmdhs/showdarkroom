@@ -7,7 +7,7 @@ on:
   
 jobs:
   tieba_sign:
-    name: tieba_sign
+    name: Auto update
     runs-on: ubuntu-latest
     steps:
 
