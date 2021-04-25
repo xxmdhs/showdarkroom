@@ -36,16 +36,16 @@
                 document.getElementById("info").style.removeProperty("display")
                 return
             }
-            for (const v of r) {
+            for (const v in r) {
                 let item = document.createElement("tr")
-                add(item, v["uid"])
-                add(item, `<a href="https://www.mcbbs.net/home.php?mod=space&uid=` + v["uid"] + `" target="_blank">` + v["username"] + `</a>`, true)
-                add(item, v["action"])
-                add(item, v["groupexpiry"])
-                add(item, v["dateline"])
-                add(item, v["reason"])
-                add(item, `<a href="https://www.mcbbs.net/home.php?mod=space&uid=` + v["operatorid"] + `" target="_blank">` + v["operator"] + `</a>`, true)
-                add(item, v["operatorid"])
+                add(item, r[v]["uid"])
+                add(item, `<a href="https://www.mcbbs.net/home.php?mod=space&uid=` + r[v]["uid"] + `" target="_blank">` + r[v]["username"] + `</a>`, true)
+                add(item, r[v]["action"])
+                add(item, r[v]["groupexpiry"])
+                add(item, r[v]["dateline"])
+                add(item, r[v]["reason"])
+                add(item, `<a href="https://www.mcbbs.net/home.php?mod=space&uid=` + r[v]["operatorid"] + `" target="_blank">` + r[v]["operator"] + `</a>`, true)
+                add(item, r[v]["operatorid"])
                 tb.appendChild(item)
             }
             document.getElementById("info").style.removeProperty("display")

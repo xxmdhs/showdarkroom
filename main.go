@@ -13,7 +13,7 @@ import (
 )
 
 func main() {
-	data := map[string][]get.BanData{}
+	data := map[string]map[string]get.BanData{}
 	ch := make(chan *get.Baninfo, 20)
 	go tosave(&data, ch)
 	var cid string
@@ -73,20 +73,15 @@ func main() {
 }
 
 type jsonData struct {
-	Cid  string                   `json:"cid"`
-	Date string                   `json:"date"`
-	Data map[string][]get.BanData `json:"data"`
+	Cid  string                            `json:"cid"`
+	Date string                            `json:"date"`
+	Data map[string]map[string]get.BanData `json:"data"`
 }
 
-func tosave(data *map[string][]get.BanData, ch <-chan *get.Baninfo) {
+func tosave(data *map[string]map[string]get.BanData, ch <-chan *get.Baninfo) {
 	for v := range ch {
 		for k, v := range v.Data {
-			if l, ok := (*data)[k]; ok {
-				l = append(l, v)
-				(*data)[k] = l
-			} else {
-				(*data)[k] = []get.BanData{v}
-			}
+			(*data)[k][v.Cid] = v
 		}
 	}
 }

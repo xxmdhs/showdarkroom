@@ -38,6 +38,7 @@ type test struct {
 }
 
 type Baninfo struct {
+	//map[uid]BanData
 	Data    map[string]BanData `json:"data"`
 	Message banMessage         `json:"message"`
 }
