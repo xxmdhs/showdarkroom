@@ -1,6 +1,6 @@
 {
-    "cid": "845665",
-    "date": "1619359902",
+    "cid": "845666",
+    "date": "1619366969",
     "data": {
         "0": {
             "435744": {
@@ -796,7 +796,7 @@
             "845413": {
                 "action": "禁止发言",
                 "cid": "845413",
-                "dateline": "<span title=\"2021-4-25 01:48\">20&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 01:48\">昨天&nbsp;01:48</span>",
                 "groupexpiry": "2021-5-2 01:48",
                 "operator": "john180",
                 "operatorid": "5367",
@@ -19153,7 +19153,7 @@
             "845645": {
                 "action": "禁止发言",
                 "cid": "845645",
-                "dateline": "<span title=\"2021-4-25 14:44\">7&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 14:44\">昨天&nbsp;14:44</span>",
                 "groupexpiry": "永不过期",
                 "operator": "Tony🐴",
                 "operatorid": "92880",
@@ -20099,7 +20099,7 @@
             "845614": {
                 "action": "禁止发言",
                 "cid": "845614",
-                "dateline": "<span title=\"2021-4-25 12:29\">9&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 12:29\">昨天&nbsp;12:29</span>",
                 "groupexpiry": "永不过期",
                 "operator": "skyliye",
                 "operatorid": "2006215",
@@ -26748,7 +26748,7 @@
             "845613": {
                 "action": "禁止发言",
                 "cid": "845613",
-                "dateline": "<span title=\"2021-4-25 12:28\">9&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 12:28\">昨天&nbsp;12:28</span>",
                 "groupexpiry": "永不过期",
                 "operator": "skyliye",
                 "operatorid": "2006215",
@@ -42930,6 +42930,19 @@
                 "reason": "异常帐号",
                 "uid": "2697296",
                 "username": "p35729403"
+            }
+        },
+        "2697411": {
+            "845957": {
+                "action": "禁止发言",
+                "cid": "845957",
+                "dateline": "<span title=\"2021-4-25 23:58\">昨天&nbsp;23:58</span>",
+                "groupexpiry": "永不过期",
+                "operator": "Tony🐴",
+                "operatorid": "92880",
+                "reason": "2-4-G 马甲账号",
+                "uid": "2697411",
+                "username": "破极"
             }
         },
         "2697423": {
@@ -76958,7 +76971,7 @@
             "845442": {
                 "action": "禁止发言",
                 "cid": "845442",
-                "dateline": "<span title=\"2021-4-25 09:41\">12&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 09:41\">昨天&nbsp;09:41</span>",
                 "groupexpiry": "永不过期",
                 "operator": "dengyu",
                 "operatorid": "897946",
@@ -94743,7 +94756,7 @@
             "845405": {
                 "action": "禁止发言",
                 "cid": "845405",
-                "dateline": "<span title=\"2021-4-25 01:45\">20&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 01:45\">昨天&nbsp;01:45</span>",
                 "groupexpiry": "2021-4-30 01:45",
                 "operator": "john180",
                 "operatorid": "5367",
@@ -96435,7 +96448,7 @@
             "845407": {
                 "action": "禁止发言",
                 "cid": "845407",
-                "dateline": "<span title=\"2021-4-25 01:46\">20&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 01:46\">昨天&nbsp;01:46</span>",
                 "groupexpiry": "2021-5-2 01:46",
                 "operator": "john180",
                 "operatorid": "5367",
@@ -96676,7 +96689,7 @@
             "845672": {
                 "action": "禁止发言",
                 "cid": "845672",
-                "dateline": "<span title=\"2021-4-25 15:52\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:52\">昨天&nbsp;15:52</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -96702,7 +96715,7 @@
             "845680": {
                 "action": "禁止发言",
                 "cid": "845680",
-                "dateline": "<span title=\"2021-4-25 15:52\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:52\">昨天&nbsp;15:52</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -96728,7 +96741,7 @@
             "845671": {
                 "action": "禁止发言",
                 "cid": "845671",
-                "dateline": "<span title=\"2021-4-25 15:52\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:52\">昨天&nbsp;15:52</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -96780,7 +96793,7 @@
             "845662": {
                 "action": "禁止发言",
                 "cid": "845662",
-                "dateline": "<span title=\"2021-4-25 15:47\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:47\">昨天&nbsp;15:47</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -96975,7 +96988,7 @@
             "845673": {
                 "action": "禁止发言",
                 "cid": "845673",
-                "dateline": "<span title=\"2021-4-25 15:52\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:52\">昨天&nbsp;15:52</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -96988,7 +97001,7 @@
             "845674": {
                 "action": "禁止发言",
                 "cid": "845674",
-                "dateline": "<span title=\"2021-4-25 15:52\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:52\">昨天&nbsp;15:52</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -97001,7 +97014,7 @@
             "845648": {
                 "action": "禁止发言",
                 "cid": "845648",
-                "dateline": "<span title=\"2021-4-25 15:26\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:26\">昨天&nbsp;15:26</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -97014,7 +97027,7 @@
             "845647": {
                 "action": "禁止发言",
                 "cid": "845647",
-                "dateline": "<span title=\"2021-4-25 15:26\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:26\">昨天&nbsp;15:26</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -97040,7 +97053,7 @@
             "845653": {
                 "action": "禁止发言",
                 "cid": "845653",
-                "dateline": "<span title=\"2021-4-25 15:45\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:45\">昨天&nbsp;15:45</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -97053,7 +97066,7 @@
             "845654": {
                 "action": "禁止发言",
                 "cid": "845654",
-                "dateline": "<span title=\"2021-4-25 15:45\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:45\">昨天&nbsp;15:45</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -97138,7 +97151,7 @@
             "845675": {
                 "action": "禁止发言",
                 "cid": "845675",
-                "dateline": "<span title=\"2021-4-25 15:52\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:52\">昨天&nbsp;15:52</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -97498,7 +97511,7 @@
             "845655": {
                 "action": "禁止发言",
                 "cid": "845655",
-                "dateline": "<span title=\"2021-4-25 15:45\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:45\">昨天&nbsp;15:45</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -97511,7 +97524,7 @@
             "845676": {
                 "action": "禁止发言",
                 "cid": "845676",
-                "dateline": "<span title=\"2021-4-25 15:52\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:52\">昨天&nbsp;15:52</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -97537,7 +97550,7 @@
             "845656": {
                 "action": "禁止发言",
                 "cid": "845656",
-                "dateline": "<span title=\"2021-4-25 15:45\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:45\">昨天&nbsp;15:45</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -97563,7 +97576,7 @@
             "845657": {
                 "action": "禁止发言",
                 "cid": "845657",
-                "dateline": "<span title=\"2021-4-25 15:45\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:45\">昨天&nbsp;15:45</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -97576,7 +97589,7 @@
             "845659": {
                 "action": "禁止发言",
                 "cid": "845659",
-                "dateline": "<span title=\"2021-4-25 15:45\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:45\">昨天&nbsp;15:45</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -97589,7 +97602,7 @@
             "845677": {
                 "action": "禁止发言",
                 "cid": "845677",
-                "dateline": "<span title=\"2021-4-25 15:52\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:52\">昨天&nbsp;15:52</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -97602,7 +97615,7 @@
             "845660": {
                 "action": "禁止发言",
                 "cid": "845660",
-                "dateline": "<span title=\"2021-4-25 15:45\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:45\">昨天&nbsp;15:45</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -97615,7 +97628,7 @@
             "845661": {
                 "action": "禁止发言",
                 "cid": "845661",
-                "dateline": "<span title=\"2021-4-25 15:45\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:45\">昨天&nbsp;15:45</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -97628,7 +97641,7 @@
             "845678": {
                 "action": "禁止发言",
                 "cid": "845678",
-                "dateline": "<span title=\"2021-4-25 15:52\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:52\">昨天&nbsp;15:52</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -97641,7 +97654,7 @@
             "845658": {
                 "action": "禁止发言",
                 "cid": "845658",
-                "dateline": "<span title=\"2021-4-25 15:45\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:45\">昨天&nbsp;15:45</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -97654,7 +97667,7 @@
             "845649": {
                 "action": "禁止发言",
                 "cid": "845649",
-                "dateline": "<span title=\"2021-4-25 15:45\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:45\">昨天&nbsp;15:45</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -97719,7 +97732,7 @@
             "845650": {
                 "action": "禁止发言",
                 "cid": "845650",
-                "dateline": "<span title=\"2021-4-25 15:45\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:45\">昨天&nbsp;15:45</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -97732,7 +97745,7 @@
             "845651": {
                 "action": "禁止发言",
                 "cid": "845651",
-                "dateline": "<span title=\"2021-4-25 15:45\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:45\">昨天&nbsp;15:45</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -97823,7 +97836,7 @@
             "845652": {
                 "action": "禁止发言",
                 "cid": "845652",
-                "dateline": "<span title=\"2021-4-25 15:45\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:45\">昨天&nbsp;15:45</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -97836,7 +97849,7 @@
             "845679": {
                 "action": "禁止发言",
                 "cid": "845679",
-                "dateline": "<span title=\"2021-4-25 15:52\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:52\">昨天&nbsp;15:52</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -97862,7 +97875,7 @@
             "845663": {
                 "action": "禁止发言",
                 "cid": "845663",
-                "dateline": "<span title=\"2021-4-25 15:49\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:49\">昨天&nbsp;15:49</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -97875,7 +97888,7 @@
             "845664": {
                 "action": "禁止发言",
                 "cid": "845664",
-                "dateline": "<span title=\"2021-4-25 15:49\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:49\">昨天&nbsp;15:49</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -98005,7 +98018,7 @@
             "845665": {
                 "action": "禁止发言",
                 "cid": "845665",
-                "dateline": "<span title=\"2021-4-25 15:49\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:49\">昨天&nbsp;15:49</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -98031,7 +98044,7 @@
             "845666": {
                 "action": "禁止发言",
                 "cid": "845666",
-                "dateline": "<span title=\"2021-4-25 15:49\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:49\">昨天&nbsp;15:49</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -98044,7 +98057,7 @@
             "845667": {
                 "action": "禁止发言",
                 "cid": "845667",
-                "dateline": "<span title=\"2021-4-25 15:49\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:49\">昨天&nbsp;15:49</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -98057,7 +98070,7 @@
             "845681": {
                 "action": "禁止发言",
                 "cid": "845681",
-                "dateline": "<span title=\"2021-4-25 15:52\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:52\">昨天&nbsp;15:52</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -98070,7 +98083,7 @@
             "845682": {
                 "action": "禁止发言",
                 "cid": "845682",
-                "dateline": "<span title=\"2021-4-25 15:52\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:52\">昨天&nbsp;15:52</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -98109,7 +98122,7 @@
             "845683": {
                 "action": "禁止发言",
                 "cid": "845683",
-                "dateline": "<span title=\"2021-4-25 15:52\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:52\">昨天&nbsp;15:52</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -98135,7 +98148,7 @@
             "845684": {
                 "action": "禁止发言",
                 "cid": "845684",
-                "dateline": "<span title=\"2021-4-25 15:52\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:52\">昨天&nbsp;15:52</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -98148,7 +98161,7 @@
             "845685": {
                 "action": "禁止发言",
                 "cid": "845685",
-                "dateline": "<span title=\"2021-4-25 15:52\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:52\">昨天&nbsp;15:52</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -98226,7 +98239,7 @@
             "845686": {
                 "action": "禁止发言",
                 "cid": "845686",
-                "dateline": "<span title=\"2021-4-25 15:52\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:52\">昨天&nbsp;15:52</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -98239,7 +98252,7 @@
             "845687": {
                 "action": "禁止发言",
                 "cid": "845687",
-                "dateline": "<span title=\"2021-4-25 15:52\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:52\">昨天&nbsp;15:52</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -98252,7 +98265,7 @@
             "845668": {
                 "action": "禁止发言",
                 "cid": "845668",
-                "dateline": "<span title=\"2021-4-25 15:49\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:49\">昨天&nbsp;15:49</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -98265,7 +98278,7 @@
             "845688": {
                 "action": "禁止发言",
                 "cid": "845688",
-                "dateline": "<span title=\"2021-4-25 15:52\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:52\">昨天&nbsp;15:52</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -98291,7 +98304,7 @@
             "845692": {
                 "action": "禁止发言",
                 "cid": "845692",
-                "dateline": "<span title=\"2021-4-25 16:02\">5&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 16:02\">昨天&nbsp;16:02</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -98356,7 +98369,7 @@
             "845689": {
                 "action": "禁止发言",
                 "cid": "845689",
-                "dateline": "<span title=\"2021-4-25 15:52\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:52\">昨天&nbsp;15:52</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -98369,7 +98382,7 @@
             "845412": {
                 "action": "禁止发言",
                 "cid": "845412",
-                "dateline": "<span title=\"2021-4-25 01:47\">20&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 01:47\">昨天&nbsp;01:47</span>",
                 "groupexpiry": "2021-4-30 01:47",
                 "operator": "john180",
                 "operatorid": "5367",
@@ -98458,7 +98471,7 @@
             "845690": {
                 "action": "禁止发言",
                 "cid": "845690",
-                "dateline": "<span title=\"2021-4-25 15:52\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:52\">昨天&nbsp;15:52</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -98484,7 +98497,7 @@
             "845691": {
                 "action": "禁止发言",
                 "cid": "845691",
-                "dateline": "<span title=\"2021-4-25 15:58\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:58\">昨天&nbsp;15:58</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -98510,7 +98523,7 @@
             "845669": {
                 "action": "禁止发言",
                 "cid": "845669",
-                "dateline": "<span title=\"2021-4-25 15:49\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:49\">昨天&nbsp;15:49</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -98950,7 +98963,7 @@
             "845670": {
                 "action": "禁止发言",
                 "cid": "845670",
-                "dateline": "<span title=\"2021-4-25 15:49\">6&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 15:49\">昨天&nbsp;15:49</span>",
                 "groupexpiry": "永不过期",
                 "operator": "凛",
                 "operatorid": "165947",
@@ -103149,7 +103162,7 @@
             "845409": {
                 "action": "禁止发言",
                 "cid": "845409",
-                "dateline": "<span title=\"2021-4-25 01:47\">20&nbsp;小时前</span>",
+                "dateline": "<span title=\"2021-4-25 01:47\">昨天&nbsp;01:47</span>",
                 "groupexpiry": "2021-4-30 01:47",
                 "operator": "john180",
                 "operatorid": "5367",
