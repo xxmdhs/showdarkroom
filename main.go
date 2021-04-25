@@ -16,18 +16,21 @@ func main() {
 	data := map[string][]get.BanData{}
 	ch := make(chan *get.Baninfo, 20)
 	go tosave(&data, ch)
-	var cid, oldcid string
+	var cid string
+	var oldcid int64
 
 	b, err := ioutil.ReadFile("data.json")
 	if err == nil {
 		var d jsonData
 		err = json.Unmarshal(b, &d)
 		if err == nil {
-			oldcid = d.Cid
+			temp := d.Cid
+			oldcid, err = strconv.ParseInt(temp, 10, 64)
+			must(err)
 		}
 	}
 
-	var i int64 = 0
+	var i int64
 	for {
 		log.Println(i)
 		b, err := get.GetBanData(int(i))
@@ -46,12 +49,8 @@ func main() {
 		if b.Message.Dataexist == "1" {
 			i, err = strconv.ParseInt(b.Message.Cid, 10, 64)
 			must(err)
-			if oldcid != "" {
-				ocid, err := strconv.ParseInt(oldcid, 10, 64)
-				must(err)
-				if i < ocid {
-					break
-				}
+			if i < oldcid {
+				break
 			}
 		} else {
 			break
