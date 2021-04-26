@@ -14,10 +14,12 @@ import (
 
 func main() {
 	data := map[string]map[string]get.BanData{}
-	ch := make(chan *get.Baninfo, 20)
-	go tosave(&data, ch)
-	var cid string
 	var oldcid int64
+
+	j := jsonData{
+		Date: strconv.FormatInt(time.Now().Unix(), 10),
+		Data: data,
+	}
 
 	b, err := ioutil.ReadFile("data.json")
 	if err == nil {
@@ -25,7 +27,6 @@ func main() {
 		err = json.Unmarshal(b, &d)
 		if err == nil {
 			temp := d.Cid
-			data = d.Data
 			oldcid, _ = strconv.ParseInt(temp, 10, 64)
 		}
 	}
@@ -42,22 +43,21 @@ func main() {
 			}
 		}
 		if i == 0 {
-			cid = b.Message.Cid
+			j.Cid = b.Message.Cid
 		}
 		if b.Message.Dataexist == "1" {
 			i, err = strconv.ParseInt(b.Message.Cid, 10, 64)
 			must(err)
-			if i < oldcid {
+			if i <= oldcid {
 				break
 			}
 		} else {
+			j.tosave(b)
 			break
 		}
-		ch <- b
+		j.tosave(b)
 		time.Sleep(500 * time.Millisecond)
 	}
-
-	close(ch)
 
 	f, err := os.Create("data.json")
 	must(err)
@@ -65,11 +65,7 @@ func main() {
 	jw := json.NewEncoder(f)
 	jw.SetIndent("", "    ")
 	jw.SetEscapeHTML(false)
-	jw.Encode(jsonData{
-		Cid:  cid,
-		Date: strconv.FormatInt(time.Now().Unix(), 10),
-		Data: data,
-	})
+	jw.Encode(j)
 }
 
 type jsonData struct {
@@ -78,17 +74,15 @@ type jsonData struct {
 	Data map[string]map[string]get.BanData `json:"data"`
 }
 
-func tosave(data *map[string]map[string]get.BanData, ch <-chan *get.Baninfo) {
-	for v := range ch {
-		for k, v := range v.Data {
-			var m map[string]get.BanData
-			var ok bool
-			if m, ok = (*data)[k]; !ok {
-				m = make(map[string]get.BanData)
-			}
-			m[v.Cid] = v
-			(*data)[k] = m
+func (j *jsonData) tosave(data *get.Baninfo) {
+	for k, v := range data.Data {
+		var m map[string]get.BanData
+		var ok bool
+		if m, ok = j.Data[k]; !ok {
+			m = make(map[string]get.BanData)
 		}
+		m[v.Cid] = v
+		j.Data[k] = m
 	}
 }
 
