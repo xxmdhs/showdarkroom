@@ -42,13 +42,30 @@
                 add(item, `<a href="https://www.mcbbs.net/home.php?mod=space&uid=` + r[v]["uid"] + `" target="_blank">` + r[v]["username"] + `</a>`, true)
                 add(item, r[v]["action"])
                 add(item, r[v]["groupexpiry"])
-                add(item, r[v]["dateline"])
+                add(item, transformTime(r[v]["dateline"]))
                 add(item, r[v]["reason"])
                 add(item, `<a href="https://www.mcbbs.net/home.php?mod=space&uid=` + r[v]["operatorid"] + `" target="_blank">` + r[v]["operator"] + `</a>`, true)
                 add(item, r[v]["operatorid"])
                 tb.appendChild(item)
             }
             document.getElementById("info").style.removeProperty("display")
+        }
+
+        function transformTime(timestamp) {
+            if (timestamp) {
+                var time = new Date(timestamp * 1000);
+                var y = time.getFullYear();
+                var M = time.getMonth() + 1;
+                var d = time.getDate();
+                var h = time.getHours();
+                var m = time.getMinutes();
+                return y + '-' + addZero(M) + '-' + addZero(d) + ' ' + addZero(h) + ':' + addZero(m) 
+            } else {
+                return '';
+            }
+        }
+        function addZero(m) {
+            return m < 10 ? '0' + m : m;
         }
 
         function add(item, v, h) {
