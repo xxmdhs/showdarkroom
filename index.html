@@ -41,7 +41,7 @@
                 add(item, r[v]["uid"])
                 add(item, `<a href="https://www.mcbbs.net/home.php?mod=space&uid=` + r[v]["uid"] + `" target="_blank">` + r[v]["username"] + `</a>`, true)
                 add(item, r[v]["action"])
-                add(item, r[v]["groupexpiry"])
+                add(item, transformTime(r[v]["groupexpiry"]))
                 add(item, transformTime(r[v]["dateline"]))
                 add(item, r[v]["reason"])
                 add(item, `<a href="https://www.mcbbs.net/home.php?mod=space&uid=` + r[v]["operatorid"] + `" target="_blank">` + r[v]["operator"] + `</a>`, true)
@@ -50,16 +50,21 @@
             }
             document.getElementById("info").style.removeProperty("display")
         }
+        let nreg = /\d+/
 
         function transformTime(timestamp) {
-            if (timestamp) {
-                var time = new Date(timestamp * 1000);
-                var y = time.getFullYear();
-                var M = time.getMonth() + 1;
-                var d = time.getDate();
-                var h = time.getHours();
-                var m = time.getMinutes();
-                return y + '-' + addZero(M) + '-' + addZero(d) + ' ' + addZero(h) + ':' + addZero(m) 
+            if (typeof timestamp == "string") {
+                if (!isNaN(new Number(timestamp))) {
+                    var time = new Date(timestamp * 1000);
+                    var y = time.getFullYear();
+                    var M = time.getMonth() + 1;
+                    var d = time.getDate();
+                    var h = time.getHours();
+                    var m = time.getMinutes();
+                    return y + '-' + addZero(M) + '-' + addZero(d) + ' ' + addZero(h) + ':' + addZero(m)
+                } else {
+                    return timestamp
+                }
             } else {
                 return '';
             }

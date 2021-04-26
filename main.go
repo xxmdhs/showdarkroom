@@ -44,8 +44,6 @@ func main() {
 		if i == 0 {
 			cid = b.Message.Cid
 		}
-		ch <- b
-
 		if b.Message.Dataexist == "1" {
 			i, err = strconv.ParseInt(b.Message.Cid, 10, 64)
 			must(err)
@@ -55,6 +53,7 @@ func main() {
 		} else {
 			break
 		}
+		ch <- b
 		time.Sleep(500 * time.Millisecond)
 	}
 

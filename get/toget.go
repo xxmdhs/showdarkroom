@@ -29,6 +29,7 @@ func GetBanData(cid int) (*Baninfo, error) {
 	for k := range d {
 		v := d[k]
 		v.Dateline = cover(v.Dateline)
+		v.Groupexpiry = cover(v.Groupexpiry)
 		d[k] = v
 	}
 	b := Baninfo{
@@ -40,10 +41,13 @@ func GetBanData(cid int) (*Baninfo, error) {
 
 var timeReg = regexp.MustCompile(`\d{4}-\d{1,2}-\d{1,2} \d{1,2}:\d{1,2}`)
 
-var cnLoc, _ = time.LoadLocation("")
+var cnLoc, _ = time.LoadLocation("Asia/Shanghai")
 
 func cover(t string) string {
 	s := timeReg.FindString(t)
+	if s == "" {
+		return t
+	}
 	ti, err := time.ParseInLocation("2006-1-2 15:04", s, cnLoc)
 	if err != nil {
 		panic(err)
