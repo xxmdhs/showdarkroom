@@ -28,6 +28,7 @@ func main() {
 		if err == nil {
 			temp := d.Cid
 			oldcid, _ = strconv.ParseInt(temp, 10, 64)
+                        j.tosave(d)
 		}
 	}
 
