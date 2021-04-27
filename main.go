@@ -13,11 +13,11 @@ import (
 )
 
 func main() {
-
 	var oldcid int64
 
 	j := jsonData{
 		Date: strconv.FormatInt(time.Now().Unix(), 10),
+		Data: map[string]map[string]get.BanData{},
 	}
 
 	b, err := ioutil.ReadFile("data.json")
