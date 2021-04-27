@@ -13,12 +13,11 @@ import (
 )
 
 func main() {
-	data := map[string]map[string]get.BanData{}
+
 	var oldcid int64
 
 	j := jsonData{
 		Date: strconv.FormatInt(time.Now().Unix(), 10),
-		Data: data,
 	}
 
 	b, err := ioutil.ReadFile("data.json")
@@ -28,7 +27,7 @@ func main() {
 		if err == nil {
 			temp := d.Cid
 			oldcid, _ = strconv.ParseInt(temp, 10, 64)
-                        j.tosave(d)
+			j.Data = d.Data
 		}
 	}
 
