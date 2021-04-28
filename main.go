@@ -21,15 +21,13 @@ func main() {
 	}
 
 	b, err := ioutil.ReadFile("data.json")
-	if err == nil {
-		var d jsonData
-		err = json.Unmarshal(b, &d)
-		if err == nil {
-			temp := d.Cid
-			oldcid, _ = strconv.ParseInt(temp, 10, 64)
-			j.Data = d.Data
-		}
-	}
+	must(err)
+	var d jsonData
+	err = json.Unmarshal(b, &d)
+	must(err)
+	temp := d.Cid
+	oldcid, _ = strconv.ParseInt(temp, 10, 64)
+	j.Data = d.Data
 
 	var i int64
 	for {
