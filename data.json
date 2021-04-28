@@ -1,6 +1,6 @@
 {
-    "cid": "845678",
-    "date": "1619588198",
+    "cid": "845689",
+    "date": "1619595267",
     "data": {
         "0": {
             "435617": {
@@ -41075,6 +41075,19 @@
                 "username": "shenren3"
             }
         },
+        "2600174": {
+            "847326": {
+                "action": "禁止发言",
+                "cid": "847326",
+                "dateline": "1619586720",
+                "groupexpiry": "永不过期",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "水龙头",
+                "uid": "2600174",
+                "username": "乄Cocktail"
+            }
+        },
         "2600217": {
             "764106": {
                 "action": "禁止发言",
@@ -41277,6 +41290,19 @@
                 "reason": "",
                 "uid": "2607768",
                 "username": "有旭东"
+            }
+        },
+        "2608314": {
+            "847325": {
+                "action": "禁止发言",
+                "cid": "847325",
+                "dateline": "1619586660",
+                "groupexpiry": "永不过期",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "水龙头，累犯",
+                "uid": "2608314",
+                "username": "XX成"
             }
         },
         "2610136": {
@@ -44285,6 +44311,19 @@
                 "reason": "刷分",
                 "uid": "267369",
                 "username": "1qw223"
+            }
+        },
+        "2674705": {
+            "847328": {
+                "action": "禁止发言",
+                "cid": "847328",
+                "dateline": "1619586960",
+                "groupexpiry": "1620191760",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "水龙头，使用相似内容大量刷帖",
+                "uid": "2674705",
+                "username": "LONGYONG"
             }
         },
         "2675995": {
@@ -81389,6 +81428,19 @@
                 "username": "MUMAO"
             }
         },
+        "2947764": {
+            "847323": {
+                "action": "禁止发言",
+                "cid": "847323",
+                "dateline": "1619586300",
+                "groupexpiry": "1620191100",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "水龙头",
+                "uid": "2947764",
+                "username": "15504727703"
+            }
+        },
         "2949435": {
             "757390": {
                 "action": "禁止发言",
@@ -86400,6 +86452,19 @@
                 "reason": "刷分",
                 "uid": "3136267",
                 "username": "KCEGGUUUII"
+            }
+        },
+        "3136417": {
+            "847329": {
+                "action": "禁止发言",
+                "cid": "847329",
+                "dateline": "1619587140",
+                "groupexpiry": "永不过期",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "水龙头",
+                "uid": "3136417",
+                "username": "191257036"
             }
         },
         "3136525": {
@@ -101216,6 +101281,19 @@
                 "username": "臭猫最帅"
             }
         },
+        "3865066": {
+            "847327": {
+                "action": "禁止发言",
+                "cid": "847327",
+                "dateline": "1619586900",
+                "groupexpiry": "永不过期",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "水龙头",
+                "uid": "3865066",
+                "username": "少年回忆"
+            }
+        },
         "3865092": {
             "845668": {
                 "action": "禁止发言",
@@ -105746,6 +105824,19 @@
                 "username": "MojangStudio"
             }
         },
+        "4013446": {
+            "847158": {
+                "action": "禁止发言",
+                "cid": "847158",
+                "dateline": "1619574780",
+                "groupexpiry": "永不过期",
+                "operator": "dengyu",
+                "operatorid": "897946",
+                "reason": "水龙头",
+                "uid": "4013446",
+                "username": "zdd123456."
+            }
+        },
         "4014480": {
             "826456": {
                 "action": "禁止发言",
@@ -106469,6 +106560,32 @@
                 "reason": "复读机",
                 "uid": "4077854",
                 "username": "127827406_HH5gp"
+            }
+        },
+        "4078606": {
+            "847322": {
+                "action": "禁止发言",
+                "cid": "847322",
+                "dateline": "1619586240",
+                "groupexpiry": "1620191040",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "水龙头，使用相似内容大量刷帖",
+                "uid": "4078606",
+                "username": "Jayuki1"
+            }
+        },
+        "4080132": {
+            "847320": {
+                "action": "禁止发言",
+                "cid": "847320",
+                "dateline": "1619586000",
+                "groupexpiry": "1620190800",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "水龙头，使用相似内容大量刷帖",
+                "uid": "4080132",
+                "username": "zws1314520"
             }
         },
         "408346": {
@@ -115786,6 +115903,17 @@
                 "reason": "水龙头",
                 "uid": "776737",
                 "username": "787767"
+            },
+            "847321": {
+                "action": "禁止发言",
+                "cid": "847321",
+                "dateline": "1619586120",
+                "groupexpiry": "永不过期",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "水龙头",
+                "uid": "776737",
+                "username": "787767"
             }
         },
         "777559": {
@@ -118272,6 +118400,19 @@
                 "reason": "水龙头",
                 "uid": "901797",
                 "username": "a2a123"
+            }
+        },
+        "902542": {
+            "847330": {
+                "action": "禁止发言",
+                "cid": "847330",
+                "dateline": "1619587260",
+                "groupexpiry": "1620192060",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "水龙头，使用相似内容大量刷帖",
+                "uid": "902542",
+                "username": "tianxia8"
             }
         },
         "90358": {
