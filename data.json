@@ -1,6 +1,6 @@
 {
-    "cid": "845689",
-    "date": "1619595267",
+    "cid": "845690",
+    "date": "1619621770",
     "data": {
         "0": {
             "435617": {
@@ -106610,6 +106610,17 @@
                 "operator": "SHEEP_REALMS",
                 "operatorid": "2153967",
                 "reason": "马甲号搞事",
+                "uid": "4087096",
+                "username": "明日的号"
+            },
+            "847367": {
+                "action": "禁止访问",
+                "cid": "847367",
+                "dateline": "1619599080",
+                "groupexpiry": "永不过期",
+                "operator": "凛",
+                "operatorid": "165947",
+                "reason": "",
                 "uid": "4087096",
                 "username": "明日的号"
             }
