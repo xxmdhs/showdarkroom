@@ -27,7 +27,9 @@ func main() {
 	must(err)
 	temp := d.Cid
 	oldcid, _ = strconv.ParseInt(temp, 10, 64)
-	j.Data = d.Data
+	if d.Data != nil {
+		j.Data = d.Data
+	}
 
 	var i int64
 	for {
