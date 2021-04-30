@@ -1,6 +1,6 @@
 {
-    "cid": "845690",
-    "date": "1619654539",
+    "cid": "846742",
+    "date": "1619741761",
     "data": {
         "0": {
             "435617": {
@@ -44877,6 +44877,19 @@
                 "reason": "刷分",
                 "uid": "2695791",
                 "username": "William_Che"
+            }
+        },
+        "2696041": {
+            "847664": {
+                "action": "禁止发言",
+                "cid": "847664",
+                "dateline": "1619676720",
+                "groupexpiry": "1620281520",
+                "operator": "dengyu",
+                "operatorid": "897946",
+                "reason": "2-4-A 恶性刷帖灌水",
+                "uid": "2696041",
+                "username": "ChinaEX123_BILI"
             }
         },
         "2696819": {
@@ -96050,6 +96063,19 @@
                 "username": "iio真帅"
             }
         },
+        "3448231": {
+            "847668": {
+                "action": "禁止发言",
+                "cid": "847668",
+                "dateline": "1619679720",
+                "groupexpiry": "1620889320",
+                "operator": "混乱",
+                "operatorid": "3038",
+                "reason": "私信骚扰",
+                "uid": "3448231",
+                "username": "一淡墨痕"
+            }
+        },
         "3453425": {
             "672884": {
                 "action": "禁止发言",
@@ -96150,6 +96176,19 @@
                 "reason": "末地水贴",
                 "uid": "3455927",
                 "username": "悔改的阳光"
+            }
+        },
+        "3458469": {
+            "847847": {
+                "action": "禁止发言",
+                "cid": "847847",
+                "dateline": "1619706900",
+                "groupexpiry": "永不过期",
+                "operator": "john180",
+                "operatorid": "5367",
+                "reason": "刷分",
+                "uid": "3458469",
+                "username": "foam340"
             }
         },
         "3461273": {
@@ -97527,6 +97566,19 @@
                 "username": "Ysjt丶翔仔"
             }
         },
+        "3628154": {
+            "847848": {
+                "action": "禁止发言",
+                "cid": "847848",
+                "dateline": "1619706900",
+                "groupexpiry": "永不过期",
+                "operator": "john180",
+                "operatorid": "5367",
+                "reason": "刷分",
+                "uid": "3628154",
+                "username": "Nan_Di"
+            }
+        },
         "3628960": {
             "813611": {
                 "action": "禁止发言",
@@ -97861,6 +97913,19 @@
                 "reason": "2-4-S 以营利为目的大量注册账号 2-4-G 马甲账号",
                 "uid": "3662580",
                 "username": "鸿钧-星月"
+            }
+        },
+        "3666838": {
+            "847825": {
+                "action": "禁止发言",
+                "cid": "847825",
+                "dateline": "1619701080",
+                "groupexpiry": "1620305880",
+                "operator": "dengyu",
+                "operatorid": "897946",
+                "reason": "2-4-R 短时间内提交大量无效举报",
+                "uid": "3666838",
+                "username": "夕阳红熊猫"
             }
         },
         "3669244": {
@@ -99516,6 +99581,19 @@
                 "username": "Yiang_"
             }
         },
+        "3760442": {
+            "847850": {
+                "action": "禁止发言",
+                "cid": "847850",
+                "dateline": "1619707200",
+                "groupexpiry": "1620139200",
+                "operator": "john180",
+                "operatorid": "5367",
+                "reason": "水龙头",
+                "uid": "3760442",
+                "username": "mlsn"
+            }
+        },
         "3761150": {
             "835148": {
                 "action": "禁止发言",
@@ -100499,6 +100577,19 @@
                 "reason": "异常账号",
                 "uid": "3824342",
                 "username": "CircleLand"
+            }
+        },
+        "3825255": {
+            "847852": {
+                "action": "禁止发言",
+                "cid": "847852",
+                "dateline": "1619707260",
+                "groupexpiry": "永不过期",
+                "operator": "john180",
+                "operatorid": "5367",
+                "reason": "用户名违规",
+                "uid": "3825255",
+                "username": "睡你娇妻又何妨"
             }
         },
         "3828212": {
@@ -104502,6 +104593,17 @@
                 "reason": "传播邪教内容",
                 "uid": "3952216",
                 "username": "wine毛毛"
+            },
+            "847685": {
+                "action": "禁止发言",
+                "cid": "847685",
+                "dateline": "1619694120",
+                "groupexpiry": "1621940520",
+                "operator": "凛",
+                "operatorid": "165947",
+                "reason": "私信传播敏感信息",
+                "uid": "3952216",
+                "username": "wine毛毛"
             }
         },
         "3953180": {
@@ -106482,6 +106584,19 @@
                 "reason": "销号受理",
                 "uid": "406790",
                 "username": "lkr291484473"
+            }
+        },
+        "4068153": {
+            "847666": {
+                "action": "禁止发言",
+                "cid": "847666",
+                "dateline": "1619678340",
+                "groupexpiry": "1620283140",
+                "operator": "暗夜Elen",
+                "operatorid": "1712688",
+                "reason": "24r大量过期举报",
+                "uid": "4068153",
+                "username": "HNIN"
             }
         },
         "407": {
@@ -113513,6 +113628,19 @@
                 "username": "q1999628"
             }
         },
+        "683729": {
+            "847665": {
+                "action": "禁止发言",
+                "cid": "847665",
+                "dateline": "1619678340",
+                "groupexpiry": "1620283140",
+                "operator": "暗夜Elen",
+                "operatorid": "1712688",
+                "reason": "24r大量过期举报",
+                "uid": "683729",
+                "username": "mc30789"
+            }
+        },
         "684087": {
             "41214": {
                 "action": "禁止发言",
@@ -119753,6 +119881,19 @@
                 "reason": "剽窃，模仿他人ID",
                 "uid": "962294",
                 "username": "忠义玉子"
+            }
+        },
+        "962616": {
+            "847772": {
+                "action": "禁止发言",
+                "cid": "847772",
+                "dateline": "1619699160",
+                "groupexpiry": "永不过期",
+                "operator": "Azitate",
+                "operatorid": "2763754",
+                "reason": "水龙头",
+                "uid": "962616",
+                "username": "qinshun"
             }
         },
         "962775": {
