@@ -1,6 +1,6 @@
 {
-    "cid": "847855",
-    "date": "1620173111",
+    "cid": "849095",
+    "date": "1620259522",
     "data": {
         "0": {
             "435617": {
@@ -38682,6 +38682,19 @@
                 "username": "虎牙平底锅"
             }
         },
+        "2509930": {
+            "850936": {
+                "action": "禁止发言",
+                "cid": "850936",
+                "dateline": "1620184200",
+                "groupexpiry": "永不过期",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "水龙头，累犯",
+                "uid": "2509930",
+                "username": "1519277441"
+            }
+        },
         "2510466": {
             "339992": {
                 "action": "禁止发言",
@@ -39248,6 +39261,19 @@
                 "reason": "第二次辱骂",
                 "uid": "2531",
                 "username": "troilus"
+            }
+        },
+        "2531231": {
+            "850925": {
+                "action": "禁止发言",
+                "cid": "850925",
+                "dateline": "1620184080",
+                "groupexpiry": "永不过期",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "水龙头，累犯，使用相似内容大量刷帖",
+                "uid": "2531231",
+                "username": "wspq"
             }
         },
         "2531387": {
@@ -92959,6 +92985,19 @@
                 "username": "huakai2"
             }
         },
+        "3338211": {
+            "851259": {
+                "action": "禁止发言",
+                "cid": "851259",
+                "dateline": "1620220320",
+                "groupexpiry": "永不过期",
+                "operator": "pogox",
+                "operatorid": "84901",
+                "reason": "销号受理",
+                "uid": "3338211",
+                "username": "小虾米吖-Aphy"
+            }
+        },
         "3339221": {
             "651199": {
                 "action": "禁止发言",
@@ -98238,6 +98277,19 @@
                 "username": "夕阳红熊猫"
             }
         },
+        "3668187": {
+            "850931": {
+                "action": "禁止发言",
+                "cid": "850931",
+                "dateline": "1620184140",
+                "groupexpiry": "1620788940",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "水龙头，使用相似内容大量刷帖",
+                "uid": "3668187",
+                "username": "虎牙游舒锴"
+            }
+        },
         "3669244": {
             "727914": {
                 "action": "禁止发言",
@@ -101797,6 +101849,19 @@
                 "reason": "水龙头",
                 "uid": "3870956",
                 "username": "Lery1aN"
+            }
+        },
+        "3872521": {
+            "850921": {
+                "action": "禁止发言",
+                "cid": "850921",
+                "dateline": "1620183720",
+                "groupexpiry": "永不过期",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "水龙头",
+                "uid": "3872521",
+                "username": "隔壁阿祥"
             }
         },
         "3873314": {
@@ -107113,6 +107178,19 @@
                 "reason": "水龙头",
                 "uid": "4098145",
                 "username": "qinlin2"
+            }
+        },
+        "4100376": {
+            "850924": {
+                "action": "禁止发言",
+                "cid": "850924",
+                "dateline": "1620183900",
+                "groupexpiry": "1620788700",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "水龙头",
+                "uid": "4100376",
+                "username": "shapai"
             }
         },
         "410497": {
