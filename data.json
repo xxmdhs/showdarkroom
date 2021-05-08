@@ -1,6 +1,6 @@
 {
-    "cid": "849753",
-    "date": "1620345895",
+    "cid": "850106",
+    "date": "1620432304",
     "data": {
         "0": {
             "435617": {
@@ -42741,6 +42741,19 @@
                 "username": "3167536422"
             }
         },
+        "264333": {
+            "851754": {
+                "action": "禁止发言",
+                "cid": "851754",
+                "dateline": "1620393240",
+                "groupexpiry": "永不过期",
+                "operator": "声名我主宰",
+                "operatorid": "2999970",
+                "reason": "水龙头",
+                "uid": "264333",
+                "username": "aaa1006633"
+            }
+        },
         "2643486": {
             "380695": {
                 "action": "禁止发言",
@@ -52198,6 +52211,19 @@
                 "reason": "改判1个月",
                 "uid": "2728787",
                 "username": "黑羽快斗´"
+            }
+        },
+        "2728860": {
+            "851789": {
+                "action": "禁止发言",
+                "cid": "851789",
+                "dateline": "1620394740",
+                "groupexpiry": "1620999540",
+                "operator": "没糖的葫芦",
+                "operatorid": "1793501",
+                "reason": "大量相同回复灌水",
+                "uid": "2728860",
+                "username": "zdymcbb"
             }
         },
         "2729798": {
@@ -85083,6 +85109,19 @@
                 "username": "769350268"
             }
         },
+        "3064578": {
+            "851523": {
+                "action": "禁止发言",
+                "cid": "851523",
+                "dateline": "1620347400",
+                "groupexpiry": "永不过期",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "水龙头",
+                "uid": "3064578",
+                "username": "beakboss"
+            }
+        },
         "3064693": {
             "638526": {
                 "action": "禁止发言",
@@ -106989,6 +107028,19 @@
                 "username": "明日之前"
             }
         },
+        "4065166": {
+            "851522": {
+                "action": "禁止发言",
+                "cid": "851522",
+                "dateline": "1620347100",
+                "groupexpiry": "1620951900",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "水龙头",
+                "uid": "4065166",
+                "username": "apples0703hhh"
+            }
+        },
         "4065381": {
             "841596": {
                 "action": "禁止发言",
@@ -107035,6 +107087,17 @@
                 "operator": "pogox",
                 "operatorid": "84901",
                 "reason": "销号受理",
+                "uid": "406790",
+                "username": "lkr291484473"
+            },
+            "851635": {
+                "action": "禁止发言",
+                "cid": "851635",
+                "dateline": "1620373140",
+                "groupexpiry": "永不过期",
+                "operator": "pogox",
+                "operatorid": "84901",
+                "reason": "销号",
                 "uid": "406790",
                 "username": "lkr291484473"
             }
@@ -107308,6 +107371,19 @@
                 "reason": "水龙头",
                 "uid": "410658",
                 "username": "2898861088"
+            }
+        },
+        "4109432": {
+            "851703": {
+                "action": "禁止发言",
+                "cid": "851703",
+                "dateline": "1620382800",
+                "groupexpiry": "永不过期",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "广告机",
+                "uid": "4109432",
+                "username": "鸣月家"
             }
         },
         "411752": {
