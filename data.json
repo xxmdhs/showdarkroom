@@ -1,6 +1,6 @@
 {
-    "cid": "850106",
-    "date": "1620432304",
+    "cid": "850780",
+    "date": "1620518807",
     "data": {
         "0": {
             "435617": {
@@ -84864,6 +84864,19 @@
                 "username": "2991720353"
             }
         },
+        "3051100": {
+            "851947": {
+                "action": "禁止发言",
+                "cid": "851947",
+                "dateline": "1620463380",
+                "groupexpiry": "永不过期",
+                "operator": "pogox",
+                "operatorid": "84901",
+                "reason": "销号受理",
+                "uid": "3051100",
+                "username": "illusion_lethal"
+            }
+        },
         "3051116": {
             "544634": {
                 "action": "禁止发言",
@@ -85409,6 +85422,19 @@
                 "reason": "广告账号",
                 "uid": "3077403",
                 "username": "woai6688"
+            }
+        },
+        "3079249": {
+            "851851": {
+                "action": "禁止发言",
+                "cid": "851851",
+                "dateline": "1620439980",
+                "groupexpiry": "永不过期",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "水龙头，滥用多个账号",
+                "uid": "3079249",
+                "username": "shaziya"
             }
         },
         "3079694": {
@@ -106112,6 +106138,19 @@
                 "username": "lastcyc"
             }
         },
+        "3984115": {
+            "851946": {
+                "action": "禁止发言",
+                "cid": "851946",
+                "dateline": "1620463320",
+                "groupexpiry": "永不过期",
+                "operator": "pogox",
+                "operatorid": "84901",
+                "reason": "销号受理",
+                "uid": "3984115",
+                "username": "正义使者丶"
+            }
+        },
         "3989469": {
             "841685": {
                 "action": "禁止发言",
@@ -106939,6 +106978,19 @@
                 "username": "123456677"
             }
         },
+        "4052081": {
+            "851850": {
+                "action": "禁止发言",
+                "cid": "851850",
+                "dateline": "1620439680",
+                "groupexpiry": "1621044480",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "水龙头，使用相似内容大量刷帖 / 警告：论坛严禁滥用多个账号",
+                "uid": "4052081",
+                "username": "chaixukun666"
+            }
+        },
         "405233": {
             "115142": {
                 "action": "禁止发言",
@@ -107230,6 +107282,17 @@
                 "reason": "水龙头，使用相似内容大量刷帖",
                 "uid": "4080132",
                 "username": "zws1314520"
+            },
+            "851847": {
+                "action": "禁止发言",
+                "cid": "851847",
+                "dateline": "1620438120",
+                "groupexpiry": "永不过期",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "水龙头，使用相似内容大量刷帖，累犯",
+                "uid": "4080132",
+                "username": "zws1314520"
             }
         },
         "4083165": {
@@ -107371,6 +107434,19 @@
                 "reason": "水龙头",
                 "uid": "410658",
                 "username": "2898861088"
+            }
+        },
+        "4109011": {
+            "852113": {
+                "action": "禁止发言",
+                "cid": "852113",
+                "dateline": "1620493860",
+                "groupexpiry": "永不过期",
+                "operator": "AzureZeng",
+                "operatorid": "1694714",
+                "reason": "广告机",
+                "uid": "4109011",
+                "username": "6000li"
             }
         },
         "4109432": {
@@ -109448,6 +109524,19 @@
                 "reason": "广告机，加水龙头",
                 "uid": "488762",
                 "username": "vicrydai"
+            }
+        },
+        "488953": {
+            "852108": {
+                "action": "禁止发言",
+                "cid": "852108",
+                "dateline": "1620493200",
+                "groupexpiry": "1621098000",
+                "operator": "AzureZeng",
+                "operatorid": "1694714",
+                "reason": "水龙头",
+                "uid": "488953",
+                "username": "1791284827"
             }
         },
         "489131": {
@@ -112484,6 +112573,19 @@
                 "reason": "水龙头",
                 "uid": "601529",
                 "username": "唐瑞"
+            }
+        },
+        "602749": {
+            "851845": {
+                "action": "禁止发言",
+                "cid": "851845",
+                "dateline": "1620434580",
+                "groupexpiry": "1621039380",
+                "operator": "AzureZeng",
+                "operatorid": "1694714",
+                "reason": "水龙头",
+                "uid": "602749",
+                "username": "qq1578423260"
             }
         },
         "60283": {
