@@ -1,6 +1,6 @@
 {
-    "cid": "852698",
-    "date": "1621037804",
+    "cid": "852719",
+    "date": "1621124272",
     "data": {
         "0": {
             "435617": {
@@ -35943,6 +35943,19 @@
                 "username": "天瑜"
             }
         },
+        "2398237": {
+            "854488": {
+                "action": "禁止发言",
+                "cid": "854488",
+                "dateline": "1621074840",
+                "groupexpiry": "1621679640",
+                "operator": "youyihj",
+                "operatorid": "1665862",
+                "reason": "水龙头",
+                "uid": "2398237",
+                "username": "liert"
+            }
+        },
         "2398831": {
             "815034": {
                 "action": "禁止发言",
@@ -42125,6 +42138,19 @@
                 "reason": "刷分",
                 "uid": "2622076",
                 "username": "yingyuan"
+            }
+        },
+        "2622329": {
+            "854363": {
+                "action": "禁止发言",
+                "cid": "854363",
+                "dateline": "1621062900",
+                "groupexpiry": "1621926900",
+                "operator": "AzureZeng",
+                "operatorid": "1694714",
+                "reason": "水龙头",
+                "uid": "2622329",
+                "username": "帅帅的叼霸"
             }
         },
         "2623311": {
@@ -101743,6 +101769,19 @@
                 "username": "fjkbhkjmd42"
             }
         },
+        "3844375": {
+            "854614": {
+                "action": "禁止发言",
+                "cid": "854614",
+                "dateline": "1621088160",
+                "groupexpiry": "永不过期",
+                "operator": "Azitate",
+                "operatorid": "2763754",
+                "reason": "水龙头",
+                "uid": "3844375",
+                "username": "江吴y"
+            }
+        },
         "3844837": {
             "781640": {
                 "action": "禁止发言",
@@ -114838,6 +114877,19 @@
                 "reason": "刷帖，永久",
                 "uid": "681940",
                 "username": "sc123560"
+            }
+        },
+        "682094": {
+            "854251": {
+                "action": "禁止发言",
+                "cid": "854251",
+                "dateline": "1621043460",
+                "groupexpiry": "永不过期",
+                "operator": "AzureZeng",
+                "operatorid": "1694714",
+                "reason": "水龙头，有前科",
+                "uid": "682094",
+                "username": "w906413308"
             }
         },
         "682648": {
