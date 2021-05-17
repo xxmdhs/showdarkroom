@@ -1,6 +1,6 @@
 {
-    "cid": "852719",
-    "date": "1621124272",
+    "cid": "853663",
+    "date": "1621210622",
     "data": {
         "0": {
             "435617": {
@@ -12481,6 +12481,19 @@
                 "reason": "",
                 "uid": "1423677",
                 "username": "莫良"
+            }
+        },
+        "1423747": {
+            "855756": {
+                "action": "禁止发言",
+                "cid": "855756",
+                "dateline": "1621191240",
+                "groupexpiry": "1622400840",
+                "operator": "john180",
+                "operatorid": "5367",
+                "reason": "水龙头",
+                "uid": "1423747",
+                "username": "我玩韩信贼6"
             }
         },
         "1424377": {
@@ -25778,6 +25791,19 @@
                 "username": "周大汤"
             }
         },
+        "1887270": {
+            "855344": {
+                "action": "禁止发言",
+                "cid": "855344",
+                "dateline": "1621140420",
+                "groupexpiry": "永不过期",
+                "operator": "Azitate",
+                "operatorid": "2763754",
+                "reason": "水龙头",
+                "uid": "1887270",
+                "username": "1134242556"
+            }
+        },
         "1887361": {
             "742919": {
                 "action": "禁止发言",
@@ -31559,6 +31585,19 @@
                 "username": "柒染哥"
             }
         },
+        "2151461": {
+            "855748": {
+                "action": "禁止发言",
+                "cid": "855748",
+                "dateline": "1621190880",
+                "groupexpiry": "1621622880",
+                "operator": "john180",
+                "operatorid": "5367",
+                "reason": "水龙头",
+                "uid": "2151461",
+                "username": "3106922232"
+            }
+        },
         "2154461": {
             "332598": {
                 "action": "禁止发言",
@@ -31926,6 +31965,19 @@
                 "username": "1470A"
             }
         },
+        "2172353": {
+            "854942": {
+                "action": "禁止发言",
+                "cid": "854942",
+                "dateline": "1621132500",
+                "groupexpiry": "永不过期",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "广告机",
+                "uid": "2172353",
+                "username": "1589627719"
+            }
+        },
         "2173056": {
             "582605": {
                 "action": "禁止发言",
@@ -32169,6 +32221,19 @@
                 "reason": "4-15-1 机器账号顶贴",
                 "uid": "2188391",
                 "username": "WIKEI"
+            }
+        },
+        "2189902": {
+            "854943": {
+                "action": "禁止发言",
+                "cid": "854943",
+                "dateline": "1621132980",
+                "groupexpiry": "1622390400",
+                "operator": "声名我主宰",
+                "operatorid": "2999970",
+                "reason": "水龙头，在多次受到警告后不收敛不收手",
+                "uid": "2189902",
+                "username": "Doomsday_Lonely"
             }
         },
         "219090": {
@@ -40652,6 +40717,19 @@
                 "username": "橙色通知书"
             }
         },
+        "2576406": {
+            "855580": {
+                "action": "禁止发言",
+                "cid": "855580",
+                "dateline": "1621164420",
+                "groupexpiry": "永不过期",
+                "operator": "妖梦的舔狗",
+                "operatorid": "66971",
+                "reason": "六星失信服务器处罚",
+                "uid": "2576406",
+                "username": "御龙城"
+            }
+        },
         "2576433": {
             "468475": {
                 "action": "禁止发言",
@@ -47159,6 +47237,19 @@
                 "username": "cmttt2718703"
             }
         },
+        "2713649": {
+            "855754": {
+                "action": "禁止发言",
+                "cid": "855754",
+                "dateline": "1621191120",
+                "groupexpiry": "1621623120",
+                "operator": "john180",
+                "operatorid": "5367",
+                "reason": "水龙头",
+                "uid": "2713649",
+                "username": "13295187870"
+            }
+        },
         "2713656": {
             "452049": {
                 "action": "禁止发言",
@@ -49552,6 +49643,19 @@
                 "reason": "水龙头",
                 "uid": "2722896",
                 "username": "各分的"
+            }
+        },
+        "2723151": {
+            "855441": {
+                "action": "禁止发言",
+                "cid": "855441",
+                "dateline": "1621148100",
+                "groupexpiry": "永不过期",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "水龙头",
+                "uid": "2723151",
+                "username": "youyongchao123"
             }
         },
         "2723254": {
@@ -56153,6 +56257,19 @@
                 "reason": "异常帐号",
                 "uid": "2811481",
                 "username": "mctenigfbx"
+            }
+        },
+        "2811505": {
+            "855757": {
+                "action": "禁止发言",
+                "cid": "855757",
+                "dateline": "1621191240",
+                "groupexpiry": "1621623240",
+                "operator": "john180",
+                "operatorid": "5367",
+                "reason": "水龙头",
+                "uid": "2811505",
+                "username": "qq132858"
             }
         },
         "2811524": {
@@ -88902,6 +89019,19 @@
                 "username": "1007316363"
             }
         },
+        "3195578": {
+            "854993": {
+                "action": "禁止发言",
+                "cid": "854993",
+                "dateline": "1621137660",
+                "groupexpiry": "永不过期",
+                "operator": "Azitate",
+                "operatorid": "2763754",
+                "reason": "水龙头",
+                "uid": "3195578",
+                "username": "MC_小忠"
+            }
+        },
         "3195980": {
             "673955": {
                 "action": "禁止发言",
@@ -90275,6 +90405,19 @@
                 "username": "泥潭小萌新"
             }
         },
+        "3276054": {
+            "855758": {
+                "action": "禁止发言",
+                "cid": "855758",
+                "dateline": "1621191240",
+                "groupexpiry": "1621623240",
+                "operator": "john180",
+                "operatorid": "5367",
+                "reason": "水龙头",
+                "uid": "3276054",
+                "username": "星光下的指路人"
+            }
+        },
         "3279080": {
             "623323": {
                 "action": "禁止发言",
@@ -90388,6 +90531,19 @@
                 "username": "2681185315"
             }
         },
+        "3284187": {
+            "855746": {
+                "action": "禁止发言",
+                "cid": "855746",
+                "dateline": "1621190760",
+                "groupexpiry": "1621795560",
+                "operator": "john180",
+                "operatorid": "5367",
+                "reason": "水龙头",
+                "uid": "3284187",
+                "username": "我是喔喔"
+            }
+        },
         "3285337": {
             "631757": {
                 "action": "禁止发言",
@@ -90412,6 +90568,19 @@
                 "reason": "水龙头",
                 "uid": "3285711",
                 "username": "渣渣辉丿dandan"
+            }
+        },
+        "3286323": {
+            "854971": {
+                "action": "禁止发言",
+                "cid": "854971",
+                "dateline": "1621137240",
+                "groupexpiry": "永不过期",
+                "operator": "sjjklh",
+                "operatorid": "3467",
+                "reason": "Free Giftcode广告账户",
+                "uid": "3286323",
+                "username": "aryuyongxin"
             }
         },
         "3286553": {
@@ -95797,6 +95966,19 @@
                 "username": "PeterMa"
             }
         },
+        "3375914": {
+            "855752": {
+                "action": "禁止发言",
+                "cid": "855752",
+                "dateline": "1621191060",
+                "groupexpiry": "1621623060",
+                "operator": "john180",
+                "operatorid": "5367",
+                "reason": "水龙头",
+                "uid": "3375914",
+                "username": "沈夏世轩"
+            }
+        },
         "3377537": {
             "656790": {
                 "action": "禁止发言",
@@ -100949,6 +101131,19 @@
                 "username": "天平座蜗牛"
             }
         },
+        "3790454": {
+            "855751": {
+                "action": "禁止发言",
+                "cid": "855751",
+                "dateline": "1621191060",
+                "groupexpiry": "1621623060",
+                "operator": "john180",
+                "operatorid": "5367",
+                "reason": "水龙头",
+                "uid": "3790454",
+                "username": "cn1206162654"
+            }
+        },
         "3790852": {
             "785674": {
                 "action": "禁止发言",
@@ -101149,6 +101344,19 @@
                 "reason": "刷帖永久",
                 "uid": "380312",
                 "username": "天空之城MCSky"
+            }
+        },
+        "3805288": {
+            "855343": {
+                "action": "禁止发言",
+                "cid": "855343",
+                "dateline": "1621140360",
+                "groupexpiry": "永不过期",
+                "operator": "Azitate",
+                "operatorid": "2763754",
+                "reason": "水龙头",
+                "uid": "3805288",
+                "username": "你的雨季节"
             }
         },
         "3806342": {
@@ -101988,6 +102196,19 @@
                 "reason": "2-4-G 大量注册马甲账号",
                 "uid": "3852568",
                 "username": "Uorth1"
+            }
+        },
+        "3852610": {
+            "855376": {
+                "action": "禁止发言",
+                "cid": "855376",
+                "dateline": "1621143780",
+                "groupexpiry": "永不过期",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "水龙头",
+                "uid": "3852610",
+                "username": "TSEert"
             }
         },
         "3853301": {
@@ -106767,6 +106988,19 @@
                 "username": "一道阳光..."
             }
         },
+        "4003349": {
+            "855753": {
+                "action": "禁止发言",
+                "cid": "855753",
+                "dateline": "1621191120",
+                "groupexpiry": "1621623120",
+                "operator": "john180",
+                "operatorid": "5367",
+                "reason": "水龙头",
+                "uid": "4003349",
+                "username": "来轰锅锅"
+            }
+        },
         "4006032": {
             "824541": {
                 "action": "禁止发言",
@@ -107557,6 +107791,19 @@
                 "username": "明日之中"
             }
         },
+        "4059231": {
+            "855342": {
+                "action": "禁止发言",
+                "cid": "855342",
+                "dateline": "1621140360",
+                "groupexpiry": "永不过期",
+                "operator": "Azitate",
+                "operatorid": "2763754",
+                "reason": "水龙头",
+                "uid": "4059231",
+                "username": "YCKBABA"
+            }
+        },
         "4060360": {
             "840394": {
                 "action": "禁止访问",
@@ -107774,6 +108021,19 @@
                 "username": "Jayuki1"
             }
         },
+        "4079263": {
+            "855341": {
+                "action": "禁止发言",
+                "cid": "855341",
+                "dateline": "1621140300",
+                "groupexpiry": "永不过期",
+                "operator": "Azitate",
+                "operatorid": "2763754",
+                "reason": "水龙头",
+                "uid": "4079263",
+                "username": "wlqq"
+            }
+        },
         "4080132": {
             "847320": {
                 "action": "禁止发言",
@@ -107859,6 +108119,19 @@
                 "reason": "刷分",
                 "uid": "408974",
                 "username": "CYFGG"
+            }
+        },
+        "4095199": {
+            "854894": {
+                "action": "禁止发言",
+                "cid": "854894",
+                "dateline": "1621130880",
+                "groupexpiry": "永不过期",
+                "operator": "youyihj",
+                "operatorid": "1665862",
+                "reason": "水龙头",
+                "uid": "4095199",
+                "username": "72777"
             }
         },
         "4098145": {
@@ -108015,6 +108288,19 @@
                 "reason": "水龙头",
                 "uid": "412052",
                 "username": "2814680411"
+            }
+        },
+        "4122442": {
+            "855096": {
+                "action": "禁止发言",
+                "cid": "855096",
+                "dateline": "1621138740",
+                "groupexpiry": "1622348340",
+                "operator": "AzureZeng",
+                "operatorid": "1694714",
+                "reason": "水龙头，再犯永封",
+                "uid": "4122442",
+                "username": "星殇落"
             }
         },
         "413968": {
@@ -109964,6 +110250,19 @@
                 "reason": "",
                 "uid": "485632",
                 "username": "我操你妹"
+            }
+        },
+        "485900": {
+            "855515": {
+                "action": "禁止发言",
+                "cid": "855515",
+                "dateline": "1621156440",
+                "groupexpiry": "1622390400",
+                "operator": "dengyu",
+                "operatorid": "897946",
+                "reason": "水龙头",
+                "uid": "485900",
+                "username": "不用反响"
             }
         },
         "486298": {
