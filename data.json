@@ -1,6 +1,6 @@
 {
-    "cid": "856645",
-    "date": "1621815481",
+    "cid": "857444",
+    "date": "1621901911",
     "data": {
         "0": {
             "435617": {
@@ -17120,6 +17120,17 @@
                 "operator": "pogox",
                 "operatorid": "84901",
                 "reason": "销号受理",
+                "uid": "1582339",
+                "username": "1137305770"
+            },
+            "858243": {
+                "action": "禁止发言",
+                "cid": "858243",
+                "dateline": "1621842300",
+                "groupexpiry": "永不过期",
+                "operator": "pogox",
+                "operatorid": "84901",
+                "reason": "销号",
                 "uid": "1582339",
                 "username": "1137305770"
             }
@@ -37258,6 +37269,19 @@
                 "reason": "水龙头",
                 "uid": "2456888",
                 "username": "njsyy"
+            }
+        },
+        "245856": {
+            "858237": {
+                "action": "禁止发言",
+                "cid": "858237",
+                "dateline": "1621842060",
+                "groupexpiry": "永不过期",
+                "operator": "pogox",
+                "operatorid": "84901",
+                "reason": "销号受理",
+                "uid": "245856",
+                "username": "879849162"
             }
         },
         "2459862": {
@@ -85004,6 +85028,19 @@
                 "username": "毛怡婷"
             }
         },
+        "3033901": {
+            "858299": {
+                "action": "禁止发言",
+                "cid": "858299",
+                "dateline": "1621854300",
+                "groupexpiry": "1621940700",
+                "operator": "声名我主宰",
+                "operatorid": "2999970",
+                "reason": "违规转账100金粒",
+                "uid": "3033901",
+                "username": "xiamy"
+            }
+        },
         "3034088": {
             "561233": {
                 "action": "禁止发言",
@@ -100079,6 +100116,19 @@
                 "username": "罗伯特3"
             }
         },
+        "3694263": {
+            "858236": {
+                "action": "禁止发言",
+                "cid": "858236",
+                "dateline": "1621842000",
+                "groupexpiry": "永不过期",
+                "operator": "pogox",
+                "operatorid": "84901",
+                "reason": "销号受理",
+                "uid": "3694263",
+                "username": "justanpc1"
+            }
+        },
         "369430": {
             "129076": {
                 "action": "禁止发言",
@@ -108572,6 +108622,19 @@
                 "username": "zws1314520"
             }
         },
+        "4081267": {
+            "858198": {
+                "action": "禁止发言",
+                "cid": "858198",
+                "dateline": "1621826460",
+                "groupexpiry": "永不过期",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "水龙头",
+                "uid": "4081267",
+                "username": "02的L"
+            }
+        },
         "4083165": {
             "850106": {
                 "action": "禁止发言",
@@ -108583,6 +108646,19 @@
                 "reason": "2-4-R 滥用多个账号进行无效举报，同时挑衅误导被举报人，并且多个账号在茶馆频繁发帖屠版，我甚至都不知道如何总结这一连串的行为 / 2-4-G 马甲账号永久禁言",
                 "uid": "4083165",
                 "username": "Panda_KaiSer"
+            }
+        },
+        "4083419": {
+            "858594": {
+                "action": "禁止发言",
+                "cid": "858594",
+                "dateline": "1621868280",
+                "groupexpiry": "1622300280",
+                "operator": "john180",
+                "operatorid": "5367",
+                "reason": "水龙头",
+                "uid": "4083419",
+                "username": "saens"
             }
         },
         "408346": {
@@ -108906,6 +108982,45 @@
                 "reason": "广告机",
                 "uid": "4129232",
                 "username": "as46546f"
+            }
+        },
+        "4132897": {
+            "858199": {
+                "action": "禁止发言",
+                "cid": "858199",
+                "dateline": "1621826580",
+                "groupexpiry": "1622431380",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "水龙头，滥用多个账号刷帖灌水",
+                "uid": "4132897",
+                "username": "染头发风格"
+            }
+        },
+        "4138010": {
+            "858253": {
+                "action": "禁止发言",
+                "cid": "858253",
+                "dateline": "1621843200",
+                "groupexpiry": "1622793600",
+                "operator": "AzureZeng",
+                "operatorid": "1694714",
+                "reason": "水龙头，再犯永封",
+                "uid": "4138010",
+                "username": "一条小昌昌"
+            }
+        },
+        "4139663": {
+            "858298": {
+                "action": "禁止发言",
+                "cid": "858298",
+                "dateline": "1621854300",
+                "groupexpiry": "1621940700",
+                "operator": "声名我主宰",
+                "operatorid": "2999970",
+                "reason": "违规转账100金粒",
+                "uid": "4139663",
+                "username": "lhxmy"
             }
         },
         "413968": {
@@ -119985,6 +120100,19 @@
                 "reason": "刷分马甲",
                 "uid": "851819",
                 "username": "3045328803"
+            }
+        },
+        "853315": {
+            "858252": {
+                "action": "禁止发言",
+                "cid": "858252",
+                "dateline": "1621843200",
+                "groupexpiry": "永不过期",
+                "operator": "pogox",
+                "operatorid": "84901",
+                "reason": "销号受理",
+                "uid": "853315",
+                "username": "徐伟"
             }
         },
         "855719": {
