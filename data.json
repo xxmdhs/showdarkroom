@@ -1,6 +1,6 @@
 {
-    "cid": "858955",
-    "date": "1622161745",
+    "cid": "859359",
+    "date": "1622248691",
     "data": {
         "0": {
             "435617": {
@@ -16071,6 +16071,17 @@
                 "reason": "2-4-S 以营利为目的大量注册账号",
                 "uid": "1554999",
                 "username": "1916878144"
+            },
+            "859815": {
+                "action": "禁止发言",
+                "cid": "859815",
+                "dateline": "1622170980",
+                "groupexpiry": "永不过期",
+                "operator": "混乱",
+                "operatorid": "3038",
+                "reason": "违反2-4-D、2-4-R、2-4-K、2-4-S等多项总版规",
+                "uid": "1554999",
+                "username": "1916878144"
             }
         },
         "1555977": {
@@ -20448,6 +20459,17 @@
                 "operator": "声名我主宰",
                 "operatorid": "2999970",
                 "reason": "2-4-S 以营利为目的大量注册账号",
+                "uid": "1659520",
+                "username": "双标青年"
+            },
+            "859816": {
+                "action": "禁止发言",
+                "cid": "859816",
+                "dateline": "1622170980",
+                "groupexpiry": "永不过期",
+                "operator": "混乱",
+                "operatorid": "3038",
+                "reason": "违反2-4-D、2-4-R、2-4-K、2-4-S等多项总版规",
                 "uid": "1659520",
                 "username": "双标青年"
             }
@@ -31413,6 +31435,19 @@
                 "username": "M-qingtian"
             }
         },
+        "2135877": {
+            "859984": {
+                "action": "禁止发言",
+                "cid": "859984",
+                "dateline": "1622198880",
+                "groupexpiry": "永不过期",
+                "operator": "AzureZeng",
+                "operatorid": "1694714",
+                "reason": "水龙头，有前科",
+                "uid": "2135877",
+                "username": "6666_2333"
+            }
+        },
         "2135958": {
             "503782": {
                 "action": "禁止发言",
@@ -31839,6 +31874,17 @@
                 "operator": "声名我主宰",
                 "operatorid": "2999970",
                 "reason": "2-4-S 以营利为目的大量注册账号",
+                "uid": "2152093",
+                "username": "279478620"
+            },
+            "859817": {
+                "action": "禁止发言",
+                "cid": "859817",
+                "dateline": "1622170980",
+                "groupexpiry": "永不过期",
+                "operator": "混乱",
+                "operatorid": "3038",
+                "reason": "违反2-4-D、2-4-R、2-4-K、2-4-S等多项总版规",
                 "uid": "2152093",
                 "username": "279478620"
             }
@@ -39547,6 +39593,19 @@
                 "username": "guiyu520123"
             }
         },
+        "2520948": {
+            "859977": {
+                "action": "禁止发言",
+                "cid": "859977",
+                "dateline": "1622196960",
+                "groupexpiry": "1623406560",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "2-4-R",
+                "uid": "2520948",
+                "username": "明月妹子233"
+            }
+        },
         "2521152": {
             "813669": {
                 "action": "禁止发言",
@@ -41038,6 +41097,19 @@
                 "reason": "囤积账号",
                 "uid": "2575866",
                 "username": "2548795068"
+            }
+        },
+        "257597": {
+            "859811": {
+                "action": "禁止发言",
+                "cid": "859811",
+                "dateline": "1622170800",
+                "groupexpiry": "永不过期",
+                "operator": "混乱",
+                "operatorid": "3038",
+                "reason": "违反2-4-D、2-4-R、2-4-K、2-4-S等多项总版规",
+                "uid": "257597",
+                "username": "NaiFen☀"
             }
         },
         "2576218": {
@@ -42934,6 +43006,17 @@
                 "reason": "2-4-S 以营利为目的大量注册账号",
                 "uid": "2634062",
                 "username": "2595106476"
+            },
+            "859818": {
+                "action": "禁止发言",
+                "cid": "859818",
+                "dateline": "1622170980",
+                "groupexpiry": "永不过期",
+                "operator": "混乱",
+                "operatorid": "3038",
+                "reason": "违反2-4-D、2-4-R、2-4-K、2-4-S等多项总版规",
+                "uid": "2634062",
+                "username": "2595106476"
             }
         },
         "2634472": {
@@ -43617,6 +43700,17 @@
                 "operator": "声名我主宰",
                 "operatorid": "2999970",
                 "reason": "2-4-S 以营利为目的大量注册账号",
+                "uid": "2652330",
+                "username": "CloudOutland"
+            },
+            "859819": {
+                "action": "禁止发言",
+                "cid": "859819",
+                "dateline": "1622170980",
+                "groupexpiry": "永不过期",
+                "operator": "混乱",
+                "operatorid": "3038",
+                "reason": "违反2-4-D、2-4-R、2-4-K、2-4-S等多项总版规",
                 "uid": "2652330",
                 "username": "CloudOutland"
             }
@@ -46336,6 +46430,19 @@
                 "reason": "用户异常,有疑问请移步末路之地版块申诉",
                 "uid": "2711735",
                 "username": "subttman"
+            }
+        },
+        "2712097": {
+            "859978": {
+                "action": "禁止发言",
+                "cid": "859978",
+                "dateline": "1622197020",
+                "groupexpiry": "1623406620",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "2-4-R",
+                "uid": "2712097",
+                "username": "玄月月"
             }
         },
         "2712541": {
@@ -50029,6 +50136,17 @@
                 "operator": "声名我主宰",
                 "operatorid": "2999970",
                 "reason": "2-4-S 以营利为目的大量注册账号",
+                "uid": "2721334",
+                "username": "小则不是受"
+            },
+            "859820": {
+                "action": "禁止发言",
+                "cid": "859820",
+                "dateline": "1622170980",
+                "groupexpiry": "永不过期",
+                "operator": "混乱",
+                "operatorid": "3038",
+                "reason": "违反2-4-D、2-4-R、2-4-K、2-4-S等多项总版规",
                 "uid": "2721334",
                 "username": "小则不是受"
             }
@@ -82382,6 +82500,19 @@
                 "username": "眉似远山长"
             }
         },
+        "2942286": {
+            "860353": {
+                "action": "禁止发言",
+                "cid": "860353",
+                "dateline": "1622220360",
+                "groupexpiry": "1623429960",
+                "operator": "AzureZeng",
+                "operatorid": "1694714",
+                "reason": "水龙头，再犯永封",
+                "uid": "2942286",
+                "username": "lty0712"
+            }
+        },
         "2942710": {
             "697361": {
                 "action": "禁止发言",
@@ -91108,6 +91239,17 @@
                 "operator": "SHEEP_REALMS",
                 "operatorid": "2153967",
                 "reason": "2-4-R 对刷分帖评分回血：回滚版主撤销评分操作",
+                "uid": "3281235",
+                "username": "嘿嘿嘿嘿嘿鹰"
+            },
+            "859813": {
+                "action": "禁止发言",
+                "cid": "859813",
+                "dateline": "1622170860",
+                "groupexpiry": "永不过期",
+                "operator": "混乱",
+                "operatorid": "3038",
+                "reason": "违反2-4-D、2-4-R、2-4-K、2-4-S等多项总版规",
                 "uid": "3281235",
                 "username": "嘿嘿嘿嘿嘿鹰"
             }
@@ -103089,6 +103231,19 @@
                 "username": "arthur_46"
             }
         },
+        "3856220": {
+            "859810": {
+                "action": "禁止发言",
+                "cid": "859810",
+                "dateline": "1622170800",
+                "groupexpiry": "永不过期",
+                "operator": "混乱",
+                "operatorid": "3038",
+                "reason": "违反2-4-D、2-4-R、2-4-K、2-4-S等多项总版规",
+                "uid": "3856220",
+                "username": "TNOG工作室"
+            }
+        },
         "3856495": {
             "807068": {
                 "action": "禁止发言",
@@ -108020,6 +108175,19 @@
                 "username": "A1oya1n"
             }
         },
+        "4016852": {
+            "859852": {
+                "action": "禁止发言",
+                "cid": "859852",
+                "dateline": "1622189460",
+                "groupexpiry": "永不过期",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "搞事马甲",
+                "uid": "4016852",
+                "username": "Omoide"
+            }
+        },
         "4019968": {
             "831028": {
                 "action": "禁止发言",
@@ -109368,6 +109536,17 @@
                 "reason": "2-4-r",
                 "uid": "4132533",
                 "username": "☀NaiFen"
+            },
+            "859812": {
+                "action": "禁止发言",
+                "cid": "859812",
+                "dateline": "1622170800",
+                "groupexpiry": "永不过期",
+                "operator": "混乱",
+                "operatorid": "3038",
+                "reason": "违反2-4-D、2-4-R、2-4-K、2-4-S等多项总版规",
+                "uid": "4132533",
+                "username": "☀NaiFen"
             }
         },
         "4132897": {
@@ -109459,6 +109638,19 @@
                 "reason": "水龙头",
                 "uid": "413985",
                 "username": "1677752574"
+            }
+        },
+        "4144122": {
+            "859848": {
+                "action": "禁止发言",
+                "cid": "859848",
+                "dateline": "1622185200",
+                "groupexpiry": "永不过期",
+                "operator": "SHEEP_REALMS",
+                "operatorid": "2153967",
+                "reason": "搞事马甲号",
+                "uid": "4144122",
+                "username": "Justice使者"
             }
         },
         "415018": {
@@ -118848,6 +119040,17 @@
                 "operator": "声名我主宰",
                 "operatorid": "2999970",
                 "reason": "2-4-S 以营利为目的大量注册账号",
+                "uid": "775858",
+                "username": "cuibingwei"
+            },
+            "859814": {
+                "action": "禁止发言",
+                "cid": "859814",
+                "dateline": "1622170980",
+                "groupexpiry": "永不过期",
+                "operator": "混乱",
+                "operatorid": "3038",
+                "reason": "违反2-4-D、2-4-R、2-4-K、2-4-S等多项总版规",
                 "uid": "775858",
                 "username": "cuibingwei"
             }
