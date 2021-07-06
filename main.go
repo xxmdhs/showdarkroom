@@ -5,6 +5,7 @@ import (
 	"encoding/hex"
 	"encoding/json"
 	"errors"
+	"fmt"
 	"io/ioutil"
 	"log"
 	"os"
@@ -27,6 +28,7 @@ func main() {
 
 	sha := Sha256(b)
 	j.Hash = sha
+	fmt.Println(sha)
 
 	var d jsonData
 	err = json.Unmarshal(b, &d)
