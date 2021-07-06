@@ -1,6 +1,8 @@
 package main
 
 import (
+	"crypto/sha256"
+	"encoding/hex"
 	"encoding/json"
 	"errors"
 	"io/ioutil"
@@ -22,6 +24,10 @@ func main() {
 
 	b, err := ioutil.ReadFile("data.json")
 	must(err)
+
+	sha := Sha256(b)
+	j.Hash = sha
+
 	var d jsonData
 	err = json.Unmarshal(b, &d)
 	must(err)
@@ -71,6 +77,7 @@ func main() {
 type jsonData struct {
 	Cid  string                            `json:"cid"`
 	Date string                            `json:"date"`
+	Hash string                            `json:"hash"`
 	Data map[string]map[string]get.BanData `json:"data"`
 }
 
@@ -90,4 +97,11 @@ func must(err error) {
 	if err != nil {
 		panic(err)
 	}
+}
+
+func Sha256(date []byte) string {
+	h := sha256.New()
+	h.Write(date)
+	b := h.Sum(nil)
+	return hex.EncodeToString(b)
 }
