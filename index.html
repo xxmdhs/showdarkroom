@@ -1,125 +1,158 @@
-<!DOCTYPE html>
-<html>
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>mcbbs 封禁查询</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/xmdhs/searchqanda/style.css">
+    <!DOCTYPE html>
+    <html lang="zh-CN">
 
-    <script>
-        window.addEventListener("load", () => {
-            let f = document.getElementById("find");
-            f.addEventListener("submit", function (event) {
-                event.preventDefault();
-                find();
-            });
-        })
-        let data = null
-        async function find() {
-            let uid = document.querySelector("#uid").value.toString();
-            if (uid == "") {
-                return;
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>mcbbs 封禁查询</title>
+        <link rel="stylesheet" href="https://static.xmdhs.com/pico.min.css">
+        <script src="https://static.xmdhs.com/vue.global.js"></script>
+        <style type="text/css">
+            header {
+                border-bottom: 1px solid #e5e5e5;
+                margin-bottom: 30px;
             }
-            if (data == null) {
-                let d = await fetch("./data.json")
-                data = await d.json()
-                data = data["data"]
-            }
-            let tb = document.getElementById("tb")
-            tb.innerHTML = ""
-
-            let r = data[uid]
-            if (r == null) {
-                tb.innerText = "没找到"
-                document.getElementById("info").style.removeProperty("display")
-                return
-            }
-            for (const v in r) {
-                let item = document.createElement("tr")
-                add(item, r[v]["uid"])
-                add(item, `<a href="https://www.mcbbs.net/home.php?mod=space&uid=` + r[v]["uid"] + `" target="_blank">` + r[v]["username"] + `</a>`, true)
-                add(item, r[v]["action"])
-                add(item, transformTime(r[v]["groupexpiry"]))
-                add(item, transformTime(r[v]["dateline"]))
-                add(item, r[v]["reason"])
-                add(item, `<a href="https://www.mcbbs.net/home.php?mod=space&uid=` + r[v]["operatorid"] + `" target="_blank">` + r[v]["operator"] + `</a>`, true)
-                add(item, r[v]["operatorid"])
-                tb.appendChild(item)
-            }
-            document.getElementById("info").style.removeProperty("display")
-        }
-        let nreg = /\d+/
-
-        function transformTime(timestamp) {
-            if (typeof timestamp == "string") {
-                if (!isNaN(new Number(timestamp))) {
-                    var time = new Date(timestamp * 1000);
-                    var y = time.getFullYear();
-                    var M = time.getMonth() + 1;
-                    var d = time.getDate();
-                    var h = time.getHours();
-                    var m = time.getMinutes();
-                    return y + '-' + addZero(M) + '-' + addZero(d) + ' ' + addZero(h) + ':' + addZero(m)
-                } else {
-                    return timestamp
+        </style>
+        <style>
+            @media screen and (max-width: 600px) {
+                table {
+                    white-space: nowrap;
+                    overflow-y: scroll;
                 }
-            } else {
-                return '';
             }
-        }
-        function addZero(m) {
-            return m < 10 ? '0' + m : m;
-        }
+        </style>
+    </head>
 
-        function add(item, v, h) {
-            let t = document.createElement("td")
-            if (h === true) {
-                t.innerHTML = v
-            } else {
-                t.innerText = v
-            }
-            item.appendChild(t)
-        }
-    </script>
-    <style>
-        @media screen and (max-width: 600px) {
-            #info>table {
-                white-space: nowrap;
-            }
-        }
-    </style>
-</head>
 
-<body>
-    <div class="container-lg px-3 my-5 markdown-body">
-        <h1>mcbbs 封禁查询</h1>
-        <form id="find">
-            <input type="search" id="uid" placeholder="uid" name="ip" title="uid" pattern="^\d*$">
-            <input type="submit" value="查询">
-        </form>
-        <br>
-        <div id="info" style="display: none;">
-            <table>
-                <thead>
-                    <tr>
-                        <th>uid</th>
-                        <th>用户名</th>
-                        <th>操作行为</th>
-                        <th>过期时间</th>
-                        <th>操作时间</th>
-                        <th>操作理由</th>
-                        <th>操作者</th>
-                        <th>操作者 uid</th>
-                    </tr>
-                </thead>
-                <tbody id="tb">
 
-                </tbody>
-            </table>
+    <body>
+        <div id="app">
+            <header>
+                <nav class="container-fluid">
+                    <ul>
+                        <li><strong>mcbbs 封禁查询</strong></li>
+                    </ul>
+                    <ul>
+                    </ul>
+                </nav>
+            </header>
+            <main class="container">
+                <form @submit.prevent="submit" class="grid">
+                    <input type="search" v-model.trim="uid" placeholder="uid" name="ip" title="uid" pattern="^\d*$">
+                </form>
+                <table v-show="resultList.length != 0 && !none">
+                    <thead>
+                        <tr>
+                            <th>uid</th>
+                            <th>用户名</th>
+                            <th>操作行为</th>
+                            <th>过期时间</th>
+                            <th>操作时间</th>
+                            <th>操作理由</th>
+                            <th>操作者</th>
+                            <th>操作者 uid</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr v-for="{ uid, banname, type, etime, otime, cause, oname, ouid } in resultList" :key="uid">
+                            <td>{{ uid }}</td>
+                            <td><a :href="'https://www.mcbbs.net/home.php?mod=space&uid=' + uid" target="_blank">{{
+                                    banname
+                            }}</a></td>
+                            <td>{{ type }}</td>
+                            <td>{{ etime }}</td>
+                            <td>{{ otime }}</td>
+                            <td>{{ cause }}</td>
+                            <td><a :href="'https://www.mcbbs.net/home.php?mod=space&uid=' + ouid" target="_blank">{{
+                                    oname
+                            }}</a></td>
+                            <td>{{ ouid }}</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p v-show="none">没找到</p>
+            </main>
         </div>
-    </div>
-</body>
+    </body>
 
-</html>
+    <script type="text/javascript">
+    Vue.createApp({
+        setup(props, context) {
+            const uid = Vue.ref("");
+            const resultList = Vue.ref([]);
+            const none = Vue.ref(false);
+            let data;
+    
+            Vue.watch(uid, submit)
+    
+            async function submit() {
+                none.value = false;
+                resultList.value = []
+                if (data == null) {
+                    let d = await fetch("./data.json")
+                    data = await d.json()
+                    data = data["data"]
+                }
+                let r = data[uid.value]
+                if (r == null) {
+                    resultList.value = []
+                    none.value = true
+                    return
+                }
+                let rl = []
+                for (let i in r) {
+                    rl.push(r[i])
+                }
+                rl.sort((a, b) => {
+                    return Number(b.cid) - Number(a.cid)
+                })
+
+                for (const v of rl) {
+                    resultList.value.push({
+                        uid: v.uid,
+                        banname: v.username,
+                        type: v.action,
+                        etime: transformTime(v.groupexpiry),
+                        otime: transformTime(v.dateline),
+                        cause: v.reason,
+                        oname: v.operator,
+                        ouid: v.operatorid
+                    })
+                }
+            }
+    
+            function transformTime(timestamp) {
+                if (typeof timestamp == "string") {
+                    if (!isNaN(new Number(timestamp))) {
+                        var time = new Date(timestamp * 1000);
+                        var y = time.getFullYear();
+                        var M = time.getMonth() + 1;
+                        var d = time.getDate();
+                        var h = time.getHours();
+                        var m = time.getMinutes();
+                        return y + '-' + addZero(M) + '-' + addZero(d) + ' ' + addZero(h) + ':' + addZero(m)
+                    } else {
+                        return timestamp
+                    }
+                } else {
+                    return '';
+                }
+            }
+            function addZero(m) {
+                return m < 10 ? '0' + m : m;
+            }
+    
+            return {
+                uid,
+                resultList,
+                none,
+                submit,
+            }
+        },
+    }).mount('#app')
+    
+    
+    </script>
+
+    </html>
