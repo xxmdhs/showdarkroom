@@ -16,9 +16,8 @@
         </style>
         <style>
             @media screen and (max-width: 600px) {
-                table {
+                .data-table {
                     white-space: nowrap;
-                    overflow-y: scroll;
                 }
             }
         </style>
@@ -41,36 +40,39 @@
                 <form @submit.prevent="submit" class="grid">
                     <input type="search" v-model.trim="uid" placeholder="uid" name="ip" title="uid" pattern="^\d*$">
                 </form>
-                <table v-show="resultList.length != 0 && !none">
-                    <thead>
-                        <tr>
-                            <th>uid</th>
-                            <th>用户名</th>
-                            <th>操作行为</th>
-                            <th>过期时间</th>
-                            <th>操作时间</th>
-                            <th>操作理由</th>
-                            <th>操作者</th>
-                            <th>操作者 uid</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr v-for="{ uid, banname, type, etime, otime, cause, oname, ouid } in resultList" :key="uid">
-                            <td>{{ uid }}</td>
-                            <td><a :href="'https://www.mcbbs.net/home.php?mod=space&uid=' + uid" target="_blank">{{
-                                    banname
-                            }}</a></td>
-                            <td>{{ type }}</td>
-                            <td>{{ etime }}</td>
-                            <td>{{ otime }}</td>
-                            <td>{{ cause }}</td>
-                            <td><a :href="'https://www.mcbbs.net/home.php?mod=space&uid=' + ouid" target="_blank">{{
-                                    oname
-                            }}</a></td>
-                            <td>{{ ouid }}</td>
-                        </tr>
-                    </tbody>
-                </table>
+                <div v-show="resultList.length != 0 && !none" style="overflow:scroll;">
+                    <table class="data-table">
+                        <thead>
+                            <tr>
+                                <th>uid</th>
+                                <th>用户名</th>
+                                <th>操作行为</th>
+                                <th>过期时间</th>
+                                <th>操作时间</th>
+                                <th>操作理由</th>
+                                <th>操作者</th>
+                                <th>操作者 uid</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr v-for="{ uid, banname, type, etime, otime, cause, oname, ouid } in resultList"
+                                :key="uid">
+                                <td>{{ uid }}</td>
+                                <td><a :href="'https://www.mcbbs.net/home.php?mod=space&uid=' + uid" target="_blank">{{
+                                        banname
+                                }}</a></td>
+                                <td>{{ type }}</td>
+                                <td>{{ etime }}</td>
+                                <td>{{ otime }}</td>
+                                <td>{{ cause }}</td>
+                                <td><a :href="'https://www.mcbbs.net/home.php?mod=space&uid=' + ouid" target="_blank">{{
+                                        oname
+                                }}</a></td>
+                                <td>{{ ouid }}</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
                 <p v-show="none">没找到</p>
             </main>
         </div>
@@ -107,7 +109,7 @@
                 rl.sort((a, b) => {
                     return Number(b.cid) - Number(a.cid)
                 })
-
+    
                 for (const v of rl) {
                     resultList.value.push({
                         uid: v.uid,
