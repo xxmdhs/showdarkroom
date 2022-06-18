@@ -40,7 +40,7 @@
                 <form @submit.prevent="submit" class="grid">
                     <input type="search" v-model.trim="uid" placeholder="uid" name="ip" title="uid" pattern="^\d*$">
                 </form>
-                <div v-show="resultList.length != 0 && !none" style="overflow:scroll;">
+                <div v-show="resultList.length != 0 && !none" style="overflow:auto;">
                     <table class="data-table">
                         <thead>
                             <tr>
