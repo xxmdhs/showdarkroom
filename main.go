@@ -13,6 +13,7 @@ import (
 	"time"
 
 	"github.com/xxmdhs/showdarkroom/get"
+	"github.com/yosuke-furukawa/json5/encoding/json5"
 )
 
 func main() {
@@ -45,6 +46,10 @@ func main() {
 		b, err := get.GetBanData(int(i))
 		if err != nil {
 			log.Println(err)
+			serr := &json5.SyntaxError{}
+			if errors.As(err, &serr) {
+				break
+			}
 			if !errors.Is(err, get.Errjson) {
 				time.Sleep(3 * time.Second)
 				continue
