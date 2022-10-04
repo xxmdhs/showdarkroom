@@ -10,7 +10,7 @@ import (
 )
 
 var c = http.Client{
-	Timeout: 10 * time.Second,
+	Timeout: 30 * time.Second,
 }
 
 func getData(url string) ([]byte, error) {
